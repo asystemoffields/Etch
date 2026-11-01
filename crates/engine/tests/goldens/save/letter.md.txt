@@ -1,0 +1,22 @@
+== md (340 bytes)
+# Your Name
+
+123 Your Street · City, ST 00000 · you@example.com
+
+November 14, 2023
+
+Recipient Name
+
+Title, Company
+
+Street Address
+
+Dear Recipient,
+
+Start with a sentence that says why you are writing. Keep paragraphs short and specific, and close with what you would like to happen next.
+
+Thank you for your time.
+
+Sincerely,
+
+Your Name

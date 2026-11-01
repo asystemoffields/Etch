@@ -1,0 +1,23 @@
+== rtf (4094 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}{\f1\fmodern\fcharset0 Courier New;}}
+{\colortbl;\red238\green238\blue238;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\listtable
+{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-360\li2160\lin2160}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\lin2880}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\lin3600}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-360\li4320\lin4320}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\lin5040}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\lin5760}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-360\li6480\lin6480}{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+{\info{\title Snapshot: custom_styles}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain 1.\tab}Numbered heading\par
+\pard\plain\ql Dog between window the silver chapter lantern jumps lantern over summer brown quick another fox lantern brown history pattern silver band through fox silver village measure evening band letter the the harbour another morning another morning window question journey history.\par
+\pard\plain\ql Body Note style paragraph with a smaller italic face.\par
+\pard\plain\ql Inline code: {\f1\fs20\chcbpat1 let x = 42;} in a sentence.\par
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32\ls1\ilvl1\fi-360\li1440 {\listtext\pard\plain a.\tab}Second-level numbered heading\par
+\pard\plain\ql Boxed, based on Body Note: bold, not italic.\par
+\pard\plain\s3\outlinelevel2\ql\sb240\sa80\keepn\b\fs28\ls1\ilvl2\fi-360\li2160 {\listtext\pard\plain i.\tab}Third level\par
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32\ls1\ilvl1\fi-360\li1440 {\listtext\pard\plain b.\tab}Another second level\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain 2.\tab}Another first level\par
+\pard\plain\ql River between lazy lantern quick jumps quick harbour morning river number brown orchard window chapter brown dog letter fox brown quick silver garden lazy river lazy the because band jumps while question over morning because band window question garden village.\par
+}

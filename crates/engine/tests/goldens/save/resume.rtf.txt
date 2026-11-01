@@ -1,0 +1,19 @@
+== rtf (1555 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: resume}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s7\ql\sa80\fs56 Alex Rivera\par
+\pard\plain\ql Illustrator \u183? alex@example.com \u183? portfolio.example.com\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Experience\par
+\pard\plain\ql Lead Illustrator, Harbor Books{\i \tab 2021 \u8211? present}\par
+\pard\plain\ql Freelance Illustrator{\i \tab 2016 \u8211? 2021}\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Education\par
+\pard\plain\ql BFA Illustration, Coastal College of Art{\i \tab 2016}\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Skills\par
+\pard\plain\ql Ink, gouache, digital painting, book layout, lettering\par
+}

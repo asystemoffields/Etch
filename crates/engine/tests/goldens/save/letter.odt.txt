@@ -1,0 +1,46 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (28 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Title">Your Name</text:p>
+<text:p text:style-name="Standard">123 Your Street · City, ST 00000 · you@example.com</text:p>
+<text:p text:style-name="Standard">
+</text:p>
+<text:p text:style-name="Standard">November 14, 2023</text:p>
+<text:p text:style-name="Standard">
+</text:p>
+<text:p text:style-name="Standard">Recipient Name</text:p>
+<text:p text:style-name="Standard">Title, Company</text:p>
+<text:p text:style-name="Standard">Street Address</text:p>
+<text:p text:style-name="Standard">
+</text:p>
+<text:p text:style-name="Standard">Dear Recipient,</text:p>
+<text:p text:style-name="Standard">Start with a sentence that says why you are writing. Keep paragraphs short and specific, and close with what you would like to happen next.</text:p>
+<text:p text:style-name="Standard">Thank you for your time.</text:p>
+<text:p text:style-name="Standard">Sincerely,</text:p>
+<text:p text:style-name="Standard">
+</text:p>
+<text:p text:style-name="Standard">Your Name</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: letter</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

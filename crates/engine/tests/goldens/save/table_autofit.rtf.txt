@@ -1,0 +1,59 @@
+== rtf (5410 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: table_autofit}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\ql AutoFit to contents: the columns take what their text needs.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b Item}\cell
+\pard\plain\intbl\ql {\b Description}\cell
+\pard\plain\intbl\ql {\b Qty}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Press\cell
+\pard\plain\intbl\ql Fox quick meadow morning garden lazy garden people silver without orchard morning harbour quick question question orchard without while band summer evening between question.\cell
+\pard\plain\intbl\ql 1\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Kiln\cell
+\pard\plain\intbl\ql Averyveryverylongunbreakablewordthatwidensitscolumn\cell
+\pard\plain\intbl\ql 12\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Loom\cell
+\pard\plain\intbl\ql Two paragraphs\par
+\pard\plain\intbl\ql Stone another garden meadow garden measure lantern chapter orchard evening.\cell
+\pard\plain\intbl\ql 3\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql \cell
+\pard\plain\intbl\ql An empty first cell on this row\cell
+\pard\plain\intbl\ql 0\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Light table\cell
+\pard\plain\intbl\ql Short\cell
+\pard\plain\intbl\ql 100\cell
+\row
+\pard\plain\ql A table 60% of the text width, centred:\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b While meadow over.}\cell
+\pard\plain\intbl\ql {\b Through garden orchard.}\cell
+\pard\plain\intbl\ql {\b Measure window evening.}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Orchard stone dog.\cell
+\pard\plain\intbl\ql Chapter dog because.\cell
+\pard\plain\intbl\ql Journey chapter history.\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Plays morning silver.\cell
+\pard\plain\intbl\ql Lantern market lantern.\cell
+\pard\plain\intbl\ql Question brown letter.\cell
+\row
+\pard\plain\ql After the tables.\par
+}

@@ -1,0 +1,54 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (36 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Standard">Comments: a <office:annotation office:name="__Annotation__0">
+<dc:creator>Snapshot Author</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+<meta:creator-initials>SA</meta:creator-initials>
+<text:p text:style-name="Standard">The first remark, on a phrase.</text:p>
+</office:annotation>remark on a phrase<office:annotation-end office:name="__Annotation__0"/>, a reply to it, a <office:annotation office:name="__Annotation__2">
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+<meta:creator-initials>SR</meta:creator-initials>
+<text:p text:style-name="Standard">This one is resolved.</text:p>
+</office:annotation>resolved thread<office:annotation-end office:name="__Annotation__2"/> and a comment on a whole paragraph.</text:p>
+<text:p text:style-name="Standard">Letter through morning market journey brown another lazy quick another journey silver between stone window silver lazy silver market quick band morning lantern river summer people morning stone without while journey garden between dog another window number question journey journey measure over over without lantern between lazy harbour market plays.</text:p>
+<text:p text:style-name="Standard">
+<office:annotation office:name="__Annotation__3">
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+<meta:creator-initials>SR</meta:creator-initials>
+<text:p text:style-name="Standard">A longer comment on the whole paragraph, so the balloon wraps onto several lines in the markup area.</text:p>
+</office:annotation>Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone window village over meadow river summer plays while another jumps jumps journey lazy measure between without the stone village lantern people.</text:p>
+<text:p text:style-name="Standard">
+<office:annotation-end office:name="__Annotation__3"/>A short last paragraph.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: comments</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

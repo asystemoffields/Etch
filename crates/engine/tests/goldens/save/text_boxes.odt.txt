@@ -1,0 +1,104 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (86 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Text Boxes</text:h>
+<text:p text:style-name="Standard">People orchard evening silver dog plays because number brown band chapter quick orchard pattern meadow band the history the winter plays the garden lazy garden the jumps dog garden people pattern meadow pattern fox pattern letter lantern journey market brown through fox river window the chapter question lazy evening between village harbour morning meadow meadow garden stone stone history while.<draw:frame draw:name="Text Box 1" text:anchor-type="as-char" svg:width="150pt" svg:height="48pt" draw:z-index="0">
+<draw:text-box>
+<text:p text:style-name="Standard">An inline text box, two lines of text inside it.</text:p>
+</draw:text-box>
+</draw:frame>
+</text:p>
+<text:p text:style-name="Standard">Jumps fox through winter morning without summer chapter harbour harbour brown winter summer through winter orchard market letter meadow number jumps the quick fox morning river band dog chapter brown winter river number jumps between silver brown letter over fox people summer garden garden quick fox without winter over fox measure pattern market plays without window between market morning morning.</text:p>
+<text:p text:style-name="Standard">
+<draw:frame draw:name="Text Box 2" text:anchor-type="as-char" svg:width="180pt" svg:height="120pt" draw:z-index="0">
+<draw:text-box>
+<text:h text:style-name="Heading_20_3" text:outline-level="3">Floating box</text:h>
+<text:p text:style-name="Standard">The people through letter jumps people stone between stone brown brown summer morning harbour measure window market without winter lantern lantern jumps brown people question the harbour village over question.</text:p>
+<text:list xml:id="lst1" text:style-name="L1">
+<text:list-item>
+<text:p text:style-name="Standard">A bullet inside the box</text:p>
+</text:list-item>
+</text:list>
+</draw:text-box>
+</draw:frame>Pattern lantern evening through evening over over dog river dog over over the over fox the winter meadow lazy jumps orchard dog band garden evening letter lantern meadow plays silver measure river band quick dog plays garden window measure brown number history orchard quick village silver orchard morning stone people garden harbour brown question measure dog history chapter through history.</text:p>
+<text:p text:style-name="Standard">Lantern window brown fox because harbour number people between village winter while winter fox meadow silver window while harbour orchard between garden stone measure morning the between the lazy summer fox summer silver measure evening the window through band chapter brown morning lantern morning window number band dog through river band quick lazy measure window because brown river letter evening.</text:p>
+<text:p text:style-name="Standard">Over question morning another letter between morning garden orchard measure window number market evening history meadow evening while village number number without measure between quick letter because band window morning while because pattern between market window winter pattern lazy measure another through village pattern silver evening harbour history history lantern lantern silver through silver window stone stone garden question lazy.</text:p>
+<text:p text:style-name="Standard">
+<draw:frame draw:name="Text Box 3" text:anchor-type="as-char" svg:width="40pt" svg:height="150pt" draw:z-index="0">
+<draw:text-box>
+<text:p text:style-name="Standard">Rotated text runs down</text:p>
+</draw:text-box>
+</draw:frame>Market village river another journey over lazy market market harbour chapter window question letter village band without people the stone fox the question lantern winter letter without river river quick garden question people over over question morning quick winter the over through silver pattern meadow while over river orchard pattern harbour another chapter dog band because harbour because harbour dog.</text:p>
+<text:p text:style-name="Standard">Evening market window market stone village between morning river fox band plays quick history people market pattern jumps summer winter morning quick meadow dog summer number river quick letter over stone harbour through people another journey between between people because through between another river window summer summer lantern dog chapter plays number brown market another brown chapter meadow orchard meadow.</text:p>
+<text:p text:style-name="Standard">Brown fox jumps question without history another measure pattern morning number jumps through people over while dog harbour garden chapter quick meadow winter summer evening river garden lantern number market lazy plays without history summer measure pattern river plays evening morning question jumps pattern morning morning chapter window morning quick because market brown without morning silver without another winter without.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: text_boxes</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

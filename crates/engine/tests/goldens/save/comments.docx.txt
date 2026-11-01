@@ -1,0 +1,176 @@
+# 13 parts
+== [Content_Types].xml (15 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+<Default Extension="xml" ContentType="application/xml"/>
+<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+<Override PartName="/word/comments.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml"/>
+<Override PartName="/word/commentsExtended.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtended+xml"/>
+<Override PartName="/word/commentsIds.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.commentsIds+xml"/>
+<Override PartName="/word/commentsExtensible.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtensible+xml"/>
+<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/word/theme/theme1.xml" ContentType="application/vnd.openxmlformats-officedocument.theme+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
+</Types>
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>124</Words>
+<Paragraphs>4</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: comments</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (10 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments" Target="comments.xml"/>
+<Relationship Id="rId2" Type="http://schemas.microsoft.com/office/2011/relationships/commentsExtended" Target="commentsExtended.xml"/>
+<Relationship Id="rId3" Type="http://schemas.microsoft.com/office/2016/09/relationships/commentsIds" Target="commentsIds.xml"/>
+<Relationship Id="rId4" Type="http://schemas.microsoft.com/office/2018/08/relationships/commentsExtensible" Target="commentsExtensible.xml"/>
+<Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/comments.xml (31 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:comments xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:comment w:id="0" w:author="Snapshot Author" w:date="<timestamp>" w:initials="SA">
+<w:p w14:paraId="10000001" w14:textId="77777777">
+<w:r>
+<w:t xml:space="preserve">The first remark, on a phrase.</w:t>
+</w:r>
+</w:p>
+</w:comment>
+<w:comment w:id="1" w:author="Snapshot Author" w:date="<timestamp>" w:initials="SA">
+<w:p w14:paraId="10000002" w14:textId="77777777">
+<w:r>
+<w:t xml:space="preserve">A reply from the same author.</w:t>
+</w:r>
+</w:p>
+</w:comment>
+<w:comment w:id="2" w:author="Second Reviewer" w:date="<timestamp>" w:initials="SR">
+<w:p w14:paraId="10000003" w14:textId="77777777">
+<w:r>
+<w:t xml:space="preserve">This one is resolved.</w:t>
+</w:r>
+</w:p>
+</w:comment>
+<w:comment w:id="3" w:author="Second Reviewer" w:date="<timestamp>" w:initials="SR">
+<w:p w14:paraId="10000004" w14:textId="77777777">
+<w:r>
+<w:t xml:space="preserve">A longer comment on the whole paragraph, so the balloon wraps onto several lines in the markup area.</w:t>
+</w:r>
+</w:p>
+</w:comment>
+</w:comments>
+== word/commentsExtended.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w15:commentsEx xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+<w15:commentEx w15:paraId="10000001" w15:done="0"/>
+<w15:commentEx w15:paraId="10000002" w15:paraIdParent="10000001" w15:done="0"/>
+<w15:commentEx w15:paraId="10000003" w15:done="1"/>
+<w15:commentEx w15:paraId="10000004" w15:done="0"/>
+</w15:commentsEx>
+== word/commentsExtensible.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w16cex:commentsExtensible xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" mc:Ignorable="w16cex">
+<w16cex:commentExtensible w16cex:durableId="10000001" w16cex:dateUtc="<timestamp>"/>
+<w16cex:commentExtensible w16cex:durableId="10000002" w16cex:dateUtc="<timestamp>"/>
+<w16cex:commentExtensible w16cex:durableId="10000003" w16cex:dateUtc="<timestamp>"/>
+<w16cex:commentExtensible w16cex:durableId="10000004" w16cex:dateUtc="<timestamp>"/>
+</w16cex:commentsExtensible>
+== word/commentsIds.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w16cid:commentsIds xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" mc:Ignorable="w16cid">
+<w16cid:commentId w16cid:paraId="10000001" w16cid:durableId="10000001"/>
+<w16cid:commentId w16cid:paraId="10000002" w16cid:durableId="10000002"/>
+<w16cid:commentId w16cid:paraId="10000003" w16cid:durableId="10000003"/>
+<w16cid:commentId w16cid:paraId="10000004" w16cid:durableId="10000004"/>
+</w16cid:commentsIds>
+== word/document.xml (67 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Comments: a </w:t>
+</w:r>
+<w:commentRangeStart w:id="0"/>
+<w:r>
+<w:t xml:space="preserve">remark on a phrase</w:t>
+</w:r>
+<w:commentRangeEnd w:id="0"/>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="CommentReference"/>
+</w:rPr>
+<w:commentReference w:id="0"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, a reply to it, a </w:t>
+</w:r>
+<w:commentRangeStart w:id="2"/>
+<w:r>
+<w:t xml:space="preserve">resolved thread</w:t>
+</w:r>
+<w:commentRangeEnd w:id="2"/>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="CommentReference"/>
+</w:rPr>
+<w:commentReference w:id="2"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> and a comment on a whole paragraph.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Letter through morning market journey brown another lazy quick another journey silver between stone window silver lazy silver market quick band morning lantern river summer people morning stone without while journey garden between dog another window number question journey journey measure over over without lantern between lazy harbour market plays.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:commentRangeStart w:id="3"/>
+<w:r>
+<w:t xml:space="preserve">Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone window village over meadow river summer plays while another jumps jumps journey lazy measure between without the stone village lantern people.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:commentRangeEnd w:id="3"/>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="CommentReference"/>
+</w:rPr>
+<w:commentReference w:id="3"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">A short last paragraph.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

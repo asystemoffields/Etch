@@ -1,0 +1,31 @@
+== rtf (3681 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;\red192\green0\blue0;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\revtbl {Unknown;}{Snapshot Author;}{Second Reviewer;}}
+{\info{\title Snapshot: tracked_changes}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\ql Tracked changes: words inserted{\revised\revauth1\revdttm0  (and these words were added)}, {\deleted\revauthdel1\revdttmdel0 words deleted}, {{\*\oldcprops \b0\cf0\crauth1\crdate0}\b\cf1 formatting changed}, a paragraph split{\revised\revauth1\revdttm0  [moved words]} and one joined.\par
+\pard\plain\ql Chapter pattern quick measure through pl{\revised\revauth1\revdttm0 \par}
+\pard\plain\ql {\revised\revauth1\revdttm0 New paragraph typed with tracking on.}ays river people over window lantern window the the chapter river people measure over window evening summer without history number people meadow garden lantern because through river over journey another window river jumps morning garden the over river village chapter.\par
+\pard\plain\ql Morning number between without through fox another band brown jumps village through band people another village winter pattern market summer garden another another through jumps the orchard pattern garden harbour people morning market garden village question village meadow market people stone lazy through window number.\par
+\pard\plain\ql {\deleted\revauthdel2\revdttmdel0 This whole paragraph is deleted by the second reviewer.}\par
+\pard\plain\ql River jumps while while fox morning jumps through quick river the through people orchard silver journey lantern number history another people jumps harbour because pattern market chapter journey village fox chapter window harbour question morning brown harbour jumps dog chapter stone chapter dog another harbour.\par
+\pard\plain\ql The last paragraph gets a tracked table after it.{\revised\revauth2\revdttm0 \par}
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\revised\revauth2\revdttm0\b tracked cell}\cell
+\pard\plain\intbl\ql \cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\revised\revauth2\revdttm0 inserted row}\cell
+\pard\plain\intbl\ql \cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql \cell
+\pard\plain\intbl\ql \cell
+\row
+\pard\plain\ql \par
+}

@@ -1,0 +1,57 @@
+== html (4610 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: styles_text</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Styles and Inline Formatting</h1>
+<p>Every built-in paragraph style and most run properties</p>
+<h1>Heading One</h1>
+<p>Plain text, then <strong>bold</strong>, <em>italic</em>, <u>underlined</u>, <u>double underlined</u>, <s>struck</s>, <s>double struck</s>, x<sup>2</sup> and H<sub>2</sub>O, <span style="color:#C00000">coloured</span>, <span style="background-color:#FFFF00">highlighted</span>, <span style="background-color:#DDEEFF">shaded</span>, Small Caps, all caps, spaced, wide, raised, <code>monospace</code>, <span style="font-family:'Source Sans 3'">sans</span> and <span style="font-size:18pt">large</span> and <span style="font-size:7pt">tiny</span> text, with a <a href="https://example.org/snapshot">
+<span style="color:#467886">link</span>
+</a>.</p>
+<h2>Heading Two</h2>
+<p>Character styles: <em>
+<span style="color:#404040">subtle emphasis</span>
+</em>, <em>emphasis</em>, <em>
+<span style="color:#0F4761">intense emphasis</span>
+</em>, <strong>strong</strong>, <span style="color:#5A5A5A">subtle reference</span>, <strong>
+<span style="color:#0F4761">intense reference</span>
+</strong> and <strong>
+<em>a book title</em>
+</strong>.</p>
+<h3>Heading Three</h3>
+<blockquote>
+<p>A quotation set in the Quote style, centred and italic.</p>
+<p>An intense quotation with rules above and below.</p>
+</blockquote>
+<p>No Spacing line one.</p>
+<p>No Spacing line two.</p>
+<h4>Heading Four</h4>
+<p style="text-align:justify">Letter winter question another stone lantern orchard jumps number chapter without chapter because village journey people village the morning pattern through market summer lazy number orchard river while chapter winter people market chapter chapter silver number brown quick brown measure people dog brown because letter while stone between summer through harbour jumps window jumps over while pattern another over winter.</p>
+<p style="text-align:right">Right aligned line.</p>
+<p style="text-align:center">Centred line.</p>
+<p style="text-align:justify">Distributed alignment spreads the letters of a short line.</p>
+<p style="margin-left:36pt;margin-right:36pt;text-indent:18pt">Over band market band harbour over chapter window stone lazy through window quick dog market pattern chapter without morning meadow summer the brown evening window through quick another without pattern harbour window through number fox letter journey history history people summer market quick fox orchard winter fox measure band over.</p>
+<p style="margin-left:36pt;text-indent:-36pt">Window because number meadow stone summer journey because history evening between brown village while plays while letter meadow river market harbour chapter fox while stone the band river measure the because lazy harbour dog another without the chapter garden orchard through question the harbour lazy market orchard village stone between.</p>
+<p style="margin-top:12pt;margin-bottom:12pt;line-height:20pt">Without evening letter market meadow jumps chapter village chapter stone journey because fox summer people winter harbour winter between question question lantern fox lazy without measure market without evening jumps measure the question people garden the silver over dog fox.</p>
+<p style="line-height:18pt">Lazy without people window quick between chapter people chapter over dog lantern people while stone journey village pattern silver jumps jumps orchard summer stone summer chapter lazy measure over dog harbour river village meadow measure pattern history jumps through quick.</p>
+<p style="line-height:2">Chapter morning brown lantern band garden pattern silver orchard winter history journey winter letter harbour band summer history morning over village band history evening letter journey silver another another summer fox fox without garden pattern jumps market dog without market.</p>
+<p style="margin-bottom:24pt">Contextual spacing paragraph 1.</p>
+<p style="margin-bottom:24pt">Contextual spacing paragraph 2.</p>
+<h5>Heading Five</h5>
+<h6>Heading Six</h6>
+<p>The end.</p>
+</body>
+</html>

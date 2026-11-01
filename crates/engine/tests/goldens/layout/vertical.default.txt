@@ -1,0 +1,65 @@
+# layout snapshot: vertical (default)
+# fonts: Source Serif 4
+# pages: 2  text boxes laid out: 1
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (40):
+    lines body [0] l0..3 x=540.0 y=72.0 turn=Down
+      0: top=0.0 h=144.0 base=140.0 left=0.0 right=648.0 end=Wrap "{obj}Vertical sections lay their lines out down the page, one after another from right to left. Vertical sections lay their "
+      1: top=144.0 h=18.9 base=156.5 left=0.0 right=648.0 end=Wrap "lines out down the page, one after another from right to left. Vertical sections lay their lines out down the page, one after "
+      2: top=162.9 h=18.9 base=175.4 left=0.0 right=648.0 end=Para "another from right to left. "
+    object [452.0 20.0 36.0x140.0] at body [0]#0 box=1 wrap=Inline origin=(540.0 72.0) spin=0
+    lines part:1 [0] l0..1 x=459.2 y=156.4 turn=Up
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=132.8 end=Wrap "A box with text turned "
+    lines body [1] l0..1 x=350.1 y=72.0 turn=Down
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=648.0 end=Para "日本語のテキストと英語 mixed text."
+    lines body [2,0,0,0] l0..1 x=322.7 y=166.9 turn=Down
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=90.0 end=Para "Turned down"
+    rule (323.2 72.0)-(323.2 172.5) Single w=0.5 auto
+    rule (232.7 72.0)-(232.7 172.5) Single w=0.5 auto
+    rule (323.2 72.3)-(232.7 72.3) Single w=0.5 auto
+    rule (323.2 172.3)-(232.7 172.3) Single w=0.5 auto
+    cell [232.7 72.3 90.5x100.0] table=[2] r0 c0 body
+    lines body [2,0,1,0] l0..2 x=322.7 y=177.7 turn=Down
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Number plays "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "plays."
+    rule (323.2 172.0)-(323.2 272.5) Single w=0.5 auto
+    rule (232.7 172.0)-(232.7 272.5) Single w=0.5 auto
+    rule (323.2 172.3)-(232.7 172.3) Single w=0.5 auto
+    rule (323.2 272.3)-(232.7 272.3) Single w=0.5 auto
+    cell [232.7 172.3 90.5x100.0] table=[2] r0 c1 body
+    lines body [2,0,2,0] l0..2 x=322.7 y=277.7 turn=Down
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Without band "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "stone."
+    rule (323.2 272.0)-(323.2 372.5) Single w=0.5 auto
+    rule (232.7 272.0)-(232.7 372.5) Single w=0.5 auto
+    rule (323.2 272.3)-(232.7 272.3) Single w=0.5 auto
+    rule (323.2 372.3)-(232.7 372.3) Single w=0.5 auto
+    cell [232.7 272.3 90.5x100.0] table=[2] r0 c2 body
+    lines body [2,1,0,0] l0..2 x=232.2 y=77.7 turn=Down
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Fox summer "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "harbour."
+    rule (232.7 72.0)-(232.7 172.5) Single w=0.5 auto
+    rule (83.1 72.0)-(83.1 172.5) Single w=0.5 auto
+    rule (232.7 72.3)-(83.1 72.3) Single w=0.5 auto
+    rule (232.7 172.3)-(83.1 172.3) Single w=0.5 auto
+    cell [83.1 72.3 149.7x100.0] table=[2] r1 c0 body
+    lines body [2,1,1,0] l0..2 x=232.2 y=177.7 turn=Down
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Because jumps "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "pattern."
+    rule (232.7 172.0)-(232.7 272.5) Single w=0.5 auto
+    rule (83.1 172.0)-(83.1 272.5) Single w=0.5 auto
+    rule (232.7 172.3)-(83.1 172.3) Single w=0.5 auto
+    rule (232.7 272.3)-(83.1 272.3) Single w=0.5 auto
+    cell [83.1 172.3 149.7x100.0] table=[2] r1 c1 body
+    lines body [2,1,2,0] l0..1 x=83.6 y=277.7 turn=Up
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=148.7 end=Para "Turned up, two words more"
+    rule (232.7 272.0)-(232.7 372.5) Single w=0.5 auto
+    rule (83.1 272.0)-(83.1 372.5) Single w=0.5 auto
+    rule (232.7 272.3)-(83.1 272.3) Single w=0.5 auto
+    rule (232.7 372.3)-(83.1 372.3) Single w=0.5 auto
+    cell [83.1 272.3 149.7x100.0] table=[2] r1 c2 body
+  rows [2]: 0:72.3+300.0 1:72.3+300.0
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=3 markup=0.0 header=- footer=-
+  items (1):
+    lines body [3] l0..1 x=540.0 y=72.0 turn=Down
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=648.0 end=Para "After the table in the vertical section."

@@ -1,0 +1,788 @@
+# 12 parts
+== [Content_Types].xml (14 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+<Default Extension="xml" ContentType="application/xml"/>
+<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+<Override PartName="/word/header1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>
+<Override PartName="/word/footer1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/>
+<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+<Override PartName="/word/numbering.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/word/theme/theme1.xml" ContentType="application/vnd.openxmlformats-officedocument.theme+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
+</Types>
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>361</Words>
+<Paragraphs>41</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: sample</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (10 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://getartcraft.com/" TargetMode="External"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="header1.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="footer1.xml"/>
+<Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+<Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/document.xml (488 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">The Open Studio Handbook</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Subtitle"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">How a small community of makers shares space, tools and time</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Every Thursday evening the old print shop on Alder Street fills with people who make things. </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">Painters</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> set up by the north windows, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t xml:space="preserve">letterpress</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Why share a studio?</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver&apos;s loom for a still life. The cross-talk is the point.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Quote"/>
+<w:spacing w:before="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">A studio is a place where unfinished things are welcome.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">What we agree on</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">Clean as you go. </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Leave a table the way you would like to find it.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">Label what is yours. </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Unlabelled supplies on the commons shelf are fair game.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">Ask before you borrow. </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Even from the shelf, a quick note helps everyone keep track.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">Quiet hours </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">run from 9 to 11 on weekday mornings.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Shared equipment</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The table below lists what the membership owns together and who keeps each item in working order.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="GridTable4AccentBlue"/>
+<w:tblW w:w="0" w:type="auto"/>
+<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="2340"/>
+<w:gridCol w:w="2340"/>
+<w:gridCol w:w="2340"/>
+<w:gridCol w:w="2340"/>
+</w:tblGrid>
+<w:tr>
+<w:trPr>
+<w:tblHeader/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Equipment</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Location</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Steward</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Booking</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Etching press</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Back room</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Mara O.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Sign-up sheet</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Kiln (cone 10)</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Yard shed</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Theo P.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">48 h notice</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Large-format printer</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Office</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Ines R.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Calendar</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Light table</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">North windows</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Anyone</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2340" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">First come</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Opening the studio</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Switch on the main breaker by the door.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Open both skylights unless it is raining.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Start the kettle. This step is not optional.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Check the booking sheet for the kiln and press.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Membership</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Membership is </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:color w:val="156082"/>
+</w:rPr>
+<w:t xml:space="preserve">pay what you can</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Questions go to the front desk, or to the notice board by the sink. </w:t>
+</w:r>
+<w:hyperlink r:id="rId1" w:history="1">
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+</w:rPr>
+<w:t xml:space="preserve">Visit the community board</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:t xml:space="preserve"> for events.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:headerReference w:type="default" r:id="rId2"/>
+<w:footerReference w:type="default" r:id="rId3"/>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/footer1.xml (24 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:ftr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Footer"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> PAGE </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+</w:ftr>
+== word/header1.xml (17 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:hdr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Header"/>
+<w:pBdr>
+<w:bottom w:val="single" w:sz="4" w:space="4" w:color="BFBFBF"/>
+</w:pBdr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">The Open Studio Handbook</w:t>
+<w:tab/>
+<w:tab/>
+<w:t xml:space="preserve">Spring edition</w:t>
+</w:r>
+</w:p>
+</w:hdr>
+== word/numbering.xml (204 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:numbering xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:abstractNum w:abstractNumId="0">
+<w:multiLevelType w:val="multilevel"/>
+<w:lvl w:ilvl="0">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="•"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="720" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="○"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="1440" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="2">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="▪"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2160" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="3">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="•"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2880" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="4">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="○"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="3600" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="5">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="▪"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="4320" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="6">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="•"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5040" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="7">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="○"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5760" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="8">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="▪"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="6480" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+</w:lvl>
+</w:abstractNum>
+<w:abstractNum w:abstractNumId="1">
+<w:multiLevelType w:val="multilevel"/>
+<w:lvl w:ilvl="0">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:lvlText w:val="%1."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="720" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerLetter"/>
+<w:lvlText w:val="%2."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="1440" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="2">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerRoman"/>
+<w:lvlText w:val="%3."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2160" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="3">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:lvlText w:val="%4."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2880" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="4">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerLetter"/>
+<w:lvlText w:val="%5."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="3600" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="5">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerRoman"/>
+<w:lvlText w:val="%6."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="4320" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="6">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:lvlText w:val="%7."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5040" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="7">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerLetter"/>
+<w:lvlText w:val="%8."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5760" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="8">
+<w:start w:val="1"/>
+<w:numFmt w:val="lowerRoman"/>
+<w:lvlText w:val="%9."/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="6480" w:hanging="360"/>
+</w:pPr>
+</w:lvl>
+</w:abstractNum>
+<w:num w:numId="1">
+<w:abstractNumId w:val="0"/>
+</w:num>
+<w:num w:numId="2">
+<w:abstractNumId w:val="1"/>
+</w:num>
+</w:numbering>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

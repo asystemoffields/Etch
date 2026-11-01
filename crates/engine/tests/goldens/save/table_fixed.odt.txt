@@ -1,0 +1,163 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (145 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:text-align="end"/>
+</style:style>
+<style:style style:name="Table1" style:family="table">
+<style:table-properties style:width="468pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table1.C1" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table1.C2" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table1.C3" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table1.C4" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table2" style:family="table">
+<style:table-properties style:width="240pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table2.C1" style:family="table-column">
+<style:table-column-properties style:column-width="120pt"/>
+</style:style>
+<style:style style:name="Table2.C2" style:family="table-column">
+<style:table-column-properties style:column-width="120pt"/>
+</style:style>
+<style:style style:name="Cell1" style:family="table-cell">
+<style:table-cell-properties fo:padding="4pt" fo:border="0.5pt solid #000000" fo:background-color="#dee8f4"/>
+</style:style>
+<style:style style:name="Cell2" style:family="table-cell">
+<style:table-cell-properties fo:padding="4pt" fo:border="0.5pt solid #000000"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Standard">Before the fixed table.</text:p>
+<table:table table:name="Table1" table:style-name="Table1">
+<table:table-column table:style-name="Table1.C1"/>
+<table:table-column table:style-name="Table1.C2"/>
+<table:table-column table:style-name="Table1.C3"/>
+<table:table-column table:style-name="Table1.C4"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Dog another journey.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">People band lantern.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Lazy question dog.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Stone people letter.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Winter lantern summer.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Quick jumps history.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Over morning harbour.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Question over harbour.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">While window silver.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Lazy village another.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Chapter meadow measure.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Summer dog without.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Fox between market.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Stone dog journey market over because through plays while through lantern question summer fox question while the people between measure the through without measure pattern plays quick while morning winter.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Brown number because.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Band lantern the.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Question harbour lantern.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="P1">Right-aligned cell text</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">The stone measure.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Village brown village.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">A second table, aligned right with an indent, follows.</text:p>
+<table:table table:name="Table2" table:style-name="Table2">
+<table:table-column table:style-name="Table2.C1"/>
+<table:table-column table:style-name="Table2.C2"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Between quick people.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Garden over fox.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Evening lazy through.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell2" office:value-type="string">
+<text:p text:style-name="Standard">Brown because without.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">After the tables.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: table_fixed</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

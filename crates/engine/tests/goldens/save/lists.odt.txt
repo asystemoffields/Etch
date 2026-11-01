@@ -1,0 +1,470 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (452 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+</text:list-style>
+<text:list-style style:name="L2">
+<text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+</text:list-style>
+<text:list-style style:name="L3">
+<text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+</text:list-style>
+<text:list-style style:name="L4">
+<text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+</text:list-style>
+<text:list-style style:name="L5">
+<text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+</text:list-style>
+<text:list-style style:name="L6">
+<text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="a">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+<text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="i">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-number>
+</text:list-style>
+<text:list-style style:name="L7">
+<text:list-level-style-bullet text:level="1" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36pt" fo:text-indent="-18pt" fo:margin-left="36pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72pt" fo:text-indent="-18pt" fo:margin-left="72pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108pt" fo:text-indent="-18pt" fo:margin-left="108pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144pt" fo:text-indent="-18pt" fo:margin-left="144pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180pt" fo:text-indent="-18pt" fo:margin-left="180pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="216pt" fo:text-indent="-18pt" fo:margin-left="216pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="•">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="252pt" fo:text-indent="-18pt" fo:margin-left="252pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="◦">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="288pt" fo:text-indent="-18pt" fo:margin-left="288pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="▪">
+<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="324pt" fo:text-indent="-18pt" fo:margin-left="324pt"/>
+</style:list-level-properties>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Lists</text:h>
+<text:p text:style-name="Standard">Bulleted, three levels:</text:p>
+<text:list xml:id="lst1" text:style-name="L1">
+<text:list-item>
+<text:p text:style-name="Standard">First bullet</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Second bullet</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Nested bullet</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Deeper bullet</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Back one level</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Last bullet</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="Standard">Numbered, three levels:</text:p>
+<text:list xml:id="lst2" text:style-name="L2">
+<text:list-item>
+<text:p text:style-name="Standard">Step one</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Sub-step a</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Sub-step b</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Detail i</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Detail ii</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Step two</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Step three</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="Standard">A plain paragraph between two lists.</text:p>
+<text:list xml:id="lst3" text:style-name="L3">
+<text:list-item text:start-value="4">
+<text:p text:style-name="Standard">Continues at four</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Then five</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="Standard">Restarted:</text:p>
+<text:list xml:id="lst4" text:style-name="L4">
+<text:list-item>
+<text:p text:style-name="Standard">Starts again at one</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Then two</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="Standard">Lettered:</text:p>
+<text:list xml:id="lst5" text:style-name="L5">
+<text:list-item>
+<text:p text:style-name="Standard">Apples</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Pears</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Plums</text:p>
+</text:list-item>
+</text:list>
+<text:p text:style-name="Standard">Outline (multilevel):</text:p>
+<text:list xml:id="lst6" text:style-name="L6">
+<text:list-item>
+<text:p text:style-name="Standard">Part</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Chapter</text:p>
+<text:list>
+<text:list-item>
+<text:p text:style-name="Standard">Section</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Section</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Chapter</text:p>
+</text:list-item>
+</text:list>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="Standard">Part</text:p>
+</text:list-item>
+</text:list>
+<text:list xml:id="lst7" text:style-name="L7">
+<text:list-item>
+<text:p text:style-name="Standard">Jumps plays winter because plays dog because while without history quick jumps number without quick measure history stone meadow orchard meadow fox over pattern plays between fox through without letter number quick harbour journey garden plays question lantern evening the while pattern summer chapter morning.</text:p>
+</text:list-item>
+</text:list>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: lists</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

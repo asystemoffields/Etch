@@ -1,0 +1,247 @@
+# 10 parts
+== [Content_Types].xml (12 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+<Default Extension="xml" ContentType="application/xml"/>
+<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+<Override PartName="/word/endnotes.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"/>
+<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/word/theme/theme1.xml" ContentType="application/vnd.openxmlformats-officedocument.theme+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
+</Types>
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>401</Words>
+<Paragraphs>9</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: endnotes</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes" Target="endnotes.xml"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/document.xml (95 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Endnotes</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Dog summer h</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteReference w:id="1"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">arbour people fox quick brown band silver village evening market because village chapter dog history question through silver garden chapter stone through market over harbour orchard without without another journey meadow quick silver window winter lazy the silver history summer winter because number jumps the garden number morning.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter harbour river letter measure mea</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteReference w:id="2"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">dow band history brown plays lazy orchard while market stone the measure without letter journey silver people question band harbour village pattern morning garden summer market while journey garden while dog without history window summer band lazy plays dog over silver jumps winter because meadow.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Summer orchard chapter lantern village harbour winter dog garden because morning history river lazy another number brown question while measure window number dog silver summer chapter measure village orchard chapter chapter band chapter brown lazy meadow morning market between orchard river number jumps letter between chapter measure plays number while.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Journey garden journey garden stone because number lazy harbour window evening because the brown orchard winter jumps summer plays summer meadow summer through the plays dog measure measure journey summer silver silver plays morning morning history lazy between evening question evening brown silver people another garden because orchard another pattern.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window n</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteReference w:id="3"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">umber brown people village harbour village river plays lantern river while stone brown window letter winter another plays plays lazy band summer because plays measure over orchard summer number silver history garden people question because summer river number chapter jumps letter garden morning summer meadow garden village question market.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow pattern another without river letter winter over over garden market over dog village silver stone people orchard pattern dog letter jumps question measure garden quick jumps market question chapter pattern lantern stone harbour between jumps orchard summer morning the chapter history jumps journey through brown question letter lazy village.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market market while evening while winter letter dog orchard window lazy evening lantern pattern harbour dog people while winter number dog village lantern band the morning jumps question dog lantern silver people between people without jumps because morning lantern number band garden garden garden pattern fox through fox harbour letter.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market river measure stone lan</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteReference w:id="4"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">tern lantern over between between journey letter over river quick market river between through window dog band evening morning journey without quick plays through because without while window winter measure summer dog through harbour without letter between because lazy chapter meadow between over another winter window.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/endnotes.xml (87 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:endnotes xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:endnote w:type="separator" w:id="-1">
+<w:p>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:r>
+<w:separator/>
+</w:r>
+</w:p>
+</w:endnote>
+<w:endnote w:type="continuationSeparator" w:id="0">
+<w:p>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:r>
+<w:continuationSeparator/>
+</w:r>
+</w:p>
+</w:endnote>
+<w:endnote w:id="1">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="EndnoteText"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteRef/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Endnote 1 says: Over river number dog lantern because without summer another between fox number letter evening lantern number stone summer garden morning.</w:t>
+</w:r>
+</w:p>
+</w:endnote>
+<w:endnote w:id="2">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="EndnoteText"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteRef/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Endnote 2 says: Question river plays chapter through evening because without evening measure measure another dog brown winter orchard between letter lazy lazy.</w:t>
+</w:r>
+</w:p>
+</w:endnote>
+<w:endnote w:id="3">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="EndnoteText"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteRef/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Endnote 3 says: While stone because fox window while another lazy through river without between river question market fox summer band stone another.</w:t>
+</w:r>
+</w:p>
+</w:endnote>
+<w:endnote w:id="4">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="EndnoteText"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:endnoteRef/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Endnote 4 says: Pattern garden river the plays garden through lazy number stone lazy brown plays another harbour while dog while pattern winter.</w:t>
+</w:r>
+</w:p>
+</w:endnote>
+</w:endnotes>
+== word/settings.xml (17 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:settings xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:zoom w:percent="100"/>
+<w:defaultTabStop w:val="720"/>
+<w:characterSpacingControl w:val="doNotCompress"/>
+<w:footnotePr>
+<w:numFmt w:val="decimal"/>
+</w:footnotePr>
+<w:endnotePr>
+<w:numFmt w:val="lowerRoman"/>
+<w:endnote w:id="-1"/>
+<w:endnote w:id="0"/>
+</w:endnotePr>
+<w:compat>
+<w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15"/>
+</w:compat>
+</w:settings>
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

@@ -1,0 +1,214 @@
+# layout snapshot: table_fixed (default)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (151):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Before the fixed table."
+    fill [72.3 98.9 60.0x56.9] #dee8f4
+    lines body [1,0,0,0] l0..3 x=78.3 y=103.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "Dog "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "another "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Para "journey."
+    rule (72.0 98.9)-(132.5 98.9) Double w=1.5 #333333
+    rule (72.0 155.8)-(132.5 155.8) Dotted w=0.5 #888888
+    rule (72.3 98.9)-(72.3 155.8) Single w=0.5 auto
+    rule (132.3 98.9)-(132.3 155.8) Dashed w=0.5 #888888
+    cell [72.3 98.9 60.0x56.9] table=[1] r0 c0 body
+    fill [132.3 98.9 180.0x56.9] #dee8f4
+    lines body [1,0,1,0] l0..1 x=138.3 y=103.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=168.0 end=Para "People band lantern."
+    rule (132.0 98.9)-(312.5 98.9) Double w=1.5 #333333
+    rule (132.0 155.8)-(312.5 155.8) Dotted w=0.5 #888888
+    rule (132.3 98.9)-(132.3 155.8) Dashed w=0.5 #888888
+    rule (312.3 98.9)-(312.3 155.8) Dashed w=0.5 #888888
+    cell [132.3 98.9 180.0x56.9] table=[1] r0 c1 body
+    fill [312.3 98.9 108.0x56.9] #dee8f4
+    lines body [1,0,2,0] l0..2 x=318.3 y=103.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=96.0 end=Wrap "Lazy question "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=96.0 end=Para "dog."
+    rule (312.0 98.9)-(420.5 98.9) Double w=1.5 #333333
+    rule (312.0 155.8)-(420.5 155.8) Dotted w=0.5 #888888
+    rule (312.3 98.9)-(312.3 155.8) Dashed w=0.5 #888888
+    rule (420.3 98.9)-(420.3 155.8) Dashed w=0.5 #888888
+    cell [312.3 98.9 108.0x56.9] table=[1] r0 c2 body
+    fill [420.3 98.9 120.0x56.9] #dee8f4
+    lines body [1,0,3,0] l0..1 x=426.3 y=103.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=108.0 end=Para "Stone people letter."
+    rule (420.0 98.9)-(540.5 98.9) Double w=1.5 #333333
+    rule (420.0 155.8)-(540.5 155.8) Dotted w=0.5 #888888
+    rule (420.3 98.9)-(420.3 155.8) Dashed w=0.5 #888888
+    rule (540.3 98.9)-(540.3 155.8) Single w=0.5 auto
+    cell [420.3 98.9 120.0x56.9] table=[1] r0 c3 body
+    lines body [1,1,0,0] l0..3 x=78.3 y=159.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "Winter "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "lantern "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Para "summer."
+    rule (72.0 155.8)-(132.5 155.8) Dotted w=0.5 #888888
+    rule (72.0 198.8)-(132.5 198.8) Dotted w=0.5 #888888
+    rule (72.3 155.8)-(72.3 198.8) Single w=0.5 auto
+    rule (132.3 155.8)-(132.3 198.8) Dashed w=0.5 #888888
+    cell [72.3 155.8 60.0x43.0] table=[1] r1 c0 body clip
+    lines body [1,1,1,0] l0..1 x=138.3 y=169.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=168.0 end=Para "Quick jumps history."
+    rule (132.0 155.8)-(312.5 155.8) Dotted w=0.5 #888888
+    rule (132.0 198.8)-(312.5 198.8) Dotted w=0.5 #888888
+    rule (132.3 155.8)-(132.3 198.8) Dashed w=0.5 #888888
+    rule (312.3 155.8)-(312.3 198.8) Dashed w=0.5 #888888
+    cell [132.3 155.8 180.0x43.0] table=[1] r1 c1 body
+    lines body [1,1,2,0] l0..2 x=318.3 y=162.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=96.0 end=Wrap "Over morning "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=96.0 end=Para "harbour."
+    rule (312.0 155.8)-(420.5 155.8) Dotted w=0.5 #888888
+    rule (312.0 198.8)-(420.5 198.8) Dotted w=0.5 #888888
+    rule (312.3 155.8)-(312.3 198.8) Dashed w=0.5 #888888
+    rule (420.3 155.8)-(420.3 198.8) Dashed w=0.5 #888888
+    cell [312.3 155.8 108.0x43.0] table=[1] r1 c2 body
+    lines body [1,1,3,0] l0..2 x=426.3 y=161.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=108.0 end=Wrap "Question over "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=108.0 end=Para "harbour."
+    rule (420.0 155.8)-(540.5 155.8) Dotted w=0.5 #888888
+    rule (420.0 198.8)-(540.5 198.8) Dotted w=0.5 #888888
+    rule (420.3 155.8)-(420.3 198.8) Dashed w=0.5 #888888
+    rule (540.3 155.8)-(540.3 198.8) Single w=0.5 auto
+    cell [420.3 155.8 120.0x43.0] table=[1] r1 c3 body
+    lines body [1,2,0,0] l0..3 x=78.3 y=202.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "While "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "window "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Para "silver."
+    rule (72.0 198.8)-(132.5 198.8) Dotted w=0.5 #888888
+    rule (72.0 254.6)-(132.5 254.6) Dotted w=0.5 #888888
+    rule (72.3 198.8)-(72.3 254.6) Single w=0.5 auto
+    rule (132.3 198.8)-(132.3 254.6) Dashed w=0.5 #888888
+    cell [72.3 198.8 60.0x55.9] table=[1] r2 c0 body
+    lines body [1,2,1,0] l0..1 x=138.3 y=202.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=168.0 end=Para "Lazy village another."
+    rule (132.0 198.8)-(312.5 198.8) Dotted w=0.5 #888888
+    rule (132.0 254.6)-(312.5 254.6) Dotted w=0.5 #888888
+    rule (132.3 198.8)-(132.3 254.6) Dashed w=0.5 #888888
+    rule (312.3 198.8)-(312.3 254.6) Dashed w=0.5 #888888
+    cell [132.3 198.8 180.0x55.9] table=[1] r2 c1 body
+    lines body [1,2,2,0] l0..2 x=318.3 y=202.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=96.0 end=Wrap "Chapter meadow "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=96.0 end=Para "measure."
+    rule (312.0 198.8)-(420.5 198.8) Dotted w=0.5 #888888
+    rule (312.0 254.6)-(420.5 254.6) Dotted w=0.5 #888888
+    rule (312.3 198.8)-(312.3 254.6) Dashed w=0.5 #888888
+    rule (420.3 198.8)-(420.3 254.6) Dashed w=0.5 #888888
+    cell [312.3 198.8 108.0x55.9] table=[1] r2 c2 body
+    lines body [1,2,3,0] l0..2 x=426.3 y=202.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=108.0 end=Wrap "Summer dog "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=108.0 end=Para "without."
+    rule (420.0 198.8)-(540.5 198.8) Dotted w=0.5 #888888
+    rule (420.0 254.6)-(540.5 254.6) Dotted w=0.5 #888888
+    rule (420.3 198.8)-(420.3 254.6) Dashed w=0.5 #888888
+    rule (540.3 198.8)-(540.3 254.6) Single w=0.5 auto
+    cell [420.3 198.8 120.0x55.9] table=[1] r2 c3 body
+    lines body [1,3,0,0] l0..3 x=78.3 y=258.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "Fox "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "between "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Para "market."
+    rule (72.0 254.6)-(132.5 254.6) Dotted w=0.5 #888888
+    rule (72.0 392.7)-(132.5 392.7) Dotted w=0.5 #888888
+    rule (72.3 254.6)-(72.3 392.7) Single w=0.5 auto
+    rule (132.3 254.6)-(132.3 392.7) Dashed w=0.5 #888888
+    cell [72.3 254.6 60.0x138.1] table=[1] r3 c0 body
+    lines body [1,3,1,0] l0..8 x=138.3 y=258.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=168.0 end=Wrap "Stone dog journey market over "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=168.0 end=Wrap "because through plays while "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=168.0 end=Wrap "through lantern question "
+      3: top=49.4 h=16.5 base=61.8 left=0.0 right=168.0 end=Wrap "summer fox question while the "
+      4: top=65.8 h=16.5 base=78.2 left=0.0 right=168.0 end=Wrap "people between measure the "
+      5: top=82.3 h=16.5 base=94.7 left=0.0 right=168.0 end=Wrap "through without measure "
+      6: top=98.7 h=16.5 base=111.1 left=0.0 right=168.0 end=Wrap "pattern plays quick while "
+      7: top=115.2 h=16.5 base=127.6 left=0.0 right=168.0 end=Para "morning winter."
+    rule (132.0 254.6)-(312.5 254.6) Dotted w=0.5 #888888
+    rule (132.0 392.7)-(312.5 392.7) Dotted w=0.5 #888888
+    rule (132.3 254.6)-(132.3 392.7) Dashed w=0.5 #888888
+    rule (312.3 254.6)-(312.3 392.7) Dashed w=0.5 #888888
+    cell [132.3 254.6 180.0x138.1] table=[1] r3 c1 body
+    lines body [1,3,2,0] l0..2 x=318.3 y=258.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=96.0 end=Wrap "Brown number "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=96.0 end=Para "because."
+    rule (312.0 254.6)-(420.5 254.6) Dotted w=0.5 #888888
+    rule (312.0 392.7)-(420.5 392.7) Dotted w=0.5 #888888
+    rule (312.3 254.6)-(312.3 392.7) Dashed w=0.5 #888888
+    rule (420.3 254.6)-(420.3 392.7) Dashed w=0.5 #888888
+    cell [312.3 254.6 108.0x138.1] table=[1] r3 c2 body
+    lines body [1,3,3,0] l0..1 x=426.3 y=258.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=108.0 end=Para "Band lantern the."
+    rule (420.0 254.6)-(540.5 254.6) Dotted w=0.5 #888888
+    rule (420.0 392.7)-(540.5 392.7) Dotted w=0.5 #888888
+    rule (420.3 254.6)-(420.3 392.7) Dashed w=0.5 #888888
+    rule (540.3 254.6)-(540.3 392.7) Single w=0.5 auto
+    cell [420.3 254.6 120.0x138.1] table=[1] r3 c3 body
+    lines body [1,4,0,0] l0..4 x=78.3 y=396.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "Questio"
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "n "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Wrap "harbour "
+      3: top=49.4 h=16.5 base=61.8 left=0.0 right=48.0 end=Para "lantern."
+    rule (72.0 392.7)-(132.5 392.7) Dotted w=0.5 #888888
+    rule (72.0 466.6)-(132.5 466.6) Double w=1.5 #333333
+    rule (72.3 392.7)-(72.3 466.6) Single w=0.5 auto
+    rule (132.3 392.7)-(132.3 466.6) Dashed w=0.5 #888888
+    cell [72.3 392.7 60.0x73.8] table=[1] r4 c0 body
+    lines body [1,4,1,0] l0..1 x=138.3 y=396.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=168.0 end=Para "Right-aligned cell text"
+    rule (132.0 392.7)-(312.5 392.7) Dotted w=0.5 #888888
+    rule (132.0 466.6)-(312.5 466.6) Double w=1.5 #333333
+    rule (132.3 392.7)-(132.3 466.6) Dashed w=0.5 #888888
+    rule (312.3 392.7)-(312.3 466.6) Dashed w=0.5 #888888
+    cell [132.3 392.7 180.0x73.8] table=[1] r4 c1 body
+    lines body [1,4,2,0] l0..2 x=318.3 y=396.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=96.0 end=Wrap "The stone "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=96.0 end=Para "measure."
+    rule (312.0 392.7)-(420.5 392.7) Dotted w=0.5 #888888
+    rule (312.0 466.6)-(420.5 466.6) Double w=1.5 #333333
+    rule (312.3 392.7)-(312.3 466.6) Dashed w=0.5 #888888
+    rule (420.3 392.7)-(420.3 466.6) Dashed w=0.5 #888888
+    cell [312.3 392.7 108.0x73.8] table=[1] r4 c2 body
+    lines body [1,4,3,0] l0..2 x=426.3 y=396.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=108.0 end=Wrap "Village brown "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=108.0 end=Para "village."
+    rule (420.0 392.7)-(540.5 392.7) Dotted w=0.5 #888888
+    rule (420.0 466.6)-(540.5 466.6) Double w=1.5 #333333
+    rule (420.3 392.7)-(420.3 466.6) Dashed w=0.5 #888888
+    rule (540.3 392.7)-(540.3 466.6) Single w=0.5 auto
+    cell [420.3 392.7 120.0x73.8] table=[1] r4 c3 body
+    lines body [2] l0..1 x=72.0 y=466.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A second table, aligned right with an indent, follows."
+    lines body [3,0,0,0] l0..2 x=305.4 y=494.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=109.2 end=Wrap "Between quick "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=109.2 end=Para "people."
+    rule (299.8 493.5)-(420.3 493.5) Single w=0.5 auto
+    rule (299.8 526.9)-(420.3 526.9) Single w=0.5 auto
+    rule (300.0 493.5)-(300.0 526.9) Single w=0.5 auto
+    rule (420.0 493.5)-(420.0 526.9) Single w=0.5 auto
+    cell [300.0 493.5 120.0x33.4] table=[3] r0 c0 body
+    lines body [3,0,1,0] l0..1 x=425.4 y=494.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=109.2 end=Para "Garden over fox."
+    rule (419.8 493.5)-(540.3 493.5) Single w=0.5 auto
+    rule (419.8 526.9)-(540.3 526.9) Single w=0.5 auto
+    rule (420.0 493.5)-(420.0 526.9) Single w=0.5 auto
+    rule (540.0 493.5)-(540.0 526.9) Single w=0.5 auto
+    cell [420.0 493.5 120.0x33.4] table=[3] r0 c1 body
+    lines body [3,1,0,0] l0..2 x=305.4 y=527.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=109.2 end=Wrap "Evening lazy "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=109.2 end=Para "through."
+    rule (299.8 526.9)-(420.3 526.9) Single w=0.5 auto
+    rule (299.8 560.8)-(420.3 560.8) Single w=0.5 auto
+    rule (300.0 526.9)-(300.0 560.8) Single w=0.5 auto
+    rule (420.0 526.9)-(420.0 560.8) Single w=0.5 auto
+    cell [300.0 526.9 120.0x33.9] table=[3] r1 c0 body
+    lines body [3,1,1,0] l0..2 x=425.4 y=527.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=109.2 end=Wrap "Brown because "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=109.2 end=Para "without."
+    rule (419.8 526.9)-(540.3 526.9) Single w=0.5 auto
+    rule (419.8 560.8)-(540.3 560.8) Single w=0.5 auto
+    rule (420.0 526.9)-(420.0 560.8) Single w=0.5 auto
+    rule (540.0 526.9)-(540.0 560.8) Single w=0.5 auto
+    cell [420.0 526.9 120.0x33.9] table=[3] r1 c1 body
+    lines body [4] l0..1 x=72.0 y=560.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "After the tables."
+  rows [1]: 0:98.9+56.9 1:155.8+43.0 2:198.8+55.9 3:254.6+138.1 4:392.7+73.8
+  rows [3]: 0:493.5+33.4 1:526.9+33.9

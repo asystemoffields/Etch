@@ -1,0 +1,36 @@
+# layout snapshot: letter (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (15):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "Your Name"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "123 Your Street · City, ST 00000 · you@example.com"
+    lines body [2] l0..1 x=72.0 y=140.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+    lines body [3] l0..1 x=72.0 y=167.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "November 14, 2023"
+    lines body [4] l0..1 x=72.0 y=193.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+    lines body [5] l0..1 x=72.0 y=220.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Recipient Name"
+    lines body [6] l0..1 x=72.0 y=247.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Title, Company"
+    lines body [7] l0..1 x=72.0 y=274.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Street Address"
+    lines body [8] l0..1 x=72.0 y=301.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+    lines body [9] l0..1 x=72.0 y=328.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Dear Recipient,"
+    lines body [10] l0..2 x=72.0 y=355.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Start with a sentence that says why you are writing. Keep paragraphs short and specific, "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "and close with what you would like to happen next."
+    lines body [11] l0..1 x=72.0 y=401.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Thank you for your time."
+    lines body [12] l0..1 x=72.0 y=428.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Sincerely,"
+    lines body [13] l0..1 x=72.0 y=455.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+    lines body [14] l0..1 x=72.0 y=482.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Your Name"

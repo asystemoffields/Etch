@@ -1,0 +1,144 @@
+# layout snapshot: kitchen_sink (no_markup_hidden)
+# fonts: Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=part:1 footer=-
+  header (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "Header: page 1 of 2"
+  items (66):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Kitchen sink: a bit of everything the sweep document has."
+    lines body [1] l0..5 x=72.0 y=98.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Harbour silver jumps orchard evening history jumps dog river over while history lazy "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "quick lazy chapter the pattern meadow stone quick garden stone chapter village "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "summer summer garden quick morning river while river fox journey through garden "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "river evening meadow band the brown another brown plays river because between "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "window."
+    lines body [2] l0..1 x=72.0 y=201.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Body text with {obj}a bookmark{obj}, {obj}a comment{obj}, hidden words and words tracked{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}."
+    lines body [3] l0..5 x=72.0 y=228.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Morning through river market between village lazy evening window village jumps "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "question jumps another pattern morning market journey village jumps through "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "summer quick river silver meadow chapter history window orchard river village "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "number market morning window silver plays chapter over number history winter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "market village evening stone lantern window garden."
+    lines body [4,0,0,0] l0..1 x=77.7 y=331.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Quick brown quick."
+    rule (72.0 331.0)-(228.5 331.0) Single w=0.5 auto
+    rule (72.0 348.0)-(228.5 348.0) Single w=0.5 auto
+    rule (72.3 331.0)-(72.3 348.0) Single w=0.5 auto
+    rule (228.3 331.0)-(228.3 348.0) Single w=0.5 auto
+    cell [72.3 331.0 156.0x17.0] table=[4] r0 c0 body
+    lines body [4,0,1,0] l0..1 x=233.7 y=331.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band silver over."
+    rule (228.0 331.0)-(384.5 331.0) Single w=0.5 auto
+    rule (228.0 348.0)-(384.5 348.0) Single w=0.5 auto
+    rule (228.3 331.0)-(228.3 348.0) Single w=0.5 auto
+    rule (384.3 331.0)-(384.3 348.0) Single w=0.5 auto
+    cell [228.3 331.0 156.0x17.0] table=[4] r0 c1 body
+    lines body [4,0,2,0] l0..1 x=389.7 y=331.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone garden market."
+    rule (384.0 331.0)-(540.5 331.0) Single w=0.5 auto
+    rule (384.0 348.0)-(540.5 348.0) Single w=0.5 auto
+    rule (384.3 331.0)-(384.3 348.0) Single w=0.5 auto
+    rule (540.3 331.0)-(540.3 348.0) Single w=0.5 auto
+    cell [384.3 331.0 156.0x17.0] table=[4] r0 c2 body
+    lines body [4,1,0,0] l0..1 x=77.7 y=348.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window pattern village."
+    rule (72.0 348.0)-(228.5 348.0) Single w=0.5 auto
+    rule (72.0 364.9)-(228.5 364.9) Single w=0.5 auto
+    rule (72.3 348.0)-(72.3 364.9) Single w=0.5 auto
+    rule (228.3 348.0)-(228.3 364.9) Single w=0.5 auto
+    cell [72.3 348.0 156.0x17.0] table=[4] r1 c0 body
+    lines body [4,1,1,0] l0..1 x=233.7 y=348.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Evening band while."
+    rule (228.0 348.0)-(384.5 348.0) Single w=0.5 auto
+    rule (228.0 364.9)-(384.5 364.9) Single w=0.5 auto
+    rule (228.3 348.0)-(228.3 364.9) Single w=0.5 auto
+    rule (384.3 348.0)-(384.3 364.9) Single w=0.5 auto
+    cell [228.3 348.0 156.0x17.0] table=[4] r1 c1 body
+    lines body [4,1,2,0] l0..1 x=389.7 y=348.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Dog over fox."
+    rule (384.0 348.0)-(540.5 348.0) Single w=0.5 auto
+    rule (384.0 364.9)-(540.5 364.9) Single w=0.5 auto
+    rule (384.3 348.0)-(384.3 364.9) Single w=0.5 auto
+    rule (540.3 348.0)-(540.3 364.9) Single w=0.5 auto
+    cell [384.3 348.0 156.0x17.0] table=[4] r1 c2 body
+    lines body [4,2,0,0] l0..1 x=77.7 y=365.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Harbour lazy measure."
+    rule (72.0 364.9)-(228.5 364.9) Single w=0.5 auto
+    rule (72.0 382.4)-(228.5 382.4) Single w=0.5 auto
+    rule (72.3 364.9)-(72.3 382.4) Single w=0.5 auto
+    rule (228.3 364.9)-(228.3 382.4) Single w=0.5 auto
+    cell [72.3 364.9 156.0x17.5] table=[4] r2 c0 body
+    lines body [4,2,1,0] l0..1 x=233.7 y=365.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Evening jumps morning."
+    rule (228.0 364.9)-(384.5 364.9) Single w=0.5 auto
+    rule (228.0 382.4)-(384.5 382.4) Single w=0.5 auto
+    rule (228.3 364.9)-(228.3 382.4) Single w=0.5 auto
+    rule (384.3 364.9)-(384.3 382.4) Single w=0.5 auto
+    cell [228.3 364.9 156.0x17.5] table=[4] r2 c1 body
+    lines body [4,2,2,0] l0..1 x=389.7 y=365.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Brown because market."
+    rule (384.0 364.9)-(540.5 364.9) Single w=0.5 auto
+    rule (384.0 382.4)-(540.5 382.4) Single w=0.5 auto
+    rule (384.3 364.9)-(384.3 382.4) Single w=0.5 auto
+    rule (540.3 364.9)-(540.3 382.4) Single w=0.5 auto
+    cell [384.3 364.9 156.0x17.5] table=[4] r2 c2 body
+    lines body [5] l0..5 x=72.0 y=382.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "People while brown summer winter without lantern village silver while brown brown "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "band chapter over pattern morning between pattern while letter jumps river plays "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "measure meadow without brown while because pattern quick number history window "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "meadow village dog because brown river orchard history village quick through river "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "dog through measure."
+    lines body [6] l0..1 x=72.0 y=485.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Last paragraph of the first section. See a bookmark on page 1."
+    lines body [7] l0..2 x=72.0 y=511.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Second section, two columns, with a "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Para "footnote1 and {obj}a content control{obj} here."
+    lines body [8] l0..7 x=72.0 y=557.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Evening silver market market quick lazy "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "lazy over through chapter dog band "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "window number letter number winter "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "over journey without evening river "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "people jumps morning through chapter "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "pattern the pattern morning lazy lantern "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "garden between summer silver jumps "
+    lines body [8] l7..10 x=318.0 y=511.9
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Wrap "without through band lazy brown lazy "
+      8: top=151.4 h=18.9 base=163.8 left=0.0 right=222.0 end=Wrap "village orchard harbour brown band "
+      9: top=170.3 h=18.9 base=182.7 left=0.0 right=222.0 end=Para "evening."
+    lines body [9] l0..6 x=318.0 y=576.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Number meadow brown orchard "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "harbour without fox another fox pattern "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "morning measure the people meadow "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "evening silver morning between while "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "summer while the pattern stone over dog "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "stone band question question while "
+    rule (72.0 700.3)-(216.0 700.3) Single w=0.5 auto
+    lines part:3 [0] l0..1 x=72.0 y=706.3
+      0: top=0.0 h=13.7 base=10.4 left=0.0 right=468.0 end=Para "1 The kitchen sink's footnote."
+  rows [4]: 0:331.0+17.0 1:348.0+17.0 2:364.9+17.5
+page 2: 612.0x792.0 number=2 section=1 body=[72.0 72.0 468.0x648.0] slot=Default first_block=9 markup=0.0 header=part:1 footer=-
+  header (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "Header: page 2 of 2"
+  items (3):
+    lines body [9] l6..10 x=72.0 y=72.0
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "through morning through between "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Wrap "another another between history "
+      8: top=151.4 h=18.9 base=163.8 left=0.0 right=222.0 end=Wrap "meadow evening plays between quick "
+      9: top=170.3 h=18.9 base=182.7 left=0.0 right=222.0 end=Para "between fox measure because letter."
+    lines body [10] l0..10 x=72.0 y=155.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "History band the journey harbour band "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "dog through question over summer fox "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "jumps silver over journey window "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "question without measure harbour fox "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "jumps while brown dog meadow brown "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "between brown jumps winter between "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "summer garden brown harbour morning "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Wrap "through people band number harbour "
+      8: top=151.4 h=18.9 base=163.8 left=0.0 right=222.0 end=Wrap "garden summer question over while "
+      9: top=170.3 h=18.9 base=182.7 left=0.0 right=222.0 end=Para "silver orchard."
+    lines body [11] l0..1 x=72.0 y=352.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Para "The end of the second section."

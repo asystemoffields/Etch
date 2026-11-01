@@ -1,0 +1,767 @@
+# 10 parts
+== [Content_Types].xml (12 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+<Default Extension="xml" ContentType="application/xml"/>
+<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+<Override PartName="/word/footer1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/>
+<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/word/theme/theme1.xml" ContentType="application/vnd.openxmlformats-officedocument.theme+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
+</Types>
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>716</Words>
+<Paragraphs>46</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: fields_toc</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (8 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://example.org/fox" TargetMode="External"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="footer1.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/document.xml (694 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Fields and a Table of Contents</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The table of contents goes here:</w:t>
+</w:r>
+</w:p>
+<w:sdt>
+<w:sdtPr>
+<w:docPartObj>
+<w:docPartGallery w:val="Table of Contents"/>
+<w:docPartUnique/>
+</w:docPartObj>
+</w:sdtPr>
+<w:sdtContent>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOCHeading"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Contents</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> TOC \o &quot;1-3&quot; \h \z \u </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:hyperlink w:anchor="_Toc000000001" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Chapter 1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000002" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 1.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC3"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000003" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Topic 1.1.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000004" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 1.2</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000005" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Chapter 2</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000006" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 2.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC3"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000007" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Topic 2.1.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000008" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 2.2</w:t>
+<w:tab/>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000009" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Chapter 3</w:t>
+<w:tab/>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000010" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 3.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC3"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000011" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Topic 3.1.1</w:t>
+<w:tab/>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:tabs>
+<w:tab w:val="right" w:leader="dot" w:pos="9350"/>
+</w:tabs>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc000000012" w:history="1">
+<w:r>
+<w:t xml:space="preserve">Section 3.2</w:t>
+<w:tab/>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+</w:sdtContent>
+</w:sdt>
+<w:p>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:bookmarkStart w:id="0" w:name="_Toc000000001"/>
+<w:r>
+<w:t xml:space="preserve">Chapter 1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="0"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">History fox over fox the plays over evening dog summer without evening stone morning winter history lazy winter lazy fox fox window measure dog evening without without lantern river harbour pattern people the summer journey meadow brown harbour letter dog brown another between over market between orchard letter lantern because fox people market plays silver stone letter history quick window.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="1" w:name="_Toc000000002"/>
+<w:r>
+<w:t xml:space="preserve">Section 1.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="1"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window meadow harbour without people journey measure winter band chapter measure lantern over lantern question question because without window because history fox harbour dog another harbour without harbour letter because over garden history question people journey while quick window stone brown history summer orchard market without lazy evening chapter garden.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:bookmarkStart w:id="2" w:name="_Toc000000003"/>
+<w:r>
+<w:t xml:space="preserve">Topic 1.1.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="2"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Between chapter quick morning evening number morning question jumps through lazy market letter plays measure band harbour garden chapter jumps meadow chapter between while meadow question another stone people winter people while market number summer harbour silver stone window between.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="3" w:name="_Toc000000004"/>
+<w:r>
+<w:t xml:space="preserve">Section 1.2</w:t>
+</w:r>
+<w:bookmarkEnd w:id="3"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox number plays village between morning history winter letter question the fox because harbour over river stone chapter history garden band village window river fox dog band chapter harbour number another quick winter the evening window quick summer village orchard garden question between while orchard measure harbour morning brown winter.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:bookmarkStart w:id="4" w:name="_Toc000000005"/>
+<w:r>
+<w:t xml:space="preserve">Chapter 2</w:t>
+</w:r>
+<w:bookmarkEnd w:id="4"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Measure dog quick plays plays jumps orchard between through morning summer silver over orchard market chapter pattern orchard market summer plays another morning plays question lantern between measure window another quick pattern journey plays without measure dog market the stone winter because the over pattern lantern winter without journey the summer another between window winter harbour through history garden summer.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="5" w:name="_Toc000000006"/>
+<w:r>
+<w:t xml:space="preserve">Section 2.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="5"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern fox fox village letter village band history history stone over stone silver evening fox evening dog silver between river because garden journey measure measure lazy plays between because pattern meadow window people window another letter plays orchard people because through lantern garden window number fox measure jumps lazy pattern.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:bookmarkStart w:id="6" w:name="_Toc000000007"/>
+<w:r>
+<w:t xml:space="preserve">Topic 2.1.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="6"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow the meadow river band harbour band lazy because people window garden number journey the market orchard meadow pattern river band jumps garden chapter garden band window between silver meadow plays plays between lazy plays because history village pattern between.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="7" w:name="_Toc000000008"/>
+<w:r>
+<w:t xml:space="preserve">Section 2.2</w:t>
+</w:r>
+<w:bookmarkEnd w:id="7"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Dog while village plays dog number morning chapter while silver quick history number lazy history number the measure dog harbour morning brown lazy river between village letter band village window market quick lantern plays band measure orchard garden chapter chapter over stone another the over the over morning chapter over.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:bookmarkStart w:id="8" w:name="_Toc000000009"/>
+<w:r>
+<w:t xml:space="preserve">Chapter 3</w:t>
+</w:r>
+<w:bookmarkEnd w:id="8"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone people while the between plays while quick garden while question jumps market the jumps band harbour without brown village chapter people summer measure lazy chapter garden dog garden journey pattern over garden quick evening harbour jumps plays plays between lazy lantern question question evening the while garden letter band between jumps meadow market number the question without village harbour.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="9" w:name="_Toc000000010"/>
+<w:r>
+<w:t xml:space="preserve">Section 3.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="9"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver band because question plays market between pattern market plays the garden summer lazy market evening band without journey history window people lantern village pattern measure river over history morning between dog history summer another over dog another over another chapter between harbour over harbour market harbour stone orchard because.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:bookmarkStart w:id="10" w:name="_Toc000000011"/>
+<w:r>
+<w:t xml:space="preserve">Topic 3.1.1</w:t>
+</w:r>
+<w:bookmarkEnd w:id="10"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number lazy question because village lazy another market silver market plays without morning village stone harbour journey history letter harbour another band number measure because while pattern orchard meadow number harbour measure lazy window harbour dog measure the journey over.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="11" w:name="_Toc000000012"/>
+<w:r>
+<w:t xml:space="preserve">Section 3.2</w:t>
+</w:r>
+<w:bookmarkEnd w:id="11"/>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">While silver between meadow over through because plays between fox quick evening market between pattern another without history silver quick between over lantern brown dog measure fox river question the because question the lazy lantern the silver because quick while garden plays another evening measure number letter lazy band meadow.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">A </w:t>
+</w:r>
+<w:hyperlink r:id="rId1" w:history="1">
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+</w:rPr>
+<w:t xml:space="preserve">bookmarked phrase</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:t xml:space="preserve">: the </w:t>
+</w:r>
+<w:bookmarkStart w:id="12" w:name="fox"/>
+<w:r>
+<w:t xml:space="preserve">quick brown fox</w:t>
+</w:r>
+<w:bookmarkEnd w:id="12"/>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fields: page </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> PAGE </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> of </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> NUMPAGES </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">; date </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> DATE \@ &quot;yyyy-MM-dd&quot; </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">2023-11-14</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">; time </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> TIME \@ &quot;HH:mm&quot; </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">22:13</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">; author </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> AUTHOR </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Snapshot Author</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">; title </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> TITLE </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">Snapshot: fields_toc</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">; words </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> NUMWORDS </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">716</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Figure </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> SEQ Figure \* ARABIC </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">: caption 1</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Figure </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> SEQ Figure \* ARABIC </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">: caption 2</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Figure </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> SEQ Figure \* ARABIC </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">: caption 3</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">See </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> REF fox \h </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">quick brown fox</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> on page </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> PAGEREF fox \h </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">. Nested: </w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> IF &quot;x&quot; = &quot;x&quot; &quot;yes&quot; &quot;no&quot; </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">yes</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:footerReference w:type="default" r:id="rId2"/>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/footer1.xml (24 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:ftr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Footer"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> PAGE </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+</w:ftr>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

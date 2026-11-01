@@ -1,0 +1,27 @@
+== rtf (4810 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: endnotes}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\fet2\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Endnotes\par
+\pard\plain\ql Dog summer h{\super\chftn}{\footnote\ftnalt
+\pard\plain\ql {\super\chftn}Endnote 1 says: Over river number dog lantern because without summer another between fox number letter evening lantern number stone summer garden morning.\par
+}arbour people fox quick brown band silver village evening market because village chapter dog history question through silver garden chapter stone through market over harbour orchard without without another journey meadow quick silver window winter lazy the silver history summer winter because number jumps the garden number morning.\par
+\pard\plain\ql Chapter harbour river letter measure mea{\super\chftn}{\footnote\ftnalt
+\pard\plain\ql {\super\chftn}Endnote 2 says: Question river plays chapter through evening because without evening measure measure another dog brown winter orchard between letter lazy lazy.\par
+}dow band history brown plays lazy orchard while market stone the measure without letter journey silver people question band harbour village pattern morning garden summer market while journey garden while dog without history window summer band lazy plays dog over silver jumps winter because meadow.\par
+\pard\plain\ql Summer orchard chapter lantern village harbour winter dog garden because morning history river lazy another number brown question while measure window number dog silver summer chapter measure village orchard chapter chapter band chapter brown lazy meadow morning market between orchard river number jumps letter between chapter measure plays number while.\par
+\pard\plain\ql Journey garden journey garden stone because number lazy harbour window evening because the brown orchard winter jumps summer plays summer meadow summer through the plays dog measure measure journey summer silver silver plays morning morning history lazy between evening question evening brown silver people another garden because orchard another pattern.\par
+\pard\plain\ql Window n{\super\chftn}{\footnote\ftnalt
+\pard\plain\ql {\super\chftn}Endnote 3 says: While stone because fox window while another lazy through river without between river question market fox summer band stone another.\par
+}umber brown people village harbour village river plays lantern river while stone brown window letter winter another plays plays lazy band summer because plays measure over orchard summer number silver history garden people question because summer river number chapter jumps letter garden morning summer meadow garden village question market.\par
+\pard\plain\ql Meadow pattern another without river letter winter over over garden market over dog village silver stone people orchard pattern dog letter jumps question measure garden quick jumps market question chapter pattern lantern stone harbour between jumps orchard summer morning the chapter history jumps journey through brown question letter lazy village.\par
+\pard\plain\ql Market market while evening while winter letter dog orchard window lazy evening lantern pattern harbour dog people while winter number dog village lantern band the morning jumps question dog lantern silver people between people without jumps because morning lantern number band garden garden garden pattern fox through fox harbour letter.\par
+\pard\plain\ql Market river measure stone lan{\super\chftn}{\footnote\ftnalt
+\pard\plain\ql {\super\chftn}Endnote 4 says: Pattern garden river the plays garden through lazy number stone lazy brown plays another harbour while dog while pattern winter.\par
+}tern lantern over between between journey letter over river quick market river between through window dog band evening morning journey without quick plays through because without while window winter measure summer dog through harbour without letter between because lazy chapter meadow between over another winter window.\par
+}

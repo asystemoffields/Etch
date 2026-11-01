@@ -1,0 +1,77 @@
+# layout snapshot: rtl (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (6):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Right-to-Left Text"
+    lines body [1] l0..4 x=72.0 y=124.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap rtl "Summer number journey market through winter between while without plays evening "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap rtl "village stone stone summer fox evening while meadow village winter harbour the stone "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap rtl "another stone between silver journey while village because through village brown river "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para rtl "brown river meadow measure."
+    lines body [2] l0..1 x=72.0 y=208.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para rtl "שלום עולם, זהו משפט בעברית עם מספרים 123 ו-456 בתוכו."
+    lines body [3] l0..1 x=72.0 y=235.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para rtl "مرحبا بالعالم، هذه جملة عربية فيها كلمات english وأرقام 789."
+    lines body [4] l0..1 x=72.0 y=262.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Mixed in a left-to-right paragraph: Hello שלום 42 world مرحبا again."
+    lines body [5] l0..1 x=72.0 y=288.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para rtl "Right-aligned right-to-left paragraph."
+page 2: 612.0x792.0 number=2 section=1 body=[72.0 72.0 468.0x648.0] slot=Default first_block=6 markup=0.0 header=- footer=-
+  items (40):
+    lines body [6,0,0,0] l0..1 x=389.2 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "ימין"
+    rule (383.5 72.0)-(540.0 72.0) Single w=0.5 auto
+    rule (383.5 89.0)-(540.0 89.0) Single w=0.5 auto
+    rule (383.8 72.0)-(383.8 89.0) Single w=0.5 auto
+    rule (539.8 72.0)-(539.8 89.0) Single w=0.5 auto
+    cell [383.8 72.0 156.0x17.0] table=[6] r0 c0 body
+    lines body [6,0,1,0] l0..1 x=233.2 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Because winter through."
+    rule (227.5 72.0)-(384.0 72.0) Single w=0.5 auto
+    rule (227.5 89.0)-(384.0 89.0) Single w=0.5 auto
+    rule (227.8 72.0)-(227.8 89.0) Single w=0.5 auto
+    rule (383.8 72.0)-(383.8 89.0) Single w=0.5 auto
+    cell [227.8 72.0 156.0x17.0] table=[6] r0 c1 body
+    lines body [6,0,2,0] l0..1 x=77.2 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "שמאל"
+    rule (71.5 72.0)-(228.0 72.0) Single w=0.5 auto
+    rule (71.5 89.0)-(228.0 89.0) Single w=0.5 auto
+    rule (71.8 72.0)-(71.8 89.0) Single w=0.5 auto
+    rule (227.8 72.0)-(227.8 89.0) Single w=0.5 auto
+    cell [71.8 72.0 156.0x17.0] table=[6] r0 c2 body
+    lines body [6,1,0,0] l0..1 x=389.2 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Jumps letter measure."
+    rule (383.5 89.0)-(540.0 89.0) Single w=0.5 auto
+    rule (383.5 106.4)-(540.0 106.4) Single w=0.5 auto
+    rule (383.8 89.0)-(383.8 106.4) Single w=0.5 auto
+    rule (539.8 89.0)-(539.8 106.4) Single w=0.5 auto
+    cell [383.8 89.0 156.0x17.5] table=[6] r1 c0 body
+    lines body [6,1,1,0] l0..1 x=233.2 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Brown through through."
+    rule (227.5 89.0)-(384.0 89.0) Single w=0.5 auto
+    rule (227.5 106.4)-(384.0 106.4) Single w=0.5 auto
+    rule (227.8 89.0)-(227.8 106.4) Single w=0.5 auto
+    rule (383.8 89.0)-(383.8 106.4) Single w=0.5 auto
+    cell [227.8 89.0 156.0x17.5] table=[6] r1 c1 body
+    lines body [6,1,2,0] l0..1 x=77.2 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Evening stone without."
+    rule (71.5 89.0)-(228.0 89.0) Single w=0.5 auto
+    rule (71.5 106.4)-(228.0 106.4) Single w=0.5 auto
+    rule (71.8 89.0)-(71.8 106.4) Single w=0.5 auto
+    rule (227.8 89.0)-(227.8 106.4) Single w=0.5 auto
+    cell [71.8 89.0 156.0x17.5] table=[6] r1 c2 body
+    lines body [7] l0..1 x=72.0 y=114.4
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "A right-to-left section"
+    lines body [8] l0..5 x=72.0 y=142.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Journey winter quick summer between garden jumps evening fox dog stone stone "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "between pattern silver summer fox orchard summer window jumps measure lazy "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "chapter meadow measure letter dog plays plays harbour letter through people winter "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "journey winter plays brown pattern river meadow number brown village plays brown "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "while summer because."
+    lines body [9] l0..1 x=72.0 y=245.4 label="1." lx=440.4 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=450.0 end=Para rtl "פריט ראשון"
+    lines body [10] l0..1 x=72.0 y=264.3 label="2." lx=440.4 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=450.0 end=Para rtl "פריט שני"
+  rows [6]: 0:72.0+17.0 1:89.0+17.5

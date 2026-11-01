@@ -1,0 +1,79 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (61 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="Table1" style:family="table">
+<style:table-properties style:width="300pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table1.C1" style:family="table-column">
+<style:table-column-properties style:column-width="100pt"/>
+</style:style>
+<style:style style:name="Table1.C2" style:family="table-column">
+<style:table-column-properties style:column-width="100pt"/>
+</style:style>
+<style:style style:name="Table1.C3" style:family="table-column">
+<style:table-column-properties style:column-width="100pt"/>
+</style:style>
+<style:style style:name="Cell1" style:family="table-cell">
+<style:table-cell-properties fo:padding="4pt" fo:border="0.5pt solid #000000"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Standard">
+<draw:frame draw:name="Text Box 1" text:anchor-type="as-char" svg:width="36pt" svg:height="140pt" draw:z-index="0">
+<draw:text-box>
+<text:p text:style-name="Standard">A box with text turned 270°</text:p>
+</draw:text-box>
+</draw:frame>Vertical sections lay their lines out down the page, one after another from right to left. Vertical sections lay their lines out down the page, one after another from right to left. Vertical sections lay their lines out down the page, one after another from right to left. </text:p>
+<text:p text:style-name="Standard">日本語のテキストと英語 mixed text.</text:p>
+<table:table table:name="Table1" table:style-name="Table1">
+<table:table-column table:style-name="Table1.C1"/>
+<table:table-column table:style-name="Table1.C2"/>
+<table:table-column table:style-name="Table1.C3"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Turned down</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Number plays plays.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Without band stone.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Fox summer harbour.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Because jumps pattern.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Turned up, two words more</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">After the table in the vertical section.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: vertical</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

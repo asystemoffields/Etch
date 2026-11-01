@@ -1,0 +1,85 @@
+== html (3754 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_autofit</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>AutoFit to contents: the columns take what their text needs.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Item</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Description</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Qty</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Press</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox quick meadow morning garden lazy garden people silver without orchard morning harbour quick question question orchard without while band summer evening between question.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">1</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Kiln</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Averyveryverylongunbreakablewordthatwidensitscolumn</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">12</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Loom</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+<p>Two paragraphs</p>
+<p>Stone another garden meadow garden measure lantern chapter orchard evening.</p>
+</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">3</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">An empty first cell on this row</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">0</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Light table</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Short</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">100</td>
+</tr>
+</table>
+<p>A table 60% of the text width, centred:</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">While meadow over.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Through garden orchard.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Measure window evening.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard stone dog.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter dog because.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey chapter history.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays morning silver.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern market lantern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question brown letter.</td>
+</tr>
+</table>
+<p>After the tables.</p>
+</body>
+</html>

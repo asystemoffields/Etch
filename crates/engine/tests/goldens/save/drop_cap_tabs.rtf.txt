@@ -1,0 +1,21 @@
+== rtf (4239 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;\red31\green78\blue121;\red192\green0\blue0;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: drop_cap_tabs}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Drop Caps, Tabs, Borders and Line Numbers\par
+\pard\plain\ql Lantern through garden through between lantern question people window orchard chapter river without because through while measure history number summer fox the fox garden fox window lazy band because meadow winter summer journey measure orchard lantern lazy meadow pattern summer silver people the another evening number harbour stone meadow village dog jumps without another brown because quick quick while another lazy village people letter number brown dog history quick dog.\par
+\pard\plain\ql Left\tab Centre\tab Right\tab 12.5\tab done\par
+\pard\plain\ql Item\tab 1.25\line Second item\tab 12.5\line Third\tab 100.125\par
+\pard\plain\ql\li360\ri360\brdrt\brdrs\brdrw20\brdrcf1\brdrl\brdrs\brdrw20\brdrcf1\brdrb\brdrs\brdrw20\brdrcf1\brdrr\brdrs\brdrw20\brdrcf1 Window brown dog lazy history dog number plays summer through letter quick history village jumps without letter winter window harbour stone market evening jumps garden winter pattern orchard through lantern another while silver because window over jumps summer winter jumps.\par
+\pard\plain\ql\brdrt\brdrth\brdrw40\brdrb\brdrwavy\brdrw20\brdrcf2 People band window silver while plays letter orchard chapter meadow evening because window letter band stone another winter village letter without another quick history brown market market number number winter.\par
+\pard\plain\ql The measure pattern dog river fox over lantern meadow pattern orchard lazy another pattern evening silver over chapter morning window over without between between stone lantern another through the harbour jumps another history measure morning evening harbour jumps silver evening measure orchard stone because window window through silver evening journey chapter brown morning market market history lazy river morning chapter.\par
+\pard\plain\ql Number village orchard stone window village band history dog while harbour lazy question meadow summer through winter evening garden summer meadow plays village evening chapter between evening silver meadow winter while market the measure market lantern journey brown meadow over brown the people band stone river brown question village letter while river river village jumps market orchard jumps letter history.\par
+\pard\plain\ql Orchard meadow winter plays jumps evening through morning through through question because history dog meadow band stone while fox history people orchard silver garden village orchard chapter journey without river plays question without band orchard brown morning brown history number question brown chapter stone evening through harbour meadow winter stone evening brown lantern winter quick journey people village without orchard.\par
+\pard\plain\ql This paragraph suppresses its line numbers.\par
+\pard\plain\ql While pattern without meadow dog measure journey pattern jumps silver while fox without summer plays band between window market the measure the measure without over river dog over brown silver silver river silver letter without history winter summer market history chapter window morning window over band summer pattern history journey number people quick people without summer without winter village river.\par
+}

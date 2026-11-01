@@ -1,0 +1,180 @@
+# layout snapshot: sections (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 7  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (7):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Section one: Letter, portrait"
+    lines body [1] l0..5 x=72.0 y=124.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Another the silver river between winter pattern through fox summer dog garden the "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "without without orchard because because dog garden stone history meadow river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "harbour garden jumps journey plays the plays people meadow river over stone summer "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "summer number another over jumps quick fox pattern number the over stone evening "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "plays village the harbour because."
+    lines body [2] l0..5 x=72.0 y=227.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Meadow lantern market chapter morning fox winter chapter band winter lantern "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "winter number village window plays silver market meadow because plays lantern "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "harbour letter through journey another people without evening lazy band without "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "summer brown chapter morning jumps jumps number without village over window "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "jumps pattern journey journey number jumps stone dog garden between measure."
+    lines body [3] l0..5 x=72.0 y=329.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Jumps morning measure harbour people history river number winter meadow summer "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "garden pattern without number village lantern river people lazy lantern while letter "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "history lazy without another fox journey orchard chapter journey lazy another summer "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "through people winter letter people over stone market morning measure fox letter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "winter over band evening winter question market window."
+    lines body [4] l0..5 x=72.0 y=432.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Through stone chapter morning letter the winter garden window lazy lazy silver fox "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "journey while jumps river number lantern between another harbour while silver river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "evening while dog because window orchard through meadow lantern fox number "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "between window letter pattern the winter harbour question summer fox because silver "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "fox stone orchard lazy village summer history."
+    lines body [5] l0..5 x=72.0 y=534.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Fox harbour brown village while jumps number summer brown journey because quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "window stone history question lazy fox meadow letter measure harbour pattern river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "morning question chapter band fox village dog number without quick pattern market "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "morning stone pattern history lantern plays silver people fox stone silver plays brown "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "harbour letter summer morning question river."
+    lines body [6] l0..3 x=72.0 y=637.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Because people harbour evening garden harbour dog window letter lantern while quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "lantern people harbour village without letter lazy history winter fox market measure "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "dog through harbour village meadow jumps market another river question silver "
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=6 markup=0.0 header=- footer=-
+  items (1):
+    lines body [6] l3..5 x=72.0 y=72.0
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "lantern journey harbour fox without letter window window question quick market "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "chapter because between pattern the pattern the summer band."
+page 3: 841.9x595.3 number=1 section=1 body=[90.0 54.0 661.9x487.3] slot=Default first_block=7 markup=0.0 header=- footer=-
+  items (7):
+    lines body [7] l0..1 x=90.0 y=64.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=661.9 end=Para "Section two: A4 landscape, wide margins"
+    lines body [8] l0..4 x=90.0 y=98.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=661.9 end=Wrap "Band evening lazy between history over fox winter stone measure people harbour while lantern while band lantern without "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=661.9 end=Wrap "between brown brown fox orchard chapter market brown pattern the window band without lazy band river market another "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=661.9 end=Wrap "brown fox people pattern history the pattern number between brown jumps letter meadow measure lazy while harbour "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=661.9 end=Para "summer window."
+    lines body [9] l0..4 x=90.0 y=182.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=661.9 end=Wrap "Another journey window market history journey lantern river the summer silver dog band orchard through village people "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=661.9 end=Wrap "another meadow history chapter quick between meadow between dog people number stone summer journey fox through "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=661.9 end=Wrap "letter winter river orchard journey measure silver measure because evening winter winter orchard history while chapter "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=661.9 end=Para "over village band people through orchard."
+    lines body [10] l0..4 x=90.0 y=265.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=661.9 end=Wrap "Garden summer pattern between meadow people village quick market history chapter history summer village brown "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=661.9 end=Wrap "measure question lantern measure because question jumps lantern over orchard people journey harbour stone silver over "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=661.9 end=Wrap "the the over dog stone lantern number the pattern because stone people the chapter fox lazy history through because "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=661.9 end=Para "journey because number plays between."
+    lines body [11] l0..4 x=90.0 y=349.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=661.9 end=Wrap "Silver between meadow silver summer over evening winter lantern people orchard fox window letter window lazy summer "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=661.9 end=Wrap "market while history brown because another stone plays letter because between question through between plays quick "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=661.9 end=Wrap "market morning because harbour winter without plays the journey fox pattern stone winter plays harbour orchard band the "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=661.9 end=Para "without history plays garden."
+    lines body [12] l0..4 x=90.0 y=433.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=661.9 end=Wrap "While morning between measure village plays pattern winter quick summer garden because over lantern silver fox evening "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=661.9 end=Wrap "without band through measure fox stone harbour fox chapter garden harbour chapter stone brown another people people "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=661.9 end=Wrap "summer dog market river history harbour history garden river jumps question fox jumps chapter number another evening "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=661.9 end=Para "letter the between question."
+    lines body [13] l0..1 x=318.0 y=516.9
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=222.0 end=Wrap "Section three: continuous, "
+page 4: 612.0x792.0 number=2 section=2 body=[72.0 72.0 468.0x648.0] slot=Default first_block=13 markup=0.0 header=- footer=-
+  items (10):
+    lines body [13] l1..2 x=72.0 y=72.0
+      1: top=30.5 h=30.5 base=50.5 left=0.0 right=222.0 end=Para "two columns"
+    lines body [14] l0..8 x=72.0 y=106.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Window without the morning while "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "silver journey people silver plays dog "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "village brown lantern dog people because "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "silver village winter meadow because "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "because morning market through dog "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "plays evening lantern dog people while "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "through people measure stone journey "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "orchard number."
+    lines body [15] l0..8 x=72.0 y=265.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Meadow without dog chapter lantern "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "quick silver summer summer fox winter "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "river silver chapter orchard orchard "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "summer morning meadow number "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "through window evening window plays "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "history number dog question between "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "another harbour measure jumps brown "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "journey summer meadow meadow silver."
+    lines body [16] l0..8 x=72.0 y=425.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Garden summer river through evening "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "silver winter because morning silver "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "another market brown journey silver "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "number harbour question while fox river "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "history quick without meadow orchard "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "chapter journey jumps garden through "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "window plays river brown harbour "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "history stone lazy brown."
+    lines body [17] l0..6 x=72.0 y=584.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Window question quick winter fox quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "window village history journey history "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "quick harbour meadow question evening "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "jumps winter number without through "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "people jumps dog window meadow stone "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "over without letter fox history people "
+    lines body [17] l6..8 x=318.0 y=72.0
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "village question evening brown while fox "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "chapter."
+    lines body [18] l0..8 x=318.0 y=117.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "While people winter window measure "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "band meadow because between journey "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "while measure summer through market "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "journey quick market jumps garden "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "journey another while the plays fox "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "meadow brown orchard number band "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "history number harbour village stone "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "without measure harbour village."
+    lines body [19] l0..8 x=318.0 y=277.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Winter river while village jumps lantern "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "fox number fox harbour over band "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "summer window question question silver "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "evening market orchard plays measure "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "winter village window between morning "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "lantern the chapter while summer "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "history people while silver the dog "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "through village."
+    lines body [20] l0..7 x=318.0 y=436.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Fox history village question dog brown "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "fox river letter without harbour river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "jumps letter orchard while through "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "through people because over chapter lazy "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "dog river letter fox summer evening "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "evening dog journey silver plays village "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Para "through question over letter people."
+    lines body [21] l0..6 x=318.0 y=577.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=222.0 end=Wrap "Summer number pattern orchard silver "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=222.0 end=Wrap "fox river lantern another over brown "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=222.0 end=Wrap "pattern village between letter dog "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=222.0 end=Wrap "harbour question stone number journey "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=222.0 end=Wrap "lazy because while winter meadow over "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=222.0 end=Wrap "harbour quick letter through brown "
+page 5: 612.0x792.0 number=3 section=2 body=[72.0 72.0 468.0x648.0] slot=Default first_block=21 markup=0.0 header=- footer=-
+  items (1):
+    lines body [21] l6..8 x=72.0 y=72.0
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=222.0 end=Wrap "summer meadow the because while "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=222.0 end=Para "jumps summer over."
+page 6: 612.0x792.0 number=4 section=2 body=[72.0 72.0 468.0x648.0] slot=Default first_block=22 markup=0.0 header=- footer=-
+  items (0):
+page 7: 612.0x792.0 number=5 section=3 body=[72.0 72.0 468.0x648.0] slot=Default first_block=22 markup=0.0 header=- footer=-
+  items (4):
+    lines body [22] l0..1 x=72.0 y=82.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Section four: odd page, Letter again"
+    lines body [23] l0..5 x=72.0 y=116.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Silver without summer window evening history through through letter lazy history "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "jumps band letter window through evening morning meadow number river silver river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "orchard letter morning winter garden lantern brown window question measure garden "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "another jumps market meadow stone stone orchard another another the because "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "through lazy number orchard lazy quick lantern winter pattern fox."
+    lines body [24] l0..5 x=72.0 y=219.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "The measure lazy lazy over jumps quick lazy between dog journey garden while quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "history through journey garden market measure letter question over between jumps "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "because between lazy the question fox through over chapter river jumps stone while "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "orchard dog orchard history chapter garden over because pattern evening market "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "another another orchard lantern harbour lazy."
+    lines body [25] l0..5 x=72.0 y=321.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Between morning fox number over chapter number village dog meadow band plays "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "lantern because number jumps fox history morning through history river silver "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "through between while harbour the jumps plays fox harbour market another river "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "quick history meadow chapter jumps evening lazy harbour band winter quick while "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "garden silver without plays meadow evening brown lantern."

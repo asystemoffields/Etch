@@ -1,0 +1,501 @@
+# 9 parts
+== [Content_Types].xml: same as the blank document's (11 lines, sha256=d35bc25f7c299d03)
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>404</Words>
+<Paragraphs>26</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: styles_text</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://example.org/snapshot" TargetMode="External"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/document.xml (466 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Styles and Inline Formatting</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Subtitle"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Every built-in paragraph style and most run properties</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading One</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Plain text, then </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+</w:rPr>
+<w:t xml:space="preserve">bold</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t xml:space="preserve">italic</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:u w:val="single"/>
+</w:rPr>
+<w:t xml:space="preserve">underlined</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:u w:val="double"/>
+</w:rPr>
+<w:t xml:space="preserve">double underlined</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:strike/>
+</w:rPr>
+<w:t xml:space="preserve">struck</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:dstrike/>
+</w:rPr>
+<w:t xml:space="preserve">double struck</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, x</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> and H</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:vertAlign w:val="subscript"/>
+</w:rPr>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">O, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:color w:val="C00000"/>
+</w:rPr>
+<w:t xml:space="preserve">coloured</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:highlight w:val="yellow"/>
+</w:rPr>
+<w:t xml:space="preserve">highlighted</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:shd w:val="clear" w:color="auto" w:fill="DDEEFF"/>
+</w:rPr>
+<w:t xml:space="preserve">shaded</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:smallCaps/>
+</w:rPr>
+<w:t xml:space="preserve">Small Caps</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:caps/>
+</w:rPr>
+<w:t xml:space="preserve">all caps</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:spacing w:val="40"/>
+</w:rPr>
+<w:t xml:space="preserve">spaced</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:w w:val="150"/>
+</w:rPr>
+<w:t xml:space="preserve">wide</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:position w:val="6"/>
+</w:rPr>
+<w:t xml:space="preserve">raised</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="JetBrains Mono" w:hAnsi="JetBrains Mono"/>
+</w:rPr>
+<w:t xml:space="preserve">monospace</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+</w:rPr>
+<w:t xml:space="preserve">sans</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> and </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:sz w:val="36"/>
+</w:rPr>
+<w:t xml:space="preserve">large</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> and </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:sz w:val="14"/>
+</w:rPr>
+<w:t xml:space="preserve">tiny</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> text, with a </w:t>
+</w:r>
+<w:hyperlink r:id="rId1" w:history="1">
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+</w:rPr>
+<w:t xml:space="preserve">link</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading Two</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Character styles: </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="SubtleEmphasis"/>
+</w:rPr>
+<w:t xml:space="preserve">subtle emphasis</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Emphasis"/>
+</w:rPr>
+<w:t xml:space="preserve">emphasis</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="IntenseEmphasis"/>
+</w:rPr>
+<w:t xml:space="preserve">intense emphasis</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Strong"/>
+</w:rPr>
+<w:t xml:space="preserve">strong</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="SubtleReference"/>
+</w:rPr>
+<w:t xml:space="preserve">subtle reference</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="IntenseReference"/>
+</w:rPr>
+<w:t xml:space="preserve">intense reference</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> and </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="BookTitle"/>
+</w:rPr>
+<w:t xml:space="preserve">a book title</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading Three</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Quote"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">A quotation set in the Quote style, centred and italic.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="IntenseQuote"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">An intense quotation with rules above and below.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="NoSpacing"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">No Spacing line one.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="NoSpacing"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">No Spacing line two.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading4"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading Four</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:jc w:val="both"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Letter winter question another stone lantern orchard jumps number chapter without chapter because village journey people village the morning pattern through market summer lazy number orchard river while chapter winter people market chapter chapter silver number brown quick brown measure people dog brown because letter while stone between summer through harbour jumps window jumps over while pattern another over winter.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:jc w:val="right"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Right aligned line.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Centred line.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:jc w:val="distribute"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Distributed alignment spreads the letters of a short line.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:ind w:left="720" w:right="720" w:firstLine="360"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Over band market band harbour over chapter window stone lazy through window quick dog market pattern chapter without morning meadow summer the brown evening window through quick another without pattern harbour window through number fox letter journey history history people summer market quick fox orchard winter fox measure band over.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:ind w:left="720" w:hanging="720"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Window because number meadow stone summer journey because history evening between brown village while plays while letter meadow river market harbour chapter fox while stone the band river measure the because lazy harbour dog another without the chapter garden orchard through question the harbour lazy market orchard village stone between.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:before="240" w:after="240" w:line="400" w:lineRule="exact"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Without evening letter market meadow jumps chapter village chapter stone journey because fox summer people winter harbour winter between question question lantern fox lazy without measure market without evening jumps measure the question people garden the silver over dog fox.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:line="360" w:lineRule="atLeast"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Lazy without people window quick between chapter people chapter over dog lantern people while stone journey village pattern silver jumps jumps orchard summer stone summer chapter lazy measure over dog harbour river village meadow measure pattern history jumps through quick.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:line="480" w:lineRule="auto"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Chapter morning brown lantern band garden pattern silver orchard winter history journey winter letter harbour band summer history morning over village band history evening letter journey silver another another summer fox fox without garden pattern jumps market dog without market.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:after="480"/>
+<w:contextualSpacing/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Contextual spacing paragraph 1.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:spacing w:after="480"/>
+<w:contextualSpacing/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Contextual spacing paragraph 2.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading5"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading Five</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading6"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Heading Six</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The end.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

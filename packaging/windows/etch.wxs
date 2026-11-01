@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Etch MSI (WiX Toolset v5: `dotnet tool install -g wix`, plus its UI and Util extensions:
+  `wix extension add -g WixToolset.UI.wixext/5.0.2` and the same for WixToolset.Util.wixext).
+  Built by package.ps1:
+
+    wix build etch.wxs -arch x64 -ext WixToolset.UI.wixext -ext WixToolset.Util.wixext
+      -d Version=1.2.3 -d BinDir=... -d IconPath=... -d LicenseRtf=... -o out.msi
+
+  Per-machine install into Program Files with a Start Menu shortcut. The installer shows the
+  standard WiX dialogs: welcome + license, progress, and a finish page.
+
+  UpgradeCode and the component GUIDs below belong to Etch alone. They were generated new when
+  Etch forked from WordCraft: Etch is a separate product, so it must never reuse upstream
+  WordCraft's codes. Never copy them from (or into) another app (WordCraft or a sibling Craft
+  app): Windows Installer treats every package sharing an UpgradeCode as one product, so a
+  shared code makes one app's installer refuse to install ("a newer version is already
+  installed") or silently uninstall the other. packaging-lint.yml checks for duplicates.
+-->
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:ui="http://wixtoolset.org/schemas/v4/wxs/ui">
+  <Package
+      Name="Etch"
+      Manufacturer="asystemoffields"
+      Version="$(var.Version)"
+      UpgradeCode="6836FB65-DBB8-405A-8B53-81A48DF46D6F"
+      Scope="perMachine"
+      Compressed="yes"
+      Language="1033">
+    <SummaryInformation Description="Etch word processor" Manufacturer="asystemoffields" />
+    <!-- Same-version upgrades let successive pre-releases of one X.Y.Z replace each other
+         (MSI versions are numeric, so 1.2.3-rc.1 and 1.2.3-rc.2 are both 1.2.3). -->
+    <MajorUpgrade AllowSameVersionUpgrades="yes"
+        DowngradeErrorMessage="A newer version of Etch is already installed." />
+    <MediaTemplate EmbedCab="yes" CompressionLevel="high" />
+
+    <Icon Id="EtchIcon.ico" SourceFile="$(var.IconPath)" />
+    <Property Id="ARPPRODUCTICON" Value="EtchIcon.ico" />
+    <Property Id="ARPURLINFOABOUT" Value="https://github.com/asystemoffields/Etch" />
+    <Property Id="ARPURLUPDATEINFO" Value="https://github.com/asystemoffields/Etch" />
+    <Property Id="ARPHELPLINK" Value="https://github.com/asystemoffields/Etch/issues" />
+
+    <!-- Installer UI (#198): WixUI_Minimal is welcome + license, progress, then a finish page so
+         people can see the install worked. Its dialogs and bitmaps are WiX's own
+         (WixToolset.UI.wixext); package.ps1 builds the license RTF from LICENSE-MIT and
+         LICENSE-APACHE. The finish page offers to launch Etch (ticked by default) through
+         WixShellExec (WixToolset.Util.wixext); silent installs (/qn) never show it. -->
+    <WixVariable Id="WixUILicenseRtf" Value="$(var.LicenseRtf)" />
+    <Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch Etch" />
+    <Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOX" Value="1" />
+    <Property Id="WixShellExecTarget" Value="[#EtchExe]" />
+    <CustomAction Id="LaunchEtch" BinaryRef="Wix4UtilCA_$(sys.BUILDARCHSHORT)" DllEntry="WixShellExec"
+        Impersonate="yes" Return="ignore" />
+    <UI>
+      <ui:WixUI Id="WixUI_Minimal" />
+      <Publish Dialog="ExitDialog" Control="Finish" Event="DoAction" Value="LaunchEtch"
+          Condition="WIXUI_EXITDIALOGOPTIONALCHECKBOX = 1 AND NOT Installed" />
+    </UI>
+
+    <StandardDirectory Id="ProgramFiles6432Folder">
+      <Directory Id="INSTALLFOLDER" Name="Etch" />
+    </StandardDirectory>
+    <StandardDirectory Id="ProgramMenuFolder" />
+
+    <Feature Id="Main" Title="Etch" Level="1">
+      <ComponentGroupRef Id="EtchFiles" />
+    </Feature>
+  </Package>
+
+  <Fragment>
+    <ComponentGroup Id="EtchFiles" Directory="INSTALLFOLDER">
+      <Component Id="EtchApp" Guid="A7D01C5B-CCEE-4E29-B08C-013109E02187">
+        <File Id="EtchExe" Source="$(var.BinDir)\etch.exe" KeyPath="yes">
+          <Shortcut Id="StartMenuShortcut" Directory="ProgramMenuFolder" Name="Etch"
+              Description="Etch word processor" WorkingDirectory="INSTALLFOLDER" Advertise="yes"
+              Icon="EtchIcon.ico" IconIndex="0" />
+        </File>
+
+        <RegistryValue Root="HKLM" Key="Software\Microsoft\Windows\CurrentVersion\App Paths\etch.exe" Value="[#EtchExe]" Type="string" />
+      </Component>
+
+      <!-- File associations (#295). Each document type gets an Etch ProgId (name, icon, open
+           command) and is listed under the extension's OpenWithProgids, so Etch shows in
+           Explorer's "Open with". The Word, RTF and ODT types are also Etch's Capabilities
+           (RegisteredApplications), so it appears in Settings › Default apps, where the user
+           makes it the default (File › Options › General opens that page). Nothing here sets an
+           extension's default: the installer never takes over .docx from another app. Markdown and
+           plain text are only "Open with" candidates. Removed again on uninstall. -->
+      <Component Id="EtchFileTypes" Guid="BF1CE594-0F9B-45CC-8BB6-E310EF83F72F">
+        <RegistryValue Root="HKLM" Key="Software\RegisteredApplications" Name="Etch" Value="Software\Etch\Capabilities" Type="string" KeyPath="yes" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities" Name="ApplicationName" Value="Etch" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities" Name="ApplicationDescription" Value="Write and design documents; open and save Word files." Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities" Name="ApplicationIcon" Value="&quot;[#EtchExe]&quot;,0" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe" Name="FriendlyAppName" Value="Etch" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+
+        <ProgId Id="Etch.Document" Description="Word Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.Document\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.docx\OpenWithProgids" Name="Etch.Document" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".docx" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".docx" Value="Etch.Document" Type="string" />
+
+        <ProgId Id="Etch.DocumentMacroEnabled" Description="Word Macro-Enabled Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.DocumentMacroEnabled\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.docm\OpenWithProgids" Name="Etch.DocumentMacroEnabled" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".docm" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".docm" Value="Etch.DocumentMacroEnabled" Type="string" />
+
+        <ProgId Id="Etch.Template" Description="Word Template" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.Template\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.dotx\OpenWithProgids" Name="Etch.Template" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".dotx" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".dotx" Value="Etch.Template" Type="string" />
+
+        <ProgId Id="Etch.TemplateMacroEnabled" Description="Word Macro-Enabled Template" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.TemplateMacroEnabled\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.dotm\OpenWithProgids" Name="Etch.TemplateMacroEnabled" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".dotm" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".dotm" Value="Etch.TemplateMacroEnabled" Type="string" />
+
+        <ProgId Id="Etch.LegacyDocument" Description="Legacy Word Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.LegacyDocument\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.doc\OpenWithProgids" Name="Etch.LegacyDocument" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".doc" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".doc" Value="Etch.LegacyDocument" Type="string" />
+
+        <ProgId Id="Etch.LegacyTemplate" Description="Legacy Word Template" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.LegacyTemplate\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.dot\OpenWithProgids" Name="Etch.LegacyTemplate" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".dot" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".dot" Value="Etch.LegacyTemplate" Type="string" />
+
+        <ProgId Id="Etch.RichText" Description="Rich Text Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.RichText\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.rtf\OpenWithProgids" Name="Etch.RichText" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".rtf" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".rtf" Value="Etch.RichText" Type="string" />
+
+        <ProgId Id="Etch.OpenDocumentText" Description="OpenDocument Text" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.OpenDocumentText\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.odt\OpenWithProgids" Name="Etch.OpenDocumentText" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".odt" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Etch\Capabilities\FileAssociations" Name=".odt" Value="Etch.OpenDocumentText" Type="string" />
+
+        <ProgId Id="Etch.Markdown" Description="Markdown Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.Markdown\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.md\OpenWithProgids" Name="Etch.Markdown" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".md" Value="" Type="string" />
+
+        <ProgId Id="Etch.PlainText" Description="Text Document" Icon="EtchExe" IconIndex="0" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Etch.PlainText\shell\open\command" Value="&quot;[#EtchExe]&quot; &quot;%1&quot;" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\.txt\OpenWithProgids" Name="Etch.PlainText" Value="" Type="string" />
+        <RegistryValue Root="HKLM" Key="Software\Classes\Applications\etch.exe\SupportedTypes" Name=".txt" Value="" Type="string" />
+      </Component>
+
+      <Component Id="EtchCli">
+        <File Id="EtchCliExe" Source="$(var.BinDir)\etch-cli.exe" KeyPath="yes" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

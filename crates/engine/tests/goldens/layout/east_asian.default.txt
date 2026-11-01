@@ -1,0 +1,21 @@
+# layout snapshot: east_asian (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (6):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=41.4 base=27.4 left=0.0 right=468.0 end=Para "East Asian Line Breaking"
+    lines body [1] l0..2 x=72.0 y=135.4
+      0: top=0.0 h=20.7 base=14.6 left=0.0 right=468.0 end=Wrap "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だ"
+      1: top=20.7 h=20.7 base=35.3 left=0.0 right=468.0 end=Para "けは記憶している。吾輩はここで始めて人間というものを見た。"
+    lines body [2] l0..2 x=72.0 y=184.8
+      0: top=0.0 h=20.7 base=14.6 left=0.0 right=468.0 end=Wrap "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だ"
+      1: top=20.7 h=20.7 base=35.3 left=0.0 right=468.0 end=Para "けは記憶している。吾輩はここで始めて人間というものを見た。"
+    lines body [3] l0..2 x=72.0 y=234.2
+      0: top=0.0 h=20.7 base=14.6 left=0.0 right=468.0 end=Wrap "北京的秋天是最好的季节，天高云淡，风和日丽。人们走在街上，感受着阳光的温暖。这是一段用于测试中文换行的文字，包含标点符"
+      1: top=20.7 h=20.7 base=35.3 left=0.0 right=468.0 end=Para "号、数字123和English words。"
+    lines body [4] l0..2 x=72.0 y=283.6
+      0: top=0.0 h=20.7 base=14.6 left=0.0 right=468.0 end=Wrap "北京的秋天是最好的季节，天高云淡，风和日丽。人们走在街上，感受着阳光的温暖。这是一段用于测试中文换行的文字，包含标点符"
+      1: top=20.7 h=20.7 base=35.3 left=0.0 right=468.0 end=Para "号、数字123和English words。"
+    lines body [5] l0..1 x=72.0 y=333.0
+      0: top=0.0 h=20.7 base=14.6 left=0.0 right=468.0 end=Para "Latin and 日本語 mixed on one line, with 全角 characters and punctuation、like this。"

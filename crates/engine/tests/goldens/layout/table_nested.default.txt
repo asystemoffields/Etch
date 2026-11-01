@@ -1,0 +1,101 @@
+# layout snapshot: table_nested (default)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (69):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Nested tables."
+    lines body [1,0,0,0] l0..1 x=77.7 y=99.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "Pattern band between."
+    rule (72.0 98.9)-(306.5 98.9) Single w=0.5 auto
+    rule (72.0 201.1)-(306.5 201.1) Single w=0.5 auto
+    rule (72.3 98.9)-(72.3 201.1) Single w=0.5 auto
+    rule (306.3 98.9)-(306.3 201.1) Single w=0.5 auto
+    cell [72.3 98.9 234.0x102.2] table=[1] r0 c0 body
+    lines body [1,0,1,0] l0..1 x=311.7 y=99.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "Outer cell with an inner table:"
+    lines body [1,0,1,1,0,0,0] l0..2 x=317.6 y=116.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Journey band "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "the."
+    rule (311.7 115.9)-(412.7 115.9) Single w=1.0 #1f4e79
+    rule (311.7 149.8)-(412.7 149.8) Single w=1.0 #1f4e79
+    rule (312.2 115.9)-(312.2 149.8) Single w=1.0 #1f4e79
+    rule (412.2 115.9)-(412.2 149.8) Single w=1.0 #1f4e79
+    cell [312.2 115.9 100.0x33.9] table=[1,0,1,1] r0 c0 body
+    lines body [1,0,1,1,0,1,0] l0..2 x=417.6 y=116.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "River garden "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "the."
+    rule (411.7 115.9)-(512.7 115.9) Single w=1.0 #1f4e79
+    rule (411.7 149.8)-(512.7 149.8) Single w=1.0 #1f4e79
+    rule (412.2 115.9)-(412.2 149.8) Single w=1.0 #1f4e79
+    rule (512.2 115.9)-(512.2 149.8) Single w=1.0 #1f4e79
+    cell [412.2 115.9 100.0x33.9] table=[1,0,1,1] r0 c1 body
+    lines body [1,0,1,1,1,0,0] l0..2 x=317.6 y=150.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Summer silver "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "measure."
+    rule (311.7 149.8)-(412.7 149.8) Single w=1.0 #1f4e79
+    rule (311.7 184.7)-(412.7 184.7) Single w=1.0 #1f4e79
+    rule (312.2 149.8)-(312.2 184.7) Single w=1.0 #1f4e79
+    rule (412.2 149.8)-(412.2 184.7) Single w=1.0 #1f4e79
+    cell [312.2 149.8 100.0x34.9] table=[1,0,1,1] r1 c0 body
+    lines body [1,0,1,1,1,1,0] l0..2 x=417.6 y=150.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "River history "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "lantern."
+    rule (411.7 149.8)-(512.7 149.8) Single w=1.0 #1f4e79
+    rule (411.7 184.7)-(512.7 184.7) Single w=1.0 #1f4e79
+    rule (412.2 149.8)-(412.2 184.7) Single w=1.0 #1f4e79
+    rule (512.2 149.8)-(512.2 184.7) Single w=1.0 #1f4e79
+    cell [412.2 149.8 100.0x34.9] table=[1,0,1,1] r1 c1 body
+    lines body [1,0,1,2] l0..1 x=311.7 y=184.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "after the inner table"
+    rule (306.0 98.9)-(540.5 98.9) Single w=0.5 auto
+    rule (306.0 201.1)-(540.5 201.1) Single w=0.5 auto
+    rule (306.3 98.9)-(306.3 201.1) Single w=0.5 auto
+    rule (540.3 98.9)-(540.3 201.1) Single w=0.5 auto
+    cell [306.3 98.9 234.0x102.2] table=[1] r0 c1 body
+    lines body [1,1,0,0,0,0,0] l0..3 x=83.3 y=202.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=48.0 end=Wrap "Question "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=48.0 end=Wrap "over "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=48.0 end=Para "without."
+    rule (77.7 201.6)-(137.0 201.6) Single w=0.5 auto
+    rule (77.7 252.0)-(137.0 252.0) Single w=0.5 auto
+    rule (77.9 201.6)-(77.9 252.0) Single w=0.5 auto
+    rule (136.7 201.6)-(136.7 252.0) Single w=0.5 auto
+    cell [77.9 201.6 58.8x50.4] table=[1,1,0,0] r0 c0 body
+    lines body [1,1,0,0,0,1,0] l0..3 x=142.1 y=202.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=46.7 end=Wrap "Silver "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=46.7 end=Wrap "river "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=46.7 end=Para "because."
+    rule (136.5 201.6)-(194.5 201.6) Single w=0.5 auto
+    rule (136.5 252.0)-(194.5 252.0) Single w=0.5 auto
+    rule (136.7 201.6)-(136.7 252.0) Single w=0.5 auto
+    rule (194.2 201.6)-(194.2 252.0) Single w=0.5 auto
+    cell [136.7 201.6 57.5x50.4] table=[1,1,0,0] r0 c1 body
+    lines body [1,1,0,0,0,2,0] l0..3 x=199.6 y=202.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=49.8 end=Wrap "The "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=49.8 end=Wrap "history "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=49.8 end=Para "question."
+    rule (194.0 201.6)-(255.1 201.6) Single w=0.5 auto
+    rule (194.0 252.0)-(255.1 252.0) Single w=0.5 auto
+    rule (194.2 201.6)-(194.2 252.0) Single w=0.5 auto
+    rule (254.8 201.6)-(254.8 252.0) Single w=0.5 auto
+    cell [194.2 201.6 60.6x50.4] table=[1,1,0,0] r0 c2 body
+    lines body [1,1,0,1] l0..1 x=77.7 y=252.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para ""
+    rule (72.0 201.1)-(306.5 201.1) Single w=0.5 auto
+    rule (72.0 268.9)-(306.5 268.9) Single w=0.5 auto
+    rule (72.3 201.1)-(72.3 268.9) Single w=0.5 auto
+    rule (306.3 201.1)-(306.3 268.9) Single w=0.5 auto
+    cell [72.3 201.1 234.0x67.8] table=[1] r1 c0 body
+    lines body [1,1,1,0] l0..1 x=311.7 y=201.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "Village history jumps."
+    rule (306.0 201.1)-(540.5 201.1) Single w=0.5 auto
+    rule (306.0 268.9)-(540.5 268.9) Single w=0.5 auto
+    rule (306.3 201.1)-(306.3 268.9) Single w=0.5 auto
+    rule (540.3 201.1)-(540.3 268.9) Single w=0.5 auto
+    cell [306.3 201.1 234.0x67.8] table=[1] r1 c1 body
+    lines body [2] l0..1 x=72.0 y=268.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "After the tables."
+  rows [1]: 0:98.9+102.2 1:201.1+67.8
+  rows [1,0,1,1]: 0:115.9+33.9 1:149.8+34.9
+  rows [1,1,0,0]: 0:201.6+50.4

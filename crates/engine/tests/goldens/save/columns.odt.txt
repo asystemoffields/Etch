@@ -1,0 +1,131 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (57 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="Sect1" style:family="section">
+<style:section-properties>
+<style:columns fo:column-count="3" fo:column-gap="18pt">
+</style:columns>
+</style:section-properties>
+</style:style>
+<style:style style:name="Sect2" style:family="section">
+<style:section-properties>
+<style:columns fo:column-count="1" fo:column-gap="36pt">
+</style:columns>
+</style:section-properties>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Columns</text:h>
+<text:p text:style-name="Standard">Morning evening morning lazy history band orchard plays while dog journey another band because people village evening without while through brown number village evening evening village through without.</text:p>
+<text:p text:style-name="Standard">Without stone jumps lazy the window harbour without fox orchard jumps silver silver plays between letter river lazy the over stone because harbour silver harbour another band quick.</text:p>
+<text:p text:style-name="Standard">Through orchard window village chapter over meadow river band lantern meadow plays over stone evening lazy the people river jumps people over river pattern without lazy while lantern.</text:p>
+<text:p text:style-name="Standard">Measure market letter summer pattern without between journey evening another without because plays fox the river evening while garden meadow letter meadow dog summer fox another band while.</text:p>
+<text:p text:style-name="Standard">Another winter evening band while history while lazy between summer lantern pattern lazy lantern dog river question river the without the window question village village without window pattern.</text:p>
+<text:p text:style-name="Standard">Another chapter question journey question quick market pattern morning quick another question people quick market harbour history plays through orchard fox without evening plays summer winter over fox.</text:p>
+<text:p text:style-name="Standard">Measure lantern stone window meadow silver between orchard number orchard orchard number between meadow measure people band winter through number stone window without another plays jumps letter number.</text:p>
+<text:p text:style-name="Standard">Winter lazy letter river evening river while lantern measure winter silver measure quick letter because another silver silver band orchard quick pattern between lantern chapter the journey market.</text:p>
+<text:p text:style-name="Standard">Without market summer winter stone river another people harbour dog through market plays harbour the dog market brown pattern river another winter letter evening between summer lazy through.</text:p>
+<text:p text:style-name="Standard">Because meadow evening while history harbour between morning garden the letter over because quick chapter market stone silver over orchard letter another evening journey summer brown question while.</text:p>
+<text:p text:style-name="Standard">Chapter village market window window question orchard history market market through silver band chapter lantern over stone harbour lazy silver another through market the between because window dog.</text:p>
+<text:p text:style-name="Standard">Evening without window the people the without journey plays question quick garden harbour through band window people brown quick village band while pattern winter pattern question plays plays.</text:p>
+<text:p text:style-name="Standard">Plays river jumps window summer village window the summer meadow lantern question history quick window brown through summer over market village meadow market letter pattern evening morning village.</text:p>
+<text:p text:style-name="Standard">Jumps dog number quick band chapter lantern jumps lazy plays band pattern lantern lazy lazy quick lazy market evening evening another letter evening winter measure the because between.</text:p>
+<text:p text:style-name="Standard">Orchard while history through number while history morning question garden.</text:p>
+<text:p text:style-name="Standard">After a column break.</text:p>
+<text:p text:style-name="Standard">Chapter pattern stone jumps silver number summer jumps another question orchard without brown pattern quick quick lazy while garden market over harbour because orchard people market meadow village.</text:p>
+<text:p text:style-name="Standard">Because evening while number band journey chapter brown river pattern market silver quick history quick between silver summer jumps chapter evening band measure orchard silver evening fox because.</text:p>
+<text:p text:style-name="Standard">Pattern dog garden silver over garden winter jumps brown while dog evening pattern chapter fox market through number river pattern brown over through jumps lazy village pattern morning.</text:p>
+<text:p text:style-name="Standard">Measure dog brown number jumps winter lazy stone through meadow dog lazy over band winter stone through lantern lantern another harbour winter question while number measure through lantern.</text:p>
+<text:section text:style-name="Sect1" text:name="Section1">
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Three unequal columns</text:h>
+<text:p text:style-name="Standard">Because without measure morning through through over between jumps stone between lazy journey history garden measure while another meadow people stone brown fox the.</text:p>
+<text:p text:style-name="Standard">River measure evening people between morning the letter letter number pattern question without question evening measure measure without orchard while lazy market village chapter.</text:p>
+<text:p text:style-name="Standard">Summer summer history summer measure stone history brown between another letter the brown pattern river without while pattern without people dog river the without.</text:p>
+<text:p text:style-name="Standard">History market orchard orchard another letter history band journey lantern number plays people dog chapter without garden without brown garden while jumps orchard without.</text:p>
+<text:p text:style-name="Standard">Lazy silver through dog chapter through summer jumps history window because letter window chapter meadow between window lantern dog letter window harbour through through.</text:p>
+<text:p text:style-name="Standard">Quick harbour jumps people between letter meadow market garden another orchard pattern between measure measure lantern evening silver dog meadow because fox lazy letter.</text:p>
+<text:p text:style-name="Standard">Between while measure window chapter market winter evening stone dog plays through silver jumps window dog the through harbour letter letter dog evening people.</text:p>
+<text:p text:style-name="Standard">Between through while journey because over plays lazy morning quick brown while market through lantern orchard evening another winter letter over garden because lazy.</text:p>
+<text:p text:style-name="Standard">Without market the silver river letter measure lantern stone without village market people letter river through winter window chapter letter winter number summer band.</text:p>
+</text:section>
+<text:section text:style-name="Sect2" text:name="Section2">
+<text:p text:style-name="Standard">Back to one column, which balances the columns above.</text:p>
+</text:section>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: columns</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml (56 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-styles xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:styles>
+<style:default-style style:family="paragraph">
+<style:paragraph-properties fo:margin-bottom="8pt"/>
+<style:text-properties fo:font-family="'Source Serif 4'" fo:font-size="12pt"/>
+</style:default-style>
+<style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+<style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+<style:paragraph-properties fo:margin-top="12pt" fo:margin-bottom="4pt" fo:keep-with-next="always"/>
+<style:text-properties fo:color="#0f4761"/>
+</style:style>
+<style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="1" style:class="text">
+<style:text-properties fo:font-size="20pt"/>
+</style:style>
+<style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="2" style:class="text">
+<style:text-properties fo:font-size="16pt"/>
+</style:style>
+<style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="3" style:class="text">
+<style:text-properties fo:font-size="14pt"/>
+</style:style>
+<style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="4" style:class="text">
+<style:text-properties fo:font-size="12pt"/>
+</style:style>
+<style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="5" style:class="text">
+<style:text-properties fo:font-size="12pt"/>
+</style:style>
+<style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="6" style:class="text">
+<style:text-properties fo:font-size="11pt"/>
+</style:style>
+<style:style style:name="Title" style:family="paragraph" style:parent-style-name="Standard" style:class="chapter">
+<style:text-properties fo:font-size="28pt"/>
+</style:style>
+<style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+<style:paragraph-properties fo:margin-left="36pt" fo:margin-right="36pt"/>
+<style:text-properties fo:font-style="italic" fo:color="#404040"/>
+</style:style>
+<style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+<style:paragraph-properties fo:margin-top="0pt" fo:margin-bottom="0pt"/>
+<style:text-properties fo:font-family="'Courier New'" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt"/>
+</style:style>
+</office:styles>
+<office:automatic-styles>
+<style:page-layout style:name="pm1">
+<style:page-layout-properties fo:page-width="612pt" fo:page-height="792pt" fo:margin-top="72pt" fo:margin-bottom="72pt" fo:margin-left="72pt" fo:margin-right="72pt" style:print-orientation="portrait">
+<style:columns fo:column-count="2" fo:column-gap="36pt">
+<style:column-sep style:width="0.5pt" style:style="solid" style:color="#000000"/>
+</style:columns>
+</style:page-layout-properties>
+</style:page-layout>
+</office:automatic-styles>
+<office:master-styles>
+<style:master-page style:name="Standard" style:page-layout-name="pm1">
+</style:master-page>
+</office:master-styles>
+</office:document-styles>

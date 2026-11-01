@@ -1,0 +1,135 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (52 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="P1" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+<style:paragraph-properties style:page-number="1"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Page2">
+<style:paragraph-properties style:page-number="1"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Page3">
+<style:paragraph-properties/>
+</style:style>
+<style:style style:name="Sect1" style:family="section">
+<style:section-properties>
+<style:columns fo:column-count="2" fo:column-gap="24pt">
+</style:columns>
+</style:section-properties>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="P1" text:outline-level="1">Section one: Letter, portrait</text:h>
+<text:p text:style-name="Standard">Another the silver river between winter pattern through fox summer dog garden the without without orchard because because dog garden stone history meadow river harbour garden jumps journey plays the plays people meadow river over stone summer summer number another over jumps quick fox pattern number the over stone evening plays village the harbour because.</text:p>
+<text:p text:style-name="Standard">Meadow lantern market chapter morning fox winter chapter band winter lantern winter number village window plays silver market meadow because plays lantern harbour letter through journey another people without evening lazy band without summer brown chapter morning jumps jumps number without village over window jumps pattern journey journey number jumps stone dog garden between measure.</text:p>
+<text:p text:style-name="Standard">Jumps morning measure harbour people history river number winter meadow summer garden pattern without number village lantern river people lazy lantern while letter history lazy without another fox journey orchard chapter journey lazy another summer through people winter letter people over stone market morning measure fox letter winter over band evening winter question market window.</text:p>
+<text:p text:style-name="Standard">Through stone chapter morning letter the winter garden window lazy lazy silver fox journey while jumps river number lantern between another harbour while silver river evening while dog because window orchard through meadow lantern fox number between window letter pattern the winter harbour question summer fox because silver fox stone orchard lazy village summer history.</text:p>
+<text:p text:style-name="Standard">Fox harbour brown village while jumps number summer brown journey because quick window stone history question lazy fox meadow letter measure harbour pattern river morning question chapter band fox village dog number without quick pattern market morning stone pattern history lantern plays silver people fox stone silver plays brown harbour letter summer morning question river.</text:p>
+<text:p text:style-name="Standard">Because people harbour evening garden harbour dog window letter lantern while quick lantern people harbour village without letter lazy history winter fox market measure dog through harbour village meadow jumps market another river question silver lantern journey harbour fox without letter window window question quick market chapter because between pattern the pattern the summer band.</text:p>
+<text:h text:style-name="P2" text:outline-level="1">Section two: A4 landscape, wide margins</text:h>
+<text:p text:style-name="Standard">Band evening lazy between history over fox winter stone measure people harbour while lantern while band lantern without between brown brown fox orchard chapter market brown pattern the window band without lazy band river market another brown fox people pattern history the pattern number between brown jumps letter meadow measure lazy while harbour summer window.</text:p>
+<text:p text:style-name="Standard">Another journey window market history journey lantern river the summer silver dog band orchard through village people another meadow history chapter quick between meadow between dog people number stone summer journey fox through letter winter river orchard journey measure silver measure because evening winter winter orchard history while chapter over village band people through orchard.</text:p>
+<text:p text:style-name="Standard">Garden summer pattern between meadow people village quick market history chapter history summer village brown measure question lantern measure because question jumps lantern over orchard people journey harbour stone silver over the the over dog stone lantern number the pattern because stone people the chapter fox lazy history through because journey because number plays between.</text:p>
+<text:p text:style-name="Standard">Silver between meadow silver summer over evening winter lantern people orchard fox window letter window lazy summer market while history brown because another stone plays letter because between question through between plays quick market morning because harbour winter without plays the journey fox pattern stone winter plays harbour orchard band the without history plays garden.</text:p>
+<text:p text:style-name="Standard">While morning between measure village plays pattern winter quick summer garden because over lantern silver fox evening without band through measure fox stone harbour fox chapter garden harbour chapter stone brown another people people summer dog market river history harbour history garden river jumps question fox jumps chapter number another evening letter the between question.</text:p>
+<text:section text:style-name="Sect1" text:name="Section1">
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Section three: continuous, two columns</text:h>
+<text:p text:style-name="Standard">Window without the morning while silver journey people silver plays dog village brown lantern dog people because silver village winter meadow because because morning market through dog plays evening lantern dog people while through people measure stone journey orchard number.</text:p>
+<text:p text:style-name="Standard">Meadow without dog chapter lantern quick silver summer summer fox winter river silver chapter orchard orchard summer morning meadow number through window evening window plays history number dog question between another harbour measure jumps brown journey summer meadow meadow silver.</text:p>
+<text:p text:style-name="Standard">Garden summer river through evening silver winter because morning silver another market brown journey silver number harbour question while fox river history quick without meadow orchard chapter journey jumps garden through window plays river brown harbour history stone lazy brown.</text:p>
+<text:p text:style-name="Standard">Window question quick winter fox quick window village history journey history quick harbour meadow question evening jumps winter number without through people jumps dog window meadow stone over without letter fox history people village question evening brown while fox chapter.</text:p>
+<text:p text:style-name="Standard">While people winter window measure band meadow because between journey while measure summer through market journey quick market jumps garden journey another while the plays fox meadow brown orchard number band history number harbour village stone without measure harbour village.</text:p>
+<text:p text:style-name="Standard">Winter river while village jumps lantern fox number fox harbour over band summer window question question silver evening market orchard plays measure winter village window between morning lantern the chapter while summer history people while silver the dog through village.</text:p>
+<text:p text:style-name="Standard">Fox history village question dog brown fox river letter without harbour river jumps letter orchard while through through people because over chapter lazy dog river letter fox summer evening evening dog journey silver plays village through question over letter people.</text:p>
+<text:p text:style-name="Standard">Summer number pattern orchard silver fox river lantern another over brown pattern village between letter dog harbour question stone number journey lazy because while winter meadow over harbour quick letter through brown summer meadow the because while jumps summer over.</text:p>
+</text:section>
+<text:h text:style-name="P3" text:outline-level="1">Section four: odd page, Letter again</text:h>
+<text:p text:style-name="Standard">Silver without summer window evening history through through letter lazy history jumps band letter window through evening morning meadow number river silver river orchard letter morning winter garden lantern brown window question measure garden another jumps market meadow stone stone orchard another another the because through lazy number orchard lazy quick lantern winter pattern fox.</text:p>
+<text:p text:style-name="Standard">The measure lazy lazy over jumps quick lazy between dog journey garden while quick history through journey garden market measure letter question over between jumps because between lazy the question fox through over chapter river jumps stone while orchard dog orchard history chapter garden over because pattern evening market another another orchard lantern harbour lazy.</text:p>
+<text:p text:style-name="Standard">Between morning fox number over chapter number village dog meadow band plays lantern because number jumps fox history morning through history river silver through between while harbour the jumps plays fox harbour market another river quick history meadow chapter jumps evening lazy harbour band winter quick while garden silver without plays meadow evening brown lantern.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: sections</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml (65 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-styles xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:styles>
+<style:default-style style:family="paragraph">
+<style:paragraph-properties fo:margin-bottom="8pt"/>
+<style:text-properties fo:font-family="'Source Serif 4'" fo:font-size="12pt"/>
+</style:default-style>
+<style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+<style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+<style:paragraph-properties fo:margin-top="12pt" fo:margin-bottom="4pt" fo:keep-with-next="always"/>
+<style:text-properties fo:color="#0f4761"/>
+</style:style>
+<style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="1" style:class="text">
+<style:text-properties fo:font-size="20pt"/>
+</style:style>
+<style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="2" style:class="text">
+<style:text-properties fo:font-size="16pt"/>
+</style:style>
+<style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="3" style:class="text">
+<style:text-properties fo:font-size="14pt"/>
+</style:style>
+<style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="4" style:class="text">
+<style:text-properties fo:font-size="12pt"/>
+</style:style>
+<style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="5" style:class="text">
+<style:text-properties fo:font-size="12pt"/>
+</style:style>
+<style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Standard" style:default-outline-level="6" style:class="text">
+<style:text-properties fo:font-size="11pt"/>
+</style:style>
+<style:style style:name="Title" style:family="paragraph" style:parent-style-name="Standard" style:class="chapter">
+<style:text-properties fo:font-size="28pt"/>
+</style:style>
+<style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+<style:paragraph-properties fo:margin-left="36pt" fo:margin-right="36pt"/>
+<style:text-properties fo:font-style="italic" fo:color="#404040"/>
+</style:style>
+<style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+<style:paragraph-properties fo:margin-top="0pt" fo:margin-bottom="0pt"/>
+<style:text-properties fo:font-family="'Courier New'" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt"/>
+</style:style>
+</office:styles>
+<office:automatic-styles>
+<style:page-layout style:name="pm1">
+<style:page-layout-properties fo:page-width="612pt" fo:page-height="792pt" fo:margin-top="72pt" fo:margin-bottom="72pt" fo:margin-left="72pt" fo:margin-right="72pt" style:print-orientation="portrait">
+</style:page-layout-properties>
+</style:page-layout>
+<style:page-layout style:name="pm2">
+<style:page-layout-properties fo:page-width="841.9pt" fo:page-height="595.3pt" fo:margin-top="54pt" fo:margin-bottom="54pt" fo:margin-left="90pt" fo:margin-right="90pt" style:print-orientation="landscape">
+</style:page-layout-properties>
+</style:page-layout>
+<style:page-layout style:name="pm3">
+<style:page-layout-properties fo:page-width="612pt" fo:page-height="792pt" fo:margin-top="72pt" fo:margin-bottom="72pt" fo:margin-left="72pt" fo:margin-right="72pt" style:print-orientation="portrait">
+</style:page-layout-properties>
+</style:page-layout>
+</office:automatic-styles>
+<office:master-styles>
+<style:master-page style:name="Standard" style:page-layout-name="pm1">
+</style:master-page>
+<style:master-page style:name="Page2" style:page-layout-name="pm2">
+</style:master-page>
+<style:master-page style:name="Page3" style:page-layout-name="pm3">
+</style:master-page>
+</office:master-styles>
+</office:document-styles>

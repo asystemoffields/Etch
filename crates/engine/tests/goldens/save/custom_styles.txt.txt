@@ -1,0 +1,11 @@
+== txt (802 bytes)
+1.	Numbered heading
+Dog between window the silver chapter lantern jumps lantern over summer brown quick another fox lantern brown history pattern silver band through fox silver village measure evening band letter the the harbour another morning another morning window question journey history.
+Body Note style paragraph with a smaller italic face.
+Inline code: let x = 42; in a sentence.
+	a.	Second-level numbered heading
+Boxed, based on Body Note: bold, not italic.
+		i.	Third level
+	a.	Another second level
+1.	Another first level
+River between lazy lantern quick jumps quick harbour morning river number brown orchard window chapter brown dog letter fox brown quick silver garden lazy river lazy the because band jumps while question over morning because band window question garden village.

@@ -1,0 +1,207 @@
+# 9 parts
+== [Content_Types].xml: same as the blank document's (11 lines, sha256=d35bc25f7c299d03)
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>1111</Words>
+<Paragraphs>26</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: sections</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels: same as the blank document's (6 lines, sha256=aebaf5e2011cb4e6)
+== word/document.xml (179 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Section one: Letter, portrait</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another the silver river between winter pattern through fox summer dog garden the without without orchard because because dog garden stone history meadow river harbour garden jumps journey plays the plays people meadow river over stone summer summer number another over jumps quick fox pattern number the over stone evening plays village the harbour because.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow lantern market chapter morning fox winter chapter band winter lantern winter number village window plays silver market meadow because plays lantern harbour letter through journey another people without evening lazy band without summer brown chapter morning jumps jumps number without village over window jumps pattern journey journey number jumps stone dog garden between measure.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Jumps morning measure harbour people history river number winter meadow summer garden pattern without number village lantern river people lazy lantern while letter history lazy without another fox journey orchard chapter journey lazy another summer through people winter letter people over stone market morning measure fox letter winter over band evening winter question market window.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Through stone chapter morning letter the winter garden window lazy lazy silver fox journey while jumps river number lantern between another harbour while silver river evening while dog because window orchard through meadow lantern fox number between window letter pattern the winter harbour question summer fox because silver fox stone orchard lazy village summer history.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox harbour brown village while jumps number summer brown journey because quick window stone history question lazy fox meadow letter measure harbour pattern river morning question chapter band fox village dog number without quick pattern market morning stone pattern history lantern plays silver people fox stone silver plays brown harbour letter summer morning question river.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:pgNumType w:fmt="lowerRoman" w:start="1"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Because people harbour evening garden harbour dog window letter lantern while quick lantern people harbour village without letter lazy history winter fox market measure dog through harbour village meadow jumps market another river question silver lantern journey harbour fox without letter window window question quick market chapter because between pattern the pattern the summer band.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Section two: A4 landscape, wide margins</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band evening lazy between history over fox winter stone measure people harbour while lantern while band lantern without between brown brown fox orchard chapter market brown pattern the window band without lazy band river market another brown fox people pattern history the pattern number between brown jumps letter meadow measure lazy while harbour summer window.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another journey window market history journey lantern river the summer silver dog band orchard through village people another meadow history chapter quick between meadow between dog people number stone summer journey fox through letter winter river orchard journey measure silver measure because evening winter winter orchard history while chapter over village band people through orchard.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden summer pattern between meadow people village quick market history chapter history summer village brown measure question lantern measure because question jumps lantern over orchard people journey harbour stone silver over the the over dog stone lantern number the pattern because stone people the chapter fox lazy history through because journey because number plays between.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver between meadow silver summer over evening winter lantern people orchard fox window letter window lazy summer market while history brown because another stone plays letter because between question through between plays quick market morning because harbour winter without plays the journey fox pattern stone winter plays harbour orchard band the without history plays garden.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="16838" w:h="11906" w:orient="landscape"/>
+<w:pgMar w:top="1080" w:right="1800" w:bottom="1080" w:left="1800" w:header="720" w:footer="720" w:gutter="0"/>
+<w:pgNumType w:fmt="decimal" w:start="1"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">While morning between measure village plays pattern winter quick summer garden because over lantern silver fox evening without band through measure fox stone harbour fox chapter garden harbour chapter stone brown another people people summer dog market river history harbour history garden river jumps question fox jumps chapter number another evening letter the between question.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Section three: continuous, two columns</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window without the morning while silver journey people silver plays dog village brown lantern dog people because silver village winter meadow because because morning market through dog plays evening lantern dog people while through people measure stone journey orchard number.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow without dog chapter lantern quick silver summer summer fox winter river silver chapter orchard orchard summer morning meadow number through window evening window plays history number dog question between another harbour measure jumps brown journey summer meadow meadow silver.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden summer river through evening silver winter because morning silver another market brown journey silver number harbour question while fox river history quick without meadow orchard chapter journey jumps garden through window plays river brown harbour history stone lazy brown.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window question quick winter fox quick window village history journey history quick harbour meadow question evening jumps winter number without through people jumps dog window meadow stone over without letter fox history people village question evening brown while fox chapter.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">While people winter window measure band meadow because between journey while measure summer through market journey quick market jumps garden journey another while the plays fox meadow brown orchard number band history number harbour village stone without measure harbour village.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Winter river while village jumps lantern fox number fox harbour over band summer window question question silver evening market orchard plays measure winter village window between morning lantern the chapter while summer history people while silver the dog through village.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox history village question dog brown fox river letter without harbour river jumps letter orchard while through through people because over chapter lazy dog river letter fox summer evening evening dog journey silver plays village through question over letter people.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:sectPr>
+<w:type w:val="continuous"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="480" w:num="2"/>
+</w:sectPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Summer number pattern orchard silver fox river lantern another over brown pattern village between letter dog harbour question stone number journey lazy because while winter meadow over harbour quick letter through brown summer meadow the because while jumps summer over.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Section four: odd page, Letter again</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver without summer window evening history through through letter lazy history jumps band letter window through evening morning meadow number river silver river orchard letter morning winter garden lantern brown window question measure garden another jumps market meadow stone stone orchard another another the because through lazy number orchard lazy quick lantern winter pattern fox.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The measure lazy lazy over jumps quick lazy between dog journey garden while quick history through journey garden market measure letter question over between jumps because between lazy the question fox through over chapter river jumps stone while orchard dog orchard history chapter garden over because pattern evening market another another orchard lantern harbour lazy.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Between morning fox number over chapter number village dog meadow band plays lantern because number jumps fox history morning through history river silver through between while harbour the jumps plays fox harbour market another river quick history meadow chapter jumps evening lazy harbour band winter quick while garden silver without plays meadow evening brown lantern.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="oddPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

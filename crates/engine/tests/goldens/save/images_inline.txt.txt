@@ -1,0 +1,10 @@
+== txt (433 bytes)
+Inline Pictures
+Small pictures in the text flow:
+River garden river village number while band pattern measure evening history question dog people over orchard because harbour window over window through river because journey while stone summer stone the.
+A picture wider than the column:
+
+•	A list item with a picture 
+A table with a picture in a cell:
+While question quick.	
+Orchard without through.	While journey question.

@@ -1,0 +1,73 @@
+== rtf (8592 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\listtable
+{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li720\lin720}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li1440\lin1440}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li2160\lin2160}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li2880\lin2880}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li3600\lin3600}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li4320\lin4320}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li5040\lin5040}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li5760\lin5760}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li6480\lin6480}{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+{\info{\title Snapshot: images_inline}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+{\header
+\pard\plain\ql Header with a picture {\pict\pngblip\picw40\pich30\picwgoal480\pichgoal360
+89504e470d0a1a0a0000000d49484452000000280000001e0802000000d1bfcb8a00000103494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5af7eebbbbe23cfcf3b4eefccf3f3a3f587797ede717a679e9f1fad3fccf341f0df83
+e0bf07c17f0f82ff1e04ff3d08fe7b10fcf7a0bee3f4ce3c3f3f5a7f98e7e71da777e6f9f9d1fac33c3fef38bd33cf07c17f0f82ff1e04ff3d08fe7b10fcf720
+f8ef41f0df83faa3f587797ede717a679e9f1fad3fccf3f38ed33bf3fcfc68fd619e0f82ff1e04ff3d08fe7b10fcf720f8ef41f0df83e0bf07f51da777e6f9f9
+d1fac33c3fef38bd33cfcf8fd61fe6f979c7e99d793e08fe7b10fcf720f8ef41f0df83e0bf07ff0890f91e3988b2a64e0000000049454e44ae426082
+}\par
+}
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Inline Pictures\par
+\pard\plain\ql Small pictures in the text flow:{\pict\pngblip\picw40\pich30\picwgoal800\pichgoal600
+89504e470d0a1a0a0000000d49484452000000280000001e0802000000d1bfcb8a00000103494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5af7eebbbbe23cfcf3b4eefccf3f3a3f587797ede717a679e9f1fad3fccf341f0df83
+e0bf07c17f0f82ff1e04ff3d08fe7b10fcf7a0bee3f4ce3c3f3f5a7f98e7e71da777e6f9f9d1fac33c3fef38bd33cf07c17f0f82ff1e04ff3d08fe7b10fcf720
+f8ef41f0df83faa3f587797ede717a679e9f1fad3fccf3f38ed33bf3fcfc68fd619e0f82ff1e04ff3d08fe7b10fcf720f8ef41f0df83e0bf07f51da777e6f9f9
+d1fac33c3fef38bd33cfcf8fd61fe6f979c7e99d793e08fe7b10fcf720f8ef41f0df83e0bf07ff0890f91e3988b2a64e0000000049454e44ae426082
+}\par
+\pard\plain\ql River garden river v{\pict\pngblip\picw48\pich30\picwgoal1920\pichgoal1200
+89504e470d0a1a0a0000000d49484452000000300000001e0802000000e5c60a960000012b494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5affed6bbbe0ccfcfcb3cfe7b797efeea31efc9f3f3328fff5e9e9fbf7acc7bf2fcbc
+cce3bf97e783e07f1682ff5908fe6721f89f85e07f1682ff5908fe6741bb2ff3773c3f7ff598f7e4f97999c77f2fcfcf5f3de63d797e5ee6f1dfcbf3f3578f79
+4f9e0f82ff5908fe6721f89f85e07f1682ff5908fe6721f89f85fa578f794f9e9f9779fcf7f2fcfcd563de93e7e7651effbd3c3f7ff598f7e4f97999c77f2fcf
+07c1ff2c04ffb310fccf42f03f0bc1ff2c04ffb310fccf82765fe6ef787efeea31efc9f3f3328fff5e9e9fbf7acc7bf2fcbccce3bf97e7e7af1ef39e3c1f04ff
+b310fccf42f03f0bc1ff2c04ffb3f08f70e924c73be337a00000000049454e44ae426082
+}illage number while band pattern measure evening history question dog people over orchard because harbour window over window through river because journey while stone summer stone the.\par
+\pard\plain\ql A picture wider than the column:\par
+\pard\plain\ql {\pict\pngblip\picw56\pich30\picwgoal12000\pichgoal6000
+89504e470d0a1a0a0000000d49484452000000380000001e0802000000f6114a620000012f494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5afdef1ae5b3c3f5b3f7b8ee7e7e02d4ff3fc6cfdec399e9f83b73ccdf3b3f5b3e778
+7e0edef234cf07c1ff0e04ff3b10fcef40f0bf03c1ff0e04ff3b10fcef8076b7563c3f076f799ae767eb67cff1fc1cbce5699e9fad9f3dc7f373f096a7797eb6
+7ef61ccf07c1ff0e04ff3b10fcef40f0bf03c1ff0e04ff3b10fcef403d78cbd33c3f5b3f7b8ee7e7e02d4ff3fc6cfdec399e9f83b73ccdf3b3f5b3e7787e0ede
+f234cf07c1ff0e04ff3b10fcef40f0bf03c1ff0e04ff3b10fcef8076b7563c3f076f799ae767eb67cff1fc1cbce5699e9fad9f3dc7f373f096a7797eb67ef61c
+cf07c1ff0e04ff3b10fcef40f0bf03c1ff0efc235d582ac79021bd910000000049454e44ae426082
+}\par
+\pard\plain\ql\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain \u8226?\tab}A list item with a picture {\pict\pngblip\picw64\pich30\picwgoal960\pichgoal720
+89504e470d0a1a0a0000000d49484452000000400000001e0802000000138f8f0e00000158494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5af2edef56e9e9fbbbfe215797eaeffb83fe5f9b9fb2b5e91e7e7fa8ffb539e9fbbbf
+e215797eaeffb83fe5f9b9fb2b5e91e783e07f3782ffdd08fe7723f8df8de07f3782ffdd08fe7743bb77dfccf373fdc7fd29cfcfdd5ff18a3c3fd77fdc9ff2fc
+dcfd15afc8f373fdc7fd29cfcfdd5ff18a3c3fd77fdc9ff27c10fcef46f0bf1bc1ff6e04ffbb11fcef46f0bf1bc1ff6e68f1ae77f3fcdcfd15afc8f373fdc7fd
+29cfcfdd5ff18a3c3fd77fdc9ff2fcdcfd15afc8f373fdc7fd29cfcfdd5ff18a3c1f04ffbb11fcef46f0bf1bc1ff6e04ffbb11fcef46f0bf1bdabdfb669e9feb
+3fee4f797eeefe8a57e4f9b9fee3fe94e7e7eeaf78459e9feb3fee4f797eeefe8a57e4f9b9fee3fe94e783e07f3782ffdd08fe7723f8df8de07f37fe11d1ea30
+b84c785a310000000049454e44ae426082
+}\par
+\pard\plain\ql A table with a picture in a cell:\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b While question quick.}\cell
+\pard\plain\intbl\ql {\pict\pngblip\picw72\pich30\picwgoal2400\pichgoal1800
+89504e470d0a1a0a0000000d49484452000000480000001e08020000000058cffa0000017c494441547801edc003a0245996c6f1ff77ee8dc8cca7724b63ae6d
+dbb66ddbb66ddbb66d698c9e964aaf9e323322eef976b76a7aa6873b6bd5afbee4bbfe2ecfcfef7ef067f3fcbce6377f36cfcfef7ef067f3fcbce6377f36cfcf
+ef7ef067f3fcbce6377f36cfcfef7ef067f3fcbce6377f36cf07c1ff4d04ff3711fcdf44f07f13c1ff4d04ff3711fcdf84767ff775797e5ef39b3f9be7e7773f
+f8b3797e5ef39b3f9be7e7773ff8b3797e5ef39b3f9be7e7773ff8b3797e5ef39b3f9be7e7773ff8b3793e08fe6f22f8bf89e0ff2682ff9b08fe6f22f8bf89e0
+ff26f492effabb3c3fbffbc19fcdf3f39adffcd93c3fbffbc19fcdf3f39adffcd93c3fbffbc19fcdf3f39adffcd93c3fbffbc19fcdf3f39adffcd93c1f04ff37
+11fcdf44f07f13c1ff4d04ff3711fcdf44f07f13dafdddd7e5f979cd6ffe6c9e9fdffde0cfe6f979cd6ffe6c9e9fdffde0cfe6f979cd6ffe6c9e9fdffde0cfe6
+f979cd6ffe6c9e9fdffde0cfe6f920f8bf89e0ff2682ff9b08fe6f22f8bf897f048ecd36b83cf60b920000000049454e44ae426082
+}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Orchard without through.\cell
+\pard\plain\intbl\ql While journey question.\cell
+\row
+}

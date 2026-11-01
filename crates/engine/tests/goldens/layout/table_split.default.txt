@@ -1,0 +1,1167 @@
+# layout snapshot: table_split (default)
+# fonts: Source Serif 4
+# pages: 4  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (364):
+    lines body [0] l0..2 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "A table that runs over several pages, with a repeated header row, a row that can't split "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "and one with an exact height."
+    fill [72.3 117.8 156.0x17.0] #e0e0e0
+    lines body [1,0,0,0] l0..1 x=77.7 y=118.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column A"
+    rule (72.0 117.8)-(228.5 117.8) Single w=0.5 auto
+    rule (72.0 134.8)-(228.5 134.8) Single w=0.5 auto
+    rule (72.3 117.8)-(72.3 134.8) Single w=0.5 auto
+    rule (228.3 117.8)-(228.3 134.8) Single w=0.5 auto
+    cell [72.3 117.8 156.0x17.0] table=[1] r0 c0 body
+    fill [228.3 117.8 156.0x17.0] #e0e0e0
+    lines body [1,0,1,0] l0..1 x=233.7 y=118.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column B"
+    rule (228.0 117.8)-(384.5 117.8) Single w=0.5 auto
+    rule (228.0 134.8)-(384.5 134.8) Single w=0.5 auto
+    rule (228.3 117.8)-(228.3 134.8) Single w=0.5 auto
+    rule (384.3 117.8)-(384.3 134.8) Single w=0.5 auto
+    cell [228.3 117.8 156.0x17.0] table=[1] r0 c1 body
+    fill [384.3 117.8 156.0x17.0] #e0e0e0
+    lines body [1,0,2,0] l0..1 x=389.7 y=118.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column C"
+    rule (384.0 117.8)-(540.5 117.8) Single w=0.5 auto
+    rule (384.0 134.8)-(540.5 134.8) Single w=0.5 auto
+    rule (384.3 117.8)-(384.3 134.8) Single w=0.5 auto
+    rule (540.3 117.8)-(540.3 134.8) Single w=0.5 auto
+    cell [384.3 117.8 156.0x17.0] table=[1] r0 c2 body
+    lines body [1,1,0,0] l0..1 x=77.7 y=135.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lantern jumps pattern."
+    rule (72.0 134.8)-(228.5 134.8) Single w=0.5 auto
+    rule (72.0 151.7)-(228.5 151.7) Single w=0.5 auto
+    rule (72.3 134.8)-(72.3 151.7) Single w=0.5 auto
+    rule (228.3 134.8)-(228.3 151.7) Single w=0.5 auto
+    cell [72.3 134.8 156.0x17.0] table=[1] r1 c0 body
+    lines body [1,1,1,0] l0..1 x=233.7 y=135.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Pattern summer harbour."
+    rule (228.0 134.8)-(384.5 134.8) Single w=0.5 auto
+    rule (228.0 151.7)-(384.5 151.7) Single w=0.5 auto
+    rule (228.3 134.8)-(228.3 151.7) Single w=0.5 auto
+    rule (384.3 134.8)-(384.3 151.7) Single w=0.5 auto
+    cell [228.3 134.8 156.0x17.0] table=[1] r1 c1 body
+    lines body [1,1,2,0] l0..1 x=389.7 y=135.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Question river the."
+    rule (384.0 134.8)-(540.5 134.8) Single w=0.5 auto
+    rule (384.0 151.7)-(540.5 151.7) Single w=0.5 auto
+    rule (384.3 134.8)-(384.3 151.7) Single w=0.5 auto
+    rule (540.3 134.8)-(540.3 151.7) Single w=0.5 auto
+    cell [384.3 134.8 156.0x17.0] table=[1] r1 c2 body
+    lines body [1,2,0,0] l0..1 x=77.7 y=152.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another without while."
+    rule (72.0 151.7)-(228.5 151.7) Single w=0.5 auto
+    rule (72.0 168.7)-(228.5 168.7) Single w=0.5 auto
+    rule (72.3 151.7)-(72.3 168.7) Single w=0.5 auto
+    rule (228.3 151.7)-(228.3 168.7) Single w=0.5 auto
+    cell [72.3 151.7 156.0x17.0] table=[1] r2 c0 body
+    lines body [1,2,1,0] l0..1 x=233.7 y=152.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another lazy measure."
+    rule (228.0 151.7)-(384.5 151.7) Single w=0.5 auto
+    rule (228.0 168.7)-(384.5 168.7) Single w=0.5 auto
+    rule (228.3 151.7)-(228.3 168.7) Single w=0.5 auto
+    rule (384.3 151.7)-(384.3 168.7) Single w=0.5 auto
+    cell [228.3 151.7 156.0x17.0] table=[1] r2 c1 body
+    lines body [1,2,2,0] l0..1 x=389.7 y=152.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone between measure."
+    rule (384.0 151.7)-(540.5 151.7) Single w=0.5 auto
+    rule (384.0 168.7)-(540.5 168.7) Single w=0.5 auto
+    rule (384.3 151.7)-(384.3 168.7) Single w=0.5 auto
+    rule (540.3 151.7)-(540.3 168.7) Single w=0.5 auto
+    cell [384.3 151.7 156.0x17.0] table=[1] r2 c2 body
+    lines body [1,3,0,0] l0..1 x=77.7 y=169.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Plays meadow silver."
+    rule (72.0 168.7)-(228.5 168.7) Single w=0.5 auto
+    rule (72.0 185.6)-(228.5 185.6) Single w=0.5 auto
+    rule (72.3 168.7)-(72.3 185.6) Single w=0.5 auto
+    rule (228.3 168.7)-(228.3 185.6) Single w=0.5 auto
+    cell [72.3 168.7 156.0x17.0] table=[1] r3 c0 body
+    lines body [1,3,1,0] l0..1 x=233.7 y=169.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Orchard brown summer."
+    rule (228.0 168.7)-(384.5 168.7) Single w=0.5 auto
+    rule (228.0 185.6)-(384.5 185.6) Single w=0.5 auto
+    rule (228.3 168.7)-(228.3 185.6) Single w=0.5 auto
+    rule (384.3 168.7)-(384.3 185.6) Single w=0.5 auto
+    cell [228.3 168.7 156.0x17.0] table=[1] r3 c1 body
+    lines body [1,3,2,0] l0..1 x=389.7 y=169.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox while journey."
+    rule (384.0 168.7)-(540.5 168.7) Single w=0.5 auto
+    rule (384.0 185.6)-(540.5 185.6) Single w=0.5 auto
+    rule (384.3 168.7)-(384.3 185.6) Single w=0.5 auto
+    rule (540.3 168.7)-(540.3 185.6) Single w=0.5 auto
+    cell [384.3 168.7 156.0x17.0] table=[1] r3 c2 body
+    lines body [1,4,0,0] l0..1 x=77.7 y=186.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Because measure summer."
+    rule (72.0 185.6)-(228.5 185.6) Single w=0.5 auto
+    rule (72.0 202.6)-(228.5 202.6) Single w=0.5 auto
+    rule (72.3 185.6)-(72.3 202.6) Single w=0.5 auto
+    rule (228.3 185.6)-(228.3 202.6) Single w=0.5 auto
+    cell [72.3 185.6 156.0x17.0] table=[1] r4 c0 body
+    lines body [1,4,1,0] l0..1 x=233.7 y=186.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lantern measure history."
+    rule (228.0 185.6)-(384.5 185.6) Single w=0.5 auto
+    rule (228.0 202.6)-(384.5 202.6) Single w=0.5 auto
+    rule (228.3 185.6)-(228.3 202.6) Single w=0.5 auto
+    rule (384.3 185.6)-(384.3 202.6) Single w=0.5 auto
+    cell [228.3 185.6 156.0x17.0] table=[1] r4 c1 body
+    lines body [1,4,2,0] l0..1 x=389.7 y=186.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Silver harbour lazy."
+    rule (384.0 185.6)-(540.5 185.6) Single w=0.5 auto
+    rule (384.0 202.6)-(540.5 202.6) Single w=0.5 auto
+    rule (384.3 185.6)-(384.3 202.6) Single w=0.5 auto
+    rule (540.3 185.6)-(540.3 202.6) Single w=0.5 auto
+    cell [384.3 185.6 156.0x17.0] table=[1] r4 c2 body
+    lines body [1,5,0,0] l0..1 x=77.7 y=203.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Market meadow the."
+    rule (72.0 202.6)-(228.5 202.6) Single w=0.5 auto
+    rule (72.0 219.6)-(228.5 219.6) Single w=0.5 auto
+    rule (72.3 202.6)-(72.3 219.6) Single w=0.5 auto
+    rule (228.3 202.6)-(228.3 219.6) Single w=0.5 auto
+    cell [72.3 202.6 156.0x17.0] table=[1] r5 c0 body
+    lines body [1,5,1,0] l0..1 x=233.7 y=203.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band window without."
+    rule (228.0 202.6)-(384.5 202.6) Single w=0.5 auto
+    rule (228.0 219.6)-(384.5 219.6) Single w=0.5 auto
+    rule (228.3 202.6)-(228.3 219.6) Single w=0.5 auto
+    rule (384.3 202.6)-(384.3 219.6) Single w=0.5 auto
+    cell [228.3 202.6 156.0x17.0] table=[1] r5 c1 body
+    lines body [1,5,2,0] l0..1 x=389.7 y=203.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another lazy measure."
+    rule (384.0 202.6)-(540.5 202.6) Single w=0.5 auto
+    rule (384.0 219.6)-(540.5 219.6) Single w=0.5 auto
+    rule (384.3 202.6)-(384.3 219.6) Single w=0.5 auto
+    rule (540.3 202.6)-(540.3 219.6) Single w=0.5 auto
+    cell [384.3 202.6 156.0x17.0] table=[1] r5 c2 body
+    lines body [1,6,0,0] l0..1 x=77.7 y=220.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Journey quick between."
+    rule (72.0 219.6)-(228.5 219.6) Single w=0.5 auto
+    rule (72.0 236.5)-(228.5 236.5) Single w=0.5 auto
+    rule (72.3 219.6)-(72.3 236.5) Single w=0.5 auto
+    rule (228.3 219.6)-(228.3 236.5) Single w=0.5 auto
+    cell [72.3 219.6 156.0x17.0] table=[1] r6 c0 body
+    lines body [1,6,1,0] l0..1 x=233.7 y=220.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lazy summer measure."
+    rule (228.0 219.6)-(384.5 219.6) Single w=0.5 auto
+    rule (228.0 236.5)-(384.5 236.5) Single w=0.5 auto
+    rule (228.3 219.6)-(228.3 236.5) Single w=0.5 auto
+    rule (384.3 219.6)-(384.3 236.5) Single w=0.5 auto
+    cell [228.3 219.6 156.0x17.0] table=[1] r6 c1 body
+    lines body [1,6,2,0] l0..1 x=389.7 y=220.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Without evening pattern."
+    rule (384.0 219.6)-(540.5 219.6) Single w=0.5 auto
+    rule (384.0 236.5)-(540.5 236.5) Single w=0.5 auto
+    rule (384.3 219.6)-(384.3 236.5) Single w=0.5 auto
+    rule (540.3 219.6)-(540.3 236.5) Single w=0.5 auto
+    cell [384.3 219.6 156.0x17.0] table=[1] r6 c2 body
+    lines body [1,7,0,0] l0..1 x=77.7 y=237.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Dog evening question."
+    rule (72.0 236.5)-(228.5 236.5) Single w=0.5 auto
+    rule (72.0 253.5)-(228.5 253.5) Single w=0.5 auto
+    rule (72.3 236.5)-(72.3 253.5) Single w=0.5 auto
+    rule (228.3 236.5)-(228.3 253.5) Single w=0.5 auto
+    cell [72.3 236.5 156.0x17.0] table=[1] r7 c0 body
+    lines body [1,7,1,0] l0..1 x=233.7 y=237.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Harbour silver lantern."
+    rule (228.0 236.5)-(384.5 236.5) Single w=0.5 auto
+    rule (228.0 253.5)-(384.5 253.5) Single w=0.5 auto
+    rule (228.3 236.5)-(228.3 253.5) Single w=0.5 auto
+    rule (384.3 236.5)-(384.3 253.5) Single w=0.5 auto
+    cell [228.3 236.5 156.0x17.0] table=[1] r7 c1 body
+    lines body [1,7,2,0] l0..1 x=389.7 y=237.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lantern journey village."
+    rule (384.0 236.5)-(540.5 236.5) Single w=0.5 auto
+    rule (384.0 253.5)-(540.5 253.5) Single w=0.5 auto
+    rule (384.3 236.5)-(384.3 253.5) Single w=0.5 auto
+    rule (540.3 236.5)-(540.3 253.5) Single w=0.5 auto
+    cell [384.3 236.5 156.0x17.0] table=[1] r7 c2 body
+    lines body [1,8,0,0] l0..1 x=77.7 y=254.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Village chapter while."
+    rule (72.0 253.5)-(228.5 253.5) Single w=0.5 auto
+    rule (72.0 270.4)-(228.5 270.4) Single w=0.5 auto
+    rule (72.3 253.5)-(72.3 270.4) Single w=0.5 auto
+    rule (228.3 253.5)-(228.3 270.4) Single w=0.5 auto
+    cell [72.3 253.5 156.0x17.0] table=[1] r8 c0 body
+    lines body [1,8,1,0] l0..1 x=233.7 y=254.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone river winter."
+    rule (228.0 253.5)-(384.5 253.5) Single w=0.5 auto
+    rule (228.0 270.4)-(384.5 270.4) Single w=0.5 auto
+    rule (228.3 253.5)-(228.3 270.4) Single w=0.5 auto
+    rule (384.3 253.5)-(384.3 270.4) Single w=0.5 auto
+    cell [228.3 253.5 156.0x17.0] table=[1] r8 c1 body
+    lines body [1,8,2,0] l0..1 x=389.7 y=254.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another history journey."
+    rule (384.0 253.5)-(540.5 253.5) Single w=0.5 auto
+    rule (384.0 270.4)-(540.5 270.4) Single w=0.5 auto
+    rule (384.3 253.5)-(384.3 270.4) Single w=0.5 auto
+    rule (540.3 253.5)-(540.3 270.4) Single w=0.5 auto
+    cell [384.3 253.5 156.0x17.0] table=[1] r8 c2 body
+    lines body [1,9,0,0] l0..1 x=77.7 y=270.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Letter number lantern."
+    rule (72.0 270.4)-(228.5 270.4) Single w=0.5 auto
+    rule (72.0 287.4)-(228.5 287.4) Single w=0.5 auto
+    rule (72.3 270.4)-(72.3 287.4) Single w=0.5 auto
+    rule (228.3 270.4)-(228.3 287.4) Single w=0.5 auto
+    cell [72.3 270.4 156.0x17.0] table=[1] r9 c0 body
+    lines body [1,9,1,0] l0..1 x=233.7 y=270.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Over question while."
+    rule (228.0 270.4)-(384.5 270.4) Single w=0.5 auto
+    rule (228.0 287.4)-(384.5 287.4) Single w=0.5 auto
+    rule (228.3 270.4)-(228.3 287.4) Single w=0.5 auto
+    rule (384.3 270.4)-(384.3 287.4) Single w=0.5 auto
+    cell [228.3 270.4 156.0x17.0] table=[1] r9 c1 body
+    lines body [1,9,2,0] l0..1 x=389.7 y=270.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Number between chapter."
+    rule (384.0 270.4)-(540.5 270.4) Single w=0.5 auto
+    rule (384.0 287.4)-(540.5 287.4) Single w=0.5 auto
+    rule (384.3 270.4)-(384.3 287.4) Single w=0.5 auto
+    rule (540.3 270.4)-(540.3 287.4) Single w=0.5 auto
+    cell [384.3 270.4 156.0x17.0] table=[1] r9 c2 body
+    lines body [1,10,0,0] l0..1 x=77.7 y=287.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Without pattern stone."
+    rule (72.0 287.4)-(228.5 287.4) Single w=0.5 auto
+    rule (72.0 304.3)-(228.5 304.3) Single w=0.5 auto
+    rule (72.3 287.4)-(72.3 304.3) Single w=0.5 auto
+    rule (228.3 287.4)-(228.3 304.3) Single w=0.5 auto
+    cell [72.3 287.4 156.0x17.0] table=[1] r10 c0 body
+    lines body [1,10,1,0] l0..1 x=233.7 y=287.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Harbour without chapter."
+    rule (228.0 287.4)-(384.5 287.4) Single w=0.5 auto
+    rule (228.0 304.3)-(384.5 304.3) Single w=0.5 auto
+    rule (228.3 287.4)-(228.3 304.3) Single w=0.5 auto
+    rule (384.3 287.4)-(384.3 304.3) Single w=0.5 auto
+    cell [228.3 287.4 156.0x17.0] table=[1] r10 c1 body
+    lines body [1,10,2,0] l0..1 x=389.7 y=287.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Morning jumps without."
+    rule (384.0 287.4)-(540.5 287.4) Single w=0.5 auto
+    rule (384.0 304.3)-(540.5 304.3) Single w=0.5 auto
+    rule (384.3 287.4)-(384.3 304.3) Single w=0.5 auto
+    rule (540.3 287.4)-(540.3 304.3) Single w=0.5 auto
+    cell [384.3 287.4 156.0x17.0] table=[1] r10 c2 body
+    lines body [1,11,0,0] l0..1 x=77.7 y=304.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Chapter evening history."
+    rule (72.0 304.3)-(228.5 304.3) Single w=0.5 auto
+    rule (72.0 321.3)-(228.5 321.3) Single w=0.5 auto
+    rule (72.3 304.3)-(72.3 321.3) Single w=0.5 auto
+    rule (228.3 304.3)-(228.3 321.3) Single w=0.5 auto
+    cell [72.3 304.3 156.0x17.0] table=[1] r11 c0 body
+    lines body [1,11,1,0] l0..1 x=233.7 y=304.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window river village."
+    rule (228.0 304.3)-(384.5 304.3) Single w=0.5 auto
+    rule (228.0 321.3)-(384.5 321.3) Single w=0.5 auto
+    rule (228.3 304.3)-(228.3 321.3) Single w=0.5 auto
+    rule (384.3 304.3)-(384.3 321.3) Single w=0.5 auto
+    cell [228.3 304.3 156.0x17.0] table=[1] r11 c1 body
+    lines body [1,11,2,0] l0..1 x=389.7 y=304.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "History letter journey."
+    rule (384.0 304.3)-(540.5 304.3) Single w=0.5 auto
+    rule (384.0 321.3)-(540.5 321.3) Single w=0.5 auto
+    rule (384.3 304.3)-(384.3 321.3) Single w=0.5 auto
+    rule (540.3 304.3)-(540.3 321.3) Single w=0.5 auto
+    cell [384.3 304.3 156.0x17.0] table=[1] r11 c2 body
+    lines body [1,12,0,0] l0..1 x=77.7 y=321.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band village market."
+    rule (72.0 321.3)-(228.5 321.3) Single w=0.5 auto
+    rule (72.0 338.2)-(228.5 338.2) Single w=0.5 auto
+    rule (72.3 321.3)-(72.3 338.2) Single w=0.5 auto
+    rule (228.3 321.3)-(228.3 338.2) Single w=0.5 auto
+    cell [72.3 321.3 156.0x17.0] table=[1] r12 c0 body
+    lines body [1,12,1,0] l0..1 x=233.7 y=321.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Meadow winter letter."
+    rule (228.0 321.3)-(384.5 321.3) Single w=0.5 auto
+    rule (228.0 338.2)-(384.5 338.2) Single w=0.5 auto
+    rule (228.3 321.3)-(228.3 338.2) Single w=0.5 auto
+    rule (384.3 321.3)-(384.3 338.2) Single w=0.5 auto
+    cell [228.3 321.3 156.0x17.0] table=[1] r12 c1 body
+    lines body [1,12,2,0] l0..1 x=389.7 y=321.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Garden over evening."
+    rule (384.0 321.3)-(540.5 321.3) Single w=0.5 auto
+    rule (384.0 338.2)-(540.5 338.2) Single w=0.5 auto
+    rule (384.3 321.3)-(384.3 338.2) Single w=0.5 auto
+    rule (540.3 321.3)-(540.3 338.2) Single w=0.5 auto
+    cell [384.3 321.3 156.0x17.0] table=[1] r12 c2 body
+    lines body [1,13,0,0] l0..1 x=77.7 y=338.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Through river orchard."
+    rule (72.0 338.2)-(228.5 338.2) Single w=0.5 auto
+    rule (72.0 355.2)-(228.5 355.2) Single w=0.5 auto
+    rule (72.3 338.2)-(72.3 355.2) Single w=0.5 auto
+    rule (228.3 338.2)-(228.3 355.2) Single w=0.5 auto
+    cell [72.3 338.2 156.0x17.0] table=[1] r13 c0 body
+    lines body [1,13,1,0] l0..1 x=233.7 y=338.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lantern without garden."
+    rule (228.0 338.2)-(384.5 338.2) Single w=0.5 auto
+    rule (228.0 355.2)-(384.5 355.2) Single w=0.5 auto
+    rule (228.3 338.2)-(228.3 355.2) Single w=0.5 auto
+    rule (384.3 338.2)-(384.3 355.2) Single w=0.5 auto
+    cell [228.3 338.2 156.0x17.0] table=[1] r13 c1 body
+    lines body [1,13,2,0] l0..1 x=389.7 y=338.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Silver stone history."
+    rule (384.0 338.2)-(540.5 338.2) Single w=0.5 auto
+    rule (384.0 355.2)-(540.5 355.2) Single w=0.5 auto
+    rule (384.3 338.2)-(384.3 355.2) Single w=0.5 auto
+    rule (540.3 338.2)-(540.3 355.2) Single w=0.5 auto
+    cell [384.3 338.2 156.0x17.0] table=[1] r13 c2 body
+    lines body [1,14,0,0] l0..1 x=77.7 y=355.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "River morning band."
+    rule (72.0 355.2)-(228.5 355.2) Single w=0.5 auto
+    rule (72.0 372.1)-(228.5 372.1) Single w=0.5 auto
+    rule (72.3 355.2)-(72.3 372.1) Single w=0.5 auto
+    rule (228.3 355.2)-(228.3 372.1) Single w=0.5 auto
+    cell [72.3 355.2 156.0x17.0] table=[1] r14 c0 body
+    lines body [1,14,1,0] l0..1 x=233.7 y=355.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Orchard history jumps."
+    rule (228.0 355.2)-(384.5 355.2) Single w=0.5 auto
+    rule (228.0 372.1)-(384.5 372.1) Single w=0.5 auto
+    rule (228.3 355.2)-(228.3 372.1) Single w=0.5 auto
+    rule (384.3 355.2)-(384.3 372.1) Single w=0.5 auto
+    cell [228.3 355.2 156.0x17.0] table=[1] r14 c1 body
+    lines body [1,14,2,0] l0..1 x=389.7 y=355.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Village orchard letter."
+    rule (384.0 355.2)-(540.5 355.2) Single w=0.5 auto
+    rule (384.0 372.1)-(540.5 372.1) Single w=0.5 auto
+    rule (384.3 355.2)-(384.3 372.1) Single w=0.5 auto
+    rule (540.3 355.2)-(540.3 372.1) Single w=0.5 auto
+    cell [384.3 355.2 156.0x17.0] table=[1] r14 c2 body
+    lines body [1,15,0,0] l0..1 x=77.7 y=372.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Journey people window."
+    rule (72.0 372.1)-(228.5 372.1) Single w=0.5 auto
+    rule (72.0 389.1)-(228.5 389.1) Single w=0.5 auto
+    rule (72.3 372.1)-(72.3 389.1) Single w=0.5 auto
+    rule (228.3 372.1)-(228.3 389.1) Single w=0.5 auto
+    cell [72.3 372.1 156.0x17.0] table=[1] r15 c0 body
+    lines body [1,15,1,0] l0..1 x=233.7 y=372.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Brown the the."
+    rule (228.0 372.1)-(384.5 372.1) Single w=0.5 auto
+    rule (228.0 389.1)-(384.5 389.1) Single w=0.5 auto
+    rule (228.3 372.1)-(228.3 389.1) Single w=0.5 auto
+    rule (384.3 372.1)-(384.3 389.1) Single w=0.5 auto
+    cell [228.3 372.1 156.0x17.0] table=[1] r15 c1 body
+    lines body [1,15,2,0] l0..1 x=389.7 y=372.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Letter silver river."
+    rule (384.0 372.1)-(540.5 372.1) Single w=0.5 auto
+    rule (384.0 389.1)-(540.5 389.1) Single w=0.5 auto
+    rule (384.3 372.1)-(384.3 389.1) Single w=0.5 auto
+    rule (540.3 372.1)-(540.3 389.1) Single w=0.5 auto
+    cell [384.3 372.1 156.0x17.0] table=[1] r15 c2 body
+    lines body [1,16,0,0] l0..1 x=77.7 y=389.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Market market because."
+    rule (72.0 389.1)-(228.5 389.1) Single w=0.5 auto
+    rule (72.0 406.0)-(228.5 406.0) Single w=0.5 auto
+    rule (72.3 389.1)-(72.3 406.0) Single w=0.5 auto
+    rule (228.3 389.1)-(228.3 406.0) Single w=0.5 auto
+    cell [72.3 389.1 156.0x17.0] table=[1] r16 c0 body
+    lines body [1,16,1,0] l0..1 x=233.7 y=389.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Pattern quick summer."
+    rule (228.0 389.1)-(384.5 389.1) Single w=0.5 auto
+    rule (228.0 406.0)-(384.5 406.0) Single w=0.5 auto
+    rule (228.3 389.1)-(228.3 406.0) Single w=0.5 auto
+    rule (384.3 389.1)-(384.3 406.0) Single w=0.5 auto
+    cell [228.3 389.1 156.0x17.0] table=[1] r16 c1 body
+    lines body [1,16,2,0] l0..1 x=389.7 y=389.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Evening brown meadow."
+    rule (384.0 389.1)-(540.5 389.1) Single w=0.5 auto
+    rule (384.0 406.0)-(540.5 406.0) Single w=0.5 auto
+    rule (384.3 389.1)-(384.3 406.0) Single w=0.5 auto
+    rule (540.3 389.1)-(540.3 406.0) Single w=0.5 auto
+    cell [384.3 389.1 156.0x17.0] table=[1] r16 c2 body
+    lines body [1,17,0,0] l0..1 x=77.7 y=406.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Village lantern summer."
+    rule (72.0 406.0)-(228.5 406.0) Single w=0.5 auto
+    rule (72.0 423.0)-(228.5 423.0) Single w=0.5 auto
+    rule (72.3 406.0)-(72.3 423.0) Single w=0.5 auto
+    rule (228.3 406.0)-(228.3 423.0) Single w=0.5 auto
+    cell [72.3 406.0 156.0x17.0] table=[1] r17 c0 body
+    lines body [1,17,1,0] l0..1 x=233.7 y=406.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Summer river silver."
+    rule (228.0 406.0)-(384.5 406.0) Single w=0.5 auto
+    rule (228.0 423.0)-(384.5 423.0) Single w=0.5 auto
+    rule (228.3 406.0)-(228.3 423.0) Single w=0.5 auto
+    rule (384.3 406.0)-(384.3 423.0) Single w=0.5 auto
+    cell [228.3 406.0 156.0x17.0] table=[1] r17 c1 body
+    lines body [1,17,2,0] l0..1 x=389.7 y=406.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox measure history."
+    rule (384.0 406.0)-(540.5 406.0) Single w=0.5 auto
+    rule (384.0 423.0)-(540.5 423.0) Single w=0.5 auto
+    rule (384.3 406.0)-(384.3 423.0) Single w=0.5 auto
+    rule (540.3 406.0)-(540.3 423.0) Single w=0.5 auto
+    cell [384.3 406.0 156.0x17.0] table=[1] r17 c2 body
+    lines body [1,18,0,0] l0..1 x=77.7 y=423.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Orchard harbour the."
+    rule (72.0 423.0)-(228.5 423.0) Single w=0.5 auto
+    rule (72.0 439.9)-(228.5 439.9) Single w=0.5 auto
+    rule (72.3 423.0)-(72.3 439.9) Single w=0.5 auto
+    rule (228.3 423.0)-(228.3 439.9) Single w=0.5 auto
+    cell [72.3 423.0 156.0x17.0] table=[1] r18 c0 body
+    lines body [1,18,1,0] l0..1 x=233.7 y=423.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Jumps meadow chapter."
+    rule (228.0 423.0)-(384.5 423.0) Single w=0.5 auto
+    rule (228.0 439.9)-(384.5 439.9) Single w=0.5 auto
+    rule (228.3 423.0)-(228.3 439.9) Single w=0.5 auto
+    rule (384.3 423.0)-(384.3 439.9) Single w=0.5 auto
+    cell [228.3 423.0 156.0x17.0] table=[1] r18 c1 body
+    lines body [1,18,2,0] l0..1 x=389.7 y=423.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window silver window."
+    rule (384.0 423.0)-(540.5 423.0) Single w=0.5 auto
+    rule (384.0 439.9)-(540.5 439.9) Single w=0.5 auto
+    rule (384.3 423.0)-(384.3 439.9) Single w=0.5 auto
+    rule (540.3 423.0)-(540.3 439.9) Single w=0.5 auto
+    cell [384.3 423.0 156.0x17.0] table=[1] r18 c2 body
+    lines body [1,19,0,0] l0..1 x=77.7 y=440.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another silver market."
+    rule (72.0 439.9)-(228.5 439.9) Single w=0.5 auto
+    rule (72.0 456.9)-(228.5 456.9) Single w=0.5 auto
+    rule (72.3 439.9)-(72.3 456.9) Single w=0.5 auto
+    rule (228.3 439.9)-(228.3 456.9) Single w=0.5 auto
+    cell [72.3 439.9 156.0x17.0] table=[1] r19 c0 body
+    lines body [1,19,1,0] l0..1 x=233.7 y=440.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Over quick over."
+    rule (228.0 439.9)-(384.5 439.9) Single w=0.5 auto
+    rule (228.0 456.9)-(384.5 456.9) Single w=0.5 auto
+    rule (228.3 439.9)-(228.3 456.9) Single w=0.5 auto
+    rule (384.3 439.9)-(384.3 456.9) Single w=0.5 auto
+    cell [228.3 439.9 156.0x17.0] table=[1] r19 c1 body
+    lines body [1,19,2,0] l0..1 x=389.7 y=440.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Over summer another."
+    rule (384.0 439.9)-(540.5 439.9) Single w=0.5 auto
+    rule (384.0 456.9)-(540.5 456.9) Single w=0.5 auto
+    rule (384.3 439.9)-(384.3 456.9) Single w=0.5 auto
+    rule (540.3 439.9)-(540.3 456.9) Single w=0.5 auto
+    cell [384.3 439.9 156.0x17.0] table=[1] r19 c2 body
+  rows [1]: 0:117.8+17.0 1:134.8+17.0 2:151.7+17.0 3:168.7+17.0 4:185.6+17.0 5:202.6+17.0 6:219.6+17.0 7:236.5+17.0 8:253.5+17.0 9:270.4+17.0 10:287.4+17.0 11:304.3+17.0 12:321.3+17.0 13:338.2+17.0 14:355.2+17.0 15:372.1+17.0 16:389.1+17.0 17:406.0+17.0 18:423.0+17.0 19:439.9+17.0
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=1 markup=0.0 header=- footer=-
+  items (273):
+    fill [72.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,0,0] l0..1 x=77.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column A"
+    rule (72.0 72.0)-(228.5 72.0) Single w=0.5 auto
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.3 72.0)-(72.3 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    cell [72.3 72.0 156.0x17.0] table=[1] r0 c0 body
+    fill [228.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,1,0] l0..1 x=233.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column B"
+    rule (228.0 72.0)-(384.5 72.0) Single w=0.5 auto
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    cell [228.3 72.0 156.0x17.0] table=[1] r0 c1 body
+    fill [384.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,2,0] l0..1 x=389.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column C"
+    rule (384.0 72.0)-(540.5 72.0) Single w=0.5 auto
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    rule (540.3 72.0)-(540.3 89.0) Single w=0.5 auto
+    cell [384.3 72.0 156.0x17.0] table=[1] r0 c2 body
+    lines body [1,20,0,0] l0..1 x=77.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "While while quick."
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.0 451.4)-(228.5 451.4) Single w=0.5 auto
+    rule (72.3 89.0)-(72.3 451.4) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 451.4) Single w=0.5 auto
+    cell [72.3 89.0 156.0x362.4] table=[1] r20 c0 body
+    lines body [1,20,1,0] l0..22 x=233.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Wrap "Without evening pattern "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=145.2 end=Wrap "without meadow pattern "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=145.2 end=Wrap "over band window people "
+      3: top=49.4 h=16.5 base=61.8 left=0.0 right=145.2 end=Wrap "silver over plays between "
+      4: top=65.8 h=16.5 base=78.2 left=0.0 right=145.2 end=Wrap "journey letter quick letter "
+      5: top=82.3 h=16.5 base=94.7 left=0.0 right=145.2 end=Wrap "river measure village "
+      6: top=98.7 h=16.5 base=111.1 left=0.0 right=145.2 end=Wrap "chapter fox orchard "
+      7: top=115.2 h=16.5 base=127.6 left=0.0 right=145.2 end=Wrap "evening plays summer "
+      8: top=131.6 h=16.5 base=144.0 left=0.0 right=145.2 end=Wrap "another evening harbour "
+      9: top=148.1 h=16.5 base=160.5 left=0.0 right=145.2 end=Wrap "window morning brown "
+      10: top=164.5 h=16.5 base=177.0 left=0.0 right=145.2 end=Wrap "another letter through "
+      11: top=181.0 h=16.5 base=193.4 left=0.0 right=145.2 end=Wrap "winter stone pattern stone "
+      12: top=197.4 h=16.5 base=209.9 left=0.0 right=145.2 end=Wrap "quick over market meadow "
+      13: top=213.9 h=16.5 base=226.3 left=0.0 right=145.2 end=Wrap "letter through through "
+      14: top=230.3 h=16.5 base=242.8 left=0.0 right=145.2 end=Wrap "jumps chapter band "
+      15: top=246.8 h=16.5 base=259.2 left=0.0 right=145.2 end=Wrap "number another number "
+      16: top=263.2 h=16.5 base=275.7 left=0.0 right=145.2 end=Wrap "over journey people "
+      17: top=279.7 h=16.5 base=292.1 left=0.0 right=145.2 end=Wrap "question market meadow "
+      18: top=296.1 h=16.5 base=308.6 left=0.0 right=145.2 end=Wrap "summer winter over plays "
+      19: top=312.6 h=16.5 base=325.0 left=0.0 right=145.2 end=Wrap "brown number summer "
+      20: top=329.0 h=16.5 base=341.5 left=0.0 right=145.2 end=Wrap "jumps meadow summer "
+      21: top=345.5 h=16.5 base=357.9 left=0.0 right=145.2 end=Para "dog."
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.0 451.4)-(384.5 451.4) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 451.4) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 451.4) Single w=0.5 auto
+    cell [228.3 89.0 156.0x362.4] table=[1] r20 c1 body
+    lines body [1,20,2,0] l0..1 x=389.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone morning question."
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.0 451.4)-(540.5 451.4) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 451.4) Single w=0.5 auto
+    rule (540.3 89.0)-(540.3 451.4) Single w=0.5 auto
+    cell [384.3 89.0 156.0x362.4] table=[1] r20 c2 body
+    lines body [1,21,0,0] l0..1 x=77.7 y=451.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Summer measure river."
+    rule (72.0 451.4)-(228.5 451.4) Single w=0.5 auto
+    rule (72.0 468.3)-(228.5 468.3) Single w=0.5 auto
+    rule (72.3 451.4)-(72.3 468.3) Single w=0.5 auto
+    rule (228.3 451.4)-(228.3 468.3) Single w=0.5 auto
+    cell [72.3 451.4 156.0x17.0] table=[1] r21 c0 body
+    lines body [1,21,1,0] l0..1 x=233.7 y=451.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "River people while."
+    rule (228.0 451.4)-(384.5 451.4) Single w=0.5 auto
+    rule (228.0 468.3)-(384.5 468.3) Single w=0.5 auto
+    rule (228.3 451.4)-(228.3 468.3) Single w=0.5 auto
+    rule (384.3 451.4)-(384.3 468.3) Single w=0.5 auto
+    cell [228.3 451.4 156.0x17.0] table=[1] r21 c1 body
+    lines body [1,21,2,0] l0..1 x=389.7 y=451.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone harbour summer."
+    rule (384.0 451.4)-(540.5 451.4) Single w=0.5 auto
+    rule (384.0 468.3)-(540.5 468.3) Single w=0.5 auto
+    rule (384.3 451.4)-(384.3 468.3) Single w=0.5 auto
+    rule (540.3 451.4)-(540.3 468.3) Single w=0.5 auto
+    cell [384.3 451.4 156.0x17.0] table=[1] r21 c2 body
+    lines body [1,22,0,0] l0..1 x=77.7 y=468.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Plays journey quick."
+    rule (72.0 468.3)-(228.5 468.3) Single w=0.5 auto
+    rule (72.0 485.3)-(228.5 485.3) Single w=0.5 auto
+    rule (72.3 468.3)-(72.3 485.3) Single w=0.5 auto
+    rule (228.3 468.3)-(228.3 485.3) Single w=0.5 auto
+    cell [72.3 468.3 156.0x17.0] table=[1] r22 c0 body
+    lines body [1,22,1,0] l0..1 x=233.7 y=468.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "While pattern fox."
+    rule (228.0 468.3)-(384.5 468.3) Single w=0.5 auto
+    rule (228.0 485.3)-(384.5 485.3) Single w=0.5 auto
+    rule (228.3 468.3)-(228.3 485.3) Single w=0.5 auto
+    rule (384.3 468.3)-(384.3 485.3) Single w=0.5 auto
+    cell [228.3 468.3 156.0x17.0] table=[1] r22 c1 body
+    lines body [1,22,2,0] l0..1 x=389.7 y=468.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Market between dog."
+    rule (384.0 468.3)-(540.5 468.3) Single w=0.5 auto
+    rule (384.0 485.3)-(540.5 485.3) Single w=0.5 auto
+    rule (384.3 468.3)-(384.3 485.3) Single w=0.5 auto
+    rule (540.3 468.3)-(540.3 485.3) Single w=0.5 auto
+    cell [384.3 468.3 156.0x17.0] table=[1] r22 c2 body
+    lines body [1,23,0,0] l0..1 x=77.7 y=485.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Garden garden dog."
+    rule (72.0 485.3)-(228.5 485.3) Single w=0.5 auto
+    rule (72.0 502.3)-(228.5 502.3) Single w=0.5 auto
+    rule (72.3 485.3)-(72.3 502.3) Single w=0.5 auto
+    rule (228.3 485.3)-(228.3 502.3) Single w=0.5 auto
+    cell [72.3 485.3 156.0x17.0] table=[1] r23 c0 body
+    lines body [1,23,1,0] l0..1 x=233.7 y=485.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "The brown pattern."
+    rule (228.0 485.3)-(384.5 485.3) Single w=0.5 auto
+    rule (228.0 502.3)-(384.5 502.3) Single w=0.5 auto
+    rule (228.3 485.3)-(228.3 502.3) Single w=0.5 auto
+    rule (384.3 485.3)-(384.3 502.3) Single w=0.5 auto
+    cell [228.3 485.3 156.0x17.0] table=[1] r23 c1 body
+    lines body [1,23,2,0] l0..1 x=389.7 y=485.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Number while harbour."
+    rule (384.0 485.3)-(540.5 485.3) Single w=0.5 auto
+    rule (384.0 502.3)-(540.5 502.3) Single w=0.5 auto
+    rule (384.3 485.3)-(384.3 502.3) Single w=0.5 auto
+    rule (540.3 485.3)-(540.3 502.3) Single w=0.5 auto
+    cell [384.3 485.3 156.0x17.0] table=[1] r23 c2 body
+    lines body [1,24,0,0] l0..1 x=77.7 y=502.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Journey morning another."
+    rule (72.0 502.3)-(228.5 502.3) Single w=0.5 auto
+    rule (72.0 519.2)-(228.5 519.2) Single w=0.5 auto
+    rule (72.3 502.3)-(72.3 519.2) Single w=0.5 auto
+    rule (228.3 502.3)-(228.3 519.2) Single w=0.5 auto
+    cell [72.3 502.3 156.0x17.0] table=[1] r24 c0 body
+    lines body [1,24,1,0] l0..1 x=233.7 y=502.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "River the over."
+    rule (228.0 502.3)-(384.5 502.3) Single w=0.5 auto
+    rule (228.0 519.2)-(384.5 519.2) Single w=0.5 auto
+    rule (228.3 502.3)-(228.3 519.2) Single w=0.5 auto
+    rule (384.3 502.3)-(384.3 519.2) Single w=0.5 auto
+    cell [228.3 502.3 156.0x17.0] table=[1] r24 c1 body
+    lines body [1,24,2,0] l0..1 x=389.7 y=502.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Summer river meadow."
+    rule (384.0 502.3)-(540.5 502.3) Single w=0.5 auto
+    rule (384.0 519.2)-(540.5 519.2) Single w=0.5 auto
+    rule (384.3 502.3)-(384.3 519.2) Single w=0.5 auto
+    rule (540.3 502.3)-(540.3 519.2) Single w=0.5 auto
+    cell [384.3 502.3 156.0x17.0] table=[1] r24 c2 body
+    lines body [1,25,0,0] l0..1 x=77.7 y=519.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Chapter band history."
+    rule (72.0 519.2)-(228.5 519.2) Single w=0.5 auto
+    rule (72.0 536.2)-(228.5 536.2) Single w=0.5 auto
+    rule (72.3 519.2)-(72.3 536.2) Single w=0.5 auto
+    rule (228.3 519.2)-(228.3 536.2) Single w=0.5 auto
+    cell [72.3 519.2 156.0x17.0] table=[1] r25 c0 body
+    lines body [1,25,1,0] l0..1 x=233.7 y=519.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window brown quick."
+    rule (228.0 519.2)-(384.5 519.2) Single w=0.5 auto
+    rule (228.0 536.2)-(384.5 536.2) Single w=0.5 auto
+    rule (228.3 519.2)-(228.3 536.2) Single w=0.5 auto
+    rule (384.3 519.2)-(384.3 536.2) Single w=0.5 auto
+    cell [228.3 519.2 156.0x17.0] table=[1] r25 c1 body
+    lines body [1,25,2,0] l0..1 x=389.7 y=519.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "The window morning."
+    rule (384.0 519.2)-(540.5 519.2) Single w=0.5 auto
+    rule (384.0 536.2)-(540.5 536.2) Single w=0.5 auto
+    rule (384.3 519.2)-(384.3 536.2) Single w=0.5 auto
+    rule (540.3 519.2)-(540.3 536.2) Single w=0.5 auto
+    cell [384.3 519.2 156.0x17.0] table=[1] r25 c2 body
+    lines body [1,26,0,0] l0..1 x=77.7 y=536.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Garden market plays."
+    rule (72.0 536.2)-(228.5 536.2) Single w=0.5 auto
+    rule (72.0 553.1)-(228.5 553.1) Single w=0.5 auto
+    rule (72.3 536.2)-(72.3 553.1) Single w=0.5 auto
+    rule (228.3 536.2)-(228.3 553.1) Single w=0.5 auto
+    cell [72.3 536.2 156.0x17.0] table=[1] r26 c0 body
+    lines body [1,26,1,0] l0..1 x=233.7 y=536.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Market harbour garden."
+    rule (228.0 536.2)-(384.5 536.2) Single w=0.5 auto
+    rule (228.0 553.1)-(384.5 553.1) Single w=0.5 auto
+    rule (228.3 536.2)-(228.3 553.1) Single w=0.5 auto
+    rule (384.3 536.2)-(384.3 553.1) Single w=0.5 auto
+    cell [228.3 536.2 156.0x17.0] table=[1] r26 c1 body
+    lines body [1,26,2,0] l0..1 x=389.7 y=536.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band lantern garden."
+    rule (384.0 536.2)-(540.5 536.2) Single w=0.5 auto
+    rule (384.0 553.1)-(540.5 553.1) Single w=0.5 auto
+    rule (384.3 536.2)-(384.3 553.1) Single w=0.5 auto
+    rule (540.3 536.2)-(540.3 553.1) Single w=0.5 auto
+    cell [384.3 536.2 156.0x17.0] table=[1] r26 c2 body
+    lines body [1,27,0,0] l0..1 x=77.7 y=553.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window measure winter."
+    rule (72.0 553.1)-(228.5 553.1) Single w=0.5 auto
+    rule (72.0 570.1)-(228.5 570.1) Single w=0.5 auto
+    rule (72.3 553.1)-(72.3 570.1) Single w=0.5 auto
+    rule (228.3 553.1)-(228.3 570.1) Single w=0.5 auto
+    cell [72.3 553.1 156.0x17.0] table=[1] r27 c0 body
+    lines body [1,27,1,0] l0..1 x=233.7 y=553.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Jumps dog evening."
+    rule (228.0 553.1)-(384.5 553.1) Single w=0.5 auto
+    rule (228.0 570.1)-(384.5 570.1) Single w=0.5 auto
+    rule (228.3 553.1)-(228.3 570.1) Single w=0.5 auto
+    rule (384.3 553.1)-(384.3 570.1) Single w=0.5 auto
+    cell [228.3 553.1 156.0x17.0] table=[1] r27 c1 body
+    lines body [1,27,2,0] l0..1 x=389.7 y=553.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Orchard history morning."
+    rule (384.0 553.1)-(540.5 553.1) Single w=0.5 auto
+    rule (384.0 570.1)-(540.5 570.1) Single w=0.5 auto
+    rule (384.3 553.1)-(384.3 570.1) Single w=0.5 auto
+    rule (540.3 553.1)-(540.3 570.1) Single w=0.5 auto
+    cell [384.3 553.1 156.0x17.0] table=[1] r27 c2 body
+    lines body [1,28,0,0] l0..1 x=77.7 y=570.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Chapter because summer."
+    rule (72.0 570.1)-(228.5 570.1) Single w=0.5 auto
+    rule (72.0 587.0)-(228.5 587.0) Single w=0.5 auto
+    rule (72.3 570.1)-(72.3 587.0) Single w=0.5 auto
+    rule (228.3 570.1)-(228.3 587.0) Single w=0.5 auto
+    cell [72.3 570.1 156.0x17.0] table=[1] r28 c0 body
+    lines body [1,28,1,0] l0..1 x=233.7 y=570.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Because harbour orchard."
+    rule (228.0 570.1)-(384.5 570.1) Single w=0.5 auto
+    rule (228.0 587.0)-(384.5 587.0) Single w=0.5 auto
+    rule (228.3 570.1)-(228.3 587.0) Single w=0.5 auto
+    rule (384.3 570.1)-(384.3 587.0) Single w=0.5 auto
+    cell [228.3 570.1 156.0x17.0] table=[1] r28 c1 body
+    lines body [1,28,2,0] l0..1 x=389.7 y=570.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Pattern lantern band."
+    rule (384.0 570.1)-(540.5 570.1) Single w=0.5 auto
+    rule (384.0 587.0)-(540.5 587.0) Single w=0.5 auto
+    rule (384.3 570.1)-(384.3 587.0) Single w=0.5 auto
+    rule (540.3 570.1)-(540.3 587.0) Single w=0.5 auto
+    cell [384.3 570.1 156.0x17.0] table=[1] r28 c2 body
+    lines body [1,29,0,0] l0..1 x=77.7 y=587.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "The through river."
+    rule (72.0 587.0)-(228.5 587.0) Single w=0.5 auto
+    rule (72.0 604.0)-(228.5 604.0) Single w=0.5 auto
+    rule (72.3 587.0)-(72.3 604.0) Single w=0.5 auto
+    rule (228.3 587.0)-(228.3 604.0) Single w=0.5 auto
+    cell [72.3 587.0 156.0x17.0] table=[1] r29 c0 body
+    lines body [1,29,1,0] l0..1 x=233.7 y=587.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Pattern question band."
+    rule (228.0 587.0)-(384.5 587.0) Single w=0.5 auto
+    rule (228.0 604.0)-(384.5 604.0) Single w=0.5 auto
+    rule (228.3 587.0)-(228.3 604.0) Single w=0.5 auto
+    rule (384.3 587.0)-(384.3 604.0) Single w=0.5 auto
+    cell [228.3 587.0 156.0x17.0] table=[1] r29 c1 body
+    lines body [1,29,2,0] l0..1 x=389.7 y=587.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Between another silver."
+    rule (384.0 587.0)-(540.5 587.0) Single w=0.5 auto
+    rule (384.0 604.0)-(540.5 604.0) Single w=0.5 auto
+    rule (384.3 587.0)-(384.3 604.0) Single w=0.5 auto
+    rule (540.3 587.0)-(540.3 604.0) Single w=0.5 auto
+    cell [384.3 587.0 156.0x17.0] table=[1] r29 c2 body
+    lines body [1,30,0,0] l0..1 x=77.7 y=604.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Meadow plays people."
+    rule (72.0 604.0)-(228.5 604.0) Single w=0.5 auto
+    rule (72.0 620.9)-(228.5 620.9) Single w=0.5 auto
+    rule (72.3 604.0)-(72.3 620.9) Single w=0.5 auto
+    rule (228.3 604.0)-(228.3 620.9) Single w=0.5 auto
+    cell [72.3 604.0 156.0x17.0] table=[1] r30 c0 body
+    lines body [1,30,1,0] l0..1 x=233.7 y=604.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Village while evening."
+    rule (228.0 604.0)-(384.5 604.0) Single w=0.5 auto
+    rule (228.0 620.9)-(384.5 620.9) Single w=0.5 auto
+    rule (228.3 604.0)-(228.3 620.9) Single w=0.5 auto
+    rule (384.3 604.0)-(384.3 620.9) Single w=0.5 auto
+    cell [228.3 604.0 156.0x17.0] table=[1] r30 c1 body
+    lines body [1,30,2,0] l0..1 x=389.7 y=604.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone people silver."
+    rule (384.0 604.0)-(540.5 604.0) Single w=0.5 auto
+    rule (384.0 620.9)-(540.5 620.9) Single w=0.5 auto
+    rule (384.3 604.0)-(384.3 620.9) Single w=0.5 auto
+    rule (540.3 604.0)-(540.3 620.9) Single w=0.5 auto
+    cell [384.3 604.0 156.0x17.0] table=[1] r30 c2 body
+    lines body [1,31,0,0] l0..1 x=77.7 y=621.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Number measure people."
+    rule (72.0 620.9)-(228.5 620.9) Single w=0.5 auto
+    rule (72.0 637.9)-(228.5 637.9) Single w=0.5 auto
+    rule (72.3 620.9)-(72.3 637.9) Single w=0.5 auto
+    rule (228.3 620.9)-(228.3 637.9) Single w=0.5 auto
+    cell [72.3 620.9 156.0x17.0] table=[1] r31 c0 body
+    lines body [1,31,1,0] l0..1 x=233.7 y=621.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Morning river another."
+    rule (228.0 620.9)-(384.5 620.9) Single w=0.5 auto
+    rule (228.0 637.9)-(384.5 637.9) Single w=0.5 auto
+    rule (228.3 620.9)-(228.3 637.9) Single w=0.5 auto
+    rule (384.3 620.9)-(384.3 637.9) Single w=0.5 auto
+    cell [228.3 620.9 156.0x17.0] table=[1] r31 c1 body
+    lines body [1,31,2,0] l0..1 x=389.7 y=621.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox band between."
+    rule (384.0 620.9)-(540.5 620.9) Single w=0.5 auto
+    rule (384.0 637.9)-(540.5 637.9) Single w=0.5 auto
+    rule (384.3 620.9)-(384.3 637.9) Single w=0.5 auto
+    rule (540.3 620.9)-(540.3 637.9) Single w=0.5 auto
+    cell [384.3 620.9 156.0x17.0] table=[1] r31 c2 body
+    lines body [1,32,0,0] l0..1 x=77.7 y=638.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Through window evening."
+    rule (72.0 637.9)-(228.5 637.9) Single w=0.5 auto
+    rule (72.0 654.8)-(228.5 654.8) Single w=0.5 auto
+    rule (72.3 637.9)-(72.3 654.8) Single w=0.5 auto
+    rule (228.3 637.9)-(228.3 654.8) Single w=0.5 auto
+    cell [72.3 637.9 156.0x17.0] table=[1] r32 c0 body
+    lines body [1,32,1,0] l0..1 x=233.7 y=638.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "The through window."
+    rule (228.0 637.9)-(384.5 637.9) Single w=0.5 auto
+    rule (228.0 654.8)-(384.5 654.8) Single w=0.5 auto
+    rule (228.3 637.9)-(228.3 654.8) Single w=0.5 auto
+    rule (384.3 637.9)-(384.3 654.8) Single w=0.5 auto
+    cell [228.3 637.9 156.0x17.0] table=[1] r32 c1 body
+    lines body [1,32,2,0] l0..1 x=389.7 y=638.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Winter meadow another."
+    rule (384.0 637.9)-(540.5 637.9) Single w=0.5 auto
+    rule (384.0 654.8)-(540.5 654.8) Single w=0.5 auto
+    rule (384.3 637.9)-(384.3 654.8) Single w=0.5 auto
+    rule (540.3 637.9)-(540.3 654.8) Single w=0.5 auto
+    cell [384.3 637.9 156.0x17.0] table=[1] r32 c2 body
+    lines body [1,33,0,0] l0..1 x=77.7 y=655.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Question summer brown."
+    rule (72.0 654.8)-(228.5 654.8) Single w=0.5 auto
+    rule (72.0 720.0)-(228.5 720.0) Single w=0.5 auto
+    rule (72.3 654.8)-(72.3 720.0) Single w=0.5 auto
+    rule (228.3 654.8)-(228.3 720.0) Single w=0.5 auto
+    cell [72.3 654.8 156.0x65.2] table=[1] r33 c0 body
+    lines body [1,33,1,0] l0..1 x=233.7 y=655.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another the silver."
+    rule (228.0 654.8)-(384.5 654.8) Single w=0.5 auto
+    rule (228.0 720.0)-(384.5 720.0) Single w=0.5 auto
+    rule (228.3 654.8)-(228.3 720.0) Single w=0.5 auto
+    rule (384.3 654.8)-(384.3 720.0) Single w=0.5 auto
+    cell [228.3 654.8 156.0x65.2] table=[1] r33 c1 body
+    lines body [1,33,2,0] l0..3 x=389.7 y=655.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Wrap "Chapter evening history "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=145.2 end=Wrap "pattern lazy chapter plays "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=145.2 end=Wrap "evening lantern dog "
+    rule (384.0 654.8)-(540.5 654.8) Single w=0.5 auto
+    rule (384.0 720.0)-(540.5 720.0) Single w=0.5 auto
+    rule (384.3 654.8)-(384.3 720.0) Single w=0.5 auto
+    rule (540.3 654.8)-(540.3 720.0) Single w=0.5 auto
+    cell [384.3 654.8 156.0x65.2] table=[1] r33 c2 body
+  rows [1]: 0:72.0+17.0 20:89.0+362.4 21:451.4+17.0 22:468.3+17.0 23:485.3+17.0 24:502.3+17.0 25:519.2+17.0 26:536.2+17.0 27:553.1+17.0 28:570.1+17.0 29:587.0+17.0 30:604.0+17.0 31:620.9+17.0 32:637.9+17.0 33:654.8+65.2
+page 3: 612.0x792.0 number=3 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=1 markup=0.0 header=- footer=-
+  items (217):
+    fill [72.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,0,0] l0..1 x=77.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column A"
+    rule (72.0 72.0)-(228.5 72.0) Single w=0.5 auto
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.3 72.0)-(72.3 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    cell [72.3 72.0 156.0x17.0] table=[1] r0 c0 body
+    fill [228.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,1,0] l0..1 x=233.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column B"
+    rule (228.0 72.0)-(384.5 72.0) Single w=0.5 auto
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    cell [228.3 72.0 156.0x17.0] table=[1] r0 c1 body
+    fill [384.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,2,0] l0..1 x=389.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column C"
+    rule (384.0 72.0)-(540.5 72.0) Single w=0.5 auto
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    rule (540.3 72.0)-(540.3 89.0) Single w=0.5 auto
+    cell [384.3 72.0 156.0x17.0] table=[1] r0 c2 body
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.0 500.8)-(228.5 500.8) Single w=0.5 auto
+    rule (72.3 89.0)-(72.3 500.8) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 500.8) Single w=0.5 auto
+    cell [72.3 89.0 156.0x411.8] table=[1] r33 c0 body
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.0 500.8)-(384.5 500.8) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 500.8) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 500.8) Single w=0.5 auto
+    cell [228.3 89.0 156.0x411.8] table=[1] r33 c1 body
+    lines body [1,33,2,0] l3..28 x=389.7 y=89.5
+      3: top=49.4 h=16.5 base=61.8 left=0.0 right=145.2 end=Wrap "because jumps village "
+      4: top=65.8 h=16.5 base=78.2 left=0.0 right=145.2 end=Wrap "jumps journey number "
+      5: top=82.3 h=16.5 base=94.7 left=0.0 right=145.2 end=Wrap "journey evening people "
+      6: top=98.7 h=16.5 base=111.1 left=0.0 right=145.2 end=Wrap "dog question over over "
+      7: top=115.2 h=16.5 base=127.6 left=0.0 right=145.2 end=Wrap "stone history question "
+      8: top=131.6 h=16.5 base=144.0 left=0.0 right=145.2 end=Wrap "morning window history "
+      9: top=148.1 h=16.5 base=160.5 left=0.0 right=145.2 end=Wrap "lazy over lazy letter "
+      10: top=164.5 h=16.5 base=177.0 left=0.0 right=145.2 end=Wrap "morning market lazy "
+      11: top=181.0 h=16.5 base=193.4 left=0.0 right=145.2 end=Wrap "window number people "
+      12: top=197.4 h=16.5 base=209.9 left=0.0 right=145.2 end=Wrap "letter without pattern the "
+      13: top=213.9 h=16.5 base=226.3 left=0.0 right=145.2 end=Wrap "winter over winter while "
+      14: top=230.3 h=16.5 base=242.8 left=0.0 right=145.2 end=Wrap "silver letter jumps lantern "
+      15: top=246.8 h=16.5 base=259.2 left=0.0 right=145.2 end=Wrap "stone because because "
+      16: top=263.2 h=16.5 base=275.7 left=0.0 right=145.2 end=Wrap "window between morning "
+      17: top=279.7 h=16.5 base=292.1 left=0.0 right=145.2 end=Wrap "number harbour history "
+      18: top=296.1 h=16.5 base=308.6 left=0.0 right=145.2 end=Wrap "evening evening history "
+      19: top=312.6 h=16.5 base=325.0 left=0.0 right=145.2 end=Wrap "lantern letter jumps fox "
+      20: top=329.0 h=16.5 base=341.5 left=0.0 right=145.2 end=Wrap "plays orchard evening "
+      21: top=345.5 h=16.5 base=357.9 left=0.0 right=145.2 end=Wrap "stone morning orchard "
+      22: top=361.9 h=16.5 base=374.4 left=0.0 right=145.2 end=Wrap "winter window brown "
+      23: top=378.4 h=16.5 base=390.8 left=0.0 right=145.2 end=Wrap "orchard while question "
+      24: top=394.8 h=16.5 base=407.3 left=0.0 right=145.2 end=Wrap "orchard river lantern "
+      25: top=411.3 h=16.5 base=423.7 left=0.0 right=145.2 end=Wrap "summer without question "
+      26: top=427.8 h=16.5 base=440.2 left=0.0 right=145.2 end=Wrap "another harbour lantern "
+      27: top=444.2 h=16.5 base=456.6 left=0.0 right=145.2 end=Para "between quick."
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.0 500.8)-(540.5 500.8) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 500.8) Single w=0.5 auto
+    rule (540.3 89.0)-(540.3 500.8) Single w=0.5 auto
+    cell [384.3 89.0 156.0x411.8] table=[1] r33 c2 body
+    lines body [1,34,0,0] l0..1 x=77.7 y=501.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Jumps morning measure."
+    rule (72.0 500.8)-(228.5 500.8) Single w=0.5 auto
+    rule (72.0 517.7)-(228.5 517.7) Single w=0.5 auto
+    rule (72.3 500.8)-(72.3 517.7) Single w=0.5 auto
+    rule (228.3 500.8)-(228.3 517.7) Single w=0.5 auto
+    cell [72.3 500.8 156.0x17.0] table=[1] r34 c0 body
+    lines body [1,34,1,0] l0..1 x=233.7 y=501.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Through stone chapter."
+    rule (228.0 500.8)-(384.5 500.8) Single w=0.5 auto
+    rule (228.0 517.7)-(384.5 517.7) Single w=0.5 auto
+    rule (228.3 500.8)-(228.3 517.7) Single w=0.5 auto
+    rule (384.3 500.8)-(384.3 517.7) Single w=0.5 auto
+    cell [228.3 500.8 156.0x17.0] table=[1] r34 c1 body
+    lines body [1,34,2,0] l0..1 x=389.7 y=501.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox harbour brown."
+    rule (384.0 500.8)-(540.5 500.8) Single w=0.5 auto
+    rule (384.0 517.7)-(540.5 517.7) Single w=0.5 auto
+    rule (384.3 500.8)-(384.3 517.7) Single w=0.5 auto
+    rule (540.3 500.8)-(540.3 517.7) Single w=0.5 auto
+    cell [384.3 500.8 156.0x17.0] table=[1] r34 c2 body
+    lines body [1,35,0,0] l0..1 x=77.7 y=518.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Because people harbour."
+    rule (72.0 517.7)-(228.5 517.7) Single w=0.5 auto
+    rule (72.0 534.7)-(228.5 534.7) Single w=0.5 auto
+    rule (72.3 517.7)-(72.3 534.7) Single w=0.5 auto
+    rule (228.3 517.7)-(228.3 534.7) Single w=0.5 auto
+    cell [72.3 517.7 156.0x17.0] table=[1] r35 c0 body
+    lines body [1,35,1,0] l0..1 x=233.7 y=518.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "River measure harbour."
+    rule (228.0 517.7)-(384.5 517.7) Single w=0.5 auto
+    rule (228.0 534.7)-(384.5 534.7) Single w=0.5 auto
+    rule (228.3 517.7)-(228.3 534.7) Single w=0.5 auto
+    rule (384.3 517.7)-(384.3 534.7) Single w=0.5 auto
+    cell [228.3 517.7 156.0x17.0] table=[1] r35 c1 body
+    lines body [1,35,2,0] l0..1 x=389.7 y=518.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Lantern pattern jumps."
+    rule (384.0 517.7)-(540.5 517.7) Single w=0.5 auto
+    rule (384.0 534.7)-(540.5 534.7) Single w=0.5 auto
+    rule (384.3 517.7)-(384.3 534.7) Single w=0.5 auto
+    rule (540.3 517.7)-(540.3 534.7) Single w=0.5 auto
+    cell [384.3 517.7 156.0x17.0] table=[1] r35 c2 body
+    lines body [1,36,0,0] l0..1 x=77.7 y=535.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Plays over pattern."
+    rule (72.0 534.7)-(228.5 534.7) Single w=0.5 auto
+    rule (72.0 551.6)-(228.5 551.6) Single w=0.5 auto
+    rule (72.3 534.7)-(72.3 551.6) Single w=0.5 auto
+    rule (228.3 534.7)-(228.3 551.6) Single w=0.5 auto
+    cell [72.3 534.7 156.0x17.0] table=[1] r36 c0 body
+    lines body [1,36,1,0] l0..1 x=233.7 y=535.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "History between morning."
+    rule (228.0 534.7)-(384.5 534.7) Single w=0.5 auto
+    rule (228.0 551.6)-(384.5 551.6) Single w=0.5 auto
+    rule (228.3 534.7)-(228.3 551.6) Single w=0.5 auto
+    rule (384.3 534.7)-(384.3 551.6) Single w=0.5 auto
+    cell [228.3 534.7 156.0x17.0] table=[1] r36 c1 body
+    lines body [1,36,2,0] l0..1 x=389.7 y=535.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Quick number brown."
+    rule (384.0 534.7)-(540.5 534.7) Single w=0.5 auto
+    rule (384.0 551.6)-(540.5 551.6) Single w=0.5 auto
+    rule (384.3 534.7)-(384.3 551.6) Single w=0.5 auto
+    rule (540.3 534.7)-(540.3 551.6) Single w=0.5 auto
+    cell [384.3 534.7 156.0x17.0] table=[1] r36 c2 body
+    lines body [1,37,0,0] l0..1 x=77.7 y=552.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band the village."
+    rule (72.0 551.6)-(228.5 551.6) Single w=0.5 auto
+    rule (72.0 568.6)-(228.5 568.6) Single w=0.5 auto
+    rule (72.3 551.6)-(72.3 568.6) Single w=0.5 auto
+    rule (228.3 551.6)-(228.3 568.6) Single w=0.5 auto
+    cell [72.3 551.6 156.0x17.0] table=[1] r37 c0 body
+    lines body [1,37,1,0] l0..1 x=233.7 y=552.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Journey because summer."
+    rule (228.0 551.6)-(384.5 551.6) Single w=0.5 auto
+    rule (228.0 568.6)-(384.5 568.6) Single w=0.5 auto
+    rule (228.3 551.6)-(228.3 568.6) Single w=0.5 auto
+    rule (384.3 551.6)-(384.3 568.6) Single w=0.5 auto
+    cell [228.3 551.6 156.0x17.0] table=[1] r37 c1 body
+    lines body [1,37,2,0] l0..1 x=389.7 y=552.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Number morning without."
+    rule (384.0 551.6)-(540.5 551.6) Single w=0.5 auto
+    rule (384.0 568.6)-(540.5 568.6) Single w=0.5 auto
+    rule (384.3 551.6)-(384.3 568.6) Single w=0.5 auto
+    rule (540.3 551.6)-(540.3 568.6) Single w=0.5 auto
+    cell [384.3 551.6 156.0x17.0] table=[1] r37 c2 body
+    lines body [1,38,0,0] l0..1 x=77.7 y=569.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Without fox another."
+    rule (72.0 568.6)-(228.5 568.6) Single w=0.5 auto
+    rule (72.0 585.5)-(228.5 585.5) Single w=0.5 auto
+    rule (72.3 568.6)-(72.3 585.5) Single w=0.5 auto
+    rule (228.3 568.6)-(228.3 585.5) Single w=0.5 auto
+    cell [72.3 568.6 156.0x17.0] table=[1] r38 c0 body
+    lines body [1,38,1,0] l0..1 x=233.7 y=569.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Chapter another window."
+    rule (228.0 568.6)-(384.5 568.6) Single w=0.5 auto
+    rule (228.0 585.5)-(384.5 585.5) Single w=0.5 auto
+    rule (228.3 568.6)-(228.3 585.5) Single w=0.5 auto
+    rule (384.3 568.6)-(384.3 585.5) Single w=0.5 auto
+    cell [228.3 568.6 156.0x17.0] table=[1] r38 c1 body
+    lines body [1,38,2,0] l0..1 x=389.7 y=569.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Dog brown another."
+    rule (384.0 568.6)-(540.5 568.6) Single w=0.5 auto
+    rule (384.0 585.5)-(540.5 585.5) Single w=0.5 auto
+    rule (384.3 568.6)-(384.3 585.5) Single w=0.5 auto
+    rule (540.3 568.6)-(540.3 585.5) Single w=0.5 auto
+    cell [384.3 568.6 156.0x17.0] table=[1] r38 c2 body
+    lines body [1,39,0,0] l0..1 x=77.7 y=586.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "The silver window."
+    rule (72.0 585.5)-(228.5 585.5) Single w=0.5 auto
+    rule (72.0 602.5)-(228.5 602.5) Single w=0.5 auto
+    rule (72.3 585.5)-(72.3 602.5) Single w=0.5 auto
+    rule (228.3 585.5)-(228.3 602.5) Single w=0.5 auto
+    cell [72.3 585.5 156.0x17.0] table=[1] r39 c0 body
+    lines body [1,39,1,0] l0..1 x=233.7 y=586.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Silver garden lantern."
+    rule (228.0 585.5)-(384.5 585.5) Single w=0.5 auto
+    rule (228.0 602.5)-(384.5 602.5) Single w=0.5 auto
+    rule (228.3 585.5)-(228.3 602.5) Single w=0.5 auto
+    rule (384.3 585.5)-(384.3 602.5) Single w=0.5 auto
+    cell [228.3 585.5 156.0x17.0] table=[1] r39 c1 body
+    lines body [1,39,2,0] l0..1 x=389.7 y=586.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone fox village."
+    rule (384.0 585.5)-(540.5 585.5) Single w=0.5 auto
+    rule (384.0 602.5)-(540.5 602.5) Single w=0.5 auto
+    rule (384.3 585.5)-(384.3 602.5) Single w=0.5 auto
+    rule (540.3 585.5)-(540.3 602.5) Single w=0.5 auto
+    cell [384.3 585.5 156.0x17.0] table=[1] r39 c2 body
+    lines body [1,40,0,0] l0..1 x=77.7 y=603.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band evening lazy."
+    rule (72.0 602.5)-(228.5 602.5) Single w=0.5 auto
+    rule (72.0 662.5)-(228.5 662.5) Single w=0.5 auto
+    rule (72.3 602.5)-(72.3 662.5) Single w=0.5 auto
+    rule (228.3 602.5)-(228.3 662.5) Single w=0.5 auto
+    cell [72.3 602.5 156.0x60.0] table=[1] r40 c0 body
+    lines body [1,40,1,0] l0..1 x=233.7 y=603.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another journey window."
+    rule (228.0 602.5)-(384.5 602.5) Single w=0.5 auto
+    rule (228.0 662.5)-(384.5 662.5) Single w=0.5 auto
+    rule (228.3 602.5)-(228.3 662.5) Single w=0.5 auto
+    rule (384.3 602.5)-(384.3 662.5) Single w=0.5 auto
+    cell [228.3 602.5 156.0x60.0] table=[1] r40 c1 body
+    lines body [1,40,2,0] l0..1 x=389.7 y=603.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Garden summer pattern."
+    rule (384.0 602.5)-(540.5 602.5) Single w=0.5 auto
+    rule (384.0 662.5)-(540.5 662.5) Single w=0.5 auto
+    rule (384.3 602.5)-(384.3 662.5) Single w=0.5 auto
+    rule (540.3 602.5)-(540.3 662.5) Single w=0.5 auto
+    cell [384.3 602.5 156.0x60.0] table=[1] r40 c2 body
+    lines body [1,41,0,0] l0..1 x=77.7 y=663.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Silver between meadow."
+    rule (72.0 662.5)-(228.5 662.5) Single w=0.5 auto
+    rule (72.0 679.4)-(228.5 679.4) Single w=0.5 auto
+    rule (72.3 662.5)-(72.3 679.4) Single w=0.5 auto
+    rule (228.3 662.5)-(228.3 679.4) Single w=0.5 auto
+    cell [72.3 662.5 156.0x17.0] table=[1] r41 c0 body
+    lines body [1,41,1,0] l0..1 x=233.7 y=663.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "While morning between."
+    rule (228.0 662.5)-(384.5 662.5) Single w=0.5 auto
+    rule (228.0 679.4)-(384.5 679.4) Single w=0.5 auto
+    rule (228.3 662.5)-(228.3 679.4) Single w=0.5 auto
+    rule (384.3 662.5)-(384.3 679.4) Single w=0.5 auto
+    cell [228.3 662.5 156.0x17.0] table=[1] r41 c1 body
+    lines body [1,41,2,0] l0..1 x=389.7 y=663.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Because fox silver."
+    rule (384.0 662.5)-(540.5 662.5) Single w=0.5 auto
+    rule (384.0 679.4)-(540.5 679.4) Single w=0.5 auto
+    rule (384.3 662.5)-(384.3 679.4) Single w=0.5 auto
+    rule (540.3 662.5)-(540.3 679.4) Single w=0.5 auto
+    cell [384.3 662.5 156.0x17.0] table=[1] r41 c2 body
+    lines body [1,42,0,0] l0..1 x=77.7 y=679.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox the lazy."
+    rule (72.0 679.4)-(228.5 679.4) Single w=0.5 auto
+    rule (72.0 696.4)-(228.5 696.4) Single w=0.5 auto
+    rule (72.3 679.4)-(72.3 696.4) Single w=0.5 auto
+    rule (228.3 679.4)-(228.3 696.4) Single w=0.5 auto
+    cell [72.3 679.4 156.0x17.0] table=[1] r42 c0 body
+    lines body [1,42,1,0] l0..1 x=233.7 y=679.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Morning lazy lazy."
+    rule (228.0 679.4)-(384.5 679.4) Single w=0.5 auto
+    rule (228.0 696.4)-(384.5 696.4) Single w=0.5 auto
+    rule (228.3 679.4)-(228.3 696.4) Single w=0.5 auto
+    rule (384.3 679.4)-(384.3 696.4) Single w=0.5 auto
+    cell [228.3 679.4 156.0x17.0] table=[1] r42 c1 body
+    lines body [1,42,2,0] l0..1 x=389.7 y=679.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Number question silver."
+    rule (384.0 679.4)-(540.5 679.4) Single w=0.5 auto
+    rule (384.0 696.4)-(540.5 696.4) Single w=0.5 auto
+    rule (384.3 679.4)-(384.3 696.4) Single w=0.5 auto
+    rule (540.3 679.4)-(540.3 696.4) Single w=0.5 auto
+    cell [384.3 679.4 156.0x17.0] table=[1] r42 c2 body
+    lines body [1,43,0,0] l0..1 x=77.7 y=696.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Jumps quick journey."
+    rule (72.0 696.4)-(228.5 696.4) Single w=0.5 auto
+    rule (72.0 713.3)-(228.5 713.3) Single w=0.5 auto
+    rule (72.3 696.4)-(72.3 713.3) Single w=0.5 auto
+    rule (228.3 696.4)-(228.3 713.3) Single w=0.5 auto
+    cell [72.3 696.4 156.0x17.0] table=[1] r43 c0 body
+    lines body [1,43,1,0] l0..1 x=233.7 y=696.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Band brown question."
+    rule (228.0 696.4)-(384.5 696.4) Single w=0.5 auto
+    rule (228.0 713.3)-(384.5 713.3) Single w=0.5 auto
+    rule (228.3 696.4)-(228.3 713.3) Single w=0.5 auto
+    rule (384.3 696.4)-(384.3 713.3) Single w=0.5 auto
+    cell [228.3 696.4 156.0x17.0] table=[1] r43 c1 body
+    lines body [1,43,2,0] l0..1 x=389.7 y=696.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Another without number."
+    rule (384.0 696.4)-(540.5 696.4) Single w=0.5 auto
+    rule (384.0 713.3)-(540.5 713.3) Single w=0.5 auto
+    rule (384.3 696.4)-(384.3 713.3) Single w=0.5 auto
+    rule (540.3 696.4)-(540.3 713.3) Single w=0.5 auto
+    cell [384.3 696.4 156.0x17.0] table=[1] r43 c2 body
+  rows [1]: 0:72.0+17.0 33:89.0+411.8 34:500.8+17.0 35:517.7+17.0 36:534.7+17.0 37:551.6+17.0 38:568.6+17.0 39:585.5+17.0 40:602.5+60.0 41:662.5+17.0 42:679.4+17.0 43:696.4+17.0
+page 4: 612.0x792.0 number=4 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=1 markup=0.0 header=- footer=-
+  items (94):
+    fill [72.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,0,0] l0..1 x=77.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column A"
+    rule (72.0 72.0)-(228.5 72.0) Single w=0.5 auto
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.3 72.0)-(72.3 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    cell [72.3 72.0 156.0x17.0] table=[1] r0 c0 body
+    fill [228.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,1,0] l0..1 x=233.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column B"
+    rule (228.0 72.0)-(384.5 72.0) Single w=0.5 auto
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.3 72.0)-(228.3 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    cell [228.3 72.0 156.0x17.0] table=[1] r0 c1 body
+    fill [384.3 72.0 156.0x17.0] #e0e0e0
+    lines body [1,0,2,0] l0..1 x=389.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Column C"
+    rule (384.0 72.0)-(540.5 72.0) Single w=0.5 auto
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.3 72.0)-(384.3 89.0) Single w=0.5 auto
+    rule (540.3 72.0)-(540.3 89.0) Single w=0.5 auto
+    cell [384.3 72.0 156.0x17.0] table=[1] r0 c2 body
+    lines body [1,44,0,0] l0..1 x=77.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Market people winter."
+    rule (72.0 89.0)-(228.5 89.0) Single w=0.5 auto
+    rule (72.0 105.9)-(228.5 105.9) Single w=0.5 auto
+    rule (72.3 89.0)-(72.3 105.9) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 105.9) Single w=0.5 auto
+    cell [72.3 89.0 156.0x17.0] table=[1] r44 c0 body
+    lines body [1,44,1,0] l0..1 x=233.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Pattern summer letter."
+    rule (228.0 89.0)-(384.5 89.0) Single w=0.5 auto
+    rule (228.0 105.9)-(384.5 105.9) Single w=0.5 auto
+    rule (228.3 89.0)-(228.3 105.9) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 105.9) Single w=0.5 auto
+    cell [228.3 89.0 156.0x17.0] table=[1] r44 c1 body
+    lines body [1,44,2,0] l0..1 x=389.7 y=89.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Evening harbour stone."
+    rule (384.0 89.0)-(540.5 89.0) Single w=0.5 auto
+    rule (384.0 105.9)-(540.5 105.9) Single w=0.5 auto
+    rule (384.3 89.0)-(384.3 105.9) Single w=0.5 auto
+    rule (540.3 89.0)-(540.3 105.9) Single w=0.5 auto
+    cell [384.3 89.0 156.0x17.0] table=[1] r44 c2 body
+    lines body [1,45,0,0] l0..1 x=77.7 y=106.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Village meadow harbour."
+    rule (72.0 105.9)-(228.5 105.9) Single w=0.5 auto
+    rule (72.0 122.9)-(228.5 122.9) Single w=0.5 auto
+    rule (72.3 105.9)-(72.3 122.9) Single w=0.5 auto
+    rule (228.3 105.9)-(228.3 122.9) Single w=0.5 auto
+    cell [72.3 105.9 156.0x17.0] table=[1] r45 c0 body
+    lines body [1,45,1,0] l0..1 x=233.7 y=106.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Summer silver plays."
+    rule (228.0 105.9)-(384.5 105.9) Single w=0.5 auto
+    rule (228.0 122.9)-(384.5 122.9) Single w=0.5 auto
+    rule (228.3 105.9)-(228.3 122.9) Single w=0.5 auto
+    rule (384.3 105.9)-(384.3 122.9) Single w=0.5 auto
+    cell [228.3 105.9 156.0x17.0] table=[1] r45 c1 body
+    lines body [1,45,2,0] l0..1 x=389.7 y=106.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Fox silver pattern."
+    rule (384.0 105.9)-(540.5 105.9) Single w=0.5 auto
+    rule (384.0 122.9)-(540.5 122.9) Single w=0.5 auto
+    rule (384.3 105.9)-(384.3 122.9) Single w=0.5 auto
+    rule (540.3 105.9)-(540.3 122.9) Single w=0.5 auto
+    cell [384.3 105.9 156.0x17.0] table=[1] r45 c2 body
+    lines body [1,46,0,0] l0..1 x=77.7 y=123.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Winter quick harbour."
+    rule (72.0 122.9)-(228.5 122.9) Single w=0.5 auto
+    rule (72.0 139.8)-(228.5 139.8) Single w=0.5 auto
+    rule (72.3 122.9)-(72.3 139.8) Single w=0.5 auto
+    rule (228.3 122.9)-(228.3 139.8) Single w=0.5 auto
+    cell [72.3 122.9 156.0x17.0] table=[1] r46 c0 body
+    lines body [1,46,1,0] l0..1 x=233.7 y=123.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Stone because brown."
+    rule (228.0 122.9)-(384.5 122.9) Single w=0.5 auto
+    rule (228.0 139.8)-(384.5 139.8) Single w=0.5 auto
+    rule (228.3 122.9)-(228.3 139.8) Single w=0.5 auto
+    rule (384.3 122.9)-(384.3 139.8) Single w=0.5 auto
+    cell [228.3 122.9 156.0x17.0] table=[1] r46 c1 body
+    lines body [1,46,2,0] l0..1 x=389.7 y=123.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window without the."
+    rule (384.0 122.9)-(540.5 122.9) Single w=0.5 auto
+    rule (384.0 139.8)-(540.5 139.8) Single w=0.5 auto
+    rule (384.3 122.9)-(384.3 139.8) Single w=0.5 auto
+    rule (540.3 122.9)-(540.3 139.8) Single w=0.5 auto
+    cell [384.3 122.9 156.0x17.0] table=[1] r46 c2 body
+    lines body [1,47,0,0] l0..1 x=77.7 y=140.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Meadow without dog."
+    rule (72.0 139.8)-(228.5 139.8) Single w=0.5 auto
+    rule (72.0 157.3)-(228.5 157.3) Single w=0.5 auto
+    rule (72.3 139.8)-(72.3 157.3) Single w=0.5 auto
+    rule (228.3 139.8)-(228.3 157.3) Single w=0.5 auto
+    cell [72.3 139.8 156.0x17.5] table=[1] r47 c0 body
+    lines body [1,47,1,0] l0..1 x=233.7 y=140.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Garden summer river."
+    rule (228.0 139.8)-(384.5 139.8) Single w=0.5 auto
+    rule (228.0 157.3)-(384.5 157.3) Single w=0.5 auto
+    rule (228.3 139.8)-(228.3 157.3) Single w=0.5 auto
+    rule (384.3 139.8)-(384.3 157.3) Single w=0.5 auto
+    cell [228.3 139.8 156.0x17.5] table=[1] r47 c1 body
+    lines body [1,47,2,0] l0..1 x=389.7 y=140.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Window question quick."
+    rule (384.0 139.8)-(540.5 139.8) Single w=0.5 auto
+    rule (384.0 157.3)-(540.5 157.3) Single w=0.5 auto
+    rule (384.3 139.8)-(384.3 157.3) Single w=0.5 auto
+    rule (540.3 139.8)-(540.3 157.3) Single w=0.5 auto
+    cell [384.3 139.8 156.0x17.5] table=[1] r47 c2 body
+    lines body [2] l0..1 x=72.0 y=157.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "After the long table."
+  rows [1]: 0:72.0+17.0 44:89.0+17.0 45:105.9+17.0 46:122.9+17.0 47:139.8+17.5

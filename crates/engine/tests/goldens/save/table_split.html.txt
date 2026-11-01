@@ -1,0 +1,268 @@
+== html (16171 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_split</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>A table that runs over several pages, with a repeated header row, a row that can't split and one with an exact height.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#E0E0E0">Column A</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#E0E0E0">Column B</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#E0E0E0">Column C</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern jumps pattern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern summer harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question river the.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another without while.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another lazy measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone between measure.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays meadow silver.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard brown summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox while journey.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because measure summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern measure history.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Silver harbour lazy.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market meadow the.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band window without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another lazy measure.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey quick between.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lazy summer measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Without evening pattern.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Dog evening question.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Harbour silver lantern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern journey village.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village chapter while.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone river winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another history journey.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Letter number lantern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over question while.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number between chapter.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Without pattern stone.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Harbour without chapter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Morning jumps without.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter evening history.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window river village.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">History letter journey.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band village market.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Meadow winter letter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden over evening.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Through river orchard.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern without garden.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Silver stone history.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">River morning band.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard history jumps.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village orchard letter.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey people window.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown the the.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Letter silver river.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market market because.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern quick summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening brown meadow.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village lantern summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer river silver.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox measure history.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard harbour the.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Jumps meadow chapter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window silver window.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another silver market.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over quick over.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over summer another.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">While while quick.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Without evening pattern without meadow pattern over band window people silver over plays between journey letter quick letter river measure village chapter fox orchard evening plays summer another evening harbour window morning brown another letter through winter stone pattern stone quick over market meadow letter through through jumps chapter band number another number over journey people question market meadow summer winter over plays brown number summer jumps meadow summer dog.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone morning question.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer measure river.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">River people while.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone harbour summer.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays journey quick.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">While pattern fox.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market between dog.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden garden dog.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The brown pattern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number while harbour.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey morning another.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">River the over.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer river meadow.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter band history.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window brown quick.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The window morning.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden market plays.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market harbour garden.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band lantern garden.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window measure winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Jumps dog evening.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard history morning.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter because summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because harbour orchard.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern lantern band.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The through river.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern question band.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Between another silver.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Meadow plays people.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village while evening.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone people silver.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number measure people.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Morning river another.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox band between.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Through window evening.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The through window.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Winter meadow another.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question summer brown.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another the silver.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter evening history pattern lazy chapter plays evening lantern dog because jumps village jumps journey number journey evening people dog question over over stone history question morning window history lazy over lazy letter morning market lazy window number people letter without pattern the winter over winter while silver letter jumps lantern stone because because window between morning number harbour history evening evening history lantern letter jumps fox plays orchard evening stone morning orchard winter window brown orchard while question orchard river lantern summer without question another harbour lantern between quick.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Jumps morning measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Through stone chapter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox harbour brown.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because people harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">River measure harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern pattern jumps.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays over pattern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">History between morning.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Quick number brown.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band the village.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey because summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number morning without.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Without fox another.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter another window.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Dog brown another.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The silver window.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Silver garden lantern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone fox village.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band evening lazy.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another journey window.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden summer pattern.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Silver between meadow.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">While morning between.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because fox silver.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox the lazy.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Morning lazy lazy.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number question silver.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Jumps quick journey.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band brown question.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Another without number.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market people winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern summer letter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening harbour stone.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village meadow harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer silver plays.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox silver pattern.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Winter quick harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone because brown.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window without the.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Meadow without dog.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden summer river.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window question quick.</td>
+</tr>
+</table>
+<p>After the long table.</p>
+</body>
+</html>

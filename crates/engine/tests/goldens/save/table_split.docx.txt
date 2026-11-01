@@ -1,0 +1,1609 @@
+# 9 parts
+== [Content_Types].xml: same as the blank document's (11 lines, sha256=d35bc25f7c299d03)
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>610</Words>
+<Paragraphs>146</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: table_split</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels: same as the blank document's (6 lines, sha256=aebaf5e2011cb4e6)
+== word/document.xml (1581 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">A table that runs over several pages, with a repeated header row, a row that can&apos;t split and one with an exact height.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="TableGrid"/>
+<w:tblW w:w="0" w:type="auto"/>
+<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="3120"/>
+<w:gridCol w:w="3120"/>
+<w:gridCol w:w="3120"/>
+</w:tblGrid>
+<w:tr>
+<w:trPr>
+<w:tblHeader/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="E0E0E0"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Column A</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="E0E0E0"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Column B</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="E0E0E0"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Column C</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lantern jumps pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern summer harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Question river the.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another without while.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another lazy measure.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone between measure.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Plays meadow silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Orchard brown summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox while journey.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Because measure summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lantern measure history.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver harbour lazy.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market meadow the.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band window without.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another lazy measure.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Journey quick between.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lazy summer measure.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Without evening pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Dog evening question.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Harbour silver lantern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lantern journey village.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Village chapter while.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone river winter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another history journey.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Letter number lantern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Over question while.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number between chapter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Without pattern stone.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Harbour without chapter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Morning jumps without.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter evening history.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window river village.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">History letter journey.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band village market.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow winter letter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden over evening.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Through river orchard.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lantern without garden.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver stone history.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River morning band.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Orchard history jumps.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Village orchard letter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Journey people window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Brown the the.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Letter silver river.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market market because.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern quick summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Evening brown meadow.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Village lantern summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Summer river silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox measure history.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Orchard harbour the.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Jumps meadow chapter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window silver window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another silver market.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Over quick over.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Over summer another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:cantSplit/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">While while quick.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Without evening pattern without meadow pattern over band window people silver over plays between journey letter quick letter river measure village chapter fox orchard evening plays summer another evening harbour window morning brown another letter through winter stone pattern stone quick over market meadow letter through through jumps chapter band number another number over journey people question market meadow summer winter over plays brown number summer jumps meadow summer dog.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone morning question.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Summer measure river.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River people while.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone harbour summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Plays journey quick.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">While pattern fox.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market between dog.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden garden dog.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The brown pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number while harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Journey morning another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River the over.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Summer river meadow.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter band history.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window brown quick.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The window morning.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden market plays.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market harbour garden.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band lantern garden.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window measure winter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Jumps dog evening.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Orchard history morning.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter because summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Because harbour orchard.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern lantern band.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The through river.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern question band.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Between another silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow plays people.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Village while evening.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone people silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number measure people.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Morning river another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox band between.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Through window evening.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The through window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Winter meadow another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Question summer brown.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another the silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter evening history pattern lazy chapter plays evening lantern dog because jumps village jumps journey number journey evening people dog question over over stone history question morning window history lazy over lazy letter morning market lazy window number people letter without pattern the winter over winter while silver letter jumps lantern stone because because window between morning number harbour history evening evening history lantern letter jumps fox plays orchard evening stone morning orchard winter window brown orchard while question orchard river lantern summer without question another harbour lantern between quick.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Jumps morning measure.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Through stone chapter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox harbour brown.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Because people harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River measure harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Lantern pattern jumps.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Plays over pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">History between morning.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Quick number brown.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band the village.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Journey because summer.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number morning without.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Without fox another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Chapter another window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Dog brown another.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">The silver window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver garden lantern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone fox village.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="1200" w:hRule="exact"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band evening lazy.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another journey window.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden summer pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Silver between meadow.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">While morning between.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Because fox silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox the lazy.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Morning lazy lazy.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Number question silver.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Jumps quick journey.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Band brown question.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Another without number.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Market people winter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Pattern summer letter.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Evening harbour stone.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Village meadow harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Summer silver plays.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Fox silver pattern.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Winter quick harbour.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Stone because brown.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window without the.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Meadow without dog.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Garden summer river.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3120" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Window question quick.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">After the long table.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

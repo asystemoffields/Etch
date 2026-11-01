@@ -1,0 +1,22 @@
+[package]
+name = "wordcraft-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish = false
+description = "Etch command line: convert, inspect, render, run commands"
+
+[[bin]]
+name = "etch-cli"
+path = "src/main.rs"
+
+[lints]
+workspace = true
+
+[dependencies]
+wordcraft-doc = { workspace = true }
+wordcraft-engine = { workspace = true }
+wordcraft-render = { workspace = true }
+wordcraft-zotero = { workspace = true }
+serde_json = { workspace = true }
+sys-locale = "0.3"

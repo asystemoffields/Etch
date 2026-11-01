@@ -1,0 +1,181 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (163 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="T1" style:family="text">
+<style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#c00000"/>
+</style:style>
+<style:style style:name="Table1" style:family="table">
+<style:table-properties style:width="468pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table1.C1" style:family="table-column">
+<style:table-column-properties style:column-width="234pt"/>
+</style:style>
+<style:style style:name="Table1.C2" style:family="table-column">
+<style:table-column-properties style:column-width="234pt"/>
+</style:style>
+<style:style style:name="Cell1" style:family="table-cell">
+<style:table-cell-properties fo:padding="4pt" fo:border="0.5pt solid #000000"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:tracked-changes text:track-changes="true">
+<text:changed-region text:id="ct1">
+<text:insertion>
+<office:change-info>
+<dc:creator>Snapshot Author</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+<text:changed-region text:id="ct2">
+<text:deletion>
+<office:change-info>
+<dc:creator>Snapshot Author</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+<text:p text:style-name="Standard">words deleted</text:p>
+</text:deletion>
+</text:changed-region>
+<text:changed-region text:id="ct3">
+<text:insertion>
+<office:change-info>
+<dc:creator>Snapshot Author</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+<text:changed-region text:id="ct4">
+<text:insertion>
+<office:change-info>
+<dc:creator>Snapshot Author</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+<text:changed-region text:id="ct5">
+<text:deletion>
+<office:change-info>
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+<text:p text:style-name="Standard">This whole paragraph is deleted by the second reviewer.</text:p>
+</text:deletion>
+</text:changed-region>
+<text:changed-region text:id="ct6">
+<text:insertion>
+<office:change-info>
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+<text:changed-region text:id="ct7">
+<text:insertion>
+<office:change-info>
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+<text:changed-region text:id="ct8">
+<text:insertion>
+<office:change-info>
+<dc:creator>Second Reviewer</dc:creator>
+<dc:date>
+<timestamp>
+</dc:date>
+</office:change-info>
+</text:insertion>
+</text:changed-region>
+</text:tracked-changes>
+<text:p text:style-name="Standard">Tracked changes: words inserted<text:change-start text:change-id="ct1"/>
+<text:s text:c="1"/>(and these words were added)<text:change-end text:change-id="ct1"/>, <text:change text:change-id="ct2"/>, <text:span text:style-name="T1">formatting changed</text:span>, a paragraph split<text:change-start text:change-id="ct3"/>
+<text:s text:c="1"/>[moved words]<text:change-end text:change-id="ct3"/>
+<text:s text:c="1"/>and one joined.</text:p>
+<text:p text:style-name="Standard">Chapter pattern quick measure through pl<text:change-start text:change-id="ct4"/>
+</text:p>
+<text:p text:style-name="Standard">New paragraph typed with tracking on.<text:change-end text:change-id="ct4"/>ays river people over window lantern window the the chapter river people measure over window evening summer without history number people meadow garden lantern because through river over journey another window river jumps morning garden the over river village chapter.</text:p>
+<text:p text:style-name="Standard">Morning number between without through fox another band brown jumps village through band people another village winter pattern market summer garden another another through jumps the orchard pattern garden harbour people morning market garden village question village meadow market people stone lazy through window number.</text:p>
+<text:p text:style-name="Standard">
+<text:change text:change-id="ct5"/>
+</text:p>
+<text:p text:style-name="Standard">River jumps while while fox morning jumps through quick river the through people orchard silver journey lantern number history another people jumps harbour because pattern market chapter journey village fox chapter window harbour question morning brown harbour jumps dog chapter stone chapter dog another harbour.</text:p>
+<text:p text:style-name="Standard">The last paragraph gets a tracked table after it.<text:change-start text:change-id="ct6"/>
+</text:p>
+<text:change-end text:change-id="ct6"/>
+<table:table table:name="Table1" table:style-name="Table1">
+<table:table-column table:style-name="Table1.C1"/>
+<table:table-column table:style-name="Table1.C2"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+<text:change-start text:change-id="ct7"/>tracked cell<text:change-end text:change-id="ct7"/>
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+<text:change-start text:change-id="ct8"/>inserted row<text:change-end text:change-id="ct8"/>
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">
+</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">
+</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: tracked_changes</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

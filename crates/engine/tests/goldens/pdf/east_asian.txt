@@ -1,0 +1,619 @@
+# pdf: 47118 bytes, 1 page object(s), 1 content stream(s)
+%PDF-1.7
+<binary line 5 bytes sha256=61598235fd0f3e25>
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[21 0 R]>>
+endobj
+2 0 obj
+<</Parent 3 0 R/Title(East Asian Line Breaking)/Dest 13 0 R>>
+endobj
+3 0 obj
+<</Type/Outlines/First 2 0 R/Last 2 0 R/Count 1>>
+endobj
+4 0 obj
+<</Type/StructTreeRoot/RoleMap<</Datetime/Span/Terms/Part/Title/P/Strong/Span/Em/Span>>/K[12 0 R]/ParentTree<</Nums[0 5 0 R]>>/ParentTreeNextKey 1>>
+endobj
+5 0 obj
+[6 0 R 7 0 R 7 0 R 8 0 R 8 0 R 9 0 R 9 0 R 10 0 R 10 0 R 11 0 R]
+endobj
+6 0 obj
+<</Type/StructElem/S/H1/P 12 0 R/T(East Asian Line Breaking)/K[0]/Pg 21 0 R>>
+endobj
+7 0 obj
+<</Type/StructElem/S/P/P 12 0 R/K[1 2]/Pg 21 0 R>>
+endobj
+8 0 obj
+<</Type/StructElem/S/P/P 12 0 R/K[3 4]/Pg 21 0 R>>
+endobj
+9 0 obj
+<</Type/StructElem/S/P/P 12 0 R/K[5 6]/Pg 21 0 R>>
+endobj
+10 0 obj
+<</Type/StructElem/S/P/P 12 0 R/K[7 8]/Pg 21 0 R>>
+endobj
+11 0 obj
+<</Type/StructElem/S/P/P 12 0 R/K[9]/Pg 21 0 R>>
+endobj
+12 0 obj
+<</Type/StructElem/S/Document/P 4 0 R/Lang(en-US)/K[6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R]>>
+endobj
+13 0 obj
+[21 0 R/XYZ 72 702 0]
+endobj
+14 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 15 0 R/f1 18 0 R>>>>
+endobj
+15 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/QIYJJX+SourceSans3-Regular/Encoding/Identity-H/DescendantFonts[16 0 R]/ToUnicode 23 0 R>>
+endobj
+16 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/QIYJJX+SourceSans3-Regular/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 17 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 653 1 1 527 2 2 504 3 3 419 4 4 338 5 5 200 6 6 544 7 7 246 8 8 547 9 9 486 10 10 496 11 11 588 12 12 347 13 13 495 14 14 504]>>
+endobj
+17 0 obj
+<</Type/FontDescriptor/FontName/QIYJJX+SourceSans3-Regular/Flags 131076/FontBBox[-55 -224 565 712]/ItalicAngle 0/Ascent 1000/Descent -326/CapHeight 660/StemV 95.4/CIDSet 22 0 R/FontFile2 24 0 R>>
+endobj
+18 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/JMDEPG+SourceSerif4-Regular/Encoding/Identity-H/DescendantFonts[19 0 R]/ToUnicode 26 0 R>>
+endobj
+19 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/JMDEPG+SourceSerif4-Regular/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 20 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 640 1 3 500 4 4 603 5 5 606 6 6 518 7 8 298 9 9 434 10 10 601 11 11 233 12 12 764 13 13 549 14 14 423 15 15 567 16 16 596 17 17 509 18 18 325 19 19 901 20 20 526 21 21 510 22 22 300 23 23 488 24 25 583 26 26 547]>>
+endobj
+20 0 obj
+<</Type/FontDescriptor/FontName/JMDEPG+SourceSerif4-Regular/Flags 131078/FontBBox[0 -240 872 740]/ItalicAngle 0/Ascent 1036/Descent -335/CapHeight 670/StemV 95.4/CIDSet 25 0 R/FontFile2 27 0 R>>
+endobj
+21 0 obj
+<</Type/Page/Resources 14 0 R/MediaBox[0 0 612 792]/StructParents 0/Parent 1 0 R/Contents 28 0 R>>
+endobj
+22 0 obj
+<</Length 11/Filter/FlateDecode>>
+stream
+  <binary stream 11 bytes sha256=c901751fb4392888499ec77ee455a02e299f9252f74ddc9df6799592c4f04208>
+endstream
+endobj
+23 0 obj
+<</Length 802/Type/CMap/WMode 0>>
+stream
+  %!PS-Adobe-3.0 Resource-CMap
+  %%DocumentNeededResources: procset CIDInit
+  %%IncludeResource: procset CIDInit
+  %%BeginResource: CMap Custom
+  %%Title: (Custom Adobe Identity 0)
+  %%Version: 1
+  %%EndComments
+  /CIDInit /ProcSet findresource begin
+  12 dict begin
+  begincmap
+  /CIDSystemInfo 3 dict dup begin
+      /Registry (Adobe) def
+      /Ordering (Identity) def
+      /Supplement 0 def
+  end def
+  /CMapName /Custom def
+  /CMapVersion 1 def
+  /CMapType 0 def
+  /WMode 0 def
+  1 begincodespacerange
+  <0000> <FFFF>
+  endcodespacerange
+  14 beginbfchar
+  <0001> <0045>
+  <0002> <0061>
+  <0003> <0073>
+  <0004> <0074>
+  <0005> <0020>
+  <0006> <0041>
+  <0007> <0069>
+  <0008> <006E>
+  <0009> <004C>
+  <000A> <0065>
+  <000B> <0042>
+  <000C> <0072>
+  <000D> <006B>
+  <000E> <0067>
+  endbfchar
+  endcmap
+  CMapName currentdict /CMap defineresource pop
+  end
+  end
+  %%EndResource
+  %%EOF
+endstream
+endobj
+24 0 obj
+<</Length 5001/Filter/FlateDecode>>
+stream
+  <binary stream 5001 bytes sha256=9301f9ef1407808f8cabb51bf8921ccf52a3e6f600c0b86ca469696b0a0cab14>
+endstream
+endobj
+25 0 obj
+<</Length 12/Filter/FlateDecode>>
+stream
+  <binary stream 12 bytes sha256=d9153591f955fd92b3aa02baeda6067f0a997fc7d1afd7f19f5a8fd1b3d535fa>
+endstream
+endobj
+26 0 obj
+<</Length 970/Type/CMap/WMode 0>>
+stream
+  %!PS-Adobe-3.0 Resource-CMap
+  %%DocumentNeededResources: procset CIDInit
+  %%IncludeResource: procset CIDInit
+  %%BeginResource: CMap Custom
+  %%Title: (Custom Adobe Identity 0)
+  %%Version: 1
+  %%EndComments
+  /CIDInit /ProcSet findresource begin
+  12 dict begin
+  begincmap
+  /CIDSystemInfo 3 dict dup begin
+      /Registry (Adobe) def
+      /Ordering (Identity) def
+      /Supplement 0 def
+  end def
+  /CMapName /Custom def
+  /CMapVersion 1 def
+  /CMapType 0 def
+  /WMode 0 def
+  1 begincodespacerange
+  <0000> <FFFF>
+  endcodespacerange
+  26 beginbfchar
+  <0001> <0031>
+  <0002> <0032>
+  <0003> <0033>
+  <0004> <0045>
+  <0005> <006E>
+  <0006> <0067>
+  <0007> <006C>
+  <0008> <0069>
+  <0009> <0073>
+  <000A> <0068>
+  <000B> <0020>
+  <000C> <0077>
+  <000D> <006F>
+  <000E> <0072>
+  <000F> <0064>
+  <0010> <004C>
+  <0011> <0061>
+  <0012> <0074>
+  <0013> <006D>
+  <0014> <0078>
+  <0015> <0065>
+  <0016> <002C>
+  <0017> <0063>
+  <0018> <0070>
+  <0019> <0075>
+  <001A> <006B>
+  endbfchar
+  endcmap
+  CMapName currentdict /CMap defineresource pop
+  end
+  end
+  %%EndResource
+  %%EOF
+endstream
+endobj
+27 0 obj
+<</Length 3190/Filter/FlateDecode>>
+stream
+  <binary stream 3190 bytes sha256=4b291003a78d742a2d8a14817d96c568973f878721284d06cffebf8be13576a8>
+endstream
+endobj
+28 0 obj
+<</Length 31622>>
+stream
+  /Span<</MCID 0>>BDC
+  q 1 0 0 -1 0 792 cm 0.05882353 0.2784314 0.38039216 rg
+  BT 0 Tr/f0 20 Tf 1 0 0 -1 72 117.44 Tm[(\000\001\000\002\000\003)20.000061(\000\004\000\005\000\006)-22.999939(\000\003\000\007\000\002\000\b\000\005\000\t\000\007\000\b\000\n\000\005\000\013\000\f)9.999695(\000\n)14.0000305(\000\002\000\r\000\007\000\b\000\016)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 1>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 149.956 Tm(\000\000)Tj/Span<</ActualText<FEFF8F29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF732B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3042>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF540D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF524D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF307E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3060>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7121>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3069>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF751F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3093>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF898B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5F53>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3064>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 294.7199 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 302.3999 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 310.0799 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 317.7599 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4F55>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 325.43988 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 333.11987 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3082>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 340.79987 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8584>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 348.47986 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6697>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 356.15985 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 363.83984 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3058>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 371.51984 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 379.19983 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3058>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 386.87982 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 394.5598 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3057>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 402.2398 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 409.9198 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6240>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 417.5998 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 425.2798 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 432.95978 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30E3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 440.63977 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30FC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 448.31976 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 455.99976 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30E3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 463.67975 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30FC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 471.35974 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6CE3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 479.03973 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 486.71973 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 494.39972 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 502.0797 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 509.7597 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E8B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 517.4397 149.956 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3060>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 525.1197 149.956 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 2>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF3051>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8A18>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF61B6>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3057>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 170.65599 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 170.65599 Tm(\000\000)Tj/Span<</ActualText<FEFF8F29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF59CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EBA>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9593>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3046>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3082>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3092>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF898B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 170.65599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 170.65599 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 3>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 199.35599 Tm(\000\000)Tj/Span<</ActualText<FEFF8F29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF732B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3042>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF540D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF524D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF307E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3060>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7121>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3069>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF751F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3093>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF898B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5F53>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3064>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 294.7199 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF304B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 302.3999 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 310.0799 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 317.7599 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4F55>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 325.43988 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 333.11987 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3082>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 340.79987 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8584>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 348.47986 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6697>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 356.15985 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 363.83984 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3058>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 371.51984 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 379.19983 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3058>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 386.87982 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 394.5598 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3057>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 402.2398 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 409.9198 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6240>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 417.5998 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 425.2798 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 432.95978 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30E3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 440.63977 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30FC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 448.31976 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 455.99976 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30E3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 463.67975 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF30FC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 471.35974 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6CE3>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 479.03973 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 486.71973 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 494.39972 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 502.0797 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 509.7597 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E8B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 517.4397 199.35599 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3060>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 525.1197 199.35599 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 4>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF3051>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8A18>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF61B6>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3057>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF308B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 220.05598 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 220.05598 Tm(\000\000)Tj/Span<</ActualText<FEFF8F29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3053>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3067>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF59CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3081>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3066>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EBA>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9593>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3068>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3044>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3046>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3082>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF306E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3092>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF898B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF305F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 220.05598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 220.05598 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 5>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF5317>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EAC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF79CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5929>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF662F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6700>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF597D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B63>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8282>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5929>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9AD8>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E91>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6DE1>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF98CE>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF548C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF65E5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E3D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EBA>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EEC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8D70>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5728>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8857>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E0A>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF611F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 294.7199 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF53D7>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 302.3999 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7740>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 310.0799 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9633>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 317.7599 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5149>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 325.43988 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 333.11987 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6E29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 340.79987 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6696>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 348.47986 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 356.15985 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8FD9>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 363.83984 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF662F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 371.51984 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E00>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 379.19983 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6BB5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 386.87982 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7528>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 394.5598 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E8E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 402.2398 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6D4B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 409.9198 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8BD5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 417.5998 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E2D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 425.2798 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6587>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 432.95978 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6362>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 440.63977 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF884C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 448.31976 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 455.99976 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6587>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 463.67975 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B57>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 471.35974 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 479.03973 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5305>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 486.71973 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF542B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 494.39972 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6807>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 502.0797 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF70B9>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 509.7597 248.75598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7B26>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 517.4397 248.75598 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 6>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF53F7>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 269.45596 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3001>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 269.45596 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6570>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 269.45596 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B57>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 269.45596 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 105.72 269.45596 Tm[(\000\001\000\002\000\003)]TJ/Span<</ActualText<FEFF548C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 126.72 269.45596 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 137.4 269.45596 Tm[(\000\004\000\005\000\006)9.999725(\000\007\000\b\000\t)10.000824(\000\n\000\013\000\f)19.999619(\000\r\000\016)10.000763(\000\017\000\t)]TJ/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 212.736 269.45596 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 7>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF5317>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EAC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF79CB>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5929>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 102.72 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF662F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 110.4 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6700>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 118.08 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF597D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.76 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.44 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B63>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 141.12 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8282>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 148.8 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 156.48001 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5929>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 164.16 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9AD8>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 171.84 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E91>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 179.52 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6DE1>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 187.20001 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 194.88 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF98CE>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 202.56 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF548C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 210.23999 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF65E5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 217.91998 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E3D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 225.59998 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 233.27997 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EBA>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 240.95996 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4EEC>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 248.63995 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8D70>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 256.31995 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5728>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 263.99994 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8857>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 271.67993 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E0A>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 279.35992 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 287.03992 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF611F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 294.7199 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF53D7>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 302.3999 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7740>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 310.0799 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF9633>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 317.7599 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5149>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 325.43988 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 333.11987 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6E29>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 340.79987 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6696>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 348.47986 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 356.15985 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8FD9>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 363.83984 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF662F>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 371.51984 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E00>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 379.19983 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6BB5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 386.87982 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7528>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 394.5598 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E8E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 402.2398 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6D4B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 409.9198 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8BD5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 417.5998 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF4E2D>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 425.2798 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6587>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 432.95978 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6362>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 440.63977 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF884C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 448.31976 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7684>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 455.99976 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6587>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 463.67975 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B57>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 471.35974 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFFFF0C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 479.03973 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5305>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 486.71973 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF542B>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 494.39972 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6807>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 502.0797 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF70B9>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 509.7597 298.15598 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF7B26>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 517.4397 298.15598 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 8>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT/Span<</ActualText<FEFF53F7>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 72 318.856 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF3001>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 79.68 318.856 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF6570>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 87.36 318.856 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF5B57>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 95.04 318.856 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 105.72 318.856 Tm[(\000\001\000\002\000\003)]TJ/Span<</ActualText<FEFF548C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 126.72 318.856 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 137.4 318.856 Tm[(\000\004\000\005\000\006)9.999725(\000\007\000\b\000\t)10.000824(\000\n\000\013\000\f)19.999619(\000\r\000\016)10.000763(\000\017\000\t)]TJ/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 212.736 318.856 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC/Span<</MCID 9>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 347.55597 Tm[(\000\020\000\021\000\022\000\b\000\005\000\013\000\021)5.00029(\000\005\000\017\000\013)]TJ/Span<</ActualText<FEFF65E5>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 125.724 347.55597 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF672C>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 133.40399 347.55597 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF8A9E>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 141.084 347.55597 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 148.764 347.55597 Tm[(\000\013\000\023)0.0011444092(\000\b\000\024)20.000397(\000\025\000\017\000\013\000\r\000\005\000\013\000\r\000\005\000\025\000\013\000\007\000\b)-0.0012054443(\000\005\000\025)19.99936(\000\026\000\013\000\f)-0.0021820068(\000\b\000\022)0.0014648438(\000\n\000\013)]TJ/Span<</ActualText<FEFF5168>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 280.52405 347.55597 Tm(\000\000)Tj
+  EMC/Span<</ActualText<FEFF89D2>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 288.20404 347.55597 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 295.88403 347.55597 Tm[(\000\013)-0.0017089844(\000\027)11.000092(\000\n)0.0020751953(\000\021)4.9971313(\000\016)11.002533(\000\021\000\027\000\022)0.0014343262(\000\025\000\016)10.000946(\000\t\000\013\000\021)4.999832(\000\005\000\017\000\013)0.0018157959(\000\030)9.99939(\000\031\000\005\000\027\000\022)0.0011291504(\000\031\000\021\000\022\000\b)0.001159668(\000\r)-0.0010375977(\000\005)]TJ/Span<</ActualText<FEFF3001>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 445.81198 347.55597 Tm(\000\000)Tj
+  EMC 0 Tr/f1 12 Tf 1 0 0 -1 453.49197 347.55597 Tm[(\000\007\000\b)0.0018920898(\000\032)19.999573(\000\025\000\013)0.0012664795(\000\022\000\n\000\b\000\t)]TJ/Span<</ActualText<FEFF3002>>>BDC 0 Tr/f1 12 Tf 1 0 0 -1 495.77994 347.55597 Tm(\000\000)Tj
+  EMC
+  ET
+  Q
+  EMC
+endstream
+endobj
+29 0 obj
+<</Title(Snapshot: east_asian)/Author(Snapshot Author)/Creator(Etch)/Producer(Etch)/ModDate(D:<timestamp>)/CreationDate(D:<timestamp>)>>
+endobj
+30 0 obj
+<</Length 1198/Type/Metadata/Subtype/XML>>
+stream
+  <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Snapshot: east_asian</rdf:li></rdf:Alt></dc:title><dc:creator><rdf:Seq><rdf:li>Snapshot Author</rdf:li></rdf:Seq></dc:creator><xmp:CreatorTool>Etch</xmp:CreatorTool><pdf:Producer>Etch</pdf:Producer><dc:language><rdf:Bag><rdf:li>en-US</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate><timestamp></xmp:ModifyDate><xmp:CreateDate><timestamp></xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>j/YQOriyPjCBntqz1GW2iw==</xmpMM:InstanceID><xmpMM:DocumentID>0KGLfbMbtuJJpuQVHdQ8TQ==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+31 0 obj
+<</Type/Catalog/Pages 1 0 R/Metadata 30 0 R/Lang(en-US)/StructTreeRoot 4 0 R/MarkInfo<</Marked true/Suspects false>>/Outlines 3 0 R>>
+endobj
+xref
+0 32
+0000000000 65535 f
+0000000016 00000 n
+0000000068 00000 n
+0000000145 00000 n
+0000000210 00000 n
+0000000374 00000 n
+0000000454 00000 n
+0000000547 00000 n
+0000000613 00000 n
+0000000679 00000 n
+0000000745 00000 n
+0000000812 00000 n
+0000000877 00000 n
+0000000986 00000 n
+0000001024 00000 n
+0000001107 00000 n
+0000001249 00000 n
+0000001584 00000 n
+0000001796 00000 n
+0000001939 00000 n
+0000002361 00000 n
+0000002572 00000 n
+0000002687 00000 n
+0000002766 00000 n
+0000003636 00000 n
+0000008707 00000 n
+0000008787 00000 n
+0000009825 00000 n
+0000013085 00000 n
+0000044759 00000 n
+0000044920 00000 n
+0000046195 00000 n
+trailer
+<</Size 32/Root 31 0 R/Info 29 0 R/ID[<id><id>]>>
+startxref
+46345
+%%EOF

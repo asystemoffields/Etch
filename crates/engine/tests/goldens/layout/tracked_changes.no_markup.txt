@@ -1,0 +1,75 @@
+# layout snapshot: tracked_changes (no_markup)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (44):
+    lines body [0] l0..2 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Tracked changes: words inserted (and these words were added), {obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}, formatting changed, "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "a paragraph split [moved words] and one joined."
+    lines body [1] l0..1 x=72.0 y=117.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Chapter pattern quick measure through pl"
+    lines body [2] l0..4 x=72.0 y=144.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "New paragraph typed with tracking on.ays river people over window lantern window "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "the the chapter river people measure over window evening summer without history "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "number people meadow garden lantern because through river over journey another "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "window river jumps morning garden the over river village chapter."
+    lines body [3] l0..5 x=72.0 y=228.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Morning number between without through fox another band brown jumps village "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "through band people another village winter pattern market summer garden another "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "another through jumps the orchard pattern garden harbour people morning market "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "garden village question village meadow market people stone lazy through window "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "number."
+    lines body [4] l0..1 x=72.0 y=331.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}"
+    lines body [5] l0..4 x=72.0 y=358.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "River jumps while while fox morning jumps through quick river the through people "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "orchard silver journey lantern number history another people jumps harbour because "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "pattern market chapter journey village fox chapter window harbour question morning "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "brown harbour jumps dog chapter stone chapter dog another harbour."
+    lines body [6] l0..1 x=72.0 y=441.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "The last paragraph gets a tracked table after it."
+    lines body [7,0,0,0] l0..1 x=77.7 y=469.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "tracked cell"
+    rule (72.0 468.6)-(306.5 468.6) Single w=0.5 auto
+    rule (72.0 485.5)-(306.5 485.5) Single w=0.5 auto
+    rule (72.3 468.6)-(72.3 485.5) Single w=0.5 auto
+    rule (306.3 468.6)-(306.3 485.5) Single w=0.5 auto
+    cell [72.3 468.6 234.0x17.0] table=[7] r0 c0 body
+    lines body [7,0,1,0] l0..1 x=311.7 y=469.1
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para ""
+    rule (306.0 468.6)-(540.5 468.6) Single w=0.5 auto
+    rule (306.0 485.5)-(540.5 485.5) Single w=0.5 auto
+    rule (306.3 468.6)-(306.3 485.5) Single w=0.5 auto
+    rule (540.3 468.6)-(540.3 485.5) Single w=0.5 auto
+    cell [306.3 468.6 234.0x17.0] table=[7] r0 c1 body
+    lines body [7,1,0,0] l0..1 x=77.7 y=486.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "inserted row"
+    rule (72.0 485.5)-(306.5 485.5) Single w=0.5 auto
+    rule (72.0 502.5)-(306.5 502.5) Single w=0.5 auto
+    rule (72.3 485.5)-(72.3 502.5) Single w=0.5 auto
+    rule (306.3 485.5)-(306.3 502.5) Single w=0.5 auto
+    cell [72.3 485.5 234.0x17.0] table=[7] r1 c0 body
+    lines body [7,1,1,0] l0..1 x=311.7 y=486.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para ""
+    rule (306.0 485.5)-(540.5 485.5) Single w=0.5 auto
+    rule (306.0 502.5)-(540.5 502.5) Single w=0.5 auto
+    rule (306.3 485.5)-(306.3 502.5) Single w=0.5 auto
+    rule (540.3 485.5)-(540.3 502.5) Single w=0.5 auto
+    cell [306.3 485.5 234.0x17.0] table=[7] r1 c1 body
+    lines body [7,2,0,0] l0..1 x=77.7 y=503.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para ""
+    rule (72.0 502.5)-(306.5 502.5) Single w=0.5 auto
+    rule (72.0 519.9)-(306.5 519.9) Single w=0.5 auto
+    rule (72.3 502.5)-(72.3 519.9) Single w=0.5 auto
+    rule (306.3 502.5)-(306.3 519.9) Single w=0.5 auto
+    cell [72.3 502.5 234.0x17.5] table=[7] r2 c0 body
+    lines body [7,2,1,0] l0..1 x=311.7 y=503.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para ""
+    rule (306.0 502.5)-(540.5 502.5) Single w=0.5 auto
+    rule (306.0 519.9)-(540.5 519.9) Single w=0.5 auto
+    rule (306.3 502.5)-(306.3 519.9) Single w=0.5 auto
+    rule (540.3 502.5)-(540.3 519.9) Single w=0.5 auto
+    cell [306.3 502.5 234.0x17.5] table=[7] r2 c1 body
+    lines body [8] l0..1 x=72.0 y=519.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+  rows [7]: 0:468.6+17.0 1:485.5+17.0 2:502.5+17.5

@@ -1,0 +1,48 @@
+== html (2532 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: rtl</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Right-to-Left Text</h1>
+<p dir="rtl">Summer number journey market through winter between while without plays evening village stone stone summer fox evening while meadow village winter harbour the stone another stone between silver journey while village because through village brown river brown river meadow measure.</p>
+<p dir="rtl">שלום עולם, זהו משפט בעברית עם מספרים 123 ו-456 בתוכו.</p>
+<p dir="rtl" style="text-align:justify">مرحبا بالعالم، هذه جملة عربية فيها كلمات english وأرقام 789.</p>
+<p>Mixed in a left-to-right paragraph: Hello שלום 42 world مرحبا again.</p>
+<p dir="rtl" style="text-align:right">Right-aligned right-to-left paragraph.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">ימין</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because winter through.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">שמאל</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Jumps letter measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown through through.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening stone without.</td>
+</tr>
+</table>
+<h2>A right-to-left section</h2>
+<p>Journey winter quick summer between garden jumps evening fox dog stone stone between pattern silver summer fox orchard summer window jumps measure lazy chapter meadow measure letter dog plays plays harbour letter through people winter journey winter plays brown pattern river meadow number brown village plays brown while summer because.</p>
+<ol>
+<li dir="rtl">פריט ראשון</li>
+<li dir="rtl">פריט שני</li>
+</ol>
+</body>
+</html>

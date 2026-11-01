@@ -1,0 +1,51 @@
+== html (2533 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: tracked_changes</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Tracked changes: words inserted (and these words were added), , <strong>
+<span style="color:#C00000">formatting changed</span>
+</strong>, a paragraph split [moved words] and one joined.</p>
+<p>Chapter pattern quick measure through pl</p>
+<p>New paragraph typed with tracking on.ays river people over window lantern window the the chapter river people measure over window evening summer without history number people meadow garden lantern because through river over journey another window river jumps morning garden the over river village chapter.</p>
+<p>Morning number between without through fox another band brown jumps village through band people another village winter pattern market summer garden another another through jumps the orchard pattern garden harbour people morning market garden village question village meadow market people stone lazy through window number.</p>
+<p>&nbsp;</p>
+<p>River jumps while while fox morning jumps through quick river the through people orchard silver journey lantern number history another people jumps harbour because pattern market chapter journey village fox chapter window harbour question morning brown harbour jumps dog chapter stone chapter dog another harbour.</p>
+<p>The last paragraph gets a tracked table after it.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:234pt">
+<col style="width:234pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">tracked cell</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">inserted row</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+</td>
+</tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

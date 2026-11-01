@@ -1,0 +1,27 @@
+# layout snapshot: report (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (11):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "Report Title"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "Subtitle or date"
+    lines body [2] l0..1 x=72.0 y=153.2
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Summary"
+    lines body [3] l0..1 x=72.0 y=187.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Summarise the findings in two or three sentences."
+    lines body [4] l0..1 x=72.0 y=224.6
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Background"
+    lines body [5] l0..1 x=72.0 y=259.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Describe the context and the question the report answers."
+    lines body [6] l0..1 x=72.0 y=296.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Findings"
+    lines body [7] l0..1 x=72.0 y=334.5
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "First finding"
+    lines body [8] l0..1 x=72.0 y=362.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Explain the evidence."
+    lines body [9] l0..1 x=72.0 y=399.9
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Recommendations"
+    lines body [10] l0..1 x=72.0 y=434.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "List what should happen next."

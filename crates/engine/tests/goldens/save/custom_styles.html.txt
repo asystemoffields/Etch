@@ -1,0 +1,51 @@
+== html (1642 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: custom_styles</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<ol>
+<li>Numbered heading</li>
+</ol>
+<p>Dog between window the silver chapter lantern jumps lantern over summer brown quick another fox lantern brown history pattern silver band through fox silver village measure evening band letter the the harbour another morning another morning window question journey history.</p>
+<p>Body Note style paragraph with a smaller italic face.</p>
+<p>Inline code: <code>
+<span style="background-color:#EEEEEE;font-size:10pt">let x = 42;</span>
+</code> in a sentence.</p>
+<ol>
+<li>
+<ol>
+<li>Second-level numbered heading</li>
+</ol>
+</li>
+</ol>
+<p>Boxed, based on Body Note: bold, not italic.</p>
+<ol>
+<li>
+<ol>
+<li>
+<ol>
+<li>Third level</li>
+</ol>
+</li>
+<li>Another second level</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li>Another first level</li>
+</ol>
+<p>River between lazy lantern quick jumps quick harbour morning river number brown orchard window chapter brown dog letter fox brown quick silver garden lazy river lazy the because band jumps while question over morning because band window question garden village.</p>
+</body>
+</html>

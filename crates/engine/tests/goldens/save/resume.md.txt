@@ -1,0 +1,18 @@
+== md (313 bytes)
+# Alex Rivera
+
+Illustrator · alex@example.com · portfolio.example.com
+
+# Experience
+
+Lead Illustrator, Harbor Books    *2021 – present*
+
+Freelance Illustrator    *2016 – 2021*
+
+# Education
+
+BFA Illustration, Coastal College of Art    *2016*
+
+# Skills
+
+Ink, gouache, digital painting, book layout, lettering

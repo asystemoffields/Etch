@@ -1,0 +1,96 @@
+== html (7240 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_floating</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Floating and Styled Tables</h1>
+<p>Lazy garden stone summer history number silver evening window people through lazy letter lazy evening garden between river brown dog village window winter band orchard because while without lazy fox history people another market people evening garden letter meadow plays pattern measure meadow village silver lazy harbour through pattern pattern another over between lantern lazy letter village history question harbour.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:100pt">
+<col style="width:100pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey between village.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays meadow people.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Dog brown village.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox while plays.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lazy harbour people.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The morning while.</td>
+</tr>
+</table>
+<p>The garden village over plays while measure through window pattern silver measure garden question pattern jumps brown pattern stone dog lazy band brown band jumps band pattern journey plays plays lantern river fox measure band brown morning chapter band village dog without jumps quick while measure orchard lazy garden harbour stone over pattern morning summer river evening another morning between.</p>
+<p>Over brown morning people while fox silver number without quick history quick village market people jumps band quick lantern quick dog brown silver while measure plays garden meadow question over letter while lantern morning through through journey summer harbour the between journey orchard meadow another lantern letter history the number garden market summer without winter lantern lazy quick orchard lantern.</p>
+<p>Question lantern summer river stone stone history jumps journey chapter fox quick number winter because people window silver number chapter silver dog because between lazy evening garden lazy between through morning question plays letter river through orchard dog orchard window evening jumps window river summer village history lantern plays over journey village lantern journey silver without because quick summer over.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village garden orchard.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden question stone.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Quick village measure.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown the number.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone dog without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Number summer number.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Dog evening fox.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">People silver jumps.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because letter without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lantern quick summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Winter winter without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Market chapter journey.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band without history.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Letter journey the.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey orchard winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Winter market history.</td>
+</tr>
+</table>
+<p>Meadow summer journey chapter band chapter letter fox history letter question between band harbour jumps the without window window history the stone garden evening measure morning lazy history stone another through market history plays evening meadow band because through harbour village river the summer evening window journey without silver through summer history morning market meadow morning stone measure history lantern.</p>
+<p>Winter summer orchard morning letter meadow number another letter orchard orchard stone through fox letter silver jumps journey jumps people band harbour because over window harbour another window lantern through measure history question silver band dog fox meadow silver without history pattern because stone fox while letter band lantern pattern meadow while dog pattern orchard the measure people garden the.</p>
+<p>Stone while letter people another plays the history the between village history summer village the measure winter because silver garden plays winter morning the meadow over orchard evening through people another history journey silver summer chapter journey silver through number band because evening stone another band orchard chapter letter brown because because number the band over meadow orchard measure dog.</p>
+<p>Silver through dog stone journey the because quick chapter while while evening history measure plays morning question dog history number over journey silver chapter without because lazy lazy jumps band market plays meadow village dog orchard window morning silver history winter silver morning market river through letter without question stone summer while jumps people summer orchard silver pattern plays another.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">River jumps through.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer lantern lazy.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter brown summer.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Without while without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Plays fox meadow.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over because window.</td>
+</tr>
+</table>
+<p>After the tables.</p>
+</body>
+</html>

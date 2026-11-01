@@ -1,0 +1,14 @@
+== txt (1374 bytes)
+Comments: a remark on a phrase, a reply to it, a resolved thread and a comment on a whole paragraph.
+Letter through morning market journey brown another lazy quick another journey silver between stone window silver lazy silver market quick band morning lantern river summer people morning stone without while journey garden between dog another window number question journey journey measure over over without lantern between lazy harbour market plays.
+Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone window village over meadow river summer plays while another jumps jumps journey lazy measure between without the stone village lantern people.
+A short last paragraph.
+
+Comments
+
+[1] Snapshot Author on “remark on a phrase”: The first remark, on a phrase.
+    Snapshot Author: A reply from the same author.
+
+[2] Second Reviewer on “resolved thread”: This one is resolved.
+
+[3] Second Reviewer on “Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone windo…”: A longer comment on the whole paragraph, so the balloon wraps onto several lines in the markup area.

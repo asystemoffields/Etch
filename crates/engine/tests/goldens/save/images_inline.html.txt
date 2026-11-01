@@ -1,0 +1,48 @@
+== html (4437 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: images_inline</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Inline Pictures</h1>
+<p>Small pictures in the text flow:<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAABA0lEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a9+67u+I8/PO07vzPPzo/WHeX7ecXpnnp8frT/M80Hw34PgvwfBfw+C/x4E/z0I/nsQ/PegvuP0zjw/P1p/mOfnHad35vn50frDPD/vOL0zzwfBfw+C/x4E/z0I/nsQ/Pcg+O9B8N+D+qP1h3l+3nF6Z56fH60/zPPzjtM78/z8aP1hng+C/x4E/z0I/nsQ/Pcg+O9B8N+D4L8H9R2nd+b5+dH6wzw/7zi9M8/Pj9Yf5vl5x+mdeT4I/nsQ/Pcg+O9B8N+D4L8H/wiQ+R45iLKmTgAAAABJRU5ErkJggg==" alt="Tiny" width="53" height="40">
+</p>
+<p>River garden river v<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAeCAIAAADlxgqWAAABK0lEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a/+1ru+DM/Pyzz+e3l+/uox78nz8zKP/16en796zHvy/LzM47+X54PgfxaC/1kI/mch+J+F4H8Wgv9ZCP5nQbsv83c8P3/1mPfk+XmZx38vz89fPeY9eX5e5vHfy/PzV495T54Pgv9ZCP5nIfifheB/FoL/WQj+ZyH4n4X6V495T56fl3n89/L8/NVj3pPn52Ue/708P3/1mPfk+XmZx38vzwfB/ywE/7MQ/M9C8D8Lwf8sBP+zEPzPgnZf5u94fv7qMe/J8/Myj/9enp+/esx78vy8zOO/l+fnrx7znjwfBP+zEPzPQvA/C8H/LAT/s/CPcOkkxzvjN6AAAAAASUVORK5CYII=" alt="In the middle of a sentence" width="128" height="80">illage number while band pattern measure evening history question dog people over orchard because harbour window over window through river because journey while stone summer stone the.</p>
+<p>A picture wider than the column:</p>
+<p>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAeCAIAAAD2EUpiAAABL0lEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a/e8a5bPD9bP3uO5+fgLU/z/Gz97Dmen4O3PM3zs/Wz53h+Dt7yNM8Hwf8OBP87EPzvQPC/A8H/DgT/OxD874B2t1Y8PwdveZrnZ+tnz/H8HLzlaZ6frZ89x/Nz8JaneX62fvYczwfB/w4E/zsQ/O9A8L8Dwf8OBP87EPzvQD14y9M8P1s/e47n5+AtT/P8bP3sOZ6fg7c8zfOz9bPneH4O3vI0zwfB/w4E/zsQ/O9A8L8Dwf8OBP87EPzvgHa3Vjw/B295mudn62fP8fwcvOVpnp+tnz3H83Pwlqd5frZ+9hzPB8H/DgT/OxD870DwvwPB/w78I11YKseQIb2RAAAAAElFTkSuQmCC" alt="Wider than the column" width="800" height="400">
+</p>
+<ul>
+<li>A list item with a picture <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAeCAIAAAATj48OAAABWElEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a8u3vVunp+7v+IVeX6u/7g/5fm5+ytekefn+o/7U56fu7/iFXl+rv+4P+X5ufsrXpHng+B/N4L/3Qj+dyP4343gfzeC/90I/ndDu3ffzPNz/cf9Kc/P3V/xijw/13/cn/L83P0Vr8jzc/3H/SnPz91f8Yo8P9d/3J/yfBD870bwvxvB/24E/7sR/O9G8L8bwf9uaPGud/P83P0Vr8jzc/3H/SnPz91f8Yo8P9d/3J/y/Nz9Fa/I83P9x/0pz8/dX/GKPB8E/7sR/O9G8L8bwf9uBP+7EfzvRvC/G9q9+2aen+s/7k95fu7+ilfk+bn+4/6U5+fur3hFnp/rP+5PeX7u/opX5Pm5/uP+lOeD4H83gv/dCP53I/jfjeB/N/4R0eowuEx4WjEAAAAASUVORK5CYII=" alt="In a list" width="64" height="48">
+</li>
+</ul>
+<p>A table with a picture in a cell:</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:234pt">
+<col style="width:234pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">While question quick.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAeCAIAAAAAWM/6AAABfElEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a++5Lv+Ls/P737wZ/P8vOY3fzbPz+9+8Gfz/LzmN382z8/vfvBn8/y85jd/Ns/P737wZ/P8vOY3fzbPB8H/TQT/NxH830TwfxPB/00E/zcR/N+Edn/3dXl+XvObP5vn53c/+LN5fl7zmz+b5+d3P/izeX5e85s/m+fndz/4s3l+XvObP5vn53c/+LN5Pgj+byL4v4ng/yaC/5sI/m8i+L+J4P8m9JLv+rs8P7/7wZ/N8/Oa3/zZPD+/+8GfzfPzmt/82Tw/v/vBn83z85rf/Nk8P7/7wZ/N8/Oa3/zZPB8E/zcR/N9E8H8Twf9NBP83EfzfRPB/E9r93dfl+XnNb/5snp/f/eDP5vl5zW/+bJ6f3/3gz+b5ec1v/myen9/94M/m+XnNb/5snp/f/eDP5vkg+L+J4P8mgv+bCP5vIvi/iX8Ejs02uDz2C5IAAAAASUVORK5CYII=" alt="In a cell" width="160" height="120">
+</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Orchard without through.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">While journey question.</td>
+</tr>
+</table>
+</body>
+</html>

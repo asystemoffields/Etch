@@ -1,0 +1,1254 @@
+# command snapshot: tables_lists (69 steps)
+step 0: start
+sel: body [8]@8 .. body [8]@8
+core: title="Snapshot script: tables_lists" creator="Snapshot Author" subject=""
+settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":null,"first":null,"even":null},"footers":{"default":null,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+styles: 54 (defaults chr={"font":"Source Serif 4","size":12.0,"kern":1.0,"lang":"en-US"} para={"spaceBefore":0.0,"spaceAfter":8.0,"lineSpacing":{"rule":"multiple","value":1.15},"widowControl":true})
+  style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":20.0,"color":{"Rgb":[15,71,97]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading2","name":"Heading 2","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading2Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":1},"chr":{"font":"Source Sans 3","size":16.0,"color":{"Rgb":[15,71,97]}},"priority":11,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading3","name":"Heading 3","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading3Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":2},"chr":{"font":"Source Serif 4","size":14.0,"color":{"Rgb":[15,71,97]}},"priority":12,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading4","name":"Heading 4","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading4Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":3},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[15,71,97]}},"priority":13,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading5","name":"Heading 5","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading5Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":4},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[15,71,97]}},"priority":14,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading6","name":"Heading 6","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading6Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":5},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[89,89,89]}},"priority":15,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading7","name":"Heading 7","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading7Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":6},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[89,89,89]}},"priority":16,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading8","name":"Heading 8","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading8Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":7},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[39,39,39]}},"priority":17,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading9","name":"Heading 9","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading9Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":8},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[39,39,39]}},"priority":18,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Title","name":"Title","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":null,"para":{"spaceAfter":4.0,"lineSpacing":{"rule":"multiple","value":1.0},"contextualSpacing":true},"chr":{"font":"Source Sans 3","size":28.0,"spacing":-0.5,"kern":14.0},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+numbering: 1 lists, 1 abstracts
+  list {"id":1,"abstractId":0,"startOverrides":[]}
+  abstract 0 name=None
+    L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+body (9 blocks):
+  [0] para props={"style":"Heading1"} mark={} "Tables and Lists"
+      runs 16:{}
+  [1] para props={} mark={} "Before the table."
+      runs 17:{}
+  [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+      row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Another letter without."
+              runs 23:{}
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Silver market chapter."
+              runs 22:{}
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Journey through between."
+              runs 24:{}
+      row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Orchard measure people."
+              runs 23:{}
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Fox orchard people."
+              runs 19:{}
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Morning river river."
+              runs 20:{}
+      row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Plays orchard over."
+              runs 19:{}
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "While over jumps."
+              runs 17:{}
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Pattern plays village."
+              runs 22:{}
+  [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+      runs 10:{}
+  [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+      runs 11:{}
+  [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+      runs 10:{}
+  [6] para props={} mark={} "alpha, beta, gamma"
+      runs 18:{}
+  [7] para props={} mark={} "one, two, three"
+      runs 15:{}
+  [8] para props={} mark={} "The end."
+      runs 8:{}
+model sha256=56bdd581865c4536a72b996589351b27381978b8307f04cbac824f8ae7ad03b5
+
+step 1: caret.set {"pos":{"off":0,"path":[2,0,0,0],"story":"body"}} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":0,"path":[2,0,0,0],"story":"body"}}
+  - sel: body [8]@8 .. body [8]@8
+  + sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+step 2: text.insert {"text":"Typed in the header cell. "} -> ok {"anchor":{"off":26,"path":[2,0,0,0],"story":"body"},"focus":{"off":26,"path":[2,0,0,0],"story":"body"}}
+  - sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+  + sel: body [2,0,0,0]@26 .. body [2,0,0,0]@26
+  -           [0] para props={} mark={} "Another letter without."
+  -               runs 23:{}
+  +           [0] para props={} mark={} "Typed in the header cell. Another letter without."
+  +               runs 49:{}
+  - model sha256=56bdd581865c4536a72b996589351b27381978b8307f04cbac824f8ae7ad03b5
+  + model sha256=f205848aeb4957915507b1fed151297928f1681098a04cd9f63bfffc19c7f259
+step 3: text.tab {} -> ok {"anchor":{"off":0,"path":[2,0,1,0],"story":"body"},"focus":{"off":22,"path":[2,0,1,0],"story":"body"}}
+  - sel: body [2,0,0,0]@26 .. body [2,0,0,0]@26
+  + sel: body [2,0,1,0]@0 .. body [2,0,1,0]@22
+step 4: text.insert {"text":"Averyveryverylongwordinthesecondcell"} -> ok {"anchor":{"off":36,"path":[2,0,1,0],"story":"body"},"focus":{"off":36,"path":[2,0,1,0],"story":"body"}}
+  - sel: body [2,0,1,0]@0 .. body [2,0,1,0]@22
+  + sel: body [2,0,1,0]@36 .. body [2,0,1,0]@36
+  -           [0] para props={} mark={} "Silver market chapter."
+  -               runs 22:{}
+  +           [0] para props={} mark={} "Averyveryverylongwordinthesecondcell"
+  +               runs 36:{}
+  - model sha256=f205848aeb4957915507b1fed151297928f1681098a04cd9f63bfffc19c7f259
+  + model sha256=6b0ab1d59ebae41322acdb9df005bce587b691b65130f00bd626757fd7bbbe39
+step 5: text.tab {} -> ok {"anchor":{"off":0,"path":[2,0,2,0],"story":"body"},"focus":{"off":24,"path":[2,0,2,0],"story":"body"}}
+  - sel: body [2,0,1,0]@36 .. body [2,0,1,0]@36
+  + sel: body [2,0,2,0]@0 .. body [2,0,2,0]@24
+step 6: text.tab {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":23,"path":[2,1,0,0],"story":"body"}}
+  - sel: body [2,0,2,0]@0 .. body [2,0,2,0]@24
+  + sel: body [2,1,0,0]@0 .. body [2,1,0,0]@23
+step 7: text.insert {"text":"second row"} -> ok {"anchor":{"off":10,"path":[2,1,0,0],"story":"body"},"focus":{"off":10,"path":[2,1,0,0],"story":"body"}}
+  - sel: body [2,1,0,0]@0 .. body [2,1,0,0]@23
+  + sel: body [2,1,0,0]@10 .. body [2,1,0,0]@10
+  -           [0] para props={} mark={} "Orchard measure people."
+  -               runs 23:{}
+  +           [0] para props={} mark={} "second row"
+  +               runs 10:{}
+  - model sha256=6b0ab1d59ebae41322acdb9df005bce587b691b65130f00bd626757fd7bbbe39
+  + model sha256=4c9f3bd664f667bab2963a18ffded85c30b72ae0b3d68284b6201d293d7ca2c6
+step 8: table.insertRowAbove {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  - sel: body [2,1,0,0]@10 .. body [2,1,0,0]@10
+  + sel: body [2,1,0,0]@0 .. body [2,1,0,0]@0
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  - model sha256=4c9f3bd664f667bab2963a18ffded85c30b72ae0b3d68284b6201d293d7ca2c6
+  + model sha256=b5610dfcb562c80ca64cca7cf116280b22fe723be1e632083ba18af3818c13c6
+step 9: table.insertColumnLeft {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=b5610dfcb562c80ca64cca7cf116280b22fe723be1e632083ba18af3818c13c6
+  + model sha256=10ee767aabdfa2eda296279446eee9593ae399cdd44e8ccad95bb630572e8b43
+step 10: table.columnWidth {"width":60} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=10ee767aabdfa2eda296279446eee9593ae399cdd44e8ccad95bb630572e8b43
+  + model sha256=f6fa55ce3e97a0988867d4f3c514f757850d488b6cac6c8587106d3b7436ff81
+step 11: table.rowHeight {"height":36,"rule":"exact"} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -       row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 1 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  - model sha256=f6fa55ce3e97a0988867d4f3c514f757850d488b6cac6c8587106d3b7436ff81
+  + model sha256=8735c02aa8ed38acb9019e96240dbf8a34ac5d1a34ee426707cfb2fbe44fd848
+step 12: table.cellAlign {"value":"centerRight"} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={"align":"right"} mark={} ""
+  - model sha256=8735c02aa8ed38acb9019e96240dbf8a34ac5d1a34ee426707cfb2fbe44fd848
+  + model sha256=56c8ef729baf5082e153eca4c01ddfc3afd4740473d4bc90b6528273a1fdafc8
+step 13: table.shading {"color":"DDEBF7"} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=56c8ef729baf5082e153eca4c01ddfc3afd4740473d4bc90b6528273a1fdafc8
+  + model sha256=296f09442cf37c506d4678c3108149a2e78dcf765989983393818fbe83d6746f
+step 14: table.borders {"kind":"all"} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  - model sha256=296f09442cf37c506d4678c3108149a2e78dcf765989983393818fbe83d6746f
+  + model sha256=96d7ab1ba2a135b638eb08504b1c9ffbb8f2d4655e48f1941bb8370944e445d9
+step 15: table.selectRow {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,3,0],"story":"body"}}
+  - sel: body [2,1,0,0]@0 .. body [2,1,0,0]@0
+  + sel: body [2,1,0,0]@0 .. body [2,1,3,0]@0
+step 16: format.bold {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,3,0],"story":"body"}}
+  -           [0] para props={"align":"right"} mark={} ""
+  +           [0] para props={"align":"right"} mark={"bold":true,"boldCs":true} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  - model sha256=96d7ab1ba2a135b638eb08504b1c9ffbb8f2d4655e48f1941bb8370944e445d9
+  + model sha256=75765139d35a6777cf175d6b507b86e9aaa690b107f81fe73837bf179aa15139
+step 17: table.selectColumn {} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":22,"path":[2,3,3,0],"story":"body"}}
+  - sel: body [2,1,0,0]@0 .. body [2,1,3,0]@0
+  + sel: body [2,0,0,0]@0 .. body [2,3,3,0]@22
+step 18: format.italic {} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":22,"path":[2,3,3,0],"story":"body"}}
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  -           [0] para props={} mark={} "Typed in the header cell. Another letter without."
+  -               runs 49:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Typed in the header cell. Another letter without."
+  +               runs 49:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "Averyveryverylongwordinthesecondcell"
+  -               runs 36:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  +               runs 36:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "Journey through between."
+  -               runs 24:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Journey through between."
+  +               runs 24:{"italic":true,"italicCs":true}
+  -           [0] para props={"align":"right"} mark={"bold":true,"boldCs":true} ""
+  +           [0] para props={"align":"right"} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  +           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  +           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"boldCs":true} ""
+  +           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  -           [0] para props={} mark={} "second row"
+  -               runs 10:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "second row"
+  +               runs 10:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "Fox orchard people."
+  -               runs 19:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Fox orchard people."
+  +               runs 19:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "Morning river river."
+  -               runs 20:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Morning river river."
+  +               runs 20:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  -           [0] para props={} mark={} "Plays orchard over."
+  -               runs 19:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Plays orchard over."
+  +               runs 19:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "While over jumps."
+  -               runs 17:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "While over jumps."
+  +               runs 17:{"italic":true,"italicCs":true}
+  -           [0] para props={} mark={} "Pattern plays village."
+  -               runs 22:{}
+  +           [0] para props={} mark={"italic":true,"italicCs":true} "Pattern plays village."
+  +               runs 22:{"italic":true,"italicCs":true}
+  - model sha256=75765139d35a6777cf175d6b507b86e9aaa690b107f81fe73837bf179aa15139
+  + model sha256=72d5d30dec52d070b24383341c74eb3f028a269da0dd9ae2b381eae3efd5ef80
+step 19: table.selectTable {} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":22,"path":[2,3,3,0],"story":"body"}}
+  (no change)
+step 20: format.size {"size":10} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":22,"path":[2,3,3,0],"story":"body"}}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Typed in the header cell. Another letter without."
+  -               runs 49:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Typed in the header cell. Another letter without."
+  +               runs 49:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  -               runs 36:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  +               runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Journey through between."
+  -               runs 24:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+  +               runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={"align":"right"} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  +           [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"bold":true,"italic":true,"boldCs":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "second row"
+  -               runs 10:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "second row"
+  +               runs 10:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Fox orchard people."
+  -               runs 19:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+  +               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Morning river river."
+  -               runs 20:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+  +               runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} ""
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Plays orchard over."
+  -               runs 19:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Plays orchard over."
+  +               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "While over jumps."
+  -               runs 17:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+  +               runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -           [0] para props={} mark={"italic":true,"italicCs":true} "Pattern plays village."
+  -               runs 22:{"italic":true,"italicCs":true}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+  +               runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  - model sha256=72d5d30dec52d070b24383341c74eb3f028a269da0dd9ae2b381eae3efd5ef80
+  + model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+step 21: caret.set {"pos":{"off":0,"path":[2,1,1,0],"story":"body"}} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  - sel: body [2,0,0,0]@0 .. body [2,3,3,0]@22
+  + sel: body [2,1,1,0]@0 .. body [2,1,1,0]@0
+step 22: table.split {} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 58.5 58.5 117.0 117.0]
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":58.5,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +         cell 2 props={"width":58.5,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 4 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+  + model sha256=b403d7807318dc8b7041abdabd4b2df8dc6976c900ccae426cef7a7e89bb00ab
+step 23: edit.undo {} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 58.5 58.5 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  -         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":58.5,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":58.5,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 4 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":2,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=b403d7807318dc8b7041abdabd4b2df8dc6976c900ccae426cef7a7e89bb00ab
+  + model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+step 24: table.splitTable {} -> ok {"anchor":{"off":0,"path":[3],"story":"body"},"focus":{"off":0,"path":[3],"story":"body"}}
+  - sel: body [2,1,1,0]@0 .. body [2,1,1,0]@0
+  + sel: body [3]@0 .. body [3]@0
+  - body (9 blocks):
+  + body (11 blocks):
+  -       row 1 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  +   [3] para props={} mark={} ""
+  +   [4] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  +       row 0 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -   [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+  -   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+  +   [6] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+  +   [7] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+  -   [6] para props={} mark={} "alpha, beta, gamma"
+  +   [8] para props={} mark={} "alpha, beta, gamma"
+  -   [7] para props={} mark={} "one, two, three"
+  +   [9] para props={} mark={} "one, two, three"
+  -   [8] para props={} mark={} "The end."
+  +   [10] para props={} mark={} "The end."
+  - model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+  + model sha256=105a1be41559147d2c5d4c26d275dc6730e57206e9ce813849ee02fa7b2d36f5
+step 25: edit.undo {} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  - sel: body [3]@0 .. body [3]@0
+  + sel: body [2,1,1,0]@0 .. body [2,1,1,0]@0
+  - body (11 blocks):
+  + body (9 blocks):
+  -   [3] para props={} mark={} ""
+  -   [4] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  -       row 0 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  +       row 1 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  -       row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+  +   [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+  -   [6] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+  +   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+  -   [7] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+  -   [8] para props={} mark={} "alpha, beta, gamma"
+  +   [6] para props={} mark={} "alpha, beta, gamma"
+  -   [9] para props={} mark={} "one, two, three"
+  +   [7] para props={} mark={} "one, two, three"
+  -   [10] para props={} mark={} "The end."
+  +   [8] para props={} mark={} "The end."
+  - model sha256=105a1be41559147d2c5d4c26d275dc6730e57206e9ce813849ee02fa7b2d36f5
+  + model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+step 26: table.autofit {"mode":"contents"} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[60.0 117.0 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[22.8 172.0 171.6 101.6]
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":60.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=947c9cf94e0f5383aa2aa9d6c08a3d3161bca3e53474e5a3c5f00f478bfe3c0f
+  + model sha256=a35fd51a92b018291038047d31262073ffc263dfd6b89c8eb6ae1ea5ac7f9c79
+step 27: table.autofit {"mode":"window"} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[22.8 172.0 171.6 101.6]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 0 props={"width":22.8,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":172.0254,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 2 props={"width":171.59999,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":101.57463,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=a35fd51a92b018291038047d31262073ffc263dfd6b89c8eb6ae1ea5ac7f9c79
+  + model sha256=2c64dba812296e8846de33e38463c4e9ce2931a622f0b68ec76516e479eae443
+step 28: table.distributeColumns {} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  (no change)
+step 29: table.textDirection {} -> ok {"anchor":{"off":0,"path":[2,1,1,0],"story":"body"},"focus":{"off":0,"path":[2,1,1,0],"story":"body"}}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"down","noWrap":false}
+  - model sha256=2c64dba812296e8846de33e38463c4e9ce2931a622f0b68ec76516e479eae443
+  + model sha256=15bdd18234836435c184411b4191f7cf5d1ff9fe9424e0fe6a8a4faac8d57725
+step 30: table.deleteColumn {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  - sel: body [2,1,1,0]@0 .. body [2,1,1,0]@0
+  + sel: body [2,1,0,0]@0 .. body [2,1,0,0]@0
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Typed in the header cell. Another letter without."
+  -               runs 49:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"down","noWrap":false}
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "second row"
+  -               runs 10:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Plays orchard over."
+  -               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  - model sha256=15bdd18234836435c184411b4191f7cf5d1ff9fe9424e0fe6a8a4faac8d57725
+  + model sha256=a8ce5907d63bffab2f97f6f036d034de68d407de527baa6531541166c9a00609
+step 31: table.repeatHeader {} -> ok {"anchor":{"off":0,"path":[2,1,0,0],"story":"body"},"focus":{"off":0,"path":[2,1,0,0],"story":"body"}}
+  -       row 1 props={"height":36.0,"heightRule":"exact","header":false,"cantSplit":false}
+  +       row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+  - model sha256=a8ce5907d63bffab2f97f6f036d034de68d407de527baa6531541166c9a00609
+  + model sha256=989289a7c61336b37c8019e57fae66b4bd948fb50a814d8f97e0560a3b48611c
+step 32: select.text {"text":"alpha, beta, gamma"} -> ok {"anchor":{"off":0,"path":[6],"story":"body"},"focus":{"off":18,"path":[6],"story":"body"}}
+  - sel: body [2,1,0,0]@0 .. body [2,1,0,0]@0
+  + sel: body [6]@0 .. body [6]@18
+step 33: table.fromText {"separator":"comma"} -> ok {"anchor":{"off":0,"path":[6,0,0,0],"story":"body"},"focus":{"off":0,"path":[6,0,0,0],"story":"body"}}
+  - sel: body [6]@0 .. body [6]@18
+  + sel: body [6,0,0,0]@0 .. body [6,0,0,0]@0
+  -   [6] para props={} mark={} "alpha, beta, gamma"
+  -       runs 18:{}
+  +   [6] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "alpha"
+  +               runs 5:{}
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "beta"
+  +               runs 4:{}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "gamma"
+  +               runs 5:{}
+  - model sha256=989289a7c61336b37c8019e57fae66b4bd948fb50a814d8f97e0560a3b48611c
+  + model sha256=dfd50f704cfc3e8fe33ba101f55f875dc43fe3fb829aea7e7ee3054aa98898a8
+step 34: select.text {"text":"one, two, three"} -> ok {"anchor":{"off":0,"path":[7],"story":"body"},"focus":{"off":15,"path":[7],"story":"body"}}
+  - sel: body [6,0,0,0]@0 .. body [6,0,0,0]@0
+  + sel: body [7]@0 .. body [7]@15
+step 35: table.fromText {"separator":"comma"} -> ok {"anchor":{"off":0,"path":[7,0,0,0],"story":"body"},"focus":{"off":0,"path":[7,0,0,0],"story":"body"}}
+  - sel: body [7]@0 .. body [7]@15
+  + sel: body [7,0,0,0]@0 .. body [7,0,0,0]@0
+  -   [7] para props={} mark={} "one, two, three"
+  -       runs 15:{}
+  +   [7] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "one"
+  +               runs 3:{}
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "two"
+  +               runs 3:{}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "three"
+  +               runs 5:{}
+  - model sha256=dfd50f704cfc3e8fe33ba101f55f875dc43fe3fb829aea7e7ee3054aa98898a8
+  + model sha256=e9193136f4ef7c24e3e39fdd351960a23ff0b935de59577e7dc89a4109210ef4
+step 36: table.toText {"separator":"tab"} -> ok {"anchor":{"off":0,"path":[7],"story":"body"},"focus":{"off":0,"path":[7],"story":"body"}}
+  - sel: body [7,0,0,0]@0 .. body [7,0,0,0]@0
+  + sel: body [7]@0 .. body [7]@0
+  -   [7] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  -       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "one"
+  -               runs 3:{}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "two"
+  -               runs 3:{}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "three"
+  -               runs 5:{}
+  +   [7] para props={} mark={} "one\ttwo\tthree"
+  +       runs 13:{}
+  - model sha256=e9193136f4ef7c24e3e39fdd351960a23ff0b935de59577e7dc89a4109210ef4
+  + model sha256=7226fdc0b5887371a7c38fe9ebe2a77baa724577e2e0227954aeec602595be2a
+step 37: select.text {"text":"Second item"} -> ok {"anchor":{"off":0,"path":[4],"story":"body"},"focus":{"off":11,"path":[4],"story":"body"}}
+  - sel: body [7]@0 .. body [7]@0
+  + sel: body [4]@0 .. body [4]@11
+step 38: para.demote {} -> ok {"anchor":{"off":0,"path":[4],"story":"body"},"focus":{"off":11,"path":[4],"story":"body"}}
+  -   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Second item"
+  +   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  - model sha256=7226fdc0b5887371a7c38fe9ebe2a77baa724577e2e0227954aeec602595be2a
+  + model sha256=8eefec7d2b5fa1bbae63c388f27af67a822cdf19156bb0925d72cbd8628cba09
+step 39: select.text {"text":"Third item"} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":10,"path":[5],"story":"body"}}
+  - sel: body [4]@0 .. body [4]@11
+  + sel: body [5]@0 .. body [5]@10
+step 40: para.listLevel {"level":2} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":10,"path":[5],"story":"body"}}
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Third item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":2}} mark={} "Third item"
+  - model sha256=8eefec7d2b5fa1bbae63c388f27af67a822cdf19156bb0925d72cbd8628cba09
+  + model sha256=9a08c401552a416c131876b02b50b45e052a65dfe1f3258c0c33d982934afb13
+step 41: para.promote {} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":10,"path":[5],"story":"body"}}
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":2}} mark={} "Third item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Third item"
+  - model sha256=9a08c401552a416c131876b02b50b45e052a65dfe1f3258c0c33d982934afb13
+  + model sha256=246d661ad376e876386e0d20e0db1855ddf00d9bb84c72f3aa1480596d52963a
+step 42: para.restartNumbering {} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":10,"path":[5],"story":"body"}}
+  - numbering: 1 lists, 1 abstracts
+  + numbering: 2 lists, 1 abstracts
+  +   list {"id":2,"abstractId":0,"startOverrides":[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]]}
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Third item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  - model sha256=246d661ad376e876386e0d20e0db1855ddf00d9bb84c72f3aa1480596d52963a
+  + model sha256=424ad68a4aae0262f042e6273900adaf8add3dc26ac38c76b353ad94a2634710
+step 43: select.text {"text":"First item"} -> ok {"anchor":{"off":0,"path":[3],"story":"body"},"focus":{"off":10,"path":[3],"story":"body"}}
+  - sel: body [5]@0 .. body [5]@10
+  + sel: body [3]@0 .. body [3]@10
+step 44: para.bullets {} -> ok {"anchor":{"off":0,"path":[3],"story":"body"},"focus":{"off":10,"path":[3],"story":"body"}}
+  - numbering: 2 lists, 1 abstracts
+  + numbering: 3 lists, 2 abstracts
+  +   list {"id":3,"abstractId":1,"startOverrides":[]}
+  +   abstract 1 name=None
+  +     L0 {"start":1,"format":"bullet","text":"•","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L1 {"start":1,"format":"bullet","text":"○","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L2 {"start":1,"format":"bullet","text":"▪","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L3 {"start":1,"format":"bullet","text":"•","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L4 {"start":1,"format":"bullet","text":"○","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L5 {"start":1,"format":"bullet","text":"▪","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L6 {"start":1,"format":"bullet","text":"•","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L7 {"start":1,"format":"bullet","text":"○","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  +     L8 {"start":1,"format":"bullet","text":"▪","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+  -   [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "First item"
+  +   [3] para props={"style":"ListParagraph","numbering":{"num":3,"level":0}} mark={} "First item"
+  - model sha256=424ad68a4aae0262f042e6273900adaf8add3dc26ac38c76b353ad94a2634710
+  + model sha256=8e40150c626841bdafb0447d6c5cbe70f3172d4b8c3ec6ac3f6d3728fcee4b13
+step 45: para.bullets {} -> ok {"anchor":{"off":0,"path":[3],"story":"body"},"focus":{"off":10,"path":[3],"story":"body"}}
+  -   [3] para props={"style":"ListParagraph","numbering":{"num":3,"level":0}} mark={} "First item"
+  +   [3] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  - model sha256=8e40150c626841bdafb0447d6c5cbe70f3172d4b8c3ec6ac3f6d3728fcee4b13
+  + model sha256=017fa0cdb74297b9e8eec007b9d726a219ebcaba84a68f22289aa35a4df32db9
+step 46: select.text {"text":"The end."} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":8,"path":[8],"story":"body"}}
+  - sel: body [3]@0 .. body [3]@10
+  + sel: body [8]@0 .. body [8]@8
+step 47: format.changeCase {"mode":"upper"} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":8,"path":[8],"story":"body"}}
+  -   [8] para props={} mark={} "The end."
+  +   [8] para props={} mark={} "THE END."
+  - model sha256=017fa0cdb74297b9e8eec007b9d726a219ebcaba84a68f22289aa35a4df32db9
+  + model sha256=bdd59a07e6ff28b981d23df4ab3ae77b5e69ed40440969f7a7bd5c5d1061f152
+step 48: format.changeCase {"mode":"title"} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":8,"path":[8],"story":"body"}}
+  -   [8] para props={} mark={} "THE END."
+  +   [8] para props={} mark={} "The End."
+  - model sha256=bdd59a07e6ff28b981d23df4ab3ae77b5e69ed40440969f7a7bd5c5d1061f152
+  + model sha256=795e6a1e854dad6c49ed086bdefd68eb6c8d772d53909985148e8ad94b83ef1d
+step 49: select.collapse {"end":true} -> ok {"anchor":{"off":8,"path":[8],"story":"body"},"focus":{"off":8,"path":[8],"story":"body"}}
+  - sel: body [8]@0 .. body [8]@8
+  + sel: body [8]@8 .. body [8]@8
+step 50: text.newParagraph {} -> ok {"anchor":{"off":0,"path":[9],"story":"body"},"focus":{"off":0,"path":[9],"story":"body"}}
+  - sel: body [8]@8 .. body [8]@8
+  + sel: body [9]@0 .. body [9]@0
+  - body (9 blocks):
+  + body (10 blocks):
+  - model sha256=795e6a1e854dad6c49ed086bdefd68eb6c8d772d53909985148e8ad94b83ef1d
+  +   [9] para props={} mark={} ""
+  + model sha256=ec4d1193e76fd1e6f8a91b781d04f3106b583286d711e0da343155b165c294e6
+step 51: insert.textBox {"height":40,"text":"A box typed by the script","width":120} -> ok {"story":1}
+  - sel: body [9]@0 .. body [9]@0
+  + sel: part:1 [0]@25 .. part:1 [0]@25
+  -   [9] para props={} mark={} ""
+  - model sha256=ec4d1193e76fd1e6f8a91b781d04f3106b583286d711e0da343155b165c294e6
+  +   [9] para props={} mark={} "{obj}"
+  +       runs 3:{}
+  +       obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":1}
+  + part 1 TextBox body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  +   [0] para props={} mark={} "A box typed by the script"
+  +       runs 25:{}
+  + model sha256=858ed0730783328faed2e7cb4b7e4e4fab9705946534932ac226e9168d4c1d1e
+step 52: text.insert {"text":" and typed into"} -> ok {"anchor":{"off":40,"path":[0],"story":{"part":1}},"focus":{"off":40,"path":[0],"story":{"part":1}}}
+  - sel: part:1 [0]@25 .. part:1 [0]@25
+  + sel: part:1 [0]@40 .. part:1 [0]@40
+  -   [0] para props={} mark={} "A box typed by the script"
+  -       runs 25:{}
+  - model sha256=858ed0730783328faed2e7cb4b7e4e4fab9705946534932ac226e9168d4c1d1e
+  +   [0] para props={} mark={} "A box typed by the script and typed into"
+  +       runs 40:{}
+  + model sha256=ae047616024aba7237cd513d01ba6281f60eacbf2d0b726b4e64ccbe9380e9b8
+step 53: caret.set {"pos":{"off":0,"path":[9],"story":"body"}} -> ok {"anchor":{"off":0,"path":[9],"story":"body"},"focus":{"off":0,"path":[9],"story":"body"}}
+  - sel: part:1 [0]@40 .. part:1 [0]@40
+  + sel: body [9]@0 .. body [9]@0
+step 54: caret.end {} -> ok {"anchor":{"off":3,"path":[9],"story":"body"},"focus":{"off":3,"path":[9],"story":"body"}}
+  - sel: body [9]@0 .. body [9]@0
+  + sel: body [9]@3 .. body [9]@3
+step 55: insert.shape {"fill":"FFC000","height":30,"kind":"ellipse","width":50} -> ok {"anchor":{"off":3,"path":[9],"story":"body"},"focus":{"off":6,"path":[9],"story":"body"}}
+  - sel: body [9]@3 .. body [9]@3
+  + sel: body [9]@3 .. body [9]@6
+  -   [9] para props={} mark={} "{obj}"
+  -       runs 3:{}
+  +   [9] para props={} mark={} "{obj}{obj}"
+  +       runs 6:{}
+  +       obj 1 {"type":"shape","kind":"ellipse","w":50.0,"h":30.0,"fill":[255,192,0],"stroke":[14,64,90],"stroke_width":1.0,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":null}
+  - model sha256=ae047616024aba7237cd513d01ba6281f60eacbf2d0b726b4e64ccbe9380e9b8
+  + model sha256=a0d925485c68876dbd2ad375ba028f0ad1e23426bf3a1653ef65946b04c60c7f
+step 56: text.insert {"text":"teh "} -> ok {"anchor":{"off":7,"path":[9],"story":"body"},"focus":{"off":7,"path":[9],"story":"body"}}
+  - sel: body [9]@3 .. body [9]@6
+  + sel: body [9]@7 .. body [9]@7
+  -   [9] para props={} mark={} "{obj}{obj}"
+  -       runs 6:{}
+  +   [9] para props={} mark={} "{obj}teh "
+  +       runs 7:{}
+  -       obj 1 {"type":"shape","kind":"ellipse","w":50.0,"h":30.0,"fill":[255,192,0],"stroke":[14,64,90],"stroke_width":1.0,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":null}
+  - model sha256=a0d925485c68876dbd2ad375ba028f0ad1e23426bf3a1653ef65946b04c60c7f
+  + model sha256=276ec21e118792c5fab3434db18c9224338ed8351623e637a2d6239dbbe13454
+step 57: text.insert {"text":"(c) "} -> ok {"anchor":{"off":11,"path":[9],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  - sel: body [9]@7 .. body [9]@7
+  + sel: body [9]@11 .. body [9]@11
+  -   [9] para props={} mark={} "{obj}teh "
+  -       runs 7:{}
+  +   [9] para props={} mark={} "{obj}teh (c) "
+  +       runs 11:{}
+  - model sha256=276ec21e118792c5fab3434db18c9224338ed8351623e637a2d6239dbbe13454
+  + model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+step 58: select.all {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  - sel: body [9]@11 .. body [9]@11
+  + sel: body [0]@0 .. body [9]@11
+step 59: edit.copy {} -> ok {"html":"<meta charset=\"utf-8\"><h1>Tables and Lists</h1>\n<p>Before the table.</p>\n<table style=\"border-collapse:collapse\">\n<colgroup><col style=\"width:1…
+  (no change)
+step 60: caret.docEnd {} -> ok {"anchor":{"off":11,"path":[9],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  - sel: body [0]@0 .. body [9]@11
+  + sel: body [9]@11 .. body [9]@11
+step 61: edit.paste {} -> ok {"anchor":{"off":11,"path":[18],"story":"body"},"focus":{"off":11,"path":[18],"story":"body"}}
+  - sel: body [9]@11 .. body [9]@11
+  + sel: body [18]@11 .. body [18]@11
+  - body (10 blocks):
+  + body (19 blocks):
+  -   [9] para props={} mark={} "{obj}teh (c) "
+  -       runs 11:{}
+  +   [9] para props={"style":"Heading1"} mark={} "{obj}teh (c) Tables and Lists"
+  +       runs 27:{}
+  +   [10] para props={} mark={} "Before the table."
+  +       runs 17:{}
+  +   [11] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  +               runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+  +               runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +       row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+  +               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+  +               runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+  +               runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+  +               runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +   [12] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  +       runs 10:{}
+  +   [13] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  +       runs 11:{}
+  +   [14] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  +       runs 10:{}
+  +   [15] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "alpha"
+  +               runs 5:{}
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "beta"
+  +               runs 4:{}
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} "gamma"
+  +               runs 5:{}
+  +   [16] para props={} mark={} "one\ttwo\tthree"
+  +       runs 13:{}
+  +   [17] para props={} mark={} "The End."
+  +       runs 8:{}
+  +   [18] para props={} mark={} "{obj}teh (c) "
+  +       runs 11:{}
+  +       obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":2}
+  - model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+  + part 2 TextBox body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  +   [0] para props={} mark={} "A box typed by the script and typed into"
+  +       runs 40:{}
+  + model sha256=37a07eb3fcf9ebfd924f8770862ce87d1f2c839eff917bb1fee7a2205e2a0a40
+step 62: edit.undo {} -> ok {"anchor":{"off":11,"path":[9],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  - sel: body [18]@11 .. body [18]@11
+  + sel: body [9]@11 .. body [9]@11
+  - body (19 blocks):
+  + body (10 blocks):
+  -   [9] para props={"style":"Heading1"} mark={} "{obj}teh (c) Tables and Lists"
+  -       runs 27:{}
+  -       obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":1}
+  -   [10] para props={} mark={} "Before the table."
+  -       runs 17:{}
+  -   [11] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+  -       row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  -               runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+  -               runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -       row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+  -               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+  -               runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+  -               runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+  -               runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -   [12] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  -       runs 10:{}
+  -   [13] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  +   [9] para props={} mark={} "{obj}teh (c) "
+  -   [14] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  -       runs 10:{}
+  -   [15] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  -       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "alpha"
+  -               runs 5:{}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "beta"
+  -               runs 4:{}
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} "gamma"
+  -               runs 5:{}
+  -   [16] para props={} mark={} "one\ttwo\tthree"
+  -       runs 13:{}
+  -   [17] para props={} mark={} "The End."
+  -       runs 8:{}
+  -   [18] para props={} mark={} "{obj}teh (c) "
+  -       runs 11:{}
+  -       obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":2}
+  +       obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":1}
+  - part 2 TextBox body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  -   [0] para props={} mark={} "A box typed by the script and typed into"
+  -       runs 40:{}
+  - model sha256=37a07eb3fcf9ebfd924f8770862ce87d1f2c839eff917bb1fee7a2205e2a0a40
+  + model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+step 63: edit.undo {} -> ok {"anchor":{"off":3,"path":[9],"story":"body"},"focus":{"off":6,"path":[9],"story":"body"}}
+  - sel: body [9]@11 .. body [9]@11
+  + sel: body [9]@3 .. body [9]@6
+  -   [9] para props={} mark={} "{obj}teh (c) "
+  -       runs 11:{}
+  +   [9] para props={} mark={} "{obj}{obj}"
+  +       runs 6:{}
+  +       obj 1 {"type":"shape","kind":"ellipse","w":50.0,"h":30.0,"fill":[255,192,0],"stroke":[14,64,90],"stroke_width":1.0,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":null}
+  - model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+  + model sha256=a0d925485c68876dbd2ad375ba028f0ad1e23426bf3a1653ef65946b04c60c7f
+step 64: edit.redo {} -> ok {"anchor":{"off":11,"path":[9],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  - sel: body [9]@3 .. body [9]@6
+  + sel: body [9]@11 .. body [9]@11
+  -   [9] para props={} mark={} "{obj}{obj}"
+  -       runs 6:{}
+  +   [9] para props={} mark={} "{obj}teh (c) "
+  +       runs 11:{}
+  -       obj 1 {"type":"shape","kind":"ellipse","w":50.0,"h":30.0,"fill":[255,192,0],"stroke":[14,64,90],"stroke_width":1.0,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":null}
+  - model sha256=a0d925485c68876dbd2ad375ba028f0ad1e23426bf3a1653ef65946b04c60c7f
+  + model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+step 65: caret.docEnd {} -> ok {"anchor":{"off":11,"path":[9],"story":"body"},"focus":{"off":11,"path":[9],"story":"body"}}
+  (no change)
+step 66: edit.pasteText {} -> ok {"anchor":{"off":8,"path":[21],"story":"body"},"focus":{"off":8,"path":[21],"story":"body"}}
+  - sel: body [9]@11 .. body [9]@11
+  + sel: body [21]@8 .. body [21]@8
+  - body (10 blocks):
+  + body (22 blocks):
+  -   [9] para props={} mark={} "{obj}teh (c) "
+  -       runs 11:{}
+  +   [9] para props={} mark={} "{obj}teh (c) Tables and Lists"
+  +       runs 27:{}
+  +   [10] para props={} mark={} "Before the table."
+  +       runs 17:{}
+  +   [11] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+  +       runs 62:{}
+  +   [12] para props={} mark={} "\t\t"
+  +       runs 2:{}
+  +   [13] para props={} mark={} "\tFox orchard people.\tMorning river river."
+  +       runs 41:{}
+  +   [14] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+  +       runs 41:{}
+  +   [15] para props={} mark={} "First item"
+  +       runs 10:{}
+  +   [16] para props={} mark={} "Second item"
+  +       runs 11:{}
+  +   [17] para props={} mark={} "Third item"
+  +       runs 10:{}
+  +   [18] para props={} mark={} "alpha\tbeta\tgamma"
+  +       runs 16:{}
+  +   [19] para props={} mark={} "one\ttwo\tthree"
+  +       runs 13:{}
+  +   [20] para props={} mark={} "The End."
+  +       runs 8:{}
+  +   [21] para props={} mark={} "teh (c) "
+  +       runs 8:{}
+  - model sha256=ba0daf673db843a07e1b2e8486ce9c91294510a480644c449edfc58097796ffd
+  + model sha256=bf06203e40bb070d994b97457fc319b56a98631285e292d22c0ee5ad445b4495
+step 67: caret.set {"pos":{"off":0,"path":[2,0,0,0],"story":"body"}} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":0,"path":[2,0,0,0],"story":"body"}}
+  - sel: body [21]@8 .. body [21]@8
+  + sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+step 68: table.deleteTable {} -> ok {"anchor":{"off":0,"path":[2],"story":"body"},"focus":{"off":0,"path":[2],"story":"body"}}
+  - sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+  + sel: body [2]@0 .. body [2]@0
+  - body (22 blocks):
+  + body (21 blocks):
+  -   [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+  -       row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  -               runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+  -               runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -       row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+  -               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+  -               runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  -         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  -         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+  -               runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+  -               runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  -   [3] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  +   [2] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  -   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  +   [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  -   [5] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  +   [4] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  -   [6] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +   [5] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  -   [7] para props={} mark={} "one\ttwo\tthree"
+  +   [6] para props={} mark={} "one\ttwo\tthree"
+  -   [8] para props={} mark={} "The End."
+  +   [7] para props={} mark={} "The End."
+  -   [9] para props={} mark={} "{obj}teh (c) Tables and Lists"
+  +   [8] para props={} mark={} "{obj}teh (c) Tables and Lists"
+  -   [10] para props={} mark={} "Before the table."
+  +   [9] para props={} mark={} "Before the table."
+  -   [11] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+  +   [10] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+  -   [12] para props={} mark={} "\t\t"
+  +   [11] para props={} mark={} "\t\t"
+  -   [13] para props={} mark={} "\tFox orchard people.\tMorning river river."
+  +   [12] para props={} mark={} "\tFox orchard people.\tMorning river river."
+  -   [14] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+  +   [13] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+  -   [15] para props={} mark={} "First item"
+  +   [14] para props={} mark={} "First item"
+  -   [16] para props={} mark={} "Second item"
+  +   [15] para props={} mark={} "Second item"
+  -   [17] para props={} mark={} "Third item"
+  +   [16] para props={} mark={} "Third item"
+  -   [18] para props={} mark={} "alpha\tbeta\tgamma"
+  +   [17] para props={} mark={} "alpha\tbeta\tgamma"
+  -   [19] para props={} mark={} "one\ttwo\tthree"
+  +   [18] para props={} mark={} "one\ttwo\tthree"
+  -   [20] para props={} mark={} "The End."
+  +   [19] para props={} mark={} "The End."
+  -   [21] para props={} mark={} "teh (c) "
+  +   [20] para props={} mark={} "teh (c) "
+  - model sha256=bf06203e40bb070d994b97457fc319b56a98631285e292d22c0ee5ad445b4495
+  + model sha256=bf186354f8fb6c467cee0cb5c0a5a85fc88afe378051c8a9fbae66363a498b50
+step 69: edit.undo {} -> ok {"anchor":{"off":0,"path":[2,0,0,0],"story":"body"},"focus":{"off":0,"path":[2,0,0,0],"story":"body"}}
+  - sel: body [2]@0 .. body [2]@0
+  + sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+  - body (21 blocks):
+  + body (22 blocks):
+  -   [2] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  +   [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+  +               runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+  +               runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +       row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+  +               runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+  +               runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +       row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+  +         cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+  +               runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +         cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+  +               runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  +   [3] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+  -   [3] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  +   [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+  -   [4] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  +   [5] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+  -   [5] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +   [6] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  -   [6] para props={} mark={} "one\ttwo\tthree"
+  +   [7] para props={} mark={} "one\ttwo\tthree"
+  -   [7] para props={} mark={} "The End."
+  +   [8] para props={} mark={} "The End."
+  -   [8] para props={} mark={} "{obj}teh (c) Tables and Lists"
+  +   [9] para props={} mark={} "{obj}teh (c) Tables and Lists"
+  -   [9] para props={} mark={} "Before the table."
+  +   [10] para props={} mark={} "Before the table."
+  -   [10] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+  +   [11] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+  -   [11] para props={} mark={} "\t\t"
+  +   [12] para props={} mark={} "\t\t"
+  -   [12] para props={} mark={} "\tFox orchard people.\tMorning river river."
+  +   [13] para props={} mark={} "\tFox orchard people.\tMorning river river."
+  -   [13] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+  +   [14] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+  -   [14] para props={} mark={} "First item"
+  +   [15] para props={} mark={} "First item"
+  -   [15] para props={} mark={} "Second item"
+  +   [16] para props={} mark={} "Second item"
+  -   [16] para props={} mark={} "Third item"
+  +   [17] para props={} mark={} "Third item"
+  -   [17] para props={} mark={} "alpha\tbeta\tgamma"
+  +   [18] para props={} mark={} "alpha\tbeta\tgamma"
+  -   [18] para props={} mark={} "one\ttwo\tthree"
+  +   [19] para props={} mark={} "one\ttwo\tthree"
+  -   [19] para props={} mark={} "The End."
+  +   [20] para props={} mark={} "The End."
+  -   [20] para props={} mark={} "teh (c) "
+  +   [21] para props={} mark={} "teh (c) "
+  - model sha256=bf186354f8fb6c467cee0cb5c0a5a85fc88afe378051c8a9fbae66363a498b50
+  + model sha256=bf06203e40bb070d994b97457fc319b56a98631285e292d22c0ee5ad445b4495
+# final state
+sel: body [2,0,0,0]@0 .. body [2,0,0,0]@0
+core: title="Snapshot script: tables_lists" creator="Snapshot Author" subject=""
+settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":null,"first":null,"even":null},"footers":{"default":null,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+styles: 54 (defaults chr={"font":"Source Serif 4","size":12.0,"kern":1.0,"lang":"en-US"} para={"spaceBefore":0.0,"spaceAfter":8.0,"lineSpacing":{"rule":"multiple","value":1.15},"widowControl":true})
+  style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":20.0,"color":{"Rgb":[15,71,97]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading2","name":"Heading 2","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading2Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":1},"chr":{"font":"Source Sans 3","size":16.0,"color":{"Rgb":[15,71,97]}},"priority":11,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading3","name":"Heading 3","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading3Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":2},"chr":{"font":"Source Serif 4","size":14.0,"color":{"Rgb":[15,71,97]}},"priority":12,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading4","name":"Heading 4","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading4Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":3},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[15,71,97]}},"priority":13,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading5","name":"Heading 5","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading5Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":4},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[15,71,97]}},"priority":14,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading6","name":"Heading 6","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading6Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":5},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[89,89,89]}},"priority":15,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading7","name":"Heading 7","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading7Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":6},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[89,89,89]}},"priority":16,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading8","name":"Heading 8","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading8Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":7},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[39,39,39]}},"priority":17,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading9","name":"Heading 9","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading9Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":8},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[39,39,39]}},"priority":18,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Title","name":"Title","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":null,"para":{"spaceAfter":4.0,"lineSpacing":{"rule":"multiple","value":1.0},"contextualSpacing":true},"chr":{"font":"Source Sans 3","size":28.0,"spacing":-0.5,"kern":14.0},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+numbering: 3 lists, 2 abstracts
+  list {"id":1,"abstractId":0,"startOverrides":[]}
+  list {"id":2,"abstractId":0,"startOverrides":[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]]}
+  list {"id":3,"abstractId":1,"startOverrides":[]}
+  abstract 0 name=None
+    L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  abstract 1 name=None
+    L0 {"start":1,"format":"bullet","text":"•","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"bullet","text":"○","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"bullet","text":"▪","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"bullet","text":"•","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"bullet","text":"○","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"bullet","text":"▪","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"bullet","text":"•","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"bullet","text":"○","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"bullet","text":"▪","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Arial"},"restart":true,"legal":false,"style":null}
+body (22 blocks):
+  [0] para props={"style":"Heading1"} mark={} "Tables and Lists"
+      runs 16:{}
+  [1] para props={} mark={} "Before the table."
+      runs 17:{}
+  [2] table props={"style":"TableGrid","width":null,"widthPct":100.0,"align":null,"indent":null,"borders":{"top":{"style":"single","width":0.5,"color":null,"space":0.0},"left":{"style":"single","width":0.5,"color":null,"space":0.0},"bottom":{"style":"single","width":0.5,"color":null,"space":0.0},"right":{"style":"single","width":0.5,"color":null,"space":0.0},"between":{"style":"single","width":0.5,"color":null,"space":0.0},"inside_v":{"style":"single","width":0.5,"color":null,"space":0.0}},"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0]
+      row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Averyveryverylongwordinthesecondcell"
+              runs 36:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Journey through between."
+              runs 24:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+      row 1 props={"height":36.0,"heightRule":"exact","header":true,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":[221,235,247],"borders":null,"valign":"center","margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={"align":"right"} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"bold":true,"italic":true,"sizeCs":10.0,"boldCs":true,"italicCs":true} ""
+      row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Fox orchard people."
+              runs 19:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Morning river river."
+              runs 20:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+      row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} ""
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "While over jumps."
+              runs 17:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true} "Pattern plays village."
+              runs 22:{"size":10.0,"italic":true,"sizeCs":10.0,"italicCs":true}
+  [3] para props={"numbering":{"num":0,"level":0}} mark={} "First item"
+      runs 10:{}
+  [4] para props={"style":"ListParagraph","numbering":{"num":1,"level":1}} mark={} "Second item"
+      runs 11:{}
+  [5] para props={"style":"ListParagraph","numbering":{"num":2,"level":1}} mark={} "Third item"
+      runs 10:{}
+  [6] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+      row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "alpha"
+              runs 5:{}
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "beta"
+              runs 4:{}
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "gamma"
+              runs 5:{}
+  [7] para props={} mark={} "one\ttwo\tthree"
+      runs 13:{}
+  [8] para props={} mark={} "The End."
+      runs 8:{}
+  [9] para props={} mark={} "{obj}teh (c) Tables and Lists"
+      runs 27:{}
+      obj 0 {"type":"shape","kind":"textBox","w":120.0,"h":40.0,"fill":[255,255,255],"stroke":[0,0,0],"stroke_width":0.75,"float":{"wrap":"inline","hRel":"column","vRel":"column","x":0.0,"y":0.0,"dist":0.0,"distTop":0.0,"distBottom":0.0,"effect":[0.0,0.0,0.0,0.0]},"story":1}
+  [10] para props={} mark={} "Before the table."
+      runs 17:{}
+  [11] para props={} mark={} "\tAveryveryverylongwordinthesecondcell\tJourney through between."
+      runs 62:{}
+  [12] para props={} mark={} "\t\t"
+      runs 2:{}
+  [13] para props={} mark={} "\tFox orchard people.\tMorning river river."
+      runs 41:{}
+  [14] para props={} mark={} "\tWhile over jumps.\tPattern plays village."
+      runs 41:{}
+  [15] para props={} mark={} "First item"
+      runs 10:{}
+  [16] para props={} mark={} "Second item"
+      runs 11:{}
+  [17] para props={} mark={} "Third item"
+      runs 10:{}
+  [18] para props={} mark={} "alpha\tbeta\tgamma"
+      runs 16:{}
+  [19] para props={} mark={} "one\ttwo\tthree"
+      runs 13:{}
+  [20] para props={} mark={} "The End."
+      runs 8:{}
+  [21] para props={} mark={} "teh (c) "
+      runs 8:{}
+part 1 TextBox body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={} mark={} "A box typed by the script and typed into"
+      runs 40:{}
+model sha256=bf06203e40bb070d994b97457fc319b56a98631285e292d22c0ee5ad445b4495
+

@@ -1,0 +1,1128 @@
+# 10 parts
+== [Content_Types].xml (12 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+<Default Extension="xml" ContentType="application/xml"/>
+<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+<Override PartName="/word/numbering.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/word/theme/theme1.xml" ContentType="application/vnd.openxmlformats-officedocument.theme+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
+</Types>
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>123</Words>
+<Paragraphs>10</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: custom_styles</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+<Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>
+== word/document.xml (91 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Numbered heading</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Dog between window the silver chapter lantern jumps lantern over summer brown quick another fox lantern brown history pattern silver band through fox silver village measure evening band letter the the harbour another morning another morning window question journey history.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="BodyNote"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Body Note style paragraph with a smaller italic face.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Inline code: </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="CodeChar"/>
+</w:rPr>
+<w:t xml:space="preserve">let x = 42;</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> in a sentence.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Second-level numbered heading</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Boxed"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Boxed, based on Body Note: bold, not italic.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Third level</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Another second level</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Another first level</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River between lazy lantern quick jumps quick harbour morning river number brown orchard window chapter brown dog letter fox brown quick silver garden lazy river lazy the because band jumps while question over morning because band window question garden village.</w:t>
+</w:r>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/numbering.xml (40 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:numbering xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:abstractNum w:abstractNumId="0">
+<w:multiLevelType w:val="multilevel"/>
+<w:name w:val="Headings"/>
+<w:lvl w:ilvl="0">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:pStyle w:val="Heading1"/>
+<w:lvlText w:val="%1"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="720" w:hanging="720"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:pStyle w:val="Heading2"/>
+<w:lvlText w:val="%1.%2"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="1440" w:hanging="720"/>
+</w:pPr>
+</w:lvl>
+<w:lvl w:ilvl="2">
+<w:start w:val="1"/>
+<w:numFmt w:val="decimal"/>
+<w:pStyle w:val="Heading3"/>
+<w:lvlText w:val="%1.%2.%3"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2160" w:hanging="720"/>
+</w:pPr>
+</w:lvl>
+</w:abstractNum>
+<w:num w:numId="1">
+<w:abstractNumId w:val="0"/>
+</w:num>
+</w:numbering>
+== word/settings.xml: same as the blank document's (15 lines, sha256=e112044e020fd565)
+== word/styles.xml (949 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:docDefaults>
+<w:rPrDefault>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:kern w:val="2"/>
+<w:sz w:val="24"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:rPrDefault>
+<w:pPrDefault>
+<w:pPr>
+<w:widowControl/>
+<w:spacing w:before="0" w:after="160" w:line="276" w:lineRule="auto"/>
+</w:pPr>
+</w:pPrDefault>
+</w:docDefaults>
+<w:style w:type="paragraph" w:styleId="Normal" w:default="1">
+<w:name w:val="Normal"/>
+<w:uiPriority w:val="0"/>
+<w:qFormat/>
+</w:style>
+<w:style w:type="character" w:styleId="DefaultParagraphFont" w:default="1">
+<w:name w:val="Default Paragraph Font"/>
+<w:uiPriority w:val="1"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+</w:style>
+<w:style w:type="paragraph" w:styleId="NoSpacing">
+<w:name w:val="No Spacing"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="1"/>
+<w:qFormat/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading1">
+<w:name w:val="heading 1"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading1Char"/>
+<w:uiPriority w:val="10"/>
+<w:qFormat/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:before="360" w:after="80"/>
+<w:outlineLvl w:val="0"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+<w:color w:val="0F4761"/>
+<w:sz w:val="40"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading2">
+<w:name w:val="heading 2"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading2Char"/>
+<w:uiPriority w:val="11"/>
+<w:qFormat/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:numPr>
+<w:ilvl w:val="1"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:before="160" w:after="80"/>
+<w:outlineLvl w:val="1"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+<w:color w:val="0F4761"/>
+<w:sz w:val="32"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading3">
+<w:name w:val="heading 3"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading3Char"/>
+<w:uiPriority w:val="12"/>
+<w:qFormat/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:numPr>
+<w:ilvl w:val="2"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:before="160" w:after="80"/>
+<w:outlineLvl w:val="2"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:color w:val="0F4761"/>
+<w:sz w:val="28"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading4">
+<w:name w:val="heading 4"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading4Char"/>
+<w:uiPriority w:val="13"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="80" w:after="40"/>
+<w:outlineLvl w:val="3"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:i/>
+<w:color w:val="0F4761"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading5">
+<w:name w:val="heading 5"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading5Char"/>
+<w:uiPriority w:val="14"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="80" w:after="40"/>
+<w:outlineLvl w:val="4"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:color w:val="0F4761"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading6">
+<w:name w:val="heading 6"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading6Char"/>
+<w:uiPriority w:val="15"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="40" w:after="0"/>
+<w:outlineLvl w:val="5"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:i/>
+<w:color w:val="595959"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading7">
+<w:name w:val="heading 7"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading7Char"/>
+<w:uiPriority w:val="16"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="40" w:after="0"/>
+<w:outlineLvl w:val="6"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:color w:val="595959"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading8">
+<w:name w:val="heading 8"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading8Char"/>
+<w:uiPriority w:val="17"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="0" w:after="0"/>
+<w:outlineLvl w:val="7"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:i/>
+<w:color w:val="272727"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Heading9">
+<w:name w:val="heading 9"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:link w:val="Heading9Char"/>
+<w:uiPriority w:val="18"/>
+<w:pPr>
+<w:keepNext/>
+<w:keepLines/>
+<w:spacing w:before="0" w:after="0"/>
+<w:outlineLvl w:val="8"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Serif 4" w:hAnsi="Source Serif 4"/>
+<w:color w:val="272727"/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Title">
+<w:name w:val="Title"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="10"/>
+<w:qFormat/>
+<w:pPr>
+<w:spacing w:after="80" w:line="240" w:lineRule="auto"/>
+<w:contextualSpacing/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Source Sans 3" w:hAnsi="Source Sans 3"/>
+<w:spacing w:val="-10"/>
+<w:kern w:val="28"/>
+<w:sz w:val="56"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Subtitle">
+<w:name w:val="Subtitle"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="11"/>
+<w:qFormat/>
+<w:rPr>
+<w:color w:val="595959"/>
+<w:spacing w:val="15"/>
+<w:sz w:val="28"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="SubtleEmphasis">
+<w:name w:val="Subtle Emphasis"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="19"/>
+<w:qFormat/>
+<w:rPr>
+<w:i/>
+<w:color w:val="404040"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="Emphasis">
+<w:name w:val="Emphasis"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="20"/>
+<w:qFormat/>
+<w:rPr>
+<w:i/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="IntenseEmphasis">
+<w:name w:val="Intense Emphasis"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="21"/>
+<w:qFormat/>
+<w:rPr>
+<w:i/>
+<w:color w:val="0F4761"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="Strong">
+<w:name w:val="Strong"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="22"/>
+<w:qFormat/>
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Quote">
+<w:name w:val="Quote"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="29"/>
+<w:qFormat/>
+<w:pPr>
+<w:spacing w:before="160"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:rPr>
+<w:i/>
+<w:color w:val="404040"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="IntenseQuote">
+<w:name w:val="Intense Quote"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="30"/>
+<w:qFormat/>
+<w:pPr>
+<w:pBdr>
+<w:top w:val="single" w:sz="4" w:space="10" w:color="0F4761"/>
+<w:bottom w:val="single" w:sz="4" w:space="10" w:color="0F4761"/>
+</w:pBdr>
+<w:spacing w:before="360" w:after="360"/>
+<w:ind w:left="864" w:right="864"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:rPr>
+<w:i/>
+<w:color w:val="0F4761"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="SubtleReference">
+<w:name w:val="Subtle Reference"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="31"/>
+<w:qFormat/>
+<w:rPr>
+<w:smallCaps/>
+<w:color w:val="5A5A5A"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="IntenseReference">
+<w:name w:val="Intense Reference"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="32"/>
+<w:qFormat/>
+<w:rPr>
+<w:b/>
+<w:smallCaps/>
+<w:color w:val="0F4761"/>
+<w:spacing w:val="5"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="BookTitle">
+<w:name w:val="Book Title"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="33"/>
+<w:qFormat/>
+<w:rPr>
+<w:b/>
+<w:i/>
+<w:spacing w:val="5"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="ListParagraph">
+<w:name w:val="List Paragraph"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="34"/>
+<w:qFormat/>
+<w:pPr>
+<w:ind w:left="720"/>
+<w:contextualSpacing/>
+</w:pPr>
+</w:style>
+<w:style w:type="character" w:styleId="Hyperlink">
+<w:name w:val="Hyperlink"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="99"/>
+<w:rPr>
+<w:color w:val="467886"/>
+<w:u w:val="single"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Caption">
+<w:name w:val="caption"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="35"/>
+<w:pPr>
+<w:spacing w:after="200" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:rPr>
+<w:i/>
+<w:color w:val="0E2841"/>
+<w:sz w:val="18"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Header">
+<w:name w:val="header"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:pPr>
+<w:tabs>
+<w:tab w:val="center" w:pos="4680"/>
+<w:tab w:val="right" w:pos="9360"/>
+</w:tabs>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Footer">
+<w:name w:val="footer"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:pPr>
+<w:tabs>
+<w:tab w:val="center" w:pos="4680"/>
+<w:tab w:val="right" w:pos="9360"/>
+</w:tabs>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="FootnoteText">
+<w:name w:val="footnote text"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:rPr>
+<w:sz w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="FootnoteReference">
+<w:name w:val="footnote reference"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="99"/>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="EndnoteText">
+<w:name w:val="endnote text"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:rPr>
+<w:sz w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="EndnoteReference">
+<w:name w:val="endnote reference"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="99"/>
+<w:rPr>
+<w:vertAlign w:val="superscript"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOCHeading">
+<w:name w:val="TOC Heading"/>
+<w:basedOn w:val="Heading1"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:before="240"/>
+<w:outlineLvl w:val="9"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC1">
+<w:name w:val="toc 1"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="0"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC2">
+<w:name w:val="toc 2"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="240"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC3">
+<w:name w:val="toc 3"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="480"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC4">
+<w:name w:val="toc 4"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="720"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC5">
+<w:name w:val="toc 5"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="960"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC6">
+<w:name w:val="toc 6"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="1200"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC7">
+<w:name w:val="toc 7"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="1440"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC8">
+<w:name w:val="toc 8"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="1680"/>
+</w:pPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="TOC9">
+<w:name w:val="toc 9"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:uiPriority w:val="39"/>
+<w:pPr>
+<w:spacing w:after="100"/>
+<w:ind w:left="1920"/>
+</w:pPr>
+</w:style>
+<w:style w:type="table" w:styleId="TableGrid">
+<w:name w:val="Table Grid"/>
+<w:uiPriority w:val="59"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tblBorders>
+</w:tblPr>
+</w:style>
+<w:style w:type="table" w:styleId="TableNormal" w:default="1">
+<w:name w:val="Normal Table"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+</w:style>
+<w:style w:type="table" w:styleId="PlainTable1">
+<w:name w:val="Plain Table 1"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="band1Horz">
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="F2F2F2"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="GridTable1Light">
+<w:name w:val="Grid Table 1 Light"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="999999"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="GridTable4AccentBlue">
+<w:name w:val="Grid Table 4 – Blue"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="C1E4F5"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="band1Horz">
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="C1E4F5"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="156082"/>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="ListTable3AccentBlue">
+<w:name w:val="List Table 3 – Blue"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="156082"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="156082"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="156082"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="156082"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="156082"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="lastRow">
+<w:tcPr>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="156082"/>
+</w:tcBorders>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="GridTable4AccentOrange">
+<w:name w:val="Grid Table 4 – Orange"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="FBE2D5"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="band1Horz">
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="FBE2D5"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="E97132"/>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="ListTable3AccentOrange">
+<w:name w:val="List Table 3 – Orange"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="E97132"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="E97132"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="E97132"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="E97132"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="E97132"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="lastRow">
+<w:tcPr>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="E97132"/>
+</w:tcBorders>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="GridTable4AccentGreen">
+<w:name w:val="Grid Table 4 – Green"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="C1F0C8"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="band1Horz">
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="C1F0C8"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="196B24"/>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="ListTable3AccentGreen">
+<w:name w:val="List Table 3 – Green"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="196B24"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="196B24"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="196B24"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="196B24"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="196B24"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="lastRow">
+<w:tcPr>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="196B24"/>
+</w:tcBorders>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="GridTable4AccentPurple">
+<w:name w:val="Grid Table 4 – Purple"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+<w:insideH w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+<w:insideV w:val="single" w:sz="4" w:space="0" w:color="E5D2EE"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="band1Horz">
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="E5D2EE"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstCol">
+<w:rPr>
+<w:b/>
+</w:rPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="712E8D"/>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="table" w:styleId="ListTable3AccentPurple">
+<w:name w:val="List Table 3 – Purple"/>
+<w:basedOn w:val="TableNormal"/>
+<w:uiPriority w:val="60"/>
+<w:pPr>
+<w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+</w:pPr>
+<w:tblPr>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="712E8D"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="712E8D"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="712E8D"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="712E8D"/>
+</w:tblBorders>
+</w:tblPr>
+<w:tblStylePr w:type="firstRow">
+<w:rPr>
+<w:b/>
+<w:color w:val="FFFFFF"/>
+</w:rPr>
+<w:tcPr>
+<w:shd w:val="clear" w:color="auto" w:fill="712E8D"/>
+</w:tcPr>
+</w:tblStylePr>
+<w:tblStylePr w:type="lastRow">
+<w:tcPr>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="712E8D"/>
+</w:tcBorders>
+</w:tcPr>
+</w:tblStylePr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyNote" w:customStyle="1">
+<w:name w:val="Body Note"/>
+<w:basedOn w:val="Normal"/>
+<w:next w:val="Normal"/>
+<w:qFormat/>
+<w:pPr>
+<w:spacing w:after="80"/>
+<w:ind w:left="720"/>
+</w:pPr>
+<w:rPr>
+<w:i/>
+<w:color w:val="404040"/>
+<w:sz w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:styleId="CodeChar" w:customStyle="1">
+<w:name w:val="Code"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:rPr>
+<w:rFonts w:ascii="JetBrains Mono" w:hAnsi="JetBrains Mono"/>
+<w:sz w:val="20"/>
+<w:shd w:val="clear" w:color="auto" w:fill="EEEEEE"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="Boxed" w:customStyle="1">
+<w:name w:val="Boxed"/>
+<w:basedOn w:val="BodyNote"/>
+<w:pPr>
+<w:pBdr>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:between w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:pBdr>
+</w:pPr>
+<w:rPr>
+<w:b/>
+<w:i w:val="0"/>
+</w:rPr>
+</w:style>
+</w:styles>
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

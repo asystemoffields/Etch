@@ -1,0 +1,25 @@
+== html (1879 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: hyphenation</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Hyphenation</h1>
+<p>Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. </p>
+<p>Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. </p>
+<p>Soft hyphens: ex­tra­or­di­nar­i­ly un­char­ac­ter­is­tic in­ter­na­tion­al­i­za­tion re­spon­si­bil­i­ties over­whelm­ing­ly.</p>
+<p>Non-breaking hyphens keep well‑known‑compound‑words‑together on the line and an ordinary long-hyphenated-compound-word may break at its hyphens.</p>
+<p>ALLCAPS INTERNATIONALIZATION RESPONSIBILITIES OVERWHELMINGLY COUNTERPRODUCTIVE MISUNDERSTANDINGS.</p>
+</body>
+</html>

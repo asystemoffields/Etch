@@ -1,0 +1,23 @@
+# layout snapshot: resume (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (9):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "Alex Rivera"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Illustrator · alex@example.com · portfolio.example.com"
+    lines body [2] l0..1 x=72.0 y=150.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Experience"
+    lines body [3] l0..1 x=72.0 y=184.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Lead Illustrator, Harbor Books\t2021 – present"
+    lines body [4] l0..1 x=72.0 y=211.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Freelance Illustrator\t2016 – 2021"
+    lines body [5] l0..1 x=72.0 y=248.4
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Education"
+    lines body [6] l0..1 x=72.0 y=282.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "BFA Illustration, Coastal College of Art\t2016"
+    lines body [7] l0..1 x=72.0 y=319.8
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Skills"
+    lines body [8] l0..1 x=72.0 y=354.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Ink, gouache, digital painting, book layout, lettering"

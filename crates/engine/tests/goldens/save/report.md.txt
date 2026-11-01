@@ -1,0 +1,22 @@
+== md (271 bytes)
+# Report Title
+
+Subtitle or date
+
+# Summary
+
+Summarise the findings in two or three sentences.
+
+# Background
+
+Describe the context and the question the report answers.
+
+# Findings
+
+## First finding
+
+Explain the evidence.
+
+# Recommendations
+
+List what should happen next.

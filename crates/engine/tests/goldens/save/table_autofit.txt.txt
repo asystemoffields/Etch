@@ -1,0 +1,13 @@
+== txt (748 bytes)
+AutoFit to contents: the columns take what their text needs.
+Item	Description	Qty
+Press	Fox quick meadow morning garden lazy garden people silver without orchard morning harbour quick question question orchard without while band summer evening between question.	1
+Kiln	Averyveryverylongunbreakablewordthatwidensitscolumn	12
+Loom	Two paragraphs Stone another garden meadow garden measure lantern chapter orchard evening.	3
+	An empty first cell on this row	0
+Light table	Short	100
+A table 60% of the text width, centred:
+While meadow over.	Through garden orchard.	Measure window evening.
+Orchard stone dog.	Chapter dog because.	Journey chapter history.
+Plays morning silver.	Lantern market lantern.	Question brown letter.
+After the tables.

@@ -1,0 +1,65 @@
+== html (4426 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: kitchen_sink</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+section.footnotes,section.endnotes{font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Kitchen sink: a bit of everything the sweep document has.</p>
+<p>Harbour silver jumps orchard evening history jumps dog river over while history lazy quick lazy chapter the pattern meadow stone quick garden stone chapter village summer summer garden quick morning river while river fox journey through garden river evening meadow band the brown another brown plays river because between window.</p>
+<p>Body text with <a id="sink">
+</a>a bookmark, a comment, &nbsp;and words tracked.</p>
+<p>Morning through river market between village lazy evening window village jumps question jumps another pattern morning market journey village jumps through summer quick river silver meadow chapter history window orchard river village number market morning window silver plays chapter over number history winter market village evening stone lantern window garden.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:156pt">
+<col style="width:156pt">
+<col style="width:156pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Quick brown quick.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band silver over.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone garden market.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Window pattern village.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening band while.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Dog over fox.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Harbour lazy measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening jumps morning.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown because market.</td>
+</tr>
+</table>
+<p>People while brown summer winter without lantern village silver while brown brown band chapter over pattern morning between pattern while letter jumps river plays measure meadow without brown while because pattern quick number history window meadow village dog because brown river orchard history village quick through river dog through measure.</p>
+<p>Last paragraph of the first section. See a bookmark on page 1.</p>
+<p>Second section, two columns, with a footnote<a href="#fn1" id="fnref1" role="doc-noteref">
+<sup>1</sup>
+</a> and a content control here.</p>
+<p>Evening silver market market quick lazy lazy over through chapter dog band window number letter number winter over journey without evening river people jumps morning through chapter pattern the pattern morning lazy lantern garden between summer silver jumps without through band lazy brown lazy village orchard harbour brown band evening.</p>
+<p>Number meadow brown orchard harbour without fox another fox pattern morning measure the people meadow evening silver morning between while summer while the pattern stone over dog stone band question question while through morning through between another another between history meadow evening plays between quick between fox measure because letter.</p>
+<p>History band the journey harbour band dog through question over summer fox jumps silver over journey window question without measure harbour fox jumps while brown dog meadow brown between brown jumps winter between summer garden brown harbour morning through people band number harbour garden summer question over while silver orchard.</p>
+<p>The end of the second section.</p>
+<section role="doc-endnotes" class="footnotes" aria-label="Footnotes">
+<hr>
+<ol>
+<li id="fn1">
+<p>The kitchen sink's footnote. <a href="#fnref1" role="doc-backlink" aria-label="Back to text">↩︎</a>
+</p>
+</li>
+</ol>
+</section>
+</body>
+</html>

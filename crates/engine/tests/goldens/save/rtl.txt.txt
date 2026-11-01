@@ -1,0 +1,13 @@
+== txt (1130 bytes)
+Right-to-Left Text
+Summer number journey market through winter between while without plays evening village stone stone summer fox evening while meadow village winter harbour the stone another stone between silver journey while village because through village brown river brown river meadow measure.
+שלום עולם, זהו משפט בעברית עם מספרים 123 ו-456 בתוכו.
+مرحبا بالعالم، هذه جملة عربية فيها كلمات english وأرقام 789.
+Mixed in a left-to-right paragraph: Hello שלום 42 world مرحبا again.
+Right-aligned right-to-left paragraph.
+ימין	Because winter through.	שמאל
+Jumps letter measure.	Brown through through.	Evening stone without.
+A right-to-left section
+Journey winter quick summer between garden jumps evening fox dog stone stone between pattern silver summer fox orchard summer window jumps measure lazy chapter meadow measure letter dog plays plays harbour letter through people winter journey winter plays brown pattern river meadow number brown village plays brown while summer because.
+1.	פריט ראשון
+2.	פריט שני

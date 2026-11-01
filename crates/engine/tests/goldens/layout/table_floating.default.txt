@@ -1,0 +1,335 @@
+# layout snapshot: table_floating (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (97):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Floating and Styled Tables"
+    lines body [1] l0..6 x=72.0 y=124.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Lazy garden stone summer history number silver evening window people through lazy "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "letter lazy evening garden between river brown dog village window winter band "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "orchard because while without lazy fox history people another market people evening "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "garden letter meadow plays pattern measure meadow village silver lazy harbour "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "through pattern pattern another over between lantern lazy letter village history "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "question harbour."
+    lines body [2,0,0,0] l0..2 x=345.4 y=246.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Journey "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "between village."
+    rule (339.8 246.0)-(440.3 246.0) Single w=0.5 auto
+    rule (339.8 279.4)-(440.3 279.4) Single w=0.5 auto
+    rule (340.0 246.0)-(340.0 279.4) Single w=0.5 auto
+    rule (440.0 246.0)-(440.0 279.4) Single w=0.5 auto
+    cell [340.0 246.0 100.0x33.4] table=[2] r0 c0 body
+    lines body [2,0,1,0] l0..2 x=445.4 y=246.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Plays meadow "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "people."
+    rule (439.8 246.0)-(540.3 246.0) Single w=0.5 auto
+    rule (439.8 279.4)-(540.3 279.4) Single w=0.5 auto
+    rule (440.0 246.0)-(440.0 279.4) Single w=0.5 auto
+    rule (540.0 246.0)-(540.0 279.4) Single w=0.5 auto
+    cell [440.0 246.0 100.0x33.4] table=[2] r0 c1 body
+    lines body [2,1,0,0] l0..2 x=345.4 y=279.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Dog brown "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "village."
+    rule (339.8 279.4)-(440.3 279.4) Single w=0.5 auto
+    rule (339.8 312.8)-(440.3 312.8) Single w=0.5 auto
+    rule (340.0 279.4)-(340.0 312.8) Single w=0.5 auto
+    rule (440.0 279.4)-(440.0 312.8) Single w=0.5 auto
+    cell [340.0 279.4 100.0x33.4] table=[2] r1 c0 body
+    lines body [2,1,1,0] l0..1 x=445.4 y=279.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Para "Fox while plays."
+    rule (439.8 279.4)-(540.3 279.4) Single w=0.5 auto
+    rule (439.8 312.8)-(540.3 312.8) Single w=0.5 auto
+    rule (440.0 279.4)-(440.0 312.8) Single w=0.5 auto
+    rule (540.0 279.4)-(540.0 312.8) Single w=0.5 auto
+    cell [440.0 279.4 100.0x33.4] table=[2] r1 c1 body
+    lines body [2,2,0,0] l0..2 x=345.4 y=313.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "Lazy harbour "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "people."
+    rule (339.8 312.8)-(440.3 312.8) Single w=0.5 auto
+    rule (339.8 346.7)-(440.3 346.7) Single w=0.5 auto
+    rule (340.0 312.8)-(340.0 346.7) Single w=0.5 auto
+    rule (440.0 312.8)-(440.0 346.7) Single w=0.5 auto
+    cell [340.0 312.8 100.0x33.9] table=[2] r2 c0 body
+    lines body [2,2,1,0] l0..2 x=445.4 y=313.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=89.2 end=Wrap "The morning "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=89.2 end=Para "while."
+    rule (439.8 312.8)-(540.3 312.8) Single w=0.5 auto
+    rule (439.8 346.7)-(540.3 346.7) Single w=0.5 auto
+    rule (440.0 312.8)-(440.0 346.7) Single w=0.5 auto
+    rule (540.0 312.8)-(540.0 346.7) Single w=0.5 auto
+    cell [440.0 312.8 100.0x33.9] table=[2] r2 c1 body
+    lines body [3] l0..8 x=72.0 y=246.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=262.0 end=Wrap "The garden village over plays while measure "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=262.0 end=Wrap "through window pattern silver measure garden "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=262.0 end=Wrap "question pattern jumps brown pattern stone dog "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=262.0 end=Wrap "lazy band brown band jumps band pattern "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=262.0 end=Wrap "journey plays plays lantern river fox measure "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=262.0 end=Wrap "band brown morning chapter band village dog "
+      6: top=113.5 h=18.9 base=126.0 left=0.0 right=468.0 end=Wrap "without jumps quick while measure orchard lazy garden harbour stone over pattern "
+      7: top=132.4 h=18.9 base=144.9 left=0.0 right=468.0 end=Para "morning summer river evening another morning between."
+    lines body [4] l0..6 x=72.0 y=405.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Over brown morning people while fox silver number without quick history quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "village market people jumps band quick lantern quick dog brown silver while measure "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "plays garden meadow question over letter while lantern morning through through "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "journey summer harbour the between journey orchard meadow another lantern letter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "history the number garden market summer without winter lantern lazy quick orchard "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "lantern."
+    lines body [5] l0..6 x=72.0 y=526.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Question lantern summer river stone stone history jumps journey chapter fox quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "number winter because people window silver number chapter silver dog because "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "between lazy evening garden lazy between through morning question plays letter river "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "through orchard dog orchard window evening jumps window river summer village "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "history lantern plays over journey village lantern journey silver without because quick "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "summer over."
+    fill [72.3 648.4 117.0x33.4] #156082
+    lines body [6,0,0,0] l0..2 x=77.7 y=648.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Village garden "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "orchard."
+    rule (72.0 648.4)-(189.5 648.4) Single w=0.5 #c1e4f5
+    rule (72.0 681.8)-(189.5 681.8) Single w=0.5 #c1e4f5
+    rule (72.3 648.4)-(72.3 681.8) Single w=0.5 #c1e4f5
+    rule (189.3 648.4)-(189.3 681.8) Single w=0.5 #c1e4f5
+    cell [72.3 648.4 117.0x33.4] table=[6] r0 c0 body
+    fill [189.3 648.4 117.0x33.4] #156082
+    lines body [6,0,1,0] l0..2 x=194.7 y=648.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Garden question "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "stone."
+    rule (189.0 648.4)-(306.5 648.4) Single w=0.5 #c1e4f5
+    rule (189.0 681.8)-(306.5 681.8) Single w=0.5 #c1e4f5
+    rule (189.3 648.4)-(189.3 681.8) Single w=0.5 #c1e4f5
+    rule (306.3 648.4)-(306.3 681.8) Single w=0.5 #c1e4f5
+    cell [189.3 648.4 117.0x33.4] table=[6] r0 c1 body
+    fill [306.3 648.4 117.0x33.4] #156082
+    lines body [6,0,2,0] l0..2 x=311.7 y=648.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Quick village "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "measure."
+    rule (306.0 648.4)-(423.5 648.4) Single w=0.5 #c1e4f5
+    rule (306.0 681.8)-(423.5 681.8) Single w=0.5 #c1e4f5
+    rule (306.3 648.4)-(306.3 681.8) Single w=0.5 #c1e4f5
+    rule (423.3 648.4)-(423.3 681.8) Single w=0.5 #c1e4f5
+    cell [306.3 648.4 117.0x33.4] table=[6] r0 c2 body
+    fill [423.3 648.4 117.0x33.4] #156082
+    lines body [6,0,3,0] l0..2 x=428.7 y=648.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Brown the "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "number."
+    rule (423.0 648.4)-(540.5 648.4) Single w=0.5 #c1e4f5
+    rule (423.0 681.8)-(540.5 681.8) Single w=0.5 #c1e4f5
+    rule (423.3 648.4)-(423.3 681.8) Single w=0.5 #c1e4f5
+    rule (540.3 648.4)-(540.3 681.8) Single w=0.5 #c1e4f5
+    cell [423.3 648.4 117.0x33.4] table=[6] r0 c3 body
+    fill [72.3 681.8 117.0x33.4] #c1e4f5
+    lines body [6,1,0,0] l0..1 x=77.7 y=682.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Stone dog without."
+    rule (72.0 681.8)-(189.5 681.8) Single w=0.5 #c1e4f5
+    rule (72.0 715.2)-(189.5 715.2) Single w=0.5 #c1e4f5
+    rule (72.3 681.8)-(72.3 715.2) Single w=0.5 #c1e4f5
+    rule (189.3 681.8)-(189.3 715.2) Single w=0.5 #c1e4f5
+    cell [72.3 681.8 117.0x33.4] table=[6] r1 c0 body
+    fill [189.3 681.8 117.0x33.4] #c1e4f5
+    lines body [6,1,1,0] l0..2 x=194.7 y=682.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Number summer "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "number."
+    rule (189.0 681.8)-(306.5 681.8) Single w=0.5 #c1e4f5
+    rule (189.0 715.2)-(306.5 715.2) Single w=0.5 #c1e4f5
+    rule (189.3 681.8)-(189.3 715.2) Single w=0.5 #c1e4f5
+    rule (306.3 681.8)-(306.3 715.2) Single w=0.5 #c1e4f5
+    cell [189.3 681.8 117.0x33.4] table=[6] r1 c1 body
+    fill [306.3 681.8 117.0x33.4] #c1e4f5
+    lines body [6,1,2,0] l0..1 x=311.7 y=682.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Dog evening fox."
+    rule (306.0 681.8)-(423.5 681.8) Single w=0.5 #c1e4f5
+    rule (306.0 715.2)-(423.5 715.2) Single w=0.5 #c1e4f5
+    rule (306.3 681.8)-(306.3 715.2) Single w=0.5 #c1e4f5
+    rule (423.3 681.8)-(423.3 715.2) Single w=0.5 #c1e4f5
+    cell [306.3 681.8 117.0x33.4] table=[6] r1 c2 body
+    fill [423.3 681.8 117.0x33.4] #c1e4f5
+    lines body [6,1,3,0] l0..2 x=428.7 y=682.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "People silver "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "jumps."
+    rule (423.0 681.8)-(540.5 681.8) Single w=0.5 #c1e4f5
+    rule (423.0 715.2)-(540.5 715.2) Single w=0.5 #c1e4f5
+    rule (423.3 681.8)-(423.3 715.2) Single w=0.5 #c1e4f5
+    rule (540.3 681.8)-(540.3 715.2) Single w=0.5 #c1e4f5
+    cell [423.3 681.8 117.0x33.4] table=[6] r1 c3 body
+  rows [2]: 0:246.0+33.4 1:279.4+33.4 2:312.8+33.9
+  rows [6]: 0:648.4+33.4 1:681.8+33.4
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=6 markup=0.0 header=- footer=-
+  items (121):
+    fill [72.3 72.0 117.0x33.4] #156082
+    lines body [6,0,0,0] l0..2 x=77.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Village garden "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "orchard."
+    rule (72.0 72.0)-(189.5 72.0) Single w=0.5 #c1e4f5
+    rule (72.0 105.4)-(189.5 105.4) Single w=0.5 #c1e4f5
+    rule (72.3 72.0)-(72.3 105.4) Single w=0.5 #c1e4f5
+    rule (189.3 72.0)-(189.3 105.4) Single w=0.5 #c1e4f5
+    cell [72.3 72.0 117.0x33.4] table=[6] r0 c0 body
+    fill [189.3 72.0 117.0x33.4] #156082
+    lines body [6,0,1,0] l0..2 x=194.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Garden question "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "stone."
+    rule (189.0 72.0)-(306.5 72.0) Single w=0.5 #c1e4f5
+    rule (189.0 105.4)-(306.5 105.4) Single w=0.5 #c1e4f5
+    rule (189.3 72.0)-(189.3 105.4) Single w=0.5 #c1e4f5
+    rule (306.3 72.0)-(306.3 105.4) Single w=0.5 #c1e4f5
+    cell [189.3 72.0 117.0x33.4] table=[6] r0 c1 body
+    fill [306.3 72.0 117.0x33.4] #156082
+    lines body [6,0,2,0] l0..2 x=311.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Quick village "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "measure."
+    rule (306.0 72.0)-(423.5 72.0) Single w=0.5 #c1e4f5
+    rule (306.0 105.4)-(423.5 105.4) Single w=0.5 #c1e4f5
+    rule (306.3 72.0)-(306.3 105.4) Single w=0.5 #c1e4f5
+    rule (423.3 72.0)-(423.3 105.4) Single w=0.5 #c1e4f5
+    cell [306.3 72.0 117.0x33.4] table=[6] r0 c2 body
+    fill [423.3 72.0 117.0x33.4] #156082
+    lines body [6,0,3,0] l0..2 x=428.7 y=72.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Brown the "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "number."
+    rule (423.0 72.0)-(540.5 72.0) Single w=0.5 #c1e4f5
+    rule (423.0 105.4)-(540.5 105.4) Single w=0.5 #c1e4f5
+    rule (423.3 72.0)-(423.3 105.4) Single w=0.5 #c1e4f5
+    rule (540.3 72.0)-(540.3 105.4) Single w=0.5 #c1e4f5
+    cell [423.3 72.0 117.0x33.4] table=[6] r0 c3 body
+    lines body [6,2,0,0] l0..2 x=77.7 y=105.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Because letter "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "without."
+    rule (72.0 105.4)-(189.5 105.4) Single w=0.5 #c1e4f5
+    rule (72.0 138.8)-(189.5 138.8) Single w=0.5 #c1e4f5
+    rule (72.3 105.4)-(72.3 138.8) Single w=0.5 #c1e4f5
+    rule (189.3 105.4)-(189.3 138.8) Single w=0.5 #c1e4f5
+    cell [72.3 105.4 117.0x33.4] table=[6] r2 c0 body
+    lines body [6,2,1,0] l0..2 x=194.7 y=105.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Lantern quick "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "summer."
+    rule (189.0 105.4)-(306.5 105.4) Single w=0.5 #c1e4f5
+    rule (189.0 138.8)-(306.5 138.8) Single w=0.5 #c1e4f5
+    rule (189.3 105.4)-(189.3 138.8) Single w=0.5 #c1e4f5
+    rule (306.3 105.4)-(306.3 138.8) Single w=0.5 #c1e4f5
+    cell [189.3 105.4 117.0x33.4] table=[6] r2 c1 body
+    lines body [6,2,2,0] l0..2 x=311.7 y=105.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Winter winter "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "without."
+    rule (306.0 105.4)-(423.5 105.4) Single w=0.5 #c1e4f5
+    rule (306.0 138.8)-(423.5 138.8) Single w=0.5 #c1e4f5
+    rule (306.3 105.4)-(306.3 138.8) Single w=0.5 #c1e4f5
+    rule (423.3 105.4)-(423.3 138.8) Single w=0.5 #c1e4f5
+    cell [306.3 105.4 117.0x33.4] table=[6] r2 c2 body
+    lines body [6,2,3,0] l0..2 x=428.7 y=105.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Market chapter "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "journey."
+    rule (423.0 105.4)-(540.5 105.4) Single w=0.5 #c1e4f5
+    rule (423.0 138.8)-(540.5 138.8) Single w=0.5 #c1e4f5
+    rule (423.3 105.4)-(423.3 138.8) Single w=0.5 #c1e4f5
+    rule (540.3 105.4)-(540.3 138.8) Single w=0.5 #c1e4f5
+    cell [423.3 105.4 117.0x33.4] table=[6] r2 c3 body
+    fill [72.3 138.8 117.0x33.9] #c1e4f5
+    lines body [6,3,0,0] l0..2 x=77.7 y=139.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Band without "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "history."
+    rule (72.0 138.8)-(189.5 138.8) Single w=0.5 #c1e4f5
+    rule (72.0 172.7)-(189.5 172.7) Single w=0.5 #c1e4f5
+    rule (72.3 138.8)-(72.3 172.7) Single w=0.5 #c1e4f5
+    rule (189.3 138.8)-(189.3 172.7) Single w=0.5 #c1e4f5
+    cell [72.3 138.8 117.0x33.9] table=[6] r3 c0 body
+    fill [189.3 138.8 117.0x33.9] #c1e4f5
+    lines body [6,3,1,0] l0..1 x=194.7 y=139.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Letter journey the."
+    rule (189.0 138.8)-(306.5 138.8) Single w=0.5 #c1e4f5
+    rule (189.0 172.7)-(306.5 172.7) Single w=0.5 #c1e4f5
+    rule (189.3 138.8)-(189.3 172.7) Single w=0.5 #c1e4f5
+    rule (306.3 138.8)-(306.3 172.7) Single w=0.5 #c1e4f5
+    cell [189.3 138.8 117.0x33.9] table=[6] r3 c1 body
+    fill [306.3 138.8 117.0x33.9] #c1e4f5
+    lines body [6,3,2,0] l0..2 x=311.7 y=139.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Journey orchard "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "winter."
+    rule (306.0 138.8)-(423.5 138.8) Single w=0.5 #c1e4f5
+    rule (306.0 172.7)-(423.5 172.7) Single w=0.5 #c1e4f5
+    rule (306.3 138.8)-(306.3 172.7) Single w=0.5 #c1e4f5
+    rule (423.3 138.8)-(423.3 172.7) Single w=0.5 #c1e4f5
+    cell [306.3 138.8 117.0x33.9] table=[6] r3 c2 body
+    fill [423.3 138.8 117.0x33.9] #c1e4f5
+    lines body [6,3,3,0] l0..2 x=428.7 y=139.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Winter market "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "history."
+    rule (423.0 138.8)-(540.5 138.8) Single w=0.5 #c1e4f5
+    rule (423.0 172.7)-(540.5 172.7) Single w=0.5 #c1e4f5
+    rule (423.3 138.8)-(423.3 172.7) Single w=0.5 #c1e4f5
+    rule (540.3 138.8)-(540.3 172.7) Single w=0.5 #c1e4f5
+    cell [423.3 138.8 117.0x33.9] table=[6] r3 c3 body
+    lines body [7] l0..6 x=72.0 y=172.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Meadow summer journey chapter band chapter letter fox history letter question "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "between band harbour jumps the without window window history the stone garden "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "evening measure morning lazy history stone another through market history plays "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "evening meadow band because through harbour village river the summer evening "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "window journey without silver through summer history morning market meadow "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "morning stone measure history lantern."
+    lines body [8] l0..6 x=72.0 y=294.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Winter summer orchard morning letter meadow number another letter orchard "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "orchard stone through fox letter silver jumps journey jumps people band harbour "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "because over window harbour another window lantern through measure history "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "question silver band dog fox meadow silver without history pattern because stone fox "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "while letter band lantern pattern meadow while dog pattern orchard the measure "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "people garden the."
+    lines body [9] l0..6 x=72.0 y=415.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Stone while letter people another plays the history the between village history summer "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "village the measure winter because silver garden plays winter morning the meadow "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "over orchard evening through people another history journey silver summer chapter "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "journey silver through number band because evening stone another band orchard "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "chapter letter brown because because number the band over meadow orchard measure "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "dog."
+    lines body [10] l0..6 x=72.0 y=537.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Silver through dog stone journey the because quick chapter while while evening history "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "measure plays morning question dog history number over journey silver chapter "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "without because lazy lazy jumps band market plays meadow village dog orchard "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "window morning silver history winter silver morning market river through letter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "without question stone summer while jumps people summer orchard silver pattern "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "plays another."
+    lines body [11,0,0,0] l0..1 x=389.4 y=659.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "River jumps through."
+    rule (383.8 658.8)-(540.3 658.8) Single w=0.5 auto
+    rule (383.8 675.7)-(540.3 675.7) Single w=0.5 auto
+    rule (384.0 658.8)-(384.0 675.7) Single w=0.5 auto
+    rule (540.0 658.8)-(540.0 675.7) Single w=0.5 auto
+    cell [384.0 658.8 156.0x17.0] table=[11] r0 c0 body
+    lines body [11,0,1,0] l0..1 x=233.4 y=659.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Summer lantern lazy."
+    rule (227.8 658.8)-(384.3 658.8) Single w=0.5 auto
+    rule (227.8 675.7)-(384.3 675.7) Single w=0.5 auto
+    rule (228.0 658.8)-(228.0 675.7) Single w=0.5 auto
+    rule (384.0 658.8)-(384.0 675.7) Single w=0.5 auto
+    cell [228.0 658.8 156.0x17.0] table=[11] r0 c1 body
+    lines body [11,0,2,0] l0..1 x=77.4 y=659.3
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Chapter brown summer."
+    rule (71.8 658.8)-(228.3 658.8) Single w=0.5 auto
+    rule (71.8 675.7)-(228.3 675.7) Single w=0.5 auto
+    rule (72.0 658.8)-(72.0 675.7) Single w=0.5 auto
+    rule (228.0 658.8)-(228.0 675.7) Single w=0.5 auto
+    cell [72.0 658.8 156.0x17.0] table=[11] r0 c2 body
+    lines body [11,1,0,0] l0..1 x=389.4 y=676.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Without while without."
+    rule (383.8 675.7)-(540.3 675.7) Single w=0.5 auto
+    rule (383.8 693.2)-(540.3 693.2) Single w=0.5 auto
+    rule (384.0 675.7)-(384.0 693.2) Single w=0.5 auto
+    rule (540.0 675.7)-(540.0 693.2) Single w=0.5 auto
+    cell [384.0 675.7 156.0x17.5] table=[11] r1 c0 body
+    lines body [11,1,1,0] l0..1 x=233.4 y=676.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Plays fox meadow."
+    rule (227.8 675.7)-(384.3 675.7) Single w=0.5 auto
+    rule (227.8 693.2)-(384.3 693.2) Single w=0.5 auto
+    rule (228.0 675.7)-(228.0 693.2) Single w=0.5 auto
+    rule (384.0 675.7)-(384.0 693.2) Single w=0.5 auto
+    cell [228.0 675.7 156.0x17.5] table=[11] r1 c1 body
+    lines body [11,1,2,0] l0..1 x=77.4 y=676.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=145.2 end=Para "Over because window."
+    rule (71.8 675.7)-(228.3 675.7) Single w=0.5 auto
+    rule (71.8 693.2)-(228.3 693.2) Single w=0.5 auto
+    rule (72.0 675.7)-(72.0 693.2) Single w=0.5 auto
+    rule (228.0 675.7)-(228.0 693.2) Single w=0.5 auto
+    cell [72.0 675.7 156.0x17.5] table=[11] r1 c2 body
+    lines body [12] l0..1 x=72.0 y=693.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "After the tables."
+  rows [6]: 0:72.0+33.4 2:105.4+33.4 3:138.8+33.9
+  rows [11]: 0:658.8+17.0 1:675.7+17.5

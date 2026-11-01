@@ -1,0 +1,226 @@
+# 9 parts
+== [Content_Types].xml: same as the blank document's (11 lines, sha256=d35bc25f7c299d03)
+== _rels/.rels: same as the blank document's (6 lines, sha256=d7c0d53e7a259b5f)
+== docProps/app.xml (7 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Etch</Application>
+<Words>184</Words>
+<Paragraphs>14</Paragraphs>
+<DocSecurity>0</DocSecurity>
+</Properties>
+== docProps/core.xml (11 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Snapshot: tracked_changes</dc:title>
+<dc:creator>Snapshot Author</dc:creator>
+<dcterms:created xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">
+<timestamp>
+</dcterms:modified>
+</cp:coreProperties>
+== word/_rels/document.xml.rels: same as the blank document's (6 lines, sha256=aebaf5e2011cb4e6)
+== word/document.xml (182 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:body>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Tracked changes: words inserted</w:t>
+</w:r>
+<w:ins w:id="1" w:author="Snapshot Author" w:date="<timestamp>">
+<w:r>
+<w:t xml:space="preserve"> (and these words were added)</w:t>
+</w:r>
+</w:ins>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:del w:id="2" w:author="Snapshot Author" w:date="<timestamp>">
+<w:r>
+<w:delText xml:space="preserve">words deleted</w:delText>
+</w:r>
+</w:del>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:color w:val="C00000"/>
+<w:rPrChange w:id="3" w:author="Snapshot Author" w:date="<timestamp>">
+<w:rPr>
+</w:rPr>
+</w:rPrChange>
+</w:rPr>
+<w:t xml:space="preserve">formatting changed</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, a paragraph split</w:t>
+</w:r>
+<w:ins w:id="4" w:author="Snapshot Author" w:date="<timestamp>">
+<w:r>
+<w:t xml:space="preserve"> [moved words]</w:t>
+</w:r>
+</w:ins>
+<w:r>
+<w:t xml:space="preserve"> and one joined.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:rPr>
+<w:ins w:id="5" w:author="Snapshot Author" w:date="<timestamp>"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Chapter pattern quick measure through pl</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:ins w:id="6" w:author="Snapshot Author" w:date="<timestamp>">
+<w:r>
+<w:t xml:space="preserve">New paragraph typed with tracking on.</w:t>
+</w:r>
+</w:ins>
+<w:r>
+<w:t xml:space="preserve">ays river people over window lantern window the the chapter river people measure over window evening summer without history number people meadow garden lantern because through river over journey another window river jumps morning garden the over river village chapter.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">Morning number between without through fox another band brown jumps village through band people another village winter pattern market summer garden another another through jumps the orchard pattern garden harbour people morning market garden village question village meadow market people stone lazy through window number.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:del w:id="7" w:author="Second Reviewer" w:date="<timestamp>">
+<w:r>
+<w:delText xml:space="preserve">This whole paragraph is deleted by the second reviewer.</w:delText>
+</w:r>
+</w:del>
+</w:p>
+<w:p>
+<w:r>
+<w:t xml:space="preserve">River jumps while while fox morning jumps through quick river the through people orchard silver journey lantern number history another people jumps harbour because pattern market chapter journey village fox chapter window harbour question morning brown harbour jumps dog chapter stone chapter dog another harbour.</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:rPr>
+<w:ins w:id="8" w:author="Second Reviewer" w:date="<timestamp>"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">The last paragraph gets a tracked table after it.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="TableGrid"/>
+<w:tblW w:w="0" w:type="auto"/>
+<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="4680"/>
+<w:gridCol w:w="4680"/>
+</w:tblGrid>
+<w:tr>
+<w:trPr>
+<w:ins w:id="9" w:author="Second Reviewer" w:date="<timestamp>"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:ins w:id="10" w:author="Second Reviewer" w:date="<timestamp>">
+<w:r>
+<w:t xml:space="preserve">tracked cell</w:t>
+</w:r>
+</w:ins>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:ins w:id="11" w:author="Second Reviewer" w:date="<timestamp>"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+<w:ins w:id="12" w:author="Second Reviewer" w:date="<timestamp>">
+<w:r>
+<w:t xml:space="preserve">inserted row</w:t>
+</w:r>
+</w:ins>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:ins w:id="13" w:author="Second Reviewer" w:date="<timestamp>"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4680" w:type="dxa"/>
+</w:tcPr>
+<w:p>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p>
+</w:p>
+<w:sectPr>
+<w:type w:val="nextPage"/>
+<w:pgSz w:w="12240" w:h="15840"/>
+<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+<w:cols w:space="720" w:num="1"/>
+</w:sectPr>
+</w:body>
+</w:document>
+== word/settings.xml (16 lines)
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:settings xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" mc:Ignorable="w14 w15 wp14">
+<w:zoom w:percent="100"/>
+<w:trackRevisions/>
+<w:defaultTabStop w:val="720"/>
+<w:characterSpacingControl w:val="doNotCompress"/>
+<w:footnotePr>
+<w:numFmt w:val="decimal"/>
+</w:footnotePr>
+<w:endnotePr>
+<w:numFmt w:val="lowerRoman"/>
+</w:endnotePr>
+<w:compat>
+<w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15"/>
+</w:compat>
+</w:settings>
+== word/styles.xml: same as the blank document's (896 lines, sha256=69ff5346636c9400)
+== word/theme/theme1.xml: same as the blank document's (115 lines, sha256=aabd9387217e5f14)

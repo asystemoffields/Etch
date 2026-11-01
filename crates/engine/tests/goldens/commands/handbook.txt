@@ -1,0 +1,1607 @@
+# command snapshot: handbook (73 steps)
+step 0: start
+sel: body [21]@105 .. body [21]@105
+core: title="Snapshot script: handbook" creator="Snapshot Author" subject=""
+settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+styles: 54 (defaults chr={"font":"Source Serif 4","size":12.0,"kern":1.0,"lang":"en-US"} para={"spaceBefore":0.0,"spaceAfter":8.0,"lineSpacing":{"rule":"multiple","value":1.15},"widowControl":true})
+  style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":20.0,"color":{"Rgb":[15,71,97]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading2","name":"Heading 2","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading2Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":1},"chr":{"font":"Source Sans 3","size":16.0,"color":{"Rgb":[15,71,97]}},"priority":11,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading3","name":"Heading 3","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading3Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":2},"chr":{"font":"Source Serif 4","size":14.0,"color":{"Rgb":[15,71,97]}},"priority":12,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading4","name":"Heading 4","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading4Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":3},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[15,71,97]}},"priority":13,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading5","name":"Heading 5","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading5Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":4},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[15,71,97]}},"priority":14,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading6","name":"Heading 6","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading6Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":5},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[89,89,89]}},"priority":15,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading7","name":"Heading 7","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading7Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":6},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[89,89,89]}},"priority":16,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading8","name":"Heading 8","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading8Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":7},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[39,39,39]}},"priority":17,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading9","name":"Heading 9","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading9Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":8},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[39,39,39]}},"priority":18,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Title","name":"Title","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":null,"para":{"spaceAfter":4.0,"lineSpacing":{"rule":"multiple","value":1.0},"contextualSpacing":true},"chr":{"font":"Source Sans 3","size":28.0,"spacing":-0.5,"kern":14.0},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+numbering: 2 lists, 2 abstracts
+  list {"id":1,"abstractId":0,"startOverrides":[]}
+  list {"id":2,"abstractId":1,"startOverrides":[]}
+  abstract 0 name=None
+    L0 {"start":1,"format":"bullet","text":"•","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"bullet","text":"○","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"bullet","text":"▪","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"bullet","text":"•","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"bullet","text":"○","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"bullet","text":"▪","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"bullet","text":"•","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"bullet","text":"○","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"bullet","text":"▪","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+  abstract 1 name=None
+    L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+body (22 blocks):
+  [0] para props={"style":"Title"} mark={} "The Open Studio Handbook"
+      runs 24:{}
+  [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time"
+      runs 60:{}
+  [2] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+      runs 93:{} 8:{"bold":true} 30:{} 11:{"italic":true} 260:{}
+  [3] para props={"style":"Heading1"} mark={} "Why share a studio?"
+      runs 19:{}
+  [4] para props={} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+      runs 277:{}
+  [5] para props={"style":"Quote","spaceBefore":12.0} mark={} "A studio is a place where unfinished things are welcome."
+      runs 56:{}
+  [6] para props={"style":"Heading2"} mark={} "What we agree on"
+      runs 16:{}
+  [7] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+      runs 17:{"bold":true} 48:{}
+  [8] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+      runs 21:{"bold":true} 55:{}
+  [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+      runs 23:{"bold":true} 60:{}
+  [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Quiet hours run from 9 to 11 on weekday mornings."
+      runs 12:{"bold":true} 37:{}
+  [11] para props={"style":"Heading2"} mark={} "Shared equipment"
+      runs 16:{}
+  [12] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+      runs 97:{}
+  [13] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+      row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Equipment"
+              runs 9:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Location"
+              runs 8:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Steward"
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Booking"
+              runs 7:{}
+      row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Etching press"
+              runs 13:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Back room"
+              runs 9:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Mara O."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Sign-up sheet"
+              runs 13:{}
+      row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Kiln (cone 10)"
+              runs 14:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Yard shed"
+              runs 9:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Theo P."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "48 h notice"
+              runs 11:{}
+      row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Large-format printer"
+              runs 20:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Office"
+              runs 6:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Ines R."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Calendar"
+              runs 8:{}
+      row 4 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Light table"
+              runs 11:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "North windows"
+              runs 13:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Anyone"
+              runs 6:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "First come"
+              runs 10:{}
+  [14] para props={"style":"Heading2"} mark={} "Opening the studio"
+      runs 18:{}
+  [15] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+      runs 39:{}
+  [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+      runs 41:{}
+  [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+      runs 44:{}
+  [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+      runs 47:{}
+  [19] para props={"style":"Heading1"} mark={} "Membership"
+      runs 10:{}
+  [20] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+      runs 14:{} 16:{"bold":true,"color":{"Rgb":[21,96,130]}} 212:{}
+  [21] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+      runs 68:{} 25:{"style":"Hyperlink","link":"https://getartcraft.com/"} 12:{}
+part 1 Footer body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={"style":"Footer","align":"center"} mark={} "{obj}"
+      runs 3:{}
+      obj 0 {"type":"field","instr":"PAGE","result":"1","locked":false}
+part 2 Header body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={"style":"Header","borders":{"top":null,"left":null,"bottom":{"style":"single","width":0.5,"color":[191,191,191],"space":4.0},"right":null,"between":null,"inside_v":null}} mark={} "The Open Studio Handbook\t\tSpring edition"
+      runs 40:{}
+model sha256=101321b13dc80bd9876f0ffa59c44cf0b7d5ea9b45e2760dbff76660551870fb
+
+step 1: caret.docStart {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - sel: body [21]@105 .. body [21]@105
+  + sel: body [0]@0 .. body [0]@0
+step 2: caret.down {} -> ok {"anchor":{"off":0,"path":[1],"story":"body"},"focus":{"off":0,"path":[1],"story":"body"}}
+  - sel: body [0]@0 .. body [0]@0
+  + sel: body [1]@0 .. body [1]@0
+step 3: caret.end {} -> ok {"anchor":{"off":60,"path":[1],"story":"body"},"focus":{"off":60,"path":[1],"story":"body"}}
+  - sel: body [1]@0 .. body [1]@0
+  + sel: body [1]@60 .. body [1]@60
+step 4: text.insert {"text":" Typed at the end of the subtitle."} -> ok {"anchor":{"off":94,"path":[1],"story":"body"},"focus":{"off":94,"path":[1],"story":"body"}}
+  - sel: body [1]@60 .. body [1]@60
+  + sel: body [1]@94 .. body [1]@94
+  -   [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time"
+  -       runs 60:{}
+  +   [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +       runs 94:{}
+  - model sha256=101321b13dc80bd9876f0ffa59c44cf0b7d5ea9b45e2760dbff76660551870fb
+  + model sha256=b50bde7f56c022d3b2b544a5cad1dc2829c6d05c15bd44a7fd8ad1dd51ca43e4
+step 5: text.newParagraph {} -> ok {"anchor":{"off":0,"path":[2],"story":"body"},"focus":{"off":0,"path":[2],"story":"body"}}
+  - sel: body [1]@94 .. body [1]@94
+  + sel: body [2]@0 .. body [2]@0
+  - body (22 blocks):
+  + body (23 blocks):
+  -   [2] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +   [2] para props={"style":"Normal"} mark={} ""
+  +   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -   [3] para props={"style":"Heading1"} mark={} "Why share a studio?"
+  +   [4] para props={"style":"Heading1"} mark={} "Why share a studio?"
+  -   [4] para props={} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +   [5] para props={} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  -   [5] para props={"style":"Quote","spaceBefore":12.0} mark={} "A studio is a place where unfinished things are welcome."
+  +   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A studio is a place where unfinished things are welcome."
+  -   [6] para props={"style":"Heading2"} mark={} "What we agree on"
+  +   [7] para props={"style":"Heading2"} mark={} "What we agree on"
+  -   [7] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [8] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  -   [8] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +   [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -   [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +   [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -   [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Quiet hours run from 9 to 11 on weekday mornings."
+  +   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Quiet hours run from 9 to 11 on weekday mornings."
+  -   [11] para props={"style":"Heading2"} mark={} "Shared equipment"
+  +   [12] para props={"style":"Heading2"} mark={} "Shared equipment"
+  -   [12] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  +   [13] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  -   [13] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [14] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [14] para props={"style":"Heading2"} mark={} "Opening the studio"
+  +   [15] para props={"style":"Heading2"} mark={} "Opening the studio"
+  -   [15] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  +   [19] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  -   [19] para props={"style":"Heading1"} mark={} "Membership"
+  +   [20] para props={"style":"Heading1"} mark={} "Membership"
+  -   [20] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +   [21] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -   [21] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +   [22] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  - model sha256=b50bde7f56c022d3b2b544a5cad1dc2829c6d05c15bd44a7fd8ad1dd51ca43e4
+  + model sha256=569745b2e02ebda273932552e9f78a9d7f7c6eb847abb10227ab5d496808624c
+step 6: text.insert {"text":"A new paragraph, then a tab\tand a line break"} -> ok {"anchor":{"off":44,"path":[2],"story":"body"},"focus":{"off":44,"path":[2],"story":"body"}}
+  - sel: body [2]@0 .. body [2]@0
+  + sel: body [2]@44 .. body [2]@44
+  -   [2] para props={"style":"Normal"} mark={} ""
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break"
+  +       runs 44:{}
+  - model sha256=569745b2e02ebda273932552e9f78a9d7f7c6eb847abb10227ab5d496808624c
+  + model sha256=69fdd7024848a069a1db58708485dc0940fc52600a88bdc7de5fa4b075f5eb8d
+step 7: text.lineBreak {} -> ok {"anchor":{"off":45,"path":[2],"story":"body"},"focus":{"off":45,"path":[2],"story":"body"}}
+  - sel: body [2]@44 .. body [2]@44
+  + sel: body [2]@45 .. body [2]@45
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break"
+  -       runs 44:{}
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\n"
+  +       runs 45:{}
+  - model sha256=69fdd7024848a069a1db58708485dc0940fc52600a88bdc7de5fa4b075f5eb8d
+  + model sha256=4e2a5b2508ff37d1fae64f0c05cc6d0de9402352f1b084e6973ae43d254c0491
+step 8: text.insert {"text":"after it."} -> ok {"anchor":{"off":54,"path":[2],"story":"body"},"focus":{"off":54,"path":[2],"story":"body"}}
+  - sel: body [2]@45 .. body [2]@45
+  + sel: body [2]@54 .. body [2]@54
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\n"
+  -       runs 45:{}
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter it."
+  +       runs 54:{}
+  - model sha256=4e2a5b2508ff37d1fae64f0c05cc6d0de9402352f1b084e6973ae43d254c0491
+  + model sha256=7d0a922682908245ab134993e2dda25cf6b5c72ab77c53d7eb582c2bd2f672fa
+step 9: text.backspace {} -> ok {"anchor":{"off":53,"path":[2],"story":"body"},"focus":{"off":53,"path":[2],"story":"body"}}
+  - sel: body [2]@54 .. body [2]@54
+  + sel: body [2]@53 .. body [2]@53
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter it."
+  -       runs 54:{}
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter it"
+  +       runs 53:{}
+  - model sha256=7d0a922682908245ab134993e2dda25cf6b5c72ab77c53d7eb582c2bd2f672fa
+  + model sha256=c8954bc230eb23c6118c5c249d8bb1902e47ca36e42470d91251ecf0d2d21f04
+step 10: text.deleteWordBack {} -> ok {"anchor":{"off":51,"path":[2],"story":"body"},"focus":{"off":51,"path":[2],"story":"body"}}
+  - sel: body [2]@53 .. body [2]@53
+  + sel: body [2]@51 .. body [2]@51
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter it"
+  -       runs 53:{}
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  +       runs 51:{}
+  - model sha256=c8954bc230eb23c6118c5c249d8bb1902e47ca36e42470d91251ecf0d2d21f04
+  + model sha256=b3b74e70f29b748dd3862d4eb5e34d4c04554217e92d0d5c1e71886c8d0da1e0
+step 11: select.text {"text":"Painters"} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  - sel: body [2]@51 .. body [2]@51
+  + sel: body [3]@93 .. body [3]@101
+step 12: format.italic {} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"bold":true} 30:{} 11:{"italic":true} 260:{}
+  +       runs 93:{} 8:{"bold":true,"italic":true,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  - model sha256=b3b74e70f29b748dd3862d4eb5e34d4c04554217e92d0d5c1e71886c8d0da1e0
+  + model sha256=a04ab868869c081208ffebde63baef08cff353a81518c053ca342fb6268d8587
+step 13: format.underline {} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"bold":true,"italic":true,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  +       runs 93:{} 8:{"bold":true,"italic":true,"underline":"single","italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  - model sha256=a04ab868869c081208ffebde63baef08cff353a81518c053ca342fb6268d8587
+  + model sha256=e147457f39b9ad93a2792cff130d1ca287516ee7f34897b413c2956652415254
+step 14: format.size {"size":14} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"bold":true,"italic":true,"underline":"single","italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  +       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  - model sha256=e147457f39b9ad93a2792cff130d1ca287516ee7f34897b413c2956652415254
+  + model sha256=974b0830c3822c72c01b08a5b89cd7662896a318e1f69ada55655f299dfa0230
+step 15: format.color {"color":"1F4E79"} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  +       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  - model sha256=974b0830c3822c72c01b08a5b89cd7662896a318e1f69ada55655f299dfa0230
+  + model sha256=fff11444d5f54c7de2630ef92dd858ff5dde1748064b4fcd7be3ed399afd72bf
+step 16: format.highlight {"color":"yellow"} -> ok {"anchor":{"off":93,"path":[3],"story":"body"},"focus":{"off":101,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  +       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  - model sha256=fff11444d5f54c7de2630ef92dd858ff5dde1748064b4fcd7be3ed399afd72bf
+  + model sha256=30df34ccb38347c651d9ce59dc7688fe2766bdc46521c72c0e9d08cb7c1d599b
+step 17: select.text {"text":"Rent is the obvious reason"} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":26,"path":[5],"story":"body"}}
+  - sel: body [3]@93 .. body [3]@101
+  + sel: body [5]@0 .. body [5]@26
+step 18: select.paragraph {} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":0,"path":[6],"story":"body"}}
+  - sel: body [5]@0 .. body [5]@26
+  + sel: body [5]@0 .. body [6]@0
+step 19: para.justify {} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":0,"path":[6],"story":"body"}}
+  -   [5] para props={} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +   [5] para props={"align":"justify"} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  - model sha256=30df34ccb38347c651d9ce59dc7688fe2766bdc46521c72c0e9d08cb7c1d599b
+  + model sha256=17524a09f37ca00915271f6ca9392d822c0bba9facf4ed2dca98136ef40670ed
+step 20: para.lineSpacing {"value":1.5} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":0,"path":[6],"story":"body"}}
+  -   [5] para props={"align":"justify"} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +   [5] para props={"align":"justify","lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  - model sha256=17524a09f37ca00915271f6ca9392d822c0bba9facf4ed2dca98136ef40670ed
+  + model sha256=d1239da99b3c2c500b70a7efcc3f4462a221b1d7ce8fecfcb782b1dfe0ebe745
+step 21: para.spacing {"after":12,"before":6} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":0,"path":[6],"story":"body"}}
+  -   [5] para props={"align":"justify","lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +   [5] para props={"align":"justify","spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  - model sha256=d1239da99b3c2c500b70a7efcc3f4462a221b1d7ce8fecfcb782b1dfe0ebe745
+  + model sha256=4d4c597a79abfe92bb9fdc107b3684a3b2907fbf85a9d165c90991401a4c984c
+step 22: para.indent {} -> ok {"anchor":{"off":0,"path":[5],"story":"body"},"focus":{"off":0,"path":[6],"story":"body"}}
+  -   [5] para props={"align":"justify","spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  - model sha256=4d4c597a79abfe92bb9fdc107b3684a3b2907fbf85a9d165c90991401a4c984c
+  + model sha256=0bbcfededa371bc6384ddc93bf0d3252f4265a17692dde40422b82bf6c70b691
+step 23: select.text {"text":"Clean as you go."} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":16,"path":[8],"story":"body"}}
+  - sel: body [5]@0 .. body [6]@0
+  + sel: body [8]@0 .. body [8]@16
+step 24: para.numbering {} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":16,"path":[8],"story":"body"}}
+  - numbering: 2 lists, 2 abstracts
+  + numbering: 3 lists, 3 abstracts
+  +   list {"id":3,"abstractId":2,"startOverrides":[]}
+  +   abstract 2 name=None
+  +     L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  +     L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  -   [8] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  - model sha256=0bbcfededa371bc6384ddc93bf0d3252f4265a17692dde40422b82bf6c70b691
+  + model sha256=440ebc97fd4e14398af65a30bd8005282527e51641d6d6f99dd3902466448359
+step 25: para.listLevel {"level":1} -> ok {"anchor":{"off":0,"path":[8],"story":"body"},"focus":{"off":16,"path":[8],"story":"body"}}
+  -   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":0}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  - model sha256=440ebc97fd4e14398af65a30bd8005282527e51641d6d6f99dd3902466448359
+  + model sha256=b7685bbc42a59cf15b4001279a7b28a93ff7404415c25a6d39cbc5f8985ecdce
+step 26: select.text {"text":"Switch on the main breaker"} -> ok {"anchor":{"off":0,"path":[16],"story":"body"},"focus":{"off":26,"path":[16],"story":"body"}}
+  - sel: body [8]@0 .. body [8]@16
+  + sel: body [16]@0 .. body [16]@26
+step 27: select.paragraph {} -> ok {"anchor":{"off":0,"path":[16],"story":"body"},"focus":{"off":0,"path":[17],"story":"body"}}
+  - sel: body [16]@0 .. body [16]@26
+  + sel: body [16]@0 .. body [17]@0
+step 28: edit.copy {} -> ok {"html":"<meta charset=\"utf-8\"><ol><li>Switch on the main breaker by the door.</li>\n<li></li></ol>\n","text":"1.\tSwitch on the main breaker by the door.\n"}
+  (no change)
+step 29: caret.docEnd {} -> ok {"anchor":{"off":105,"path":[22],"story":"body"},"focus":{"off":105,"path":[22],"story":"body"}}
+  - sel: body [16]@0 .. body [17]@0
+  + sel: body [22]@105 .. body [22]@105
+step 30: text.newParagraph {} -> ok {"anchor":{"off":0,"path":[23],"story":"body"},"focus":{"off":0,"path":[23],"story":"body"}}
+  - sel: body [22]@105 .. body [22]@105
+  + sel: body [23]@0 .. body [23]@0
+  - body (23 blocks):
+  + body (24 blocks):
+  +   [23] para props={} mark={} ""
+  - model sha256=b7685bbc42a59cf15b4001279a7b28a93ff7404415c25a6d39cbc5f8985ecdce
+  + model sha256=bb865c4661ecdad858ecf32b77dd31bd1725908908d30fb7cb4bbd139d3d22b7
+step 31: edit.paste {} -> ok {"anchor":{"off":0,"path":[24],"story":"body"},"focus":{"off":0,"path":[24],"story":"body"}}
+  - sel: body [23]@0 .. body [23]@0
+  + sel: body [24]@0 .. body [24]@0
+  - body (24 blocks):
+  + body (25 blocks):
+  -   [23] para props={} mark={} ""
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +       runs 39:{}
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} ""
+  - model sha256=bb865c4661ecdad858ecf32b77dd31bd1725908908d30fb7cb4bbd139d3d22b7
+  + model sha256=99cac4889138b419d07ae06f8434e3366d4726814701572d8b141eb001f45a7d
+step 32: edit.undo {} -> ok {"anchor":{"off":0,"path":[23],"story":"body"},"focus":{"off":0,"path":[23],"story":"body"}}
+  - sel: body [24]@0 .. body [24]@0
+  + sel: body [23]@0 .. body [23]@0
+  - body (25 blocks):
+  + body (24 blocks):
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -       runs 39:{}
+  -   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} ""
+  +   [23] para props={} mark={} ""
+  - model sha256=99cac4889138b419d07ae06f8434e3366d4726814701572d8b141eb001f45a7d
+  + model sha256=bb865c4661ecdad858ecf32b77dd31bd1725908908d30fb7cb4bbd139d3d22b7
+step 33: edit.redo {} -> ok {"anchor":{"off":0,"path":[24],"story":"body"},"focus":{"off":0,"path":[24],"story":"body"}}
+  - sel: body [23]@0 .. body [23]@0
+  + sel: body [24]@0 .. body [24]@0
+  - body (24 blocks):
+  + body (25 blocks):
+  -   [23] para props={} mark={} ""
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +       runs 39:{}
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} ""
+  - model sha256=bb865c4661ecdad858ecf32b77dd31bd1725908908d30fb7cb4bbd139d3d22b7
+  + model sha256=99cac4889138b419d07ae06f8434e3366d4726814701572d8b141eb001f45a7d
+step 34: edit.replaceAll {"text":"studio","with":"workshop"} -> ok {"replaced":6}
+  -   [0] para props={"style":"Title"} mark={} "The Open Studio Handbook"
+  -       runs 24:{}
+  +   [0] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  +       runs 26:{}
+  -   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 260:{}
+  -   [4] para props={"style":"Heading1"} mark={} "Why share a studio?"
+  -       runs 19:{}
+  +   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 262:{}
+  +   [4] para props={"style":"Heading1"} mark={} "Why share a workshop?"
+  +       runs 21:{}
+  -   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A studio is a place where unfinished things are welcome."
+  -       runs 56:{}
+  +   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  +       runs 58:{}
+  -   [15] para props={"style":"Heading2"} mark={} "Opening the studio"
+  -       runs 18:{}
+  +   [15] para props={"style":"Heading2"} mark={} "Opening the workshop"
+  +       runs 20:{}
+  -   [0] para props={"style":"Header","borders":{"top":null,"left":null,"bottom":{"style":"single","width":0.5,"color":[191,191,191],"space":4.0},"right":null,"between":null,"inside_v":null}} mark={} "The Open Studio Handbook\t\tSpring edition"
+  -       runs 40:{}
+  - model sha256=99cac4889138b419d07ae06f8434e3366d4726814701572d8b141eb001f45a7d
+  +   [0] para props={"style":"Header","borders":{"top":null,"left":null,"bottom":{"style":"single","width":0.5,"color":[191,191,191],"space":4.0},"right":null,"between":null,"inside_v":null}} mark={} "The Open workshop Handbook\t\tSpring edition"
+  +       runs 42:{}
+  + model sha256=b7e87faba2acfaabef1831bbe95303f56612365f731dd0038e158065647e587a
+step 35: edit.find {"text":"kiln"} -> ok {"count":2,"matches":[{"end":{"off":4,"path":[14,2,0,0],"story":"body"},"start":{"off":0,"path":[14,2,0,0],"story":"body"}},{"end":{"off":36,"path":[19],"story"…
+  - sel: body [24]@0 .. body [24]@0
+  + sel: body [14,2,0,0]@0 .. body [14,2,0,0]@4
+step 36: caret.docEnd {} -> ok {"anchor":{"off":0,"path":[24],"story":"body"},"focus":{"off":0,"path":[24],"story":"body"}}
+  - sel: body [14,2,0,0]@0 .. body [14,2,0,0]@4
+  + sel: body [24]@0 .. body [24]@0
+step 37: text.newParagraph {} -> ok {"anchor":{"off":0,"path":[24],"story":"body"},"focus":{"off":0,"path":[24],"story":"body"}}
+  -   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} ""
+  +   [24] para props={} mark={} ""
+  - model sha256=b7e87faba2acfaabef1831bbe95303f56612365f731dd0038e158065647e587a
+  + model sha256=7544b823d6663cb7201b7c6be10f4e9379fb5fcdf1e08f135ead7671ab0e6262
+step 38: insert.table {"cols":3,"rows":2} -> ok {"table":[24]}
+  - sel: body [24]@0 .. body [24]@0
+  + sel: body [24,0,0,0]@0 .. body [24,0,0,0]@0
+  - body (25 blocks):
+  + body (26 blocks):
+  -   [24] para props={} mark={} ""
+  +   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +       row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +       row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +   [25] para props={} mark={} ""
+  - model sha256=7544b823d6663cb7201b7c6be10f4e9379fb5fcdf1e08f135ead7671ab0e6262
+  + model sha256=b6632da7068c023fee83e4f8b44d905b42e68c15aaa990ab062b942d60adb49c
+step 39: text.insert {"text":"cell one"} -> ok {"anchor":{"off":8,"path":[24,0,0,0],"story":"body"},"focus":{"off":8,"path":[24,0,0,0],"story":"body"}}
+  - sel: body [24,0,0,0]@0 .. body [24,0,0,0]@0
+  + sel: body [24,0,0,0]@8 .. body [24,0,0,0]@8
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={} "cell one"
+  +               runs 8:{}
+  - model sha256=b6632da7068c023fee83e4f8b44d905b42e68c15aaa990ab062b942d60adb49c
+  + model sha256=3cbf58b509fbea5b0ddc19fb262c347609a440ccb4737911f08ef5dc3bab24fa
+step 40: text.tab {} -> ok {"anchor":{"off":0,"path":[24,0,1,0],"story":"body"},"focus":{"off":0,"path":[24,0,1,0],"story":"body"}}
+  - sel: body [24,0,0,0]@8 .. body [24,0,0,0]@8
+  + sel: body [24,0,1,0]@0 .. body [24,0,1,0]@0
+step 41: text.insert {"text":"cell two"} -> ok {"anchor":{"off":8,"path":[24,0,1,0],"story":"body"},"focus":{"off":8,"path":[24,0,1,0],"story":"body"}}
+  - sel: body [24,0,1,0]@0 .. body [24,0,1,0]@0
+  + sel: body [24,0,1,0]@8 .. body [24,0,1,0]@8
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={} "cell two"
+  +               runs 8:{}
+  - model sha256=3cbf58b509fbea5b0ddc19fb262c347609a440ccb4737911f08ef5dc3bab24fa
+  + model sha256=68fcd2e1300edd3faf112412b130a8d73e9d3d84c65620d1a579fa97f3d7f157
+step 42: table.insertRowBelow {} -> ok {"anchor":{"off":0,"path":[24,1,1,0],"story":"body"},"focus":{"off":0,"path":[24,1,1,0],"story":"body"}}
+  - sel: body [24,0,1,0]@8 .. body [24,0,1,0]@8
+  + sel: body [24,1,1,0]@0 .. body [24,1,1,0]@0
+  +       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  +         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  - model sha256=68fcd2e1300edd3faf112412b130a8d73e9d3d84c65620d1a579fa97f3d7f157
+  + model sha256=a128cd7f963f9d7dfde3d112632741ec769b5fe195fae3bf30d5c9c0bcb17c51
+step 43: table.insertColumnRight {} -> ok {"anchor":{"off":0,"path":[24,1,2,0],"story":"body"},"focus":{"off":0,"path":[24,1,2,0],"story":"body"}}
+  - sel: body [24,1,1,0]@0 .. body [24,1,1,0]@0
+  + sel: body [24,1,2,0]@0 .. body [24,1,2,0]@0
+  -   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[156.0 156.0 156.0]
+  +   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  +         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +           [0] para props={} mark={} ""
+  - model sha256=a128cd7f963f9d7dfde3d112632741ec769b5fe195fae3bf30d5c9c0bcb17c51
+  + model sha256=7f2f6924a7a9651296afd7b600cdb76efe91129eff63967aeaed7872be2fcd38
+step 44: table.selectRow {} -> ok {"anchor":{"off":0,"path":[24,1,0,0],"story":"body"},"focus":{"off":0,"path":[24,1,3,0],"story":"body"}}
+  - sel: body [24,1,2,0]@0 .. body [24,1,2,0]@0
+  + sel: body [24,1,0,0]@0 .. body [24,1,3,0]@0
+step 45: table.merge {} -> ok {"anchor":{"off":0,"path":[24,1,0,0],"story":"body"},"focus":{"off":0,"path":[24,1,0,0],"story":"body"}}
+  - sel: body [24,1,0,0]@0 .. body [24,1,3,0]@0
+  + sel: body [24,1,0,0]@0 .. body [24,1,0,0]@0
+  -         cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  +         cell 0 props={"width":624.0,"span":4,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -         cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  -         cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  -         cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  - model sha256=7f2f6924a7a9651296afd7b600cdb76efe91129eff63967aeaed7872be2fcd38
+  + model sha256=cd11bf9aa60584b3630225f1b77705fb7f566411bbf66391d61bbd650e7b67fd
+step 46: table.deleteRow {} -> ok {"anchor":{"off":0,"path":[24,1,0,0],"story":"body"},"focus":{"off":0,"path":[24,1,0,0],"story":"body"}}
+  -         cell 0 props={"width":624.0,"span":4,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+  -           [0] para props={} mark={} ""
+  -       row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+  - model sha256=cd11bf9aa60584b3630225f1b77705fb7f566411bbf66391d61bbd650e7b67fd
+  + model sha256=54741537afdcc384e368061189a33d1020f8335c3813609bc42519b3abefd2c1
+step 47: select.text {"text":"glaze chemistry"} -> ok {"anchor":{"off":157,"path":[5],"story":"body"},"focus":{"off":172,"path":[5],"story":"body"}}
+  - sel: body [24,1,0,0]@0 .. body [24,1,0,0]@0
+  + sel: body [5]@157 .. body [5]@172
+step 48: references.footnote {"text":"A footnote on glaze chemistry."} -> ok {"id":3}
+  - sel: body [5]@157 .. body [5]@172
+  + sel: part:3 [0]@34 .. part:3 [0]@34
+  -   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  -       runs 277:{}
+  +   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  +       runs 157:{} 3:{"style":"FootnoteReference"} 105:{}
+  +       obj 0 {"type":"noteRef","kind":"footnote","id":3,"custom":""}
+  - model sha256=54741537afdcc384e368061189a33d1020f8335c3813609bc42519b3abefd2c1
+  + part 3 Footnote body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  +   [0] para props={"style":"FootnoteText"} mark={} "{obj} A footnote on glaze chemistry."
+  +       runs 3:{"style":"FootnoteReference"} 31:{}
+  +       obj 0 {"type":"noteRef","kind":"footnote","id":3,"custom":""}
+  + model sha256=55ad8b3ddf82ca75e3415711904b0dbd9bb1585aceca36b516f26232f68f5a1e
+step 49: text.insert {"text":" Typed into the footnote."} -> ok {"anchor":{"off":59,"path":[0],"story":{"part":3}},"focus":{"off":59,"path":[0],"story":{"part":3}}}
+  - sel: part:3 [0]@34 .. part:3 [0]@34
+  + sel: part:3 [0]@59 .. part:3 [0]@59
+  -   [0] para props={"style":"FootnoteText"} mark={} "{obj} A footnote on glaze chemistry."
+  -       runs 3:{"style":"FootnoteReference"} 31:{}
+  +   [0] para props={"style":"FootnoteText"} mark={} "{obj} A footnote on glaze chemistry. Typed into the footnote."
+  +       runs 3:{"style":"FootnoteReference"} 56:{}
+  - model sha256=55ad8b3ddf82ca75e3415711904b0dbd9bb1585aceca36b516f26232f68f5a1e
+  + model sha256=382d7c5858f1100e304455fd32a4a13ae8fc64689d17f5cfe5836c3e52c99426
+step 50: caret.set {"pos":{"off":0,"path":[0],"story":"body"}} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - sel: part:3 [0]@59 .. part:3 [0]@59
+  + sel: body [0]@0 .. body [0]@0
+step 51: select.text {"text":"cross-talk"} -> ok {"anchor":{"off":241,"path":[5],"story":"body"},"focus":{"off":251,"path":[5],"story":"body"}}
+  - sel: body [0]@0 .. body [0]@0
+  + sel: body [5]@241 .. body [5]@251
+step 52: insert.bookmark {"name":"crosstalk"} -> ok {"anchor":{"off":241,"path":[5],"story":"body"},"focus":{"off":251,"path":[5],"story":"body"}}
+  -   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point."
+  -       runs 157:{} 3:{"style":"FootnoteReference"} 105:{}
+  +   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +       runs 157:{} 3:{"style":"FootnoteReference"} 111:{}
+  +       obj 1 {"type":"bookmarkStart","name":"crosstalk"}
+  +       obj 2 {"type":"bookmarkEnd","name":"crosstalk"}
+  - model sha256=382d7c5858f1100e304455fd32a4a13ae8fc64689d17f5cfe5836c3e52c99426
+  + model sha256=da378c0e74123c594058df0f80ac01a1593fe7963ee28ca15932a50b17aa0796
+step 53: insert.link {"url":"https://example.org/crosstalk"} -> ok {"anchor":{"off":241,"path":[5],"story":"body"},"focus":{"off":251,"path":[5],"story":"body"}}
+  -       runs 157:{} 3:{"style":"FootnoteReference"} 111:{}
+  +       runs 157:{} 3:{"style":"FootnoteReference"} 81:{} 10:{"style":"Hyperlink","link":"https://example.org/crosstalk"} 20:{}
+  - model sha256=da378c0e74123c594058df0f80ac01a1593fe7963ee28ca15932a50b17aa0796
+  + model sha256=e0891ef3d18586a43ce5711820d0b89d43f5a1bb7f3cf00aef9caf956ffd9e00
+step 54: review.trackChanges {"value":true} -> ok {"value":true}
+  - settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+  + settings: {"trackChanges":true,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+  - model sha256=e0891ef3d18586a43ce5711820d0b89d43f5a1bb7f3cf00aef9caf956ffd9e00
+  + model sha256=1d356ac1759de2dc52a2023048ab6df3415a6b3e58f6852bfa1f3dc32d353468
+step 55: select.text {"text":"bread"} -> ok {"anchor":{"off":200,"path":[3],"story":"body"},"focus":{"off":205,"path":[3],"story":"body"}}
+  - sel: body [5]@241 .. body [5]@251
+  + sel: body [3]@200 .. body [3]@205
+step 56: text.insert {"text":"cake"} -> ok {"anchor":{"off":204,"path":[3],"story":"body"},"focus":{"off":204,"path":[3],"story":"body"}}
+  - sel: body [3]@200 .. body [3]@205
+  + sel: body [3]@204 .. body [3]@204
+  -   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 262:{}
+  +   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  - model sha256=1d356ac1759de2dc52a2023048ab6df3415a6b3e58f6852bfa1f3dc32d353468
+  + revision 0 Delete author="Snapshot Author" move=None
+  + revision 1 Insert author="Snapshot Author" move=None
+  + model sha256=71d2ae0326e646c6da5091c596b0970136f2aea899a6d5376303dc0ce68aa5a6
+step 57: select.text {"text":"Thursday"} -> ok {"anchor":{"off":6,"path":[3],"story":"body"},"focus":{"off":14,"path":[3],"story":"body"}}
+  - sel: body [3]@204 .. body [3]@204
+  + sel: body [3]@6 .. body [3]@14
+step 58: format.bold {} -> ok {"anchor":{"off":6,"path":[3],"story":"body"},"focus":{"off":14,"path":[3],"story":"body"}}
+  -       runs 93:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  +       runs 6:{} 8:{"bold":true,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  - model sha256=71d2ae0326e646c6da5091c596b0970136f2aea899a6d5376303dc0ce68aa5a6
+  + revision 2 Format author="Snapshot Author" move=None
+  + model sha256=3dd634e073a3591399c7d429d642d3d5f96b37882a728d28c21727c7ad795dfe
+step 59: review.trackChanges {"value":false} -> ok {"value":false}
+  - settings: {"trackChanges":true,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+  + settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+  - model sha256=3dd634e073a3591399c7d429d642d3d5f96b37882a728d28c21727c7ad795dfe
+  + model sha256=b6347dbdaf49f5e16a16931726ee69aa36be453baed944f3928ace2bd7d02bbf
+step 60: select.text {"text":"Quiet hours"} -> ok {"anchor":{"off":0,"path":[11],"story":"body"},"focus":{"off":11,"path":[11],"story":"body"}}
+  - sel: body [3]@6 .. body [3]@14
+  + sel: body [11]@0 .. body [11]@11
+step 61: review.newComment {"text":"Are the hours still right?"} -> ok {"id":0,"story":4}
+  -   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Quiet hours run from 9 to 11 on weekday mornings."
+  -       runs 12:{"bold":true} 37:{}
+  +   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +       runs 3:{} 11:{"bold":true} 3:{} 1:{"bold":true} 37:{}
+  +       obj 0 {"type":"commentStart","id":0}
+  +       obj 1 {"type":"commentEnd","id":0}
+  + part 4 Comment body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  +   [0] para props={} mark={} "Are the hours still right?"
+  +       runs 26:{}
+  + comment 0 author="Snapshot Author" initials="SA" parent=None resolved=false part=4
+  - model sha256=b6347dbdaf49f5e16a16931726ee69aa36be453baed944f3928ace2bd7d02bbf
+  + model sha256=5123c0f16dcb3352acaf2c53de93fa140f3982a2d9464705505dc908b703c5de
+step 62: styles.modify {"chr":{"color":"C00000","size":22},"style":"Heading1"} -> ok {"anchor":{"off":0,"path":[11],"story":"body"},"focus":{"off":11,"path":[11],"story":"body"}}
+  -   style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":20.0,"color":{"Rgb":[15,71,97]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  +   style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":22.0,"color":{"Rgb":[192,0,0]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  - model sha256=5123c0f16dcb3352acaf2c53de93fa140f3982a2d9464705505dc908b703c5de
+  + model sha256=e211869532f25b4d33a4df5a3094628fdfc674b305718bc816b444fcbf654b4b
+step 63: caret.docStart {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - sel: body [11]@0 .. body [11]@11
+  + sel: body [0]@0 .. body [0]@0
+step 64: references.toc {"levels":2} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - body (26 blocks):
+  -   [0] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  + body (33 blocks):
+  +   [0] para props={"style":"Title"} mark={} ""
+  +   [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+  +       runs 11:{}
+  +       obj 0 {"type":"field","instr":"TOC \\o \"1-2\" \\h \\z \\u","result":"","locked":false}
+  +   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+  +       runs 23:{"link":"#_Toc000000001"}
+  +   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+  +       runs 18:{"link":"#_Toc000000002"}
+  +   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+  +       runs 18:{"link":"#_Toc000000003"}
+  +   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+  +       runs 22:{"link":"#_Toc000000004"}
+  +   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+  +       runs 12:{"link":"#_Toc000000005"}
+  +   [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  -   [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +   [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  +   [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  -   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +   [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -   [4] para props={"style":"Heading1"} mark={} "Why share a workshop?"
+  -       runs 21:{}
+  -   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +   [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+  +       runs 27:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000001"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000001"}
+  +   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  -   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  +   [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  -   [7] para props={"style":"Heading2"} mark={} "What we agree on"
+  -       runs 16:{}
+  -   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+  +       runs 22:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000002"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000002"}
+  +   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  -   [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -   [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  -   [12] para props={"style":"Heading2"} mark={} "Shared equipment"
+  -       runs 16:{}
+  -   [13] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  +   [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+  +       runs 22:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000003"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000003"}
+  +   [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  -   [14] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [21] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [15] para props={"style":"Heading2"} mark={} "Opening the workshop"
+  -       runs 20:{}
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+  +       runs 26:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000004"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000004"}
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  +   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  -   [19] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  +   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  -   [20] para props={"style":"Heading1"} mark={} "Membership"
+  -       runs 10:{}
+  -   [21] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +   [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+  +       runs 16:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000005"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000005"}
+  +   [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -   [22] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +   [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [31] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [25] para props={} mark={} ""
+  +   [32] para props={} mark={} ""
+  - model sha256=e211869532f25b4d33a4df5a3094628fdfc674b305718bc816b444fcbf654b4b
+  + model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+step 65: layout.margins {"bottom":54,"left":54,"right":54,"top":54} -> ok {"columns":{"count":1,"separator":false,"space":36.0,"widths":[]},"docGrid":null,"footer":36.0,"footers":{"default":1,"even":null,"first":null},"gutter":0.0,"he…
+  - last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  + last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  - model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+  + model sha256=c07b6c80a6d1c106a39fa43d4a7b1a0ac12b7a908c1ab3de255c14d91b62a4e7
+step 66: layout.columns {"count":2} -> ok {"columns":{"count":2,"separator":false,"space":36.0,"widths":[]},"docGrid":null,"footer":36.0,"footers":{"default":1,"even":null,"first":null},"gutter":0.0,"he…
+  - last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  + last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":2,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  - model sha256=c07b6c80a6d1c106a39fa43d4a7b1a0ac12b7a908c1ab3de255c14d91b62a4e7
+  + model sha256=ec4cf7d74162cbdc32d7887d0011ed180bbde9fb917498470a092b62207f7b97
+step 67: edit.undo {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":2,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  + last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  - model sha256=ec4cf7d74162cbdc32d7887d0011ed180bbde9fb917498470a092b62207f7b97
+  + model sha256=c07b6c80a6d1c106a39fa43d4a7b1a0ac12b7a908c1ab3de255c14d91b62a4e7
+step 68: edit.undo {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":54.0,"marginBottom":54.0,"marginLeft":54.0,"marginRight":54.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  + last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+  - model sha256=c07b6c80a6d1c106a39fa43d4a7b1a0ac12b7a908c1ab3de255c14d91b62a4e7
+  + model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+step 69: edit.undo {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - body (33 blocks):
+  -   [0] para props={"style":"Title"} mark={} ""
+  -   [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+  -       runs 11:{}
+  -       obj 0 {"type":"field","instr":"TOC \\o \"1-2\" \\h \\z \\u","result":"","locked":false}
+  -   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+  -       runs 23:{"link":"#_Toc000000001"}
+  -   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+  -       runs 18:{"link":"#_Toc000000002"}
+  -   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+  -       runs 18:{"link":"#_Toc000000003"}
+  -   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+  -       runs 22:{"link":"#_Toc000000004"}
+  -   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+  -       runs 12:{"link":"#_Toc000000005"}
+  -   [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  + body (26 blocks):
+  +   [0] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  -   [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +   [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  -   [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  +   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  -   [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -   [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+  -       runs 27:{}
+  -       obj 0 {"type":"bookmarkStart","name":"_Toc000000001"}
+  -       obj 1 {"type":"bookmarkEnd","name":"_Toc000000001"}
+  -   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +   [4] para props={"style":"Heading1"} mark={} "Why share a workshop?"
+  +       runs 21:{}
+  +   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  -   [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  +   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  -   [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+  -       runs 22:{}
+  -       obj 0 {"type":"bookmarkStart","name":"_Toc000000002"}
+  -       obj 1 {"type":"bookmarkEnd","name":"_Toc000000002"}
+  -   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [7] para props={"style":"Heading2"} mark={} "What we agree on"
+  +       runs 16:{}
+  +   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +   [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +   [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  -   [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+  -       runs 22:{}
+  -       obj 0 {"type":"bookmarkStart","name":"_Toc000000003"}
+  -       obj 1 {"type":"bookmarkEnd","name":"_Toc000000003"}
+  -   [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  +   [12] para props={"style":"Heading2"} mark={} "Shared equipment"
+  +       runs 16:{}
+  +   [13] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  -   [21] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [14] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+  -       runs 26:{}
+  -       obj 0 {"type":"bookmarkStart","name":"_Toc000000004"}
+  -       obj 1 {"type":"bookmarkEnd","name":"_Toc000000004"}
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [15] para props={"style":"Heading2"} mark={} "Opening the workshop"
+  +       runs 20:{}
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  -   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  -   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  +   [19] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  -   [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+  -       runs 16:{}
+  -       obj 0 {"type":"bookmarkStart","name":"_Toc000000005"}
+  -       obj 1 {"type":"bookmarkEnd","name":"_Toc000000005"}
+  -   [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +   [20] para props={"style":"Heading1"} mark={} "Membership"
+  +       runs 10:{}
+  +   [21] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -   [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +   [22] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  -   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [31] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [32] para props={} mark={} ""
+  +   [25] para props={} mark={} ""
+  - model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+  + model sha256=e211869532f25b4d33a4df5a3094628fdfc674b305718bc816b444fcbf654b4b
+step 70: edit.redo {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[0],"story":"body"}}
+  - body (26 blocks):
+  -   [0] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  + body (33 blocks):
+  +   [0] para props={"style":"Title"} mark={} ""
+  +   [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+  +       runs 11:{}
+  +       obj 0 {"type":"field","instr":"TOC \\o \"1-2\" \\h \\z \\u","result":"","locked":false}
+  +   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+  +       runs 23:{"link":"#_Toc000000001"}
+  +   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+  +       runs 18:{"link":"#_Toc000000002"}
+  +   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+  +       runs 18:{"link":"#_Toc000000003"}
+  +   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+  +       runs 22:{"link":"#_Toc000000004"}
+  +   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+  +       runs 12:{"link":"#_Toc000000005"}
+  +   [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  -   [1] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +   [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  -   [2] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  +   [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  -   [3] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +   [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -   [4] para props={"style":"Heading1"} mark={} "Why share a workshop?"
+  -       runs 21:{}
+  -   [5] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +   [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+  +       runs 27:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000001"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000001"}
+  +   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  -   [6] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  +   [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  -   [7] para props={"style":"Heading2"} mark={} "What we agree on"
+  -       runs 16:{}
+  -   [8] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +   [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+  +       runs 22:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000002"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000002"}
+  +   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  -   [9] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -   [10] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -   [11] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  -   [12] para props={"style":"Heading2"} mark={} "Shared equipment"
+  -       runs 16:{}
+  -   [13] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  +   [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+  +       runs 22:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000003"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000003"}
+  +   [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  -   [14] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [21] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [15] para props={"style":"Heading2"} mark={} "Opening the workshop"
+  -       runs 20:{}
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+  +       runs 26:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000004"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000004"}
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  +   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  -   [19] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  +   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  -   [20] para props={"style":"Heading1"} mark={} "Membership"
+  -       runs 10:{}
+  -   [21] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +   [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+  +       runs 16:{}
+  +       obj 0 {"type":"bookmarkStart","name":"_Toc000000005"}
+  +       obj 1 {"type":"bookmarkEnd","name":"_Toc000000005"}
+  +   [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -   [22] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +   [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -   [24] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  +   [31] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+  -   [25] para props={} mark={} ""
+  +   [32] para props={} mark={} ""
+  - model sha256=e211869532f25b4d33a4df5a3094628fdfc674b305718bc816b444fcbf654b4b
+  + model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+step 71: select.all {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[32],"story":"body"}}
+  - sel: body [0]@0 .. body [0]@0
+  + sel: body [0]@0 .. body [32]@0
+step 72: format.size {"size":11} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[32],"story":"body"}}
+  -   [0] para props={"style":"Title"} mark={} ""
+  -   [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+  -       runs 11:{}
+  +   [0] para props={"style":"Title"} mark={"size":11.0,"sizeCs":11.0} ""
+  +   [1] para props={"style":"TOCHeading"} mark={"size":11.0,"sizeCs":11.0} "Contents{obj}"
+  +       runs 11:{"size":11.0,"sizeCs":11.0}
+  -   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+  -       runs 23:{"link":"#_Toc000000001"}
+  -   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+  -       runs 18:{"link":"#_Toc000000002"}
+  -   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+  -       runs 18:{"link":"#_Toc000000003"}
+  -   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+  -       runs 22:{"link":"#_Toc000000004"}
+  -   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+  -       runs 12:{"link":"#_Toc000000005"}
+  -   [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  -       runs 26:{}
+  -   [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  -       runs 94:{}
+  -   [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  -       runs 51:{}
+  -   [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -       runs 6:{} 8:{"bold":true,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  -   [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+  -       runs 27:{}
+  +   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Why share a workshop?\t1"
+  +       runs 23:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000001"}
+  +   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "What we agree on\t2"
+  +       runs 18:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000002"}
+  +   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Shared equipment\t2"
+  +       runs 18:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000003"}
+  +   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Opening the workshop\t2"
+  +       runs 22:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000004"}
+  +   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Membership\t2"
+  +       runs 12:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000005"}
+  +   [7] para props={"style":"Title"} mark={"size":11.0,"sizeCs":11.0} "The Open workshop Handbook"
+  +       runs 26:{"size":11.0,"sizeCs":11.0}
+  +   [8] para props={"style":"Subtitle"} mark={"size":11.0,"sizeCs":11.0} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +       runs 94:{"size":11.0,"sizeCs":11.0}
+  +   [9] para props={"style":"Normal"} mark={"size":11.0,"sizeCs":11.0} "A new paragraph, then a tab\tand a line break\nafter "
+  +       runs 51:{"size":11.0,"sizeCs":11.0}
+  +   [10] para props={} mark={"size":11.0,"sizeCs":11.0} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +       runs 6:{"size":11.0,"sizeCs":11.0} 8:{"size":11.0,"bold":true,"sizeCs":11.0,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{"size":11.0,"sizeCs":11.0} 8:{"size":11.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":11.0,"italicCs":true} 30:{"size":11.0,"sizeCs":11.0} 11:{"size":11.0,"italic":true,"sizeCs":11.0} 58:{"size":11.0,"sizeCs":11.0} 4:{"size":11.0,"sizeCs":11.0,"ins":1} 5:{"size":11.0,"sizeCs":11.0,"del":0} 199:{"size":11.0,"sizeCs":11.0}
+  +   [11] para props={"style":"Heading1"} mark={"size":11.0,"sizeCs":11.0} "{obj}Why share a workshop?{obj}"
+  +       runs 27:{"size":11.0,"sizeCs":11.0}
+  -   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  -       runs 157:{} 3:{"style":"FootnoteReference"} 81:{} 10:{"style":"Hyperlink","link":"https://example.org/crosstalk"} 20:{}
+  +   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={"size":11.0,"sizeCs":11.0} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +       runs 157:{"size":11.0,"sizeCs":11.0} 3:{"style":"FootnoteReference","size":11.0,"sizeCs":11.0} 81:{"size":11.0,"sizeCs":11.0} 10:{"style":"Hyperlink","size":11.0,"sizeCs":11.0,"link":"https://example.org/crosstalk"} 20:{"size":11.0,"sizeCs":11.0}
+  -   [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  -       runs 58:{}
+  -   [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+  -       runs 22:{}
+  +   [13] para props={"style":"Quote","spaceBefore":12.0} mark={"size":11.0,"sizeCs":11.0} "A workshop is a place where unfinished things are welcome."
+  +       runs 58:{"size":11.0,"sizeCs":11.0}
+  +   [14] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}What we agree on{obj}"
+  +       runs 22:{"size":11.0,"sizeCs":11.0}
+  -   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  -       runs 17:{"bold":true} 48:{}
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -       runs 21:{"bold":true} 55:{}
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -       runs 23:{"bold":true} 60:{}
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  -       runs 3:{} 11:{"bold":true} 3:{} 1:{"bold":true} 37:{}
+  +   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={"size":11.0,"sizeCs":11.0} "Clean as you go. Leave a table the way you would like to find it."
+  +       runs 17:{"size":11.0,"bold":true,"sizeCs":11.0} 48:{"size":11.0,"sizeCs":11.0}
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +       runs 21:{"size":11.0,"bold":true,"sizeCs":11.0} 55:{"size":11.0,"sizeCs":11.0}
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +       runs 23:{"size":11.0,"bold":true,"sizeCs":11.0} 60:{"size":11.0,"sizeCs":11.0}
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +       runs 3:{"size":11.0,"sizeCs":11.0} 11:{"size":11.0,"bold":true,"sizeCs":11.0} 3:{"size":11.0,"sizeCs":11.0} 1:{"size":11.0,"bold":true,"sizeCs":11.0} 37:{"size":11.0,"sizeCs":11.0}
+  -   [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+  -       runs 22:{}
+  +   [19] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}Shared equipment{obj}"
+  +       runs 22:{"size":11.0,"sizeCs":11.0}
+  -   [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  -       runs 97:{}
+  +   [20] para props={} mark={"size":11.0,"sizeCs":11.0} "The table below lists what the membership owns together and who keeps each item in working order."
+  +       runs 97:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Equipment"
+  -               runs 9:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Equipment"
+  +               runs 9:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Location"
+  -               runs 8:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Location"
+  +               runs 8:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Steward"
+  -               runs 7:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Steward"
+  +               runs 7:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Booking"
+  -               runs 7:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Booking"
+  +               runs 7:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Etching press"
+  -               runs 13:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Etching press"
+  +               runs 13:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Back room"
+  -               runs 9:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Back room"
+  +               runs 9:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Mara O."
+  -               runs 7:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Mara O."
+  +               runs 7:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Sign-up sheet"
+  -               runs 13:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Sign-up sheet"
+  +               runs 13:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Kiln (cone 10)"
+  -               runs 14:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Kiln (cone 10)"
+  +               runs 14:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Yard shed"
+  -               runs 9:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Yard shed"
+  +               runs 9:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Theo P."
+  -               runs 7:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Theo P."
+  +               runs 7:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "48 h notice"
+  -               runs 11:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "48 h notice"
+  +               runs 11:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Large-format printer"
+  -               runs 20:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Large-format printer"
+  +               runs 20:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Office"
+  -               runs 6:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Office"
+  +               runs 6:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Ines R."
+  -               runs 7:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Ines R."
+  +               runs 7:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Calendar"
+  -               runs 8:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Calendar"
+  +               runs 8:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Light table"
+  -               runs 11:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Light table"
+  +               runs 11:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "North windows"
+  -               runs 13:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "North windows"
+  +               runs 13:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "Anyone"
+  -               runs 6:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Anyone"
+  +               runs 6:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "First come"
+  -               runs 10:{}
+  -   [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+  -       runs 26:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "First come"
+  +               runs 10:{"size":11.0,"sizeCs":11.0}
+  +   [22] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}Opening the workshop{obj}"
+  +       runs 26:{"size":11.0,"sizeCs":11.0}
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -       runs 39:{}
+  -   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  -       runs 41:{}
+  -   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  -       runs 44:{}
+  -   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  -       runs 47:{}
+  -   [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+  -       runs 16:{}
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Switch on the main breaker by the door."
+  +       runs 39:{"size":11.0,"sizeCs":11.0}
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Open both skylights unless it is raining."
+  +       runs 41:{"size":11.0,"sizeCs":11.0}
+  +   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Start the kettle. This step is not optional."
+  +       runs 44:{"size":11.0,"sizeCs":11.0}
+  +   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Check the booking sheet for the kiln and press."
+  +       runs 47:{"size":11.0,"sizeCs":11.0}
+  +   [27] para props={"style":"Heading1"} mark={"size":11.0,"sizeCs":11.0} "{obj}Membership{obj}"
+  +       runs 16:{"size":11.0,"sizeCs":11.0}
+  -   [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -       runs 14:{} 16:{"bold":true,"color":{"Rgb":[21,96,130]}} 212:{}
+  -   [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  -       runs 68:{} 25:{"style":"Hyperlink","link":"https://getartcraft.com/"} 12:{}
+  -   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  -       runs 39:{}
+  +   [28] para props={} mark={"size":11.0,"sizeCs":11.0} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +       runs 14:{"size":11.0,"sizeCs":11.0} 16:{"size":11.0,"bold":true,"color":{"Rgb":[21,96,130]},"sizeCs":11.0} 212:{"size":11.0,"sizeCs":11.0}
+  +   [29] para props={} mark={"size":11.0,"sizeCs":11.0} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +       runs 68:{"size":11.0,"sizeCs":11.0} 25:{"style":"Hyperlink","size":11.0,"sizeCs":11.0,"link":"https://getartcraft.com/"} 12:{"size":11.0,"sizeCs":11.0}
+  +   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Switch on the main breaker by the door."
+  +       runs 39:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "cell one"
+  -               runs 8:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "cell one"
+  +               runs 8:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} "cell two"
+  -               runs 8:{}
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "cell two"
+  +               runs 8:{"size":11.0,"sizeCs":11.0}
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -           [0] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -           [0] para props={} mark={} ""
+  -   [32] para props={} mark={} ""
+  +           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +   [32] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  - model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+  + model sha256=2247638403ed83102215219f6f1bf2354f0f8e356a49a0a9bd231f6c503c9055
+step 73: edit.undo {} -> ok {"anchor":{"off":0,"path":[0],"story":"body"},"focus":{"off":0,"path":[32],"story":"body"}}
+  -   [0] para props={"style":"Title"} mark={"size":11.0,"sizeCs":11.0} ""
+  -   [1] para props={"style":"TOCHeading"} mark={"size":11.0,"sizeCs":11.0} "Contents{obj}"
+  -       runs 11:{"size":11.0,"sizeCs":11.0}
+  +   [0] para props={"style":"Title"} mark={} ""
+  +   [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+  +       runs 11:{}
+  -   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Why share a workshop?\t1"
+  -       runs 23:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000001"}
+  -   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "What we agree on\t2"
+  -       runs 18:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000002"}
+  -   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Shared equipment\t2"
+  -       runs 18:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000003"}
+  -   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Opening the workshop\t2"
+  -       runs 22:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000004"}
+  -   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={"size":11.0,"sizeCs":11.0} "Membership\t2"
+  -       runs 12:{"size":11.0,"sizeCs":11.0,"link":"#_Toc000000005"}
+  -   [7] para props={"style":"Title"} mark={"size":11.0,"sizeCs":11.0} "The Open workshop Handbook"
+  -       runs 26:{"size":11.0,"sizeCs":11.0}
+  -   [8] para props={"style":"Subtitle"} mark={"size":11.0,"sizeCs":11.0} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  -       runs 94:{"size":11.0,"sizeCs":11.0}
+  -   [9] para props={"style":"Normal"} mark={"size":11.0,"sizeCs":11.0} "A new paragraph, then a tab\tand a line break\nafter "
+  -       runs 51:{"size":11.0,"sizeCs":11.0}
+  -   [10] para props={} mark={"size":11.0,"sizeCs":11.0} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  -       runs 6:{"size":11.0,"sizeCs":11.0} 8:{"size":11.0,"bold":true,"sizeCs":11.0,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{"size":11.0,"sizeCs":11.0} 8:{"size":11.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":11.0,"italicCs":true} 30:{"size":11.0,"sizeCs":11.0} 11:{"size":11.0,"italic":true,"sizeCs":11.0} 58:{"size":11.0,"sizeCs":11.0} 4:{"size":11.0,"sizeCs":11.0,"ins":1} 5:{"size":11.0,"sizeCs":11.0,"del":0} 199:{"size":11.0,"sizeCs":11.0}
+  -   [11] para props={"style":"Heading1"} mark={"size":11.0,"sizeCs":11.0} "{obj}Why share a workshop?{obj}"
+  -       runs 27:{"size":11.0,"sizeCs":11.0}
+  +   [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+  +       runs 23:{"link":"#_Toc000000001"}
+  +   [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+  +       runs 18:{"link":"#_Toc000000002"}
+  +   [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+  +       runs 18:{"link":"#_Toc000000003"}
+  +   [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+  +       runs 22:{"link":"#_Toc000000004"}
+  +   [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+  +       runs 12:{"link":"#_Toc000000005"}
+  +   [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+  +       runs 26:{}
+  +   [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+  +       runs 94:{}
+  +   [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+  +       runs 51:{}
+  +   [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+  +       runs 6:{} 8:{"bold":true,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  +   [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+  +       runs 27:{}
+  -   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={"size":11.0,"sizeCs":11.0} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  -       runs 157:{"size":11.0,"sizeCs":11.0} 3:{"style":"FootnoteReference","size":11.0,"sizeCs":11.0} 81:{"size":11.0,"sizeCs":11.0} 10:{"style":"Hyperlink","size":11.0,"sizeCs":11.0,"link":"https://example.org/crosstalk"} 20:{"size":11.0,"sizeCs":11.0}
+  +   [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+  +       runs 157:{} 3:{"style":"FootnoteReference"} 81:{} 10:{"style":"Hyperlink","link":"https://example.org/crosstalk"} 20:{}
+  -   [13] para props={"style":"Quote","spaceBefore":12.0} mark={"size":11.0,"sizeCs":11.0} "A workshop is a place where unfinished things are welcome."
+  -       runs 58:{"size":11.0,"sizeCs":11.0}
+  -   [14] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}What we agree on{obj}"
+  -       runs 22:{"size":11.0,"sizeCs":11.0}
+  +   [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+  +       runs 58:{}
+  +   [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+  +       runs 22:{}
+  -   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={"size":11.0,"sizeCs":11.0} "Clean as you go. Leave a table the way you would like to find it."
+  -       runs 17:{"size":11.0,"bold":true,"sizeCs":11.0} 48:{"size":11.0,"sizeCs":11.0}
+  -   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  -       runs 21:{"size":11.0,"bold":true,"sizeCs":11.0} 55:{"size":11.0,"sizeCs":11.0}
+  -   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  -       runs 23:{"size":11.0,"bold":true,"sizeCs":11.0} 60:{"size":11.0,"sizeCs":11.0}
+  -   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={"size":11.0,"sizeCs":11.0} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  -       runs 3:{"size":11.0,"sizeCs":11.0} 11:{"size":11.0,"bold":true,"sizeCs":11.0} 3:{"size":11.0,"sizeCs":11.0} 1:{"size":11.0,"bold":true,"sizeCs":11.0} 37:{"size":11.0,"sizeCs":11.0}
+  +   [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+  +       runs 17:{"bold":true} 48:{}
+  +   [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+  +       runs 21:{"bold":true} 55:{}
+  +   [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+  +       runs 23:{"bold":true} 60:{}
+  +   [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+  +       runs 3:{} 11:{"bold":true} 3:{} 1:{"bold":true} 37:{}
+  -   [19] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}Shared equipment{obj}"
+  -       runs 22:{"size":11.0,"sizeCs":11.0}
+  +   [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+  +       runs 22:{}
+  -   [20] para props={} mark={"size":11.0,"sizeCs":11.0} "The table below lists what the membership owns together and who keeps each item in working order."
+  -       runs 97:{"size":11.0,"sizeCs":11.0}
+  +   [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+  +       runs 97:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Equipment"
+  -               runs 9:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Equipment"
+  +               runs 9:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Location"
+  -               runs 8:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Location"
+  +               runs 8:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Steward"
+  -               runs 7:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Steward"
+  +               runs 7:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Booking"
+  -               runs 7:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Booking"
+  +               runs 7:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Etching press"
+  -               runs 13:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Etching press"
+  +               runs 13:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Back room"
+  -               runs 9:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Back room"
+  +               runs 9:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Mara O."
+  -               runs 7:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Mara O."
+  +               runs 7:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Sign-up sheet"
+  -               runs 13:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Sign-up sheet"
+  +               runs 13:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Kiln (cone 10)"
+  -               runs 14:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Kiln (cone 10)"
+  +               runs 14:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Yard shed"
+  -               runs 9:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Yard shed"
+  +               runs 9:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Theo P."
+  -               runs 7:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Theo P."
+  +               runs 7:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "48 h notice"
+  -               runs 11:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "48 h notice"
+  +               runs 11:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Large-format printer"
+  -               runs 20:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Large-format printer"
+  +               runs 20:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Office"
+  -               runs 6:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Office"
+  +               runs 6:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Ines R."
+  -               runs 7:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Ines R."
+  +               runs 7:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Calendar"
+  -               runs 8:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Calendar"
+  +               runs 8:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Light table"
+  -               runs 11:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Light table"
+  +               runs 11:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "North windows"
+  -               runs 13:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "North windows"
+  +               runs 13:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "Anyone"
+  -               runs 6:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "Anyone"
+  +               runs 6:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "First come"
+  -               runs 10:{"size":11.0,"sizeCs":11.0}
+  -   [22] para props={"style":"Heading2"} mark={"size":11.0,"sizeCs":11.0} "{obj}Opening the workshop{obj}"
+  -       runs 26:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "First come"
+  +               runs 10:{}
+  +   [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+  +       runs 26:{}
+  -   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Switch on the main breaker by the door."
+  -       runs 39:{"size":11.0,"sizeCs":11.0}
+  -   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Open both skylights unless it is raining."
+  -       runs 41:{"size":11.0,"sizeCs":11.0}
+  -   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Start the kettle. This step is not optional."
+  -       runs 44:{"size":11.0,"sizeCs":11.0}
+  -   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Check the booking sheet for the kiln and press."
+  -       runs 47:{"size":11.0,"sizeCs":11.0}
+  -   [27] para props={"style":"Heading1"} mark={"size":11.0,"sizeCs":11.0} "{obj}Membership{obj}"
+  -       runs 16:{"size":11.0,"sizeCs":11.0}
+  +   [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +       runs 39:{}
+  +   [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+  +       runs 41:{}
+  +   [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+  +       runs 44:{}
+  +   [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+  +       runs 47:{}
+  +   [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+  +       runs 16:{}
+  -   [28] para props={} mark={"size":11.0,"sizeCs":11.0} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  -       runs 14:{"size":11.0,"sizeCs":11.0} 16:{"size":11.0,"bold":true,"color":{"Rgb":[21,96,130]},"sizeCs":11.0} 212:{"size":11.0,"sizeCs":11.0}
+  -   [29] para props={} mark={"size":11.0,"sizeCs":11.0} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  -       runs 68:{"size":11.0,"sizeCs":11.0} 25:{"style":"Hyperlink","size":11.0,"sizeCs":11.0,"link":"https://getartcraft.com/"} 12:{"size":11.0,"sizeCs":11.0}
+  -   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={"size":11.0,"sizeCs":11.0} "Switch on the main breaker by the door."
+  -       runs 39:{"size":11.0,"sizeCs":11.0}
+  +   [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+  +       runs 14:{} 16:{"bold":true,"color":{"Rgb":[21,96,130]}} 212:{}
+  +   [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+  +       runs 68:{} 25:{"style":"Hyperlink","link":"https://getartcraft.com/"} 12:{}
+  +   [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+  +       runs 39:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "cell one"
+  -               runs 8:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "cell one"
+  +               runs 8:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} "cell two"
+  -               runs 8:{"size":11.0,"sizeCs":11.0}
+  +           [0] para props={} mark={} "cell two"
+  +               runs 8:{}
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  -           [0] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  -   [32] para props={} mark={"size":11.0,"sizeCs":11.0} ""
+  +           [0] para props={} mark={} ""
+  +   [32] para props={} mark={} ""
+  - model sha256=2247638403ed83102215219f6f1bf2354f0f8e356a49a0a9bd231f6c503c9055
+  + model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+# final state
+sel: body [0]@0 .. body [32]@0
+core: title="Snapshot script: handbook" creator="Snapshot Author" subject=""
+settings: {"trackChanges":false,"trackMoves":true,"defaultTab":36.0,"evenOddHeaders":false,"mirrorMargins":false,"autoHyphenation":false,"hyphenationZone":18.0,"hyphenateCaps":true,"consecutiveHyphenLimit":0,"pageColor":null,"pagePicture":null,"watermark":null,"majorFont":"Source Sans 3","minorFont":"Source Serif 4","themeColors":[[0,0,0],[255,255,255],[14,40,65],[232,232,232],[21,96,130],[233,113,50],[25,107,36],[15,158,213],[160,43,147],[78,167,46],[70,120,134],[150,96,125]],"themeName":"Craft","footnoteFormat":"decimal","endnoteFormat":"lowerRoman","protection":null,"compatMode":15,"allowSpaceOfSameStyleInTable":false,"gridH":9.0,"gridV":9.0,"linkStyles":false}
+last_section: {"start":"nextPage","pageW":612.0,"pageH":792.0,"landscape":false,"marginTop":72.0,"marginBottom":72.0,"marginLeft":72.0,"marginRight":72.0,"header":36.0,"footer":36.0,"gutter":0.0,"columns":{"count":1,"space":36.0,"separator":false,"widths":[]},"headers":{"default":2,"first":null,"even":null},"footers":{"default":1,"first":null,"even":null},"titlePage":false,"pageNumStart":null,"pageNumFormat":"decimal","lineNumbers":null,"valign":"top","pageBorders":null,"rtl":false,"docGrid":null}
+styles: 54 (defaults chr={"font":"Source Serif 4","size":12.0,"kern":1.0,"lang":"en-US"} para={"spaceBefore":0.0,"spaceAfter":8.0,"lineSpacing":{"rule":"multiple","value":1.15},"widowControl":true})
+  style {"id":"Heading1","name":"Heading 1","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading1Char","para":{"spaceBefore":18.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":0},"chr":{"font":"Source Sans 3","size":22.0,"color":{"Rgb":[192,0,0]}},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading2","name":"Heading 2","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading2Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":1},"chr":{"font":"Source Sans 3","size":16.0,"color":{"Rgb":[15,71,97]}},"priority":11,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading3","name":"Heading 3","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading3Char","para":{"spaceBefore":8.0,"spaceAfter":4.0,"keepNext":true,"keepLines":true,"outlineLevel":2},"chr":{"font":"Source Serif 4","size":14.0,"color":{"Rgb":[15,71,97]}},"priority":12,"quick":true,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading4","name":"Heading 4","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading4Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":3},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[15,71,97]}},"priority":13,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading5","name":"Heading 5","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading5Char","para":{"spaceBefore":4.0,"spaceAfter":2.0,"keepNext":true,"keepLines":true,"outlineLevel":4},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[15,71,97]}},"priority":14,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading6","name":"Heading 6","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading6Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":5},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[89,89,89]}},"priority":15,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading7","name":"Heading 7","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading7Char","para":{"spaceBefore":2.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":6},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[89,89,89]}},"priority":16,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading8","name":"Heading 8","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading8Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":7},"chr":{"font":"Source Serif 4","size":12.0,"italic":true,"color":{"Rgb":[39,39,39]}},"priority":17,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Heading9","name":"Heading 9","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":"Heading9Char","para":{"spaceBefore":0.0,"spaceAfter":0.0,"keepNext":true,"keepLines":true,"outlineLevel":8},"chr":{"font":"Source Serif 4","size":12.0,"color":{"Rgb":[39,39,39]}},"priority":18,"quick":false,"hidden":false,"builtin":true,"table":null}
+  style {"id":"Title","name":"Title","kind":"paragraph","basedOn":"Normal","next":"Normal","linked":null,"para":{"spaceAfter":4.0,"lineSpacing":{"rule":"multiple","value":1.0},"contextualSpacing":true},"chr":{"font":"Source Sans 3","size":28.0,"spacing":-0.5,"kern":14.0},"priority":10,"quick":true,"hidden":false,"builtin":true,"table":null}
+numbering: 3 lists, 3 abstracts
+  list {"id":1,"abstractId":0,"startOverrides":[]}
+  list {"id":2,"abstractId":1,"startOverrides":[]}
+  list {"id":3,"abstractId":2,"startOverrides":[]}
+  abstract 0 name=None
+    L0 {"start":1,"format":"bullet","text":"•","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"bullet","text":"○","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"bullet","text":"▪","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"bullet","text":"•","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"bullet","text":"○","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"bullet","text":"▪","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"bullet","text":"•","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"bullet","text":"○","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"bullet","text":"▪","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{"font":"Source Sans 3"},"restart":true,"legal":false,"style":null}
+  abstract 1 name=None
+    L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+  abstract 2 name=None
+    L0 {"start":1,"format":"decimal","text":"%1.","align":"left","indent":36.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L1 {"start":1,"format":"lowerLetter","text":"%2.","align":"left","indent":72.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L2 {"start":1,"format":"lowerRoman","text":"%3.","align":"left","indent":108.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L3 {"start":1,"format":"decimal","text":"%4.","align":"left","indent":144.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L4 {"start":1,"format":"lowerLetter","text":"%5.","align":"left","indent":180.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L5 {"start":1,"format":"lowerRoman","text":"%6.","align":"left","indent":216.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L6 {"start":1,"format":"decimal","text":"%7.","align":"left","indent":252.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L7 {"start":1,"format":"lowerLetter","text":"%8.","align":"left","indent":288.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+    L8 {"start":1,"format":"lowerRoman","text":"%9.","align":"left","indent":324.0,"hanging":18.0,"suffix":"tab","chr":{},"restart":true,"legal":false,"style":null}
+body (33 blocks):
+  [0] para props={"style":"Title"} mark={} ""
+  [1] para props={"style":"TOCHeading"} mark={} "Contents{obj}"
+      runs 11:{}
+      obj 0 {"type":"field","instr":"TOC \\o \"1-2\" \\h \\z \\u","result":"","locked":false}
+  [2] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Why share a workshop?\t1"
+      runs 23:{"link":"#_Toc000000001"}
+  [3] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "What we agree on\t2"
+      runs 18:{"link":"#_Toc000000002"}
+  [4] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Shared equipment\t2"
+      runs 18:{"link":"#_Toc000000003"}
+  [5] para props={"style":"TOC2","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Opening the workshop\t2"
+      runs 22:{"link":"#_Toc000000004"}
+  [6] para props={"style":"TOC1","tabs":[{"pos":467.5,"align":"right","leader":"dot"}]} mark={} "Membership\t2"
+      runs 12:{"link":"#_Toc000000005"}
+  [7] para props={"style":"Title"} mark={} "The Open workshop Handbook"
+      runs 26:{}
+  [8] para props={"style":"Subtitle"} mark={} "How a small community of makers shares space, tools and time Typed at the end of the subtitle."
+      runs 94:{}
+  [9] para props={"style":"Normal"} mark={} "A new paragraph, then a tab\tand a line break\nafter "
+      runs 51:{}
+  [10] para props={} mark={} "Every Thursday evening the old print shop on Alder Street fills with people who make things. Painters set up by the north windows, letterpress regulars claim the back room, and somebody always brings cakebread. This handbook collects what we have learned about running a shared workshop: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew."
+      runs 6:{} 8:{"bold":true,"boldCs":true,"fmtChange":{"rev":2,"old":{}}} 79:{} 8:{"size":14.0,"bold":true,"italic":true,"underline":"single","color":{"Rgb":[31,78,121]},"highlight":"yellow","sizeCs":14.0,"italicCs":true} 30:{} 11:{"italic":true} 58:{} 4:{"ins":1} 5:{"del":0} 199:{}
+  [11] para props={"style":"Heading1"} mark={} "{obj}Why share a workshop?{obj}"
+      runs 27:{}
+      obj 0 {"type":"bookmarkStart","name":"_Toc000000001"}
+      obj 1 {"type":"bookmarkEnd","name":"_Toc000000001"}
+  [12] para props={"align":"justify","indentLeft":36.0,"indentLeftChars":0.0,"spaceBefore":6.0,"spaceAfter":12.0,"lineSpacing":{"rule":"multiple","value":1.5}} mark={} "Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains {obj} to a comic artist; a photographer borrows a weaver's loom for a still life. The {obj}cross-talk{obj} is the point."
+      runs 157:{} 3:{"style":"FootnoteReference"} 81:{} 10:{"style":"Hyperlink","link":"https://example.org/crosstalk"} 20:{}
+      obj 0 {"type":"noteRef","kind":"footnote","id":3,"custom":""}
+      obj 1 {"type":"bookmarkStart","name":"crosstalk"}
+      obj 2 {"type":"bookmarkEnd","name":"crosstalk"}
+  [13] para props={"style":"Quote","spaceBefore":12.0} mark={} "A workshop is a place where unfinished things are welcome."
+      runs 58:{}
+  [14] para props={"style":"Heading2"} mark={} "{obj}What we agree on{obj}"
+      runs 22:{}
+      obj 0 {"type":"bookmarkStart","name":"_Toc000000002"}
+      obj 1 {"type":"bookmarkEnd","name":"_Toc000000002"}
+  [15] para props={"style":"ListParagraph","numbering":{"num":3,"level":1}} mark={} "Clean as you go. Leave a table the way you would like to find it."
+      runs 17:{"bold":true} 48:{}
+  [16] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+      runs 21:{"bold":true} 55:{}
+  [17] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "Ask before you borrow. Even from the shelf, a quick note helps everyone keep track."
+      runs 23:{"bold":true} 60:{}
+  [18] para props={"style":"ListParagraph","numbering":{"num":1,"level":0}} mark={} "{obj}Quiet hours{obj} run from 9 to 11 on weekday mornings."
+      runs 3:{} 11:{"bold":true} 3:{} 1:{"bold":true} 37:{}
+      obj 0 {"type":"commentStart","id":0}
+      obj 1 {"type":"commentEnd","id":0}
+  [19] para props={"style":"Heading2"} mark={} "{obj}Shared equipment{obj}"
+      runs 22:{}
+      obj 0 {"type":"bookmarkStart","name":"_Toc000000003"}
+      obj 1 {"type":"bookmarkEnd","name":"_Toc000000003"}
+  [20] para props={} mark={} "The table below lists what the membership owns together and who keeps each item in working order."
+      runs 97:{}
+  [21] table props={"style":"GridTable4AccentBlue","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+      row 0 props={"height":null,"heightRule":"auto","header":true,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Equipment"
+              runs 9:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Location"
+              runs 8:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Steward"
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Booking"
+              runs 7:{}
+      row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Etching press"
+              runs 13:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Back room"
+              runs 9:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Mara O."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Sign-up sheet"
+              runs 13:{}
+      row 2 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Kiln (cone 10)"
+              runs 14:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Yard shed"
+              runs 9:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Theo P."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "48 h notice"
+              runs 11:{}
+      row 3 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Large-format printer"
+              runs 20:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Office"
+              runs 6:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Ines R."
+              runs 7:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Calendar"
+              runs 8:{}
+      row 4 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Light table"
+              runs 11:{}
+        cell 1 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "North windows"
+              runs 13:{}
+        cell 2 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "Anyone"
+              runs 6:{}
+        cell 3 props={"width":117.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "First come"
+              runs 10:{}
+  [22] para props={"style":"Heading2"} mark={} "{obj}Opening the workshop{obj}"
+      runs 26:{}
+      obj 0 {"type":"bookmarkStart","name":"_Toc000000004"}
+      obj 1 {"type":"bookmarkEnd","name":"_Toc000000004"}
+  [23] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+      runs 39:{}
+  [24] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Open both skylights unless it is raining."
+      runs 41:{}
+  [25] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Start the kettle. This step is not optional."
+      runs 44:{}
+  [26] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Check the booking sheet for the kiln and press."
+      runs 47:{}
+  [27] para props={"style":"Heading1"} mark={} "{obj}Membership{obj}"
+      runs 16:{}
+      obj 0 {"type":"bookmarkStart","name":"_Toc000000005"}
+      obj 1 {"type":"bookmarkEnd","name":"_Toc000000005"}
+  [28] para props={} mark={} "Membership is pay what you can, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up."
+      runs 14:{} 16:{"bold":true,"color":{"Rgb":[21,96,130]}} 212:{}
+  [29] para props={} mark={} "Questions go to the front desk, or to the notice board by the sink. Visit the community board for events."
+      runs 68:{} 25:{"style":"Hyperlink","link":"https://getartcraft.com/"} 12:{}
+  [30] para props={"style":"ListParagraph","numbering":{"num":2,"level":0}} mark={} "Switch on the main breaker by the door."
+      runs 39:{}
+  [31] table props={"style":"TableGrid","width":null,"widthPct":null,"align":null,"indent":null,"borders":null,"cellMargins":null,"fixed":false,"look":{"headerRow":true,"totalRow":false,"bandedRows":true,"firstColumn":true,"lastColumn":false,"bandedColumns":false},"shading":null,"caption":null} grid=[117.0 117.0 117.0 117.0]
+      row 0 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "cell one"
+              runs 8:{}
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} "cell two"
+              runs 8:{}
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+        cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+      row 1 props={"height":null,"heightRule":"auto","header":false,"cantSplit":false}
+        cell 0 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+        cell 1 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+        cell 2 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+        cell 3 props={"width":156.0,"span":1,"vmerge":"none","shading":null,"borders":null,"margins":null,"textDirection":"horizontal","noWrap":false}
+          [0] para props={} mark={} ""
+  [32] para props={} mark={} ""
+part 1 Footer body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={"style":"Footer","align":"center"} mark={} "{obj}"
+      runs 3:{}
+      obj 0 {"type":"field","instr":"PAGE","result":"1","locked":false}
+part 2 Header body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={"style":"Header","borders":{"top":null,"left":null,"bottom":{"style":"single","width":0.5,"color":[191,191,191],"space":4.0},"right":null,"between":null,"inside_v":null}} mark={} "The Open workshop Handbook\t\tSpring edition"
+      runs 42:{}
+part 3 Footnote body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={"style":"FootnoteText"} mark={} "{obj} A footnote on glaze chemistry. Typed into the footnote."
+      runs 3:{"style":"FootnoteReference"} 56:{}
+      obj 0 {"type":"noteRef","kind":"footnote","id":3,"custom":""}
+part 4 Comment body={"vert":"horz","anchor":"top","next":null,"inset":null,"autoFit":false} (1 blocks):
+  [0] para props={} mark={} "Are the hours still right?"
+      runs 26:{}
+comment 0 author="Snapshot Author" initials="SA" parent=None resolved=false part=4
+revision 0 Delete author="Snapshot Author" move=None
+revision 1 Insert author="Snapshot Author" move=None
+revision 2 Format author="Snapshot Author" move=None
+model sha256=2d323662c3499510ad0e852a409c374ed2774227b7f30f1fbedf0ecee486cc39
+

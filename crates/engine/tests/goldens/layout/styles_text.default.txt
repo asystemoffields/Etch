@@ -1,0 +1,89 @@
+# layout snapshot: styles_text (default)
+# fonts: JetBrains Mono, Source Sans 3, Source Serif 4
+# pages: 3  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (18):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "Styles and Inline Formatting"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "Every built-in paragraph style and most run properties"
+    lines body [2] l0..1 x=72.0 y=153.2
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Heading One"
+    lines body [3] l0..3 x=72.0 y=187.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Plain text, then bold, italic, underlined, double underlined, struck, double struck, x2 "
+      1: top=18.9 h=19.2 base=31.4 left=0.0 right=468.0 end=Wrap "and H2O, coloured, highlighted, shaded, Small Caps, all caps, spaced, wide, "
+      2: top=38.2 h=28.4 base=56.8 left=0.0 right=468.0 end=Para "raised, monospace, sans and large and tiny text, with a link."
+    lines body [4] l0..1 x=72.0 y=262.2
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "Heading Two"
+    lines body [5] l0..2 x=72.0 y=290.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Character styles: subtle emphasis, emphasis, intense emphasis, strong, subtle reference, "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "intense reference and a book title."
+    lines body [6] l0..1 x=72.0 y=336.5
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "Heading Three"
+    lines body [7] l0..1 x=72.0 y=366.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A quotation set in the Quote style, centred and italic."
+    lines body [8] l0..1 x=72.0 y=403.5
+      0: top=0.0 h=18.9 base=12.4 left=43.2 right=424.8 end=Para "An intense quotation with rules above and below."
+    rule (115.2 393.5)-(496.8 393.5) Single w=0.5 #0f4761
+    rule (115.2 432.4)-(496.8 432.4) Single w=0.5 #0f4761
+    lines body [9] l0..1 x=72.0 y=440.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "No Spacing line one."
+    lines body [10] l0..1 x=72.0 y=456.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "No Spacing line two."
+    lines body [11] l0..1 x=72.0 y=477.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Heading Four"
+    lines body [12] l0..6 x=72.0 y=498.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Letter winter question another stone lantern orchard jumps number chapter without "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "chapter because village journey people village the morning pattern through market "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "summer lazy number orchard river while chapter winter people market chapter chapter "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "silver number brown quick brown measure people dog brown because letter while stone "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "between summer through harbour jumps window jumps over while pattern another "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "over winter."
+    lines body [13] l0..1 x=72.0 y=619.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Right aligned line."
+    lines body [14] l0..1 x=72.0 y=646.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Centred line."
+    lines body [15] l0..1 x=72.0 y=673.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Distributed alignment spreads the letters of a short line."
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=16 markup=0.0 header=- footer=-
+  items (7):
+    lines body [16] l0..6 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=432.0 end=Wrap "Over band market band harbour over chapter window stone lazy "
+      1: top=18.9 h=18.9 base=31.4 left=36.0 right=432.0 end=Wrap "through window quick dog market pattern chapter without morning "
+      2: top=37.8 h=18.9 base=50.3 left=36.0 right=432.0 end=Wrap "meadow summer the brown evening window through quick another "
+      3: top=56.8 h=18.9 base=69.2 left=36.0 right=432.0 end=Wrap "without pattern harbour window through number fox letter journey "
+      4: top=75.7 h=18.9 base=88.1 left=36.0 right=432.0 end=Wrap "history history people summer market quick fox orchard winter fox "
+      5: top=94.6 h=18.9 base=107.0 left=36.0 right=432.0 end=Para "measure band over."
+    lines body [17] l0..5 x=72.0 y=193.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Window because number meadow stone summer journey because history evening "
+      1: top=18.9 h=18.9 base=31.4 left=36.0 right=468.0 end=Wrap "between brown village while plays while letter meadow river market harbour "
+      2: top=37.8 h=18.9 base=50.3 left=36.0 right=468.0 end=Wrap "chapter fox while stone the band river measure the because lazy harbour dog "
+      3: top=56.8 h=18.9 base=69.2 left=36.0 right=468.0 end=Wrap "another without the chapter garden orchard through question the harbour lazy "
+      4: top=75.7 h=18.9 base=88.1 left=36.0 right=468.0 end=Para "market orchard village stone between."
+    lines body [18] l0..4 x=72.0 y=300.1
+      0: top=0.0 h=20.0 base=16.0 left=0.0 right=468.0 end=Wrap "Without evening letter market meadow jumps chapter village chapter stone journey "
+      1: top=20.0 h=20.0 base=36.0 left=0.0 right=468.0 end=Wrap "because fox summer people winter harbour winter between question question lantern "
+      2: top=40.0 h=20.0 base=56.0 left=0.0 right=468.0 end=Wrap "fox lazy without measure market without evening jumps measure the question people "
+      3: top=60.0 h=20.0 base=76.0 left=0.0 right=468.0 end=Para "garden the silver over dog fox."
+    lines body [19] l0..4 x=72.0 y=392.1
+      0: top=0.0 h=18.0 base=14.0 left=0.0 right=468.0 end=Wrap "Lazy without people window quick between chapter people chapter over dog lantern "
+      1: top=18.0 h=18.0 base=32.0 left=0.0 right=468.0 end=Wrap "people while stone journey village pattern silver jumps jumps orchard summer stone "
+      2: top=36.0 h=18.0 base=50.0 left=0.0 right=468.0 end=Wrap "summer chapter lazy measure over dog harbour river village meadow measure pattern "
+      3: top=54.0 h=18.0 base=68.0 left=0.0 right=468.0 end=Para "history jumps through quick."
+    lines body [20] l0..4 x=72.0 y=472.1
+      0: top=0.0 h=32.9 base=12.4 left=0.0 right=468.0 end=Wrap "Chapter morning brown lantern band garden pattern silver orchard winter history "
+      1: top=32.9 h=32.9 base=45.3 left=0.0 right=468.0 end=Wrap "journey winter letter harbour band summer history morning over village band history "
+      2: top=65.8 h=32.9 base=78.2 left=0.0 right=468.0 end=Wrap "evening letter journey silver another another summer fox fox without garden pattern "
+      3: top=98.7 h=32.9 base=111.1 left=0.0 right=468.0 end=Para "jumps market dog without market."
+    lines body [21] l0..1 x=72.0 y=611.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Contextual spacing paragraph 1."
+    lines body [22] l0..1 x=72.0 y=630.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Contextual spacing paragraph 2."
+page 3: 612.0x792.0 number=3 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=23 markup=0.0 header=- footer=-
+  items (3):
+    lines body [23] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Heading Five"
+    lines body [24] l0..1 x=72.0 y=92.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Heading Six"
+    lines body [25] l0..1 x=72.0 y=111.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "The end."

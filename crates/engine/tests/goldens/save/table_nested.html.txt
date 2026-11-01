@@ -1,0 +1,66 @@
+== html (2191 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_nested</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Nested tables.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:234pt">
+<col style="width:234pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern band between.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+<p>Outer cell with an inner table:</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:100pt">
+<col style="width:100pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Journey band the.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">River garden the.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer silver measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">River history lantern.</td>
+</tr>
+</table>
+<p>after the inner table</p>
+</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:50pt">
+<col style="width:50pt">
+<col style="width:50pt">
+</colgroup>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question over without.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Silver river because.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The history question.</td>
+</tr>
+</table>
+<p>&nbsp;</p>
+</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village history jumps.</td>
+</tr>
+</table>
+<p>After the tables.</p>
+</body>
+</html>

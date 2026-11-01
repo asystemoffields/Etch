@@ -1,0 +1,66 @@
+== rtf (8935 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: table_floating}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Floating and Styled Tables\par
+\pard\plain\ql Lazy garden stone summer history number silver evening window people through lazy letter lazy evening garden between river brown dog village window winter band orchard because while without lazy fox history people another market people evening garden letter meadow plays pattern measure meadow village silver lazy harbour through pattern pattern another over between lantern lazy letter village history question harbour.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2000\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4000
+\pard\plain\intbl\ql {\b Journey between village.}\cell
+\pard\plain\intbl\ql {\b Plays meadow people.}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2000\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4000
+\pard\plain\intbl\ql Dog brown village.\cell
+\pard\plain\intbl\ql Fox while plays.\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2000\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4000
+\pard\plain\intbl\ql Lazy harbour people.\cell
+\pard\plain\intbl\ql The morning while.\cell
+\row
+\pard\plain\ql The garden village over plays while measure through window pattern silver measure garden question pattern jumps brown pattern stone dog lazy band brown band jumps band pattern journey plays plays lantern river fox measure band brown morning chapter band village dog without jumps quick while measure orchard lazy garden harbour stone over pattern morning summer river evening another morning between.\par
+\pard\plain\ql Over brown morning people while fox silver number without quick history quick village market people jumps band quick lantern quick dog brown silver while measure plays garden meadow question over letter while lantern morning through through journey summer harbour the between journey orchard meadow another lantern letter history the number garden market summer without winter lantern lazy quick orchard lantern.\par
+\pard\plain\ql Question lantern summer river stone stone history jumps journey chapter fox quick number winter because people window silver number chapter silver dog because between lazy evening garden lazy between through morning question plays letter river through orchard dog orchard window evening jumps window river summer village history lantern plays over journey village lantern journey silver without because quick summer over.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b Village garden orchard.}\cell
+\pard\plain\intbl\ql {\b Garden question stone.}\cell
+\pard\plain\intbl\ql {\b Quick village measure.}\cell
+\pard\plain\intbl\ql {\b Brown the number.}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Stone dog without.\cell
+\pard\plain\intbl\ql Number summer number.\cell
+\pard\plain\intbl\ql Dog evening fox.\cell
+\pard\plain\intbl\ql People silver jumps.\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Because letter without.\cell
+\pard\plain\intbl\ql Lantern quick summer.\cell
+\pard\plain\intbl\ql Winter winter without.\cell
+\pard\plain\intbl\ql Market chapter journey.\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Band without history.\cell
+\pard\plain\intbl\ql Letter journey the.\cell
+\pard\plain\intbl\ql Journey orchard winter.\cell
+\pard\plain\intbl\ql Winter market history.\cell
+\row
+\pard\plain\ql Meadow summer journey chapter band chapter letter fox history letter question between band harbour jumps the without window window history the stone garden evening measure morning lazy history stone another through market history plays evening meadow band because through harbour village river the summer evening window journey without silver through summer history morning market meadow morning stone measure history lantern.\par
+\pard\plain\ql Winter summer orchard morning letter meadow number another letter orchard orchard stone through fox letter silver jumps journey jumps people band harbour because over window harbour another window lantern through measure history question silver band dog fox meadow silver without history pattern because stone fox while letter band lantern pattern meadow while dog pattern orchard the measure people garden the.\par
+\pard\plain\ql Stone while letter people another plays the history the between village history summer village the measure winter because silver garden plays winter morning the meadow over orchard evening through people another history journey silver summer chapter journey silver through number band because evening stone another band orchard chapter letter brown because because number the band over meadow orchard measure dog.\par
+\pard\plain\ql Silver through dog stone journey the because quick chapter while while evening history measure plays morning question dog history number over journey silver chapter without because lazy lazy jumps band market plays meadow village dog orchard window morning silver history winter silver morning market river through letter without question stone summer while jumps people summer orchard silver pattern plays another.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b River jumps through.}\cell
+\pard\plain\intbl\ql {\b Summer lantern lazy.}\cell
+\pard\plain\intbl\ql {\b Chapter brown summer.}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Without while without.\cell
+\pard\plain\intbl\ql Plays fox meadow.\cell
+\pard\plain\intbl\ql Over because window.\cell
+\row
+\pard\plain\ql After the tables.\par
+}

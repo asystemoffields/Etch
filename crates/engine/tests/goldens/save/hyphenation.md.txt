@@ -1,0 +1,12 @@
+== md (1220 bytes)
+# Hyphenation
+
+Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. 
+
+Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. Extraordinarily uncharacteristic internationalization responsibilities overwhelmingly counterproductive misunderstandings notwithstanding incomprehensibility. 
+
+Soft hyphens: ex­tra­or­di­nar­i­ly un­char­ac­ter­is­tic in­ter­na­tion­al­i­za­tion re­spon­si­bil­i­ties over­whelm­ing­ly.
+
+Non-breaking hyphens keep well‑known‑compound‑words‑together on the line and an ordinary long-hyphenated-compound-word may break at its hyphens.
+
+ALLCAPS INTERNATIONALIZATION RESPONSIBILITIES OVERWHELMINGLY COUNTERPRODUCTIVE MISUNDERSTANDINGS.

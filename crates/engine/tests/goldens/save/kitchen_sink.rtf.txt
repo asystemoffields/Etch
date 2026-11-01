@@ -1,0 +1,48 @@
+== rtf (5833 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\revtbl {Unknown;}{Snapshot Author;}}
+{\info{\title Snapshot: kitchen_sink}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+{\header
+\pard\plain\ql Header: page {\field{\*\fldinst {PAGE}}{\fldrslt {1}}} of {\field{\*\fldinst {NUMPAGES}}{\fldrslt {1}}}\par
+}
+\pard\plain\ql Kitchen sink: a bit of everything the sweep document has.\par
+\pard\plain\ql Harbour silver jumps orchard evening history jumps dog river over while history lazy quick lazy chapter the pattern meadow stone quick garden stone chapter village summer summer garden quick morning river while river fox journey through garden river evening meadow band the brown another brown plays river because between window.\par
+\pard\plain\ql Body text with {\*\bkmkstart sink}{\*\bkmkend sink}a bookmark, {\*\atrfstart 0}a comment{\*\atrfend 0}{{\*\atnid SA}{\*\atnauthor Snapshot Author}\chatn{\*\annotation{\*\atnref 0}{\*\atndate 0}
+\pard\plain\ql A remark in the kitchen sink.\par
+}},  and {\revised\revauth1\revdttm0 words tracked}{\deleted\revauthdel1\revdttmdel0 tracked words}.\par
+\pard\plain\ql Morning through river market between village lazy evening window village jumps question jumps another pattern morning market journey village jumps through summer quick river silver meadow chapter history window orchard river village number market morning window silver plays chapter over number history winter market village evening stone lantern window garden.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b Quick brown quick.}\cell
+\pard\plain\intbl\ql {\b Band silver over.}\cell
+\pard\plain\intbl\ql {\b Stone garden market.}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Window pattern village.\cell
+\pard\plain\intbl\ql Evening band while.\cell
+\pard\plain\intbl\ql Dog over fox.\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Harbour lazy measure.\cell
+\pard\plain\intbl\ql Evening jumps morning.\cell
+\pard\plain\intbl\ql Brown because market.\cell
+\row
+\pard\plain\ql People while brown summer winter without lantern village silver while brown brown band chapter over pattern morning between pattern while letter jumps river plays measure meadow without brown while because pattern quick number history window meadow village dog because brown river orchard history village quick through river dog through measure.\par
+\pard\plain\ql Last paragraph of the first section. See {\field{\*\fldinst {REF sink \\h}}{\fldrslt {a bookmark}}} on page {\field{\*\fldinst {PAGEREF sink \\h}}{\fldrslt {1}}}.\sect
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbknone\cols2\colsx480
+{\header
+\pard\plain\ql Header: page {\field{\*\fldinst {PAGE}}{\fldrslt {1}}} of {\field{\*\fldinst {NUMPAGES}}{\fldrslt {1}}}\par
+}
+\pard\plain\ql Second section, two columns, with a footnote{\super\chftn}{\footnote
+\pard\plain\ql {\super\chftn} The kitchen sink's footnote.\par
+} and a content control here.\par
+\pard\plain\ql Evening silver market market quick lazy lazy over through chapter dog band window number letter number winter over journey without evening river people jumps morning through chapter pattern the pattern morning lazy lantern garden between summer silver jumps without through band lazy brown lazy village orchard harbour brown band evening.\par
+\pard\plain\ql Number meadow brown orchard harbour without fox another fox pattern morning measure the people meadow evening silver morning between while summer while the pattern stone over dog stone band question question while through morning through between another another between history meadow evening plays between quick between fox measure because letter.\par
+\pard\plain\ql History band the journey harbour band dog through question over summer fox jumps silver over journey window question without measure harbour fox jumps while brown dog meadow brown between brown jumps winter between summer garden brown harbour morning through people band number harbour garden summer question over while silver orchard.\par
+\pard\plain\ql The end of the second section.\par
+}

@@ -1,0 +1,4 @@
+{"method": "engine.execute", "params": {"command": "ui.theme", "params": {"value": "light"}}}
+{"method": "engine.execute", "params": {"command": "ui.tab", "params": {"tab": "Home"}}}
+{"steps": 30}
+{"shot": "docs/images/hero.png"}

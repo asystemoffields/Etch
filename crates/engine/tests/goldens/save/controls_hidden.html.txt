@@ -1,0 +1,22 @@
+== html (1139 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: controls_hidden</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Content controls: a plain-text control, a rich-text control, a check box☐ and a <span style="color:#666666">Pick an option.</span>.</p>
+<p>Hidden text: this sentence is shown, &nbsp;and this one is shown again.</p>
+<p>Question between between meadow quick lantern winter history between over people through without people through quick letter quick quick lazy another meadow through because lazy jumps stone window because through garden journey through lantern winter band measure pattern without over.</p>
+</body>
+</html>

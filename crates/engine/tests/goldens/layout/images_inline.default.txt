@@ -1,0 +1,76 @@
+# layout snapshot: images_inline (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=part:1 footer=-
+  header (2 items):
+    lines part:1 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=22.0 base=18.0 left=0.0 right=468.0 end=Para "Header with a picture {obj}"
+    object [190.9 36.0 24.0x18.0] at part:1 [0]#22 box=- wrap=Inline origin=(72.0 36.0) spin=0
+  items (22):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Inline Pictures"
+    lines body [1] l0..1 x=72.0 y=124.5
+      0: top=0.0 h=34.0 base=30.0 left=0.0 right=468.0 end=Para "Small pictures in the text flow:{obj}"
+    object [234.8 124.5 40.0x30.0] at body [1]#32 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    lines body [2] l0..3 x=72.0 y=166.5
+      0: top=0.0 h=64.0 base=60.0 left=0.0 right=468.0 end=Wrap "River garden river v{obj}illage number while band pattern measure "
+      1: top=64.0 h=18.9 base=76.5 left=0.0 right=468.0 end=Wrap "evening history question dog people over orchard because harbour window over "
+      2: top=82.9 h=18.9 base=95.4 left=0.0 right=468.0 end=Para "window through river because journey while stone summer stone the."
+    object [177.3 166.5 96.0x60.0] at body [2]#20 box=- wrap=Inline origin=(72.0 166.5) spin=0
+    lines body [3] l0..1 x=72.0 y=276.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A picture wider than the column:"
+    lines body [4] l0..1 x=72.0 y=303.3
+      0: top=0.0 h=304.0 base=300.0 left=0.0 right=468.0 end=Para "{obj}"
+    object [72.0 303.3 600.0x300.0] at body [4]#0 box=- wrap=Inline origin=(72.0 303.3) spin=0
+    lines body [5] l0..1 x=72.0 y=615.3 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=40.0 base=36.0 left=18.0 right=468.0 end=Para "A list item with a picture {obj}"
+    object [241.8 615.3 48.0x36.0] at body [5]#27 box=- wrap=Inline origin=(72.0 615.3) spin=0
+    lines body [6] l0..1 x=72.0 y=663.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A table with a picture in a cell:"
+    lines body [7,0,0,0] l0..1 x=77.7 y=690.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "While question quick."
+    rule (72.0 690.3)-(306.5 690.3) Single w=0.5 auto
+    rule (72.0 720.0)-(306.5 720.0) Single w=0.5 auto
+    rule (72.3 690.3)-(72.3 720.0) Single w=0.5 auto
+    rule (306.3 690.3)-(306.3 720.0) Single w=0.5 auto
+    cell [72.3 690.3 234.0x29.7] table=[7] r0 c0 body
+    rule (306.0 690.3)-(540.5 690.3) Single w=0.5 auto
+    rule (306.0 720.0)-(540.5 720.0) Single w=0.5 auto
+    rule (306.3 690.3)-(306.3 720.0) Single w=0.5 auto
+    rule (540.3 690.3)-(540.3 720.0) Single w=0.5 auto
+    cell [306.3 690.3 234.0x29.7] table=[7] r0 c1 body
+  rows [7]: 0:690.3+29.7
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=7 markup=0.0 header=part:1 footer=-
+  header (2 items):
+    lines part:1 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=22.0 base=18.0 left=0.0 right=468.0 end=Para "Header with a picture {obj}"
+    object [190.9 36.0 24.0x18.0] at part:1 [0]#22 box=- wrap=Inline origin=(72.0 36.0) spin=0
+  items (24):
+    rule (72.0 72.0)-(306.5 72.0) Single w=0.5 auto
+    rule (72.0 166.5)-(306.5 166.5) Single w=0.5 auto
+    rule (72.3 72.0)-(72.3 166.5) Single w=0.5 auto
+    rule (306.3 72.0)-(306.3 166.5) Single w=0.5 auto
+    cell [72.3 72.0 234.0x94.5] table=[7] r0 c0 body
+    lines body [7,0,1,0] l0..1 x=311.7 y=72.5
+      0: top=0.0 h=94.0 base=90.0 left=0.0 right=223.2 end=Para "{obj}"
+    object [311.7 72.5 120.0x90.0] at body [7,0,1,0]#0 box=- wrap=Inline origin=(311.7 72.5) spin=0
+    rule (306.0 72.0)-(540.5 72.0) Single w=0.5 auto
+    rule (306.0 166.5)-(540.5 166.5) Single w=0.5 auto
+    rule (306.3 72.0)-(306.3 166.5) Single w=0.5 auto
+    rule (540.3 72.0)-(540.3 166.5) Single w=0.5 auto
+    cell [306.3 72.0 234.0x94.5] table=[7] r0 c1 body
+    lines body [7,1,0,0] l0..1 x=77.7 y=167.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "Orchard without through."
+    rule (72.0 166.5)-(306.5 166.5) Single w=0.5 auto
+    rule (72.0 184.0)-(306.5 184.0) Single w=0.5 auto
+    rule (72.3 166.5)-(72.3 184.0) Single w=0.5 auto
+    rule (306.3 166.5)-(306.3 184.0) Single w=0.5 auto
+    cell [72.3 166.5 234.0x17.5] table=[7] r1 c0 body
+    lines body [7,1,1,0] l0..1 x=311.7 y=167.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=223.2 end=Para "While journey question."
+    rule (306.0 166.5)-(540.5 166.5) Single w=0.5 auto
+    rule (306.0 184.0)-(540.5 184.0) Single w=0.5 auto
+    rule (306.3 166.5)-(306.3 184.0) Single w=0.5 auto
+    rule (540.3 166.5)-(540.3 184.0) Single w=0.5 auto
+    cell [306.3 166.5 234.0x17.5] table=[7] r1 c1 body
+  rows [7]: 0:72.0+94.5 1:166.5+17.5

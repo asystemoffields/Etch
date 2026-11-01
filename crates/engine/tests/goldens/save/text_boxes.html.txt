@@ -1,0 +1,28 @@
+== html (3992 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: text_boxes</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Text Boxes</h1>
+<p>People orchard evening silver dog plays because number brown band chapter quick orchard pattern meadow band the history the winter plays the garden lazy garden the jumps dog garden people pattern meadow pattern fox pattern letter lantern journey market brown through fox river window the chapter question lazy evening between village harbour morning meadow meadow garden stone stone history while.</p>
+<p>Jumps fox through winter morning without summer chapter harbour harbour brown winter summer through winter orchard market letter meadow number jumps the quick fox morning river band dog chapter brown winter river number jumps between silver brown letter over fox people summer garden garden quick fox without winter over fox measure pattern market plays without window between market morning morning.</p>
+<p>Pattern lantern evening through evening over over dog river dog over over the over fox the winter meadow lazy jumps orchard dog band garden evening letter lantern meadow plays silver measure river band quick dog plays garden window measure brown number history orchard quick village silver orchard morning stone people garden harbour brown question measure dog history chapter through history.</p>
+<p>Lantern window brown fox because harbour number people between village winter while winter fox meadow silver window while harbour orchard between garden stone measure morning the between the lazy summer fox summer silver measure evening the window through band chapter brown morning lantern morning window number band dog through river band quick lazy measure window because brown river letter evening.</p>
+<p>Over question morning another letter between morning garden orchard measure window number market evening history meadow evening while village number number without measure between quick letter because band window morning while because pattern between market window winter pattern lazy measure another through village pattern silver evening harbour history history lantern lantern silver through silver window stone stone garden question lazy.</p>
+<p>Market village river another journey over lazy market market harbour chapter window question letter village band without people the stone fox the question lantern winter letter without river river quick garden question people over over question morning quick winter the over through silver pattern meadow while over river orchard pattern harbour another chapter dog band because harbour because harbour dog.</p>
+<p>Evening market window market stone village between morning river fox band plays quick history people market pattern jumps summer winter morning quick meadow dog summer number river quick letter over stone harbour through people another journey between between people because through between another river window summer summer lantern dog chapter plays number brown market another brown chapter meadow orchard meadow.</p>
+<p>Brown fox jumps question without history another measure pattern morning number jumps through people over while dog harbour garden chapter quick meadow winter summer evening river garden lantern number market lazy plays without history summer measure pattern river plays evening morning question jumps pattern morning morning chapter window morning quick because market brown without morning silver without another winter without.</p>
+</body>
+</html>

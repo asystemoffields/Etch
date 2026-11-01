@@ -1,0 +1,44 @@
+== html (2227 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: comments</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Comments: a remark on a phrase, a reply to it, a resolved thread and a comment on a whole paragraph.</p>
+<p>Letter through morning market journey brown another lazy quick another journey silver between stone window silver lazy silver market quick band morning lantern river summer people morning stone without while journey garden between dog another window number question journey journey measure over over without lantern between lazy harbour market plays.</p>
+<p>Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone window village over meadow river summer plays while another jumps jumps journey lazy measure between without the stone village lantern people.</p>
+<p>A short last paragraph.</p>
+<section class="comments">
+<h2>Comments</h2>
+<ol>
+<li id="comment-1">
+<p>
+<strong>Snapshot Author</strong> on <q>remark on a phrase</q>: The first remark, on a phrase.</p>
+<ul>
+<li>
+<strong>Snapshot Author</strong>: A reply from the same author.</li>
+</ul>
+</li>
+<li id="comment-2">
+<p>
+<strong>Second Reviewer</strong> on <q>resolved thread</q>: This one is resolved.</p>
+</li>
+<li id="comment-3">
+<p>
+<strong>Second Reviewer</strong> on <q>Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone windo…</q>: A longer comment on the whole paragraph, so the balloon wraps onto several lines in the markup area.</p>
+</li>
+</ol>
+</section>
+</body>
+</html>

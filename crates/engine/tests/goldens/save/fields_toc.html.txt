@@ -1,0 +1,116 @@
+== html (6937 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: fields_toc</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Fields and a Table of Contents</h1>
+<p>The table of contents goes here:</p>
+<p>Contents</p>
+<p>
+<a href="#_Toc000000001">Chapter 1<span style="white-space:pre">	</span>1</a>
+</p>
+<p>
+<a href="#_Toc000000002">Section 1.1<span style="white-space:pre">	</span>1</a>
+</p>
+<p>
+<a href="#_Toc000000003">Topic 1.1.1<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000004">Section 1.2<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000005">Chapter 2<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000006">Section 2.1<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000007">Topic 2.1.1<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000008">Section 2.2<span style="white-space:pre">	</span>2</a>
+</p>
+<p>
+<a href="#_Toc000000009">Chapter 3<span style="white-space:pre">	</span>3</a>
+</p>
+<p>
+<a href="#_Toc000000010">Section 3.1<span style="white-space:pre">	</span>3</a>
+</p>
+<p>
+<a href="#_Toc000000011">Topic 3.1.1<span style="white-space:pre">	</span>3</a>
+</p>
+<p>
+<a href="#_Toc000000012">Section 3.2<span style="white-space:pre">	</span>3</a>
+</p>
+<p>&nbsp;</p>
+<h1>
+<a id="_Toc000000001">
+</a>Chapter 1</h1>
+<p>History fox over fox the plays over evening dog summer without evening stone morning winter history lazy winter lazy fox fox window measure dog evening without without lantern river harbour pattern people the summer journey meadow brown harbour letter dog brown another between over market between orchard letter lantern because fox people market plays silver stone letter history quick window.</p>
+<h2>
+<a id="_Toc000000002">
+</a>Section 1.1</h2>
+<p>Window meadow harbour without people journey measure winter band chapter measure lantern over lantern question question because without window because history fox harbour dog another harbour without harbour letter because over garden history question people journey while quick window stone brown history summer orchard market without lazy evening chapter garden.</p>
+<h3>
+<a id="_Toc000000003">
+</a>Topic 1.1.1</h3>
+<p>Between chapter quick morning evening number morning question jumps through lazy market letter plays measure band harbour garden chapter jumps meadow chapter between while meadow question another stone people winter people while market number summer harbour silver stone window between.</p>
+<h2>
+<a id="_Toc000000004">
+</a>Section 1.2</h2>
+<p>Fox number plays village between morning history winter letter question the fox because harbour over river stone chapter history garden band village window river fox dog band chapter harbour number another quick winter the evening window quick summer village orchard garden question between while orchard measure harbour morning brown winter.</p>
+<h1>
+<a id="_Toc000000005">
+</a>Chapter 2</h1>
+<p>Measure dog quick plays plays jumps orchard between through morning summer silver over orchard market chapter pattern orchard market summer plays another morning plays question lantern between measure window another quick pattern journey plays without measure dog market the stone winter because the over pattern lantern winter without journey the summer another between window winter harbour through history garden summer.</p>
+<h2>
+<a id="_Toc000000006">
+</a>Section 2.1</h2>
+<p>Pattern fox fox village letter village band history history stone over stone silver evening fox evening dog silver between river because garden journey measure measure lazy plays between because pattern meadow window people window another letter plays orchard people because through lantern garden window number fox measure jumps lazy pattern.</p>
+<h3>
+<a id="_Toc000000007">
+</a>Topic 2.1.1</h3>
+<p>Meadow the meadow river band harbour band lazy because people window garden number journey the market orchard meadow pattern river band jumps garden chapter garden band window between silver meadow plays plays between lazy plays because history village pattern between.</p>
+<h2>
+<a id="_Toc000000008">
+</a>Section 2.2</h2>
+<p>Dog while village plays dog number morning chapter while silver quick history number lazy history number the measure dog harbour morning brown lazy river between village letter band village window market quick lantern plays band measure orchard garden chapter chapter over stone another the over the over morning chapter over.</p>
+<h1>
+<a id="_Toc000000009">
+</a>Chapter 3</h1>
+<p>Stone people while the between plays while quick garden while question jumps market the jumps band harbour without brown village chapter people summer measure lazy chapter garden dog garden journey pattern over garden quick evening harbour jumps plays plays between lazy lantern question question evening the while garden letter band between jumps meadow market number the question without village harbour.</p>
+<h2>
+<a id="_Toc000000010">
+</a>Section 3.1</h2>
+<p>Silver band because question plays market between pattern market plays the garden summer lazy market evening band without journey history window people lantern village pattern measure river over history morning between dog history summer another over dog another over another chapter between harbour over harbour market harbour stone orchard because.</p>
+<h3>
+<a id="_Toc000000011">
+</a>Topic 3.1.1</h3>
+<p>Number lazy question because village lazy another market silver market plays without morning village stone harbour journey history letter harbour another band number measure because while pattern orchard meadow number harbour measure lazy window harbour dog measure the journey over.</p>
+<h2>
+<a id="_Toc000000012">
+</a>Section 3.2</h2>
+<p>While silver between meadow over through because plays between fox quick evening market between pattern another without history silver quick between over lantern brown dog measure fox river question the because question the lazy lantern the silver because quick while garden plays another evening measure number letter lazy band meadow.</p>
+<p>A <a href="https://example.org/fox">
+<span style="color:#467886">bookmarked phrase</span>
+</a>: the <a id="fox">
+</a>quick brown fox.</p>
+<p>Fields: page &nbsp;of ; date 2023-11-14; time 22:13; author Snapshot Author; title Snapshot: fields_toc; words 716.</p>
+<p>Figure 1: caption 1</p>
+<p>Figure 2: caption 2</p>
+<p>Figure 3: caption 3</p>
+<p>See quick brown fox on page 3. Nested: yes.</p>
+</body>
+</html>

@@ -1,0 +1,34 @@
+== rtf (5581 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\listtable
+{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-360\li2160\lin2160}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\lin2880}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\lin3600}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-360\li4320\lin4320}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\lin5040}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\lin5760}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-360\li6480\lin6480}{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+{\info{\title Snapshot: rtl}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Right-to-Left Text\par
+\pard\plain\ql\rtlpar Summer number journey market through winter between while without plays evening village stone stone summer fox evening while meadow village winter harbour the stone another stone between silver journey while village because through village brown river brown river meadow measure.\par
+\pard\plain\ql\rtlpar \u1513?\u1500?\u1493?\u1501? \u1506?\u1493?\u1500?\u1501?, \u1494?\u1492?\u1493? \u1502?\u1513?\u1508?\u1496? \u1489?\u1506?\u1489?\u1512?\u1497?\u1514? \u1506?\u1501? \u1502?\u1505?\u1508?\u1512?\u1497?\u1501? 123 \u1493?-456 \u1489?\u1514?\u1493?\u1499?\u1493?.\par
+\pard\plain\qj\rtlpar \u1605?\u1585?\u1581?\u1576?\u1575? \u1576?\u1575?\u1604?\u1593?\u1575?\u1604?\u1605?\u1548? \u1607?\u1584?\u1607? \u1580?\u1605?\u1604?\u1577? \u1593?\u1585?\u1576?\u1610?\u1577? \u1601?\u1610?\u1607?\u1575? \u1603?\u1604?\u1605?\u1575?\u1578? english \u1608?\u1571?\u1585?\u1602?\u1575?\u1605? 789.\par
+\pard\plain\ql Mixed in a left-to-right paragraph: Hello \u1513?\u1500?\u1493?\u1501? 42 world \u1605?\u1585?\u1581?\u1576?\u1575? again.\par
+\pard\plain\qr\rtlpar Right-aligned right-to-left paragraph.\sect
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b \u1497?\u1502?\u1497?\u1503?}\cell
+\pard\plain\intbl\ql {\b Because winter through.}\cell
+\pard\plain\intbl\ql {\b \u1513?\u1502?\u1488?\u1500?}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx3120\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx6240\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Jumps letter measure.\cell
+\pard\plain\intbl\ql Brown through through.\cell
+\pard\plain\intbl\ql Evening stone without.\cell
+\row
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32 A right-to-left section\par
+\pard\plain\ql Journey winter quick summer between garden jumps evening fox dog stone stone between pattern silver summer fox orchard summer window jumps measure lazy chapter meadow measure letter dog plays plays harbour letter through people winter journey winter plays brown pattern river meadow number brown village plays brown while summer because.\par
+\pard\plain\ql\rtlpar\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain 1.\tab}\u1508?\u1512?\u1497?\u1496? \u1512?\u1488?\u1513?\u1493?\u1503?\par
+\pard\plain\ql\rtlpar\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain 2.\tab}\u1508?\u1512?\u1497?\u1496? \u1513?\u1504?\u1497?\par
+}

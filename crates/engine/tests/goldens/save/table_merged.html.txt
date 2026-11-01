@@ -1,0 +1,53 @@
+== html (2342 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_merged</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Merged cells: spans across and merges down.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+</colgroup>
+<tr>
+<th colspan="2" style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#FFE0B0">Spans two columns</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question window band.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Between history market.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band people silver.</td>
+<td colspan="3" style="border:1px solid #999;padding:4px 6px;vertical-align:top">Spans three columns</td>
+</tr>
+<tr>
+<td rowspan="3" style="border:1px solid #999;padding:4px 6px;vertical-align:top">Merged down three rows</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Because brown winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Pattern quick because.</td>
+<td rowspan="2" style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#D0F0D0">Evening summer village.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over evening morning.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Letter river river.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village lazy band.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Morning measure market.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">People plays winter.</td>
+</tr>
+</table>
+<p>After the table.</p>
+</body>
+</html>

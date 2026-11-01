@@ -1,0 +1,35 @@
+== txt (853 bytes)
+Lists
+Bulleted, three levels:
+•	First bullet
+•	Second bullet
+	◦	Nested bullet
+		▪	Deeper bullet
+	◦	Back one level
+•	Last bullet
+Numbered, three levels:
+1.	Step one
+	a.	Sub-step a
+	b.	Sub-step b
+		i.	Detail i
+		ii.	Detail ii
+2.	Step two
+3.	Step three
+A plain paragraph between two lists.
+4.	Continues at four
+5.	Then five
+Restarted:
+1.	Starts again at one
+2.	Then two
+Lettered:
+1.	Apples
+2.	Pears
+3.	Plums
+Outline (multilevel):
+1.	Part
+	a.	Chapter
+		i.	Section
+		ii.	Section
+	b.	Chapter
+2.	Part
+•	Jumps plays winter because plays dog because while without history quick jumps number without quick measure history stone meadow orchard meadow fox over pattern plays between fox through without letter number quick harbour journey garden plays question lantern evening the while pattern summer chapter morning.

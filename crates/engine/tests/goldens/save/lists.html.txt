@@ -1,0 +1,79 @@
+== html (1745 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: lists</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Lists</h1>
+<p>Bulleted, three levels:</p>
+<ul>
+<li>First bullet</li>
+<li>Second bullet<ul>
+<li>Nested bullet<ul>
+<li>Deeper bullet</li>
+</ul>
+</li>
+<li>Back one level</li>
+</ul>
+</li>
+<li>Last bullet</li>
+</ul>
+<p>Numbered, three levels:</p>
+<ol>
+<li>Step one<ol>
+<li>Sub-step a</li>
+<li>Sub-step b<ol>
+<li>Detail i</li>
+<li>Detail ii</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Step two</li>
+<li>Step three</li>
+</ol>
+<p>A plain paragraph between two lists.</p>
+<ol start="4">
+<li>Continues at four</li>
+<li>Then five</li>
+</ol>
+<p>Restarted:</p>
+<ol>
+<li>Starts again at one</li>
+<li>Then two</li>
+</ol>
+<p>Lettered:</p>
+<ol>
+<li>Apples</li>
+<li>Pears</li>
+<li>Plums</li>
+</ol>
+<p>Outline (multilevel):</p>
+<ol>
+<li>Part<ol>
+<li>Chapter<ol>
+<li>Section</li>
+<li>Section</li>
+</ol>
+</li>
+<li>Chapter</li>
+</ol>
+</li>
+<li>Part</li>
+</ol>
+<ul>
+<li>Jumps plays winter because plays dog because while without history quick jumps number without quick measure history stone meadow orchard meadow fox over pattern plays between fox through without letter number quick harbour journey garden plays question lantern evening the while pattern summer chapter morning.</li>
+</ul>
+</body>
+</html>

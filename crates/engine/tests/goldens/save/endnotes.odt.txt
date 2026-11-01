@@ -1,0 +1,56 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (38 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Endnotes</text:h>
+<text:p text:style-name="Standard">Dog summer h<text:note text:id="edn1" text:note-class="endnote">
+<text:note-citation>1</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Standard">Endnote 1 says: Over river number dog lantern because without summer another between fox number letter evening lantern number stone summer garden morning.</text:p>
+</text:note-body>
+</text:note>arbour people fox quick brown band silver village evening market because village chapter dog history question through silver garden chapter stone through market over harbour orchard without without another journey meadow quick silver window winter lazy the silver history summer winter because number jumps the garden number morning.</text:p>
+<text:p text:style-name="Standard">Chapter harbour river letter measure mea<text:note text:id="edn2" text:note-class="endnote">
+<text:note-citation>2</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Standard">Endnote 2 says: Question river plays chapter through evening because without evening measure measure another dog brown winter orchard between letter lazy lazy.</text:p>
+</text:note-body>
+</text:note>dow band history brown plays lazy orchard while market stone the measure without letter journey silver people question band harbour village pattern morning garden summer market while journey garden while dog without history window summer band lazy plays dog over silver jumps winter because meadow.</text:p>
+<text:p text:style-name="Standard">Summer orchard chapter lantern village harbour winter dog garden because morning history river lazy another number brown question while measure window number dog silver summer chapter measure village orchard chapter chapter band chapter brown lazy meadow morning market between orchard river number jumps letter between chapter measure plays number while.</text:p>
+<text:p text:style-name="Standard">Journey garden journey garden stone because number lazy harbour window evening because the brown orchard winter jumps summer plays summer meadow summer through the plays dog measure measure journey summer silver silver plays morning morning history lazy between evening question evening brown silver people another garden because orchard another pattern.</text:p>
+<text:p text:style-name="Standard">Window n<text:note text:id="edn3" text:note-class="endnote">
+<text:note-citation>3</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Standard">Endnote 3 says: While stone because fox window while another lazy through river without between river question market fox summer band stone another.</text:p>
+</text:note-body>
+</text:note>umber brown people village harbour village river plays lantern river while stone brown window letter winter another plays plays lazy band summer because plays measure over orchard summer number silver history garden people question because summer river number chapter jumps letter garden morning summer meadow garden village question market.</text:p>
+<text:p text:style-name="Standard">Meadow pattern another without river letter winter over over garden market over dog village silver stone people orchard pattern dog letter jumps question measure garden quick jumps market question chapter pattern lantern stone harbour between jumps orchard summer morning the chapter history jumps journey through brown question letter lazy village.</text:p>
+<text:p text:style-name="Standard">Market market while evening while winter letter dog orchard window lazy evening lantern pattern harbour dog people while winter number dog village lantern band the morning jumps question dog lantern silver people between people without jumps because morning lantern number band garden garden garden pattern fox through fox harbour letter.</text:p>
+<text:p text:style-name="Standard">Market river measure stone lan<text:note text:id="edn4" text:note-class="endnote">
+<text:note-citation>4</text:note-citation>
+<text:note-body>
+<text:p text:style-name="Standard">Endnote 4 says: Pattern garden river the plays garden through lazy number stone lazy brown plays another harbour while dog while pattern winter.</text:p>
+</text:note-body>
+</text:note>tern lantern over between between journey letter over river quick market river between through window dog band evening morning journey without quick plays through because without while window winter measure summer dog through harbour without letter between because lazy chapter meadow between over another winter window.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: endnotes</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

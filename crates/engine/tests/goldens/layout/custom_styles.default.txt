@@ -1,0 +1,35 @@
+# layout snapshot: custom_styles (default)
+# fonts: JetBrains Mono, Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (14):
+    lines body [0] l0..1 x=72.0 y=90.0 label="1" lx=0.0 lw=9.9
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Numbered heading"
+    lines body [1] l0..4 x=72.0 y=124.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Dog between window the silver chapter lantern jumps lantern over summer brown "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "quick another fox lantern brown history pattern silver band through fox silver village "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "measure evening band letter the the harbour another morning another morning "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "window question journey history."
+    lines body [2] l0..1 x=72.0 y=208.2
+      0: top=0.0 h=15.8 base=10.4 left=36.0 right=468.0 end=Para "Body Note style paragraph with a smaller italic face."
+    lines body [3] l0..1 x=72.0 y=227.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Inline code: let x = 42; in a sentence."
+    lines body [4] l0..1 x=72.0 y=254.9 label="1.1" lx=36.0 lw=19.9
+      0: top=0.0 h=24.4 base=16.0 left=36.0 right=468.0 end=Para "Second-level numbered heading"
+    lines body [5] l0..1 x=72.0 y=283.3
+      0: top=0.0 h=15.8 base=10.4 left=36.0 right=468.0 end=Para "Boxed, based on Body Note: bold, not italic."
+    rule (108.0 283.3)-(540.0 283.3) Single w=0.5 auto
+    rule (108.0 299.0)-(540.0 299.0) Single w=0.5 auto
+    rule (108.0 283.3)-(108.0 299.0) Single w=0.5 auto
+    rule (540.0 283.3)-(540.0 299.0) Single w=0.5 auto
+    lines body [6] l0..1 x=72.0 y=307.0 label="1.1.1" lx=72.0 lw=29.4
+      0: top=0.0 h=22.1 base=14.5 left=72.0 right=468.0 end=Para "Third level"
+    lines body [7] l0..1 x=72.0 y=337.1 label="1.2" lx=36.0 lw=19.9
+      0: top=0.0 h=24.4 base=16.0 left=36.0 right=468.0 end=Para "Another second level"
+    lines body [8] l0..1 x=72.0 y=379.5 label="2" lx=0.0 lw=9.9
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Another first level"
+    lines body [9] l0..4 x=72.0 y=414.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "River between lazy lantern quick jumps quick harbour morning river number brown "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "orchard window chapter brown dog letter fox brown quick silver garden lazy river lazy "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "the because band jumps while question over morning because band window question "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "garden village."

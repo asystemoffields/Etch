@@ -1,0 +1,18 @@
+== md (599 bytes)
+# Inline Pictures
+
+Small pictures in the text flow:![Tiny](image.png)
+
+River garden river v![In the middle of a sentence](image.png)illage number while band pattern measure evening history question dog people over orchard because harbour window over window through river because journey while stone summer stone the.
+
+A picture wider than the column:
+
+![Wider than the column](image.png)
+
+- A list item with a picture ![In a list](image.png)
+
+A table with a picture in a cell:
+
+| While question quick. | ![In a cell](image.png) |
+| --- | --- |
+| Orchard without through. | While journey question. |

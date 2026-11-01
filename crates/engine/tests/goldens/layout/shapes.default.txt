@@ -1,0 +1,47 @@
+# layout snapshot: shapes (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (19):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Shapes"
+    lines body [1] l0..1 x=72.0 y=124.5
+      0: top=0.0 h=32.0 base=28.0 left=0.0 right=468.0 end=Para "Inline shapes: {obj} {obj} {obj} {obj} {obj} {obj} {obj} {obj} "
+    object [150.0 124.5 36.0x28.0] at body [1]#15 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [188.7 124.5 36.0x28.0] at body [1]#19 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [227.5 124.5 36.0x28.0] at body [1]#23 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [266.3 124.5 36.0x28.0] at body [1]#27 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [305.1 124.5 36.0x28.0] at body [1]#31 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [343.9 124.5 36.0x28.0] at body [1]#35 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [382.7 124.5 36.0x28.0] at body [1]#39 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    object [421.5 124.5 36.0x28.0] at body [1]#43 box=- wrap=Inline origin=(72.0 124.5) spin=0
+    lines body [2] l0..9 x=72.0 y=164.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=311.0 end=Wrap "{obj}Evening question orchard evening lazy another the river "
+      1: top=0.0 h=18.9 base=12.4 left=429.0 right=468.0 end=Wrap beside "silver "
+      2: top=18.9 h=18.9 base=31.4 left=0.0 right=311.0 end=Wrap "lazy people while winter another evening because "
+      3: top=37.8 h=18.9 base=50.3 left=0.0 right=311.0 end=Wrap "measure village village through silver without over "
+      4: top=56.8 h=18.9 base=69.2 left=0.0 right=311.0 end=Wrap "between village between because morning measure "
+      5: top=56.8 h=18.9 base=69.2 left=429.0 right=468.0 end=Wrap beside "market "
+      6: top=75.7 h=18.9 base=88.1 left=0.0 right=311.0 end=Wrap "letter brown the lazy quick measure the chapter over "
+      7: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Wrap "orchard plays while lantern through window people while letter summer letter lantern "
+      8: top=113.5 h=18.9 base=126.0 left=0.0 right=468.0 end=Para "while river question between journey silver history winter without."
+    shape Rectangle [392.0 164.5 100.0x50.0] fill=#ddebf7 stroke=#1f4e79 sw=1.5 spin=45.0
+    object [392.0 164.5 100.0x50.0] at body [2]#0 box=- wrap=Square origin=(72.0 164.5) spin=45.0
+    lines body [3] l0..6 x=72.0 y=305.0
+      0: top=0.0 h=18.9 base=12.4 left=86.0 right=468.0 end=Wrap "{obj}Silver letter letter silver dog morning another the letter evening lantern "
+      1: top=18.9 h=18.9 base=31.4 left=86.0 right=468.0 end=Wrap "lantern pattern people the number while through over garden meadow "
+      2: top=37.8 h=18.9 base=50.3 left=86.0 right=468.0 end=Wrap "dog morning stone while question chapter river because morning "
+      3: top=56.8 h=18.9 base=69.2 left=86.0 right=468.0 end=Wrap "question chapter fox because morning measure market the village "
+      4: top=75.7 h=18.9 base=88.1 left=86.0 right=468.0 end=Wrap "silver over jumps jumps jumps lazy another fox lantern without the "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "while morning window question winter chapter letter number because another."
+    shape RightTriangle [72.0 305.0 80.0x80.0] fill=#f4b183 stroke=none sw=1.5 spin=0.0h
+    object [72.0 305.0 80.0x80.0] at body [3]#0 box=- wrap=Square origin=(72.0 305.0) spin=0.0h
+    lines body [4] l0..6 x=72.0 y=426.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "{obj}Stone number chapter measure orchard meadow garden lazy lazy plays stone quick "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "between brown orchard journey because village orchard quick chapter lazy while "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "without through evening people river people people fox harbour the the band morning "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "quick between through the number over lazy meadow fox window summer because "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "journey summer measure the the journey number evening winter summer pattern "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "market."
+    shape Arrow [272.0 446.5 120.0x24.0] fill=#70ad47 stroke=#385623 sw=1.5 spin=0
+    object [272.0 446.5 120.0x24.0] at body [4]#0 box=- wrap=InFrontOfText origin=(72.0 426.5) spin=0

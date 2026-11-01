@@ -1,0 +1,139 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (121 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="T1" style:family="text">
+<style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+</style:style>
+<style:style style:name="T2" style:family="text">
+<style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="T3" style:family="text">
+<style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+</style:style>
+<style:style style:name="T4" style:family="text">
+<style:text-properties style:text-line-through-style="solid"/>
+</style:style>
+<style:style style:name="T5" style:family="text">
+<style:text-properties style:text-position="super 58%"/>
+</style:style>
+<style:style style:name="T6" style:family="text">
+<style:text-properties style:text-position="sub 58%"/>
+</style:style>
+<style:style style:name="T7" style:family="text">
+<style:text-properties fo:color="#c00000"/>
+</style:style>
+<style:style style:name="T8" style:family="text">
+<style:text-properties fo:background-color="#ffff00"/>
+</style:style>
+<style:style style:name="T9" style:family="text">
+<style:text-properties fo:background-color="#ddeeff"/>
+</style:style>
+<style:style style:name="T10" style:family="text">
+<style:text-properties fo:font-family="'Courier New'" style:font-family-generic="modern" style:font-pitch="fixed"/>
+</style:style>
+<style:style style:name="T11" style:family="text">
+<style:text-properties fo:font-family="'Source Sans 3'"/>
+</style:style>
+<style:style style:name="T12" style:family="text">
+<style:text-properties fo:font-size="18pt"/>
+</style:style>
+<style:style style:name="T13" style:family="text">
+<style:text-properties fo:font-size="7pt"/>
+</style:style>
+<style:style style:name="T14" style:family="text">
+<style:text-properties fo:color="#467886"/>
+</style:style>
+<style:style style:name="T15" style:family="text">
+<style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#404040"/>
+</style:style>
+<style:style style:name="T16" style:family="text">
+<style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#0f4761"/>
+</style:style>
+<style:style style:name="T17" style:family="text">
+<style:text-properties fo:color="#5a5a5a"/>
+</style:style>
+<style:style style:name="T18" style:family="text">
+<style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#0f4761"/>
+</style:style>
+<style:style style:name="T19" style:family="text">
+<style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+</style:style>
+<style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:text-align="justify"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:text-align="end"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:text-align="center"/>
+</style:style>
+<style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:margin-left="36pt" fo:margin-right="36pt" fo:text-indent="18pt"/>
+</style:style>
+<style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:margin-left="36pt" fo:text-indent="-36pt"/>
+</style:style>
+<style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:margin-top="12pt" fo:margin-bottom="12pt" fo:line-height="20pt"/>
+</style:style>
+<style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties style:line-height-at-least="18pt"/>
+</style:style>
+<style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:line-height="200%"/>
+</style:style>
+<style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+<style:paragraph-properties fo:margin-bottom="24pt"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Title">Styles and Inline Formatting</text:p>
+<text:p text:style-name="Standard">Every built-in paragraph style and most run properties</text:p>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Heading One</text:h>
+<text:p text:style-name="Standard">Plain text, then <text:span text:style-name="T1">bold</text:span>, <text:span text:style-name="T2">italic</text:span>, <text:span text:style-name="T3">underlined</text:span>, <text:span text:style-name="T3">double underlined</text:span>, <text:span text:style-name="T4">struck</text:span>, <text:span text:style-name="T4">double struck</text:span>, x<text:span text:style-name="T5">2</text:span> and H<text:span text:style-name="T6">2</text:span>O, <text:span text:style-name="T7">coloured</text:span>, <text:span text:style-name="T8">highlighted</text:span>, <text:span text:style-name="T9">shaded</text:span>, Small Caps, all caps, spaced, wide, raised, <text:span text:style-name="T10">monospace</text:span>, <text:span text:style-name="T11">sans</text:span> and <text:span text:style-name="T12">large</text:span> and <text:span text:style-name="T13">tiny</text:span> text, with a <text:a xlink:type="simple" xlink:href="https://example.org/snapshot">
+<text:span text:style-name="T14">link</text:span>
+</text:a>.</text:p>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Heading Two</text:h>
+<text:p text:style-name="Standard">Character styles: <text:span text:style-name="T15">subtle emphasis</text:span>, <text:span text:style-name="T2">emphasis</text:span>, <text:span text:style-name="T16">intense emphasis</text:span>, <text:span text:style-name="T1">strong</text:span>, <text:span text:style-name="T17">subtle reference</text:span>, <text:span text:style-name="T18">intense reference</text:span> and <text:span text:style-name="T19">a book title</text:span>.</text:p>
+<text:h text:style-name="Heading_20_3" text:outline-level="3">Heading Three</text:h>
+<text:p text:style-name="Quotations">A quotation set in the Quote style, centred and italic.</text:p>
+<text:p text:style-name="Quotations">An intense quotation with rules above and below.</text:p>
+<text:p text:style-name="Standard">No Spacing line one.</text:p>
+<text:p text:style-name="Standard">No Spacing line two.</text:p>
+<text:h text:style-name="Heading_20_4" text:outline-level="4">Heading Four</text:h>
+<text:p text:style-name="P1">Letter winter question another stone lantern orchard jumps number chapter without chapter because village journey people village the morning pattern through market summer lazy number orchard river while chapter winter people market chapter chapter silver number brown quick brown measure people dog brown because letter while stone between summer through harbour jumps window jumps over while pattern another over winter.</text:p>
+<text:p text:style-name="P2">Right aligned line.</text:p>
+<text:p text:style-name="P3">Centred line.</text:p>
+<text:p text:style-name="P1">Distributed alignment spreads the letters of a short line.</text:p>
+<text:p text:style-name="P4">Over band market band harbour over chapter window stone lazy through window quick dog market pattern chapter without morning meadow summer the brown evening window through quick another without pattern harbour window through number fox letter journey history history people summer market quick fox orchard winter fox measure band over.</text:p>
+<text:p text:style-name="P5">Window because number meadow stone summer journey because history evening between brown village while plays while letter meadow river market harbour chapter fox while stone the band river measure the because lazy harbour dog another without the chapter garden orchard through question the harbour lazy market orchard village stone between.</text:p>
+<text:p text:style-name="P6">Without evening letter market meadow jumps chapter village chapter stone journey because fox summer people winter harbour winter between question question lantern fox lazy without measure market without evening jumps measure the question people garden the silver over dog fox.</text:p>
+<text:p text:style-name="P7">Lazy without people window quick between chapter people chapter over dog lantern people while stone journey village pattern silver jumps jumps orchard summer stone summer chapter lazy measure over dog harbour river village meadow measure pattern history jumps through quick.</text:p>
+<text:p text:style-name="P8">Chapter morning brown lantern band garden pattern silver orchard winter history journey winter letter harbour band summer history morning over village band history evening letter journey silver another another summer fox fox without garden pattern jumps market dog without market.</text:p>
+<text:p text:style-name="P9">Contextual spacing paragraph 1.</text:p>
+<text:p text:style-name="P9">Contextual spacing paragraph 2.</text:p>
+<text:h text:style-name="Heading_20_5" text:outline-level="5">Heading Five</text:h>
+<text:h text:style-name="Heading_20_6" text:outline-level="6">Heading Six</text:h>
+<text:p text:style-name="Standard">The end.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: styles_text</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

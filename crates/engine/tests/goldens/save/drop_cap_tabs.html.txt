@@ -1,0 +1,30 @@
+== html (3812 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: drop_cap_tabs</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Drop Caps, Tabs, Borders and Line Numbers</h1>
+<p>Lantern through garden through between lantern question people window orchard chapter river without because through while measure history number summer fox the fox garden fox window lazy band because meadow winter summer journey measure orchard lantern lazy meadow pattern summer silver people the another evening number harbour stone meadow village dog jumps without another brown because quick quick while another lazy village people letter number brown dog history quick dog.</p>
+<p>Left<span style="white-space:pre">	</span>Centre<span style="white-space:pre">	</span>Right<span style="white-space:pre">	</span>12.5<span style="white-space:pre">	</span>done</p>
+<p>Item<span style="white-space:pre">	</span>1.25<br>Second item<span style="white-space:pre">	</span>12.5<br>Third<span style="white-space:pre">	</span>100.125</p>
+<p style="margin-left:18pt;margin-right:18pt">Window brown dog lazy history dog number plays summer through letter quick history village jumps without letter winter window harbour stone market evening jumps garden winter pattern orchard through lantern another while silver because window over jumps summer winter jumps.</p>
+<p>People band window silver while plays letter orchard chapter meadow evening because window letter band stone another winter village letter without another quick history brown market market number number winter.</p>
+<p>The measure pattern dog river fox over lantern meadow pattern orchard lazy another pattern evening silver over chapter morning window over without between between stone lantern another through the harbour jumps another history measure morning evening harbour jumps silver evening measure orchard stone because window window through silver evening journey chapter brown morning market market history lazy river morning chapter.</p>
+<p>Number village orchard stone window village band history dog while harbour lazy question meadow summer through winter evening garden summer meadow plays village evening chapter between evening silver meadow winter while market the measure market lantern journey brown meadow over brown the people band stone river brown question village letter while river river village jumps market orchard jumps letter history.</p>
+<p>Orchard meadow winter plays jumps evening through morning through through question because history dog meadow band stone while fox history people orchard silver garden village orchard chapter journey without river plays question without band orchard brown morning brown history number question brown chapter stone evening through harbour meadow winter stone evening brown lantern winter quick journey people village without orchard.</p>
+<p>This paragraph suppresses its line numbers.</p>
+<p>While pattern without meadow dog measure journey pattern jumps silver while fox without summer plays band between window market the measure the measure without over river dog over brown silver silver river silver letter without history winter summer market history chapter window morning window over band summer pattern history journey number people quick people without summer without winter village river.</p>
+</body>
+</html>

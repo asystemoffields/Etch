@@ -1,0 +1,338 @@
+# pdf: 21751 bytes, 1 page object(s), 1 content stream(s)
+%PDF-1.7
+<binary line 5 bytes sha256=61598235fd0f3e25>
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[23 0 R]>>
+endobj
+2 0 obj
+<</Type/StructTreeRoot/RoleMap<</Datetime/Span/Terms/Part/Title/P/Strong/Span/Em/Span>>/K[15 0 R]/ParentTree<</Nums[0 3 0 R]>>/ParentTreeNextKey 1>>
+endobj
+3 0 obj
+[4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 11 0 R 12 0 R 13 0 R 14 0 R]
+endobj
+4 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[0]/Pg 23 0 R>>
+endobj
+5 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[1]/Pg 23 0 R>>
+endobj
+6 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[2]/Pg 23 0 R>>
+endobj
+7 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[3]/Pg 23 0 R>>
+endobj
+8 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[4]/Pg 23 0 R>>
+endobj
+9 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[5]/Pg 23 0 R>>
+endobj
+10 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[6]/Pg 23 0 R>>
+endobj
+11 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[7 8]/Pg 23 0 R>>
+endobj
+12 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[9]/Pg 23 0 R>>
+endobj
+13 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[10]/Pg 23 0 R>>
+endobj
+14 0 obj
+<</Type/StructElem/S/P/P 15 0 R/K[11]/Pg 23 0 R>>
+endobj
+15 0 obj
+<</Type/StructElem/S/Document/P 2 0 R/Lang(en-US)/K[4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R]>>
+endobj
+16 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 17 0 R/f1 20 0 R>>>>
+endobj
+17 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/CXUTGI+SourceSans3-Regular/Encoding/Identity-H/DescendantFonts[18 0 R]/ToUnicode 25 0 R>>
+endobj
+18 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/CXUTGI+SourceSans3-Regular/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 19 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 653 1 1 476 2 2 542 3 3 544 4 4 347 5 5 200 6 6 647 7 7 504 8 8 829 9 9 496]>>
+endobj
+19 0 obj
+<</Type/FontDescriptor/FontName/CXUTGI+SourceSans3-Regular/Flags 131076/FontBBox[-1 -12 753 660]/ItalicAngle 0/Ascent 1000/Descent -326/CapHeight 660/StemV 95.4/CIDSet 24 0 R/FontFile2 26 0 R>>
+endobj
+20 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/WYGDBI+SourceSerif4-Regular/Encoding/Identity-H/DescendantFonts[21 0 R]/ToUnicode 28 0 R>>
+endobj
+21 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/WYGDBI+SourceSerif4-Regular/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 22 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 640 1 3 500 4 4 233 5 5 633 6 6 549 7 7 583 8 8 423 9 9 512 10 10 325 11 11 510 12 12 300 13 13 631 14 14 298 15 15 512 16 16 300 17 17 604 18 18 500 19 19 835 20 20 526 21 21 509 22 22 901 23 23 583 24 24 298 25 25 300 26 26 488 27 27 735 28 28 505 29 29 577 30 30 500 31 31 651 32 32 606 33 33 664 34 34 567 35 35 434 36 36 710 37 37 764 38 38 601 39 39 518 40 40 667 41 41 607 42 42 547 43 43 354]>>
+endobj
+22 0 obj
+<</Type/FontDescriptor/FontName/WYGDBI+SourceSerif4-Regular/Flags 131078/FontBBox[0 -250 872 750]/ItalicAngle 0/Ascent 1036/Descent -335/CapHeight 670/StemV 95.4/CIDSet 27 0 R/FontFile2 29 0 R>>
+endobj
+23 0 obj
+<</Type/Page/Resources 16 0 R/MediaBox[0 0 612 792]/StructParents 0/Parent 1 0 R/Contents 30 0 R>>
+endobj
+24 0 obj
+<</Length 10/Filter/FlateDecode>>
+stream
+  <binary stream 10 bytes sha256=b2d78dbdab017e4b6be04ed9913743d4871855ed79cf082fca92ec3cc7e0cba0>
+endstream
+endobj
+25 0 obj
+<</Length 731/Type/CMap/WMode 0>>
+stream
+  %!PS-Adobe-3.0 Resource-CMap
+  %%DocumentNeededResources: procset CIDInit
+  %%IncludeResource: procset CIDInit
+  %%BeginResource: CMap Custom
+  %%Title: (Custom Adobe Identity 0)
+  %%Version: 1
+  %%EndComments
+  /CIDInit /ProcSet findresource begin
+  12 dict begin
+  begincmap
+  /CIDSystemInfo 3 dict dup begin
+      /Registry (Adobe) def
+      /Ordering (Identity) def
+      /Supplement 0 def
+  end def
+  /CMapName /Custom def
+  /CMapVersion 1 def
+  /CMapType 0 def
+  /WMode 0 def
+  1 begincodespacerange
+  <0000> <FFFF>
+  endcodespacerange
+  9 beginbfchar
+  <0001> <0059>
+  <0002> <006F>
+  <0003> <0075>
+  <0004> <0072>
+  <0005> <0020>
+  <0006> <004E>
+  <0007> <0061>
+  <0008> <006D>
+  <0009> <0065>
+  endbfchar
+  endcmap
+  CMapName currentdict /CMap defineresource pop
+  end
+  end
+  %%EndResource
+  %%EOF
+endstream
+endobj
+26 0 obj
+<</Length 4323/Filter/FlateDecode>>
+stream
+  <binary stream 4323 bytes sha256=c100d01bcd5452e6638af6a4fceef566814a728d8018b0a305b905bc14d68cb0>
+endstream
+endobj
+27 0 obj
+<</Length 14/Filter/FlateDecode>>
+stream
+  <binary stream 14 bytes sha256=1a688fb103a0cb51de913e5f9c00f2d59b16638362c0341807e3f636c4c6cf87>
+endstream
+endobj
+28 0 obj
+<</Length 1212/Type/CMap/WMode 0>>
+stream
+  %!PS-Adobe-3.0 Resource-CMap
+  %%DocumentNeededResources: procset CIDInit
+  %%IncludeResource: procset CIDInit
+  %%BeginResource: CMap Custom
+  %%Title: (Custom Adobe Identity 0)
+  %%Version: 1
+  %%EndComments
+  /CIDInit /ProcSet findresource begin
+  12 dict begin
+  begincmap
+  /CIDSystemInfo 3 dict dup begin
+      /Registry (Adobe) def
+      /Ordering (Identity) def
+      /Supplement 0 def
+  end def
+  /CMapName /Custom def
+  /CMapVersion 1 def
+  /CMapType 0 def
+  /WMode 0 def
+  1 begincodespacerange
+  <0000> <FFFF>
+  endcodespacerange
+  43 beginbfchar
+  <0001> <0031>
+  <0002> <0032>
+  <0003> <0033>
+  <0004> <0020>
+  <0005> <0059>
+  <0006> <006F>
+  <0007> <0075>
+  <0008> <0072>
+  <0009> <0053>
+  <000A> <0074>
+  <000B> <0065>
+  <000C> <00B7>
+  <000D> <0043>
+  <000E> <0069>
+  <000F> <0079>
+  <0010> <002C>
+  <0011> <0054>
+  <0012> <0030>
+  <0013> <0040>
+  <0014> <0078>
+  <0015> <0061>
+  <0016> <006D>
+  <0017> <0070>
+  <0018> <006C>
+  <0019> <002E>
+  <001A> <0063>
+  <001B> <004E>
+  <001C> <0076>
+  <001D> <0062>
+  <001E> <0034>
+  <001F> <0052>
+  <0020> <006E>
+  <0021> <0041>
+  <0022> <0064>
+  <0023> <0073>
+  <0024> <0044>
+  <0025> <0077>
+  <0026> <0068>
+  <0027> <0067>
+  <0028> <004B>
+  <0029> <00660069>
+  <002A> <006B>
+  <002B> <0066>
+  endbfchar
+  endcmap
+  CMapName currentdict /CMap defineresource pop
+  end
+  end
+  %%EndResource
+  %%EOF
+endstream
+endobj
+29 0 obj
+<</Length 4603/Filter/FlateDecode>>
+stream
+  <binary stream 4602 bytes sha256=6ab68629187ea6475884182544f5d55aa19f997886bab573c7fd7c8035e4d4bc>
+endstream
+endobj
+30 0 obj
+<</Length 5037>>
+stream
+  /Span<</MCID 0>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f0 28 Tf 1 0 0 -1 72 100 Tm[(\000\001)58.857117(\000\002)17.857056(\000\003)17.85736(\000\004)17.857025(\000\005)17.857193(\000\006)17.856934(\000\007)17.857147(\000\b)17.857483(\000\t)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 1>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 125.56 Tm[(\000\001\000\002\000\003\000\004)29.999619(\000\005)90.00006(\000\006)10.000427(\000\007\000\b\000\004\000\t)9.999527(\000\n\000\b)10.000397(\000\013\000\013)-0.0017700195(\000\n\000\004)0.0013580322(\000\f\000\004\000\r\000\016\000\n\000\017)90.99986(\000\020\000\004\000\t)10.000168(\000\021)18.999634(\000\004\000\022\000\022\000\022\000\022\000\022\000\004\000\f)-0.0014038086(\000\004\000\017)19.998978(\000\006)9.999817(\000\007)-0.0014648438(\000\023\000\013)0.0013427734(\000\024)13.998962(\000\025)5.0021973(\000\026)14.998413(\000\027)9.99939(\000\030)-0.0016174316(\000\013)19.999603(\000\031)30.000824(\000\032)-0.0014953613(\000\006)0.0014648438(\000\026)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 2>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 179.3996 Tm[(\000\033)11.999756(\000\006\000\034)20.000275(\000\013\000\026\000\035\000\013\000\b\000\004\000\001\000\036\000\020\000\004\000\002\000\022\000\002\000\003)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 3>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 233.2392 Tm[(\000\037)9.999878(\000\013\000\032\000\016)10.000061(\000\027\000\016\000\013\000 )5.0000916(\000\n\000\004\000\033)12.000504(\000\025)4.999634(\000\026\000\013)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 4>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 260.159 Tm[(\000\021\000\016\000\n\000\030\000\013)19.99997(\000\020\000\004\000\r\000\006\000\026)15.00029(\000\027\000\025)5.000763(\000 )29.998535(\000\017)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 5>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 287.0788 Tm[(\000\t)9.999847(\000\n\000\b)10.000397(\000\013\000\013\000\n\000\004\000!)19.999893(\000"\000"\000\b)9.999756(\000\013\000#\000#)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 6>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 340.9184 Tm[(\000$\000\013)9.999634(\000\025)5.000305(\000\b\000\004\000\037)9.999741(\000\013\000\032\000\016)10.000702(\000\027\000\016\000\013\000 )5.000702(\000\n\000\020)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 7>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 367.8382 Tm[(\000\t)9.999847(\000\n\000\025)5.0001526(\000\b)-19.000061(\000\n\000\004\000%\000\016\000\n\000&\000\004\000\025\000\004)-0.0011749268(\000#\000\013\000 )5.000519(\000\n\000\013\000 \000\032\000\013)-0.0017089844(\000\004\000\n)0.0013580322(\000&\000\025\000\n\000\004\000#\000\025)9.999527(\000\017)9.999847(\000#\000\004\000%)20.000656(\000&)29.999573(\000\017\000\004)0.0010528564(\000\017)19.998138(\000\006)10.001099(\000\007)-0.002746582(\000\004\000\025)5.000473(\000\b)10.000519(\000\013\000\004)-0.0012817383(\000%)0.0026245117(\000\b)-0.0016174316(\000\016)-0.0016174316(\000\n)0.0030517578(\000\016)-0.0016174316(\000 \000'\000\031)-0.0010681152(\000\004\000\()20.000229(\000\013\000\013)10.000427(\000\027\000\004\000\027\000\025)5.000107(\000\b)10.9999695(\000\025)9.999451(\000'\000\b)10.999664(\000\025)19.999054(\000\027)9.99939(\000&\000#)-0.0011291504(\000\004\000#)9.999771(\000&\000\006)-0.0015258789(\000\b)-18.99881(\000\n\000\004)0.0013580322(\000\025)4.999634(\000 \000"\000\004)0.0018157959(\000#)9.998932(\000\027\000\013)0.002746582(\000\032)-0.0014953613(\000\016\000\))0.0012512207(\000\032)-0.0014953613(\000\020)0.0020446777(\000\004)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 8>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 386.758 Tm[(\000\025)5.000305(\000 \000"\000\004\000\032)10.999985(\000\030\000\006\000#\000\013\000\004\000%\000\016\000\n\000&\000\004\000%)20.000336(\000&\000\025\000\n\000\004\000\017)19.998886(\000\006)10.001099(\000\007\000\004\000%)19.999863(\000\006)9.999817(\000\007\000\030\000"\000\004)-0.0010223389(\000\030\000\016\000*)19.998901(\000\013\000\004)-0.0012817383(\000\n)0.0030517578(\000\006)-0.0010375977(\000\004)-0.0017089844(\000&)0.0020751953(\000\025)19.999054(\000\027)9.99939(\000\027\000\013\000 \000\004)-0.0017089844(\000 )0.0022583008(\000\013)-0.0021362305(\000\024\000\n\000\031)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 9>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 413.6778 Tm[(\000\021\000&\000\025)5.000366(\000 \000*\000\004\000\017)19.99974(\000\006)10.000427(\000\007\000\004\000+)14.999954(\000\006\000\b\000\004\000\017)20.000168(\000\006)9.999817(\000\007\000\b\000\004\000\n\000\016\000\026\000\013)19.99913(\000\031)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 10>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 440.5976 Tm[(\000\t\000\016\000 \000\032\000\013\000\b)10.000305(\000\013)10(\000\030)9.999268(\000\017)91.00049(\000\020)]TJ
+  ET
+  Q
+  EMC/Span<</MCID 11>>BDC
+  q 1 0 0 -1 0 792 cm 0 0 0 rg
+  BT 0 Tr/f1 12 Tf 1 0 0 -1 72 494.4372 Tm[(\000\005)90.00006(\000\006)9.999817(\000\007\000\b\000\004\000\033)12.000107(\000\025)4.999634(\000\026\000\013)]TJ
+  ET
+  Q
+  EMC
+endstream
+endobj
+31 0 obj
+<</Title(Snapshot: letter)/Author(Snapshot Author)/Creator(Etch)/Producer(Etch)/ModDate(D:<timestamp>)/CreationDate(D:<timestamp>)>>
+endobj
+32 0 obj
+<</Length 1194/Type/Metadata/Subtype/XML>>
+stream
+  <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Snapshot: letter</rdf:li></rdf:Alt></dc:title><dc:creator><rdf:Seq><rdf:li>Snapshot Author</rdf:li></rdf:Seq></dc:creator><xmp:CreatorTool>Etch</xmp:CreatorTool><pdf:Producer>Etch</pdf:Producer><dc:language><rdf:Bag><rdf:li>en-US</rdf:li></rdf:Bag></dc:language><xmp:ModifyDate><timestamp></xmp:ModifyDate><xmp:CreateDate><timestamp></xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>VfHtr1v1LgMoWl22YSSnJw==</xmpMM:InstanceID><xmpMM:DocumentID>PjEPZKEfqTFrEDKHBQx34g==</xmpMM:DocumentID><xmpMM:RenditionClass>proof</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+33 0 obj
+<</Type/Catalog/Pages 1 0 R/Metadata 32 0 R/Lang(en-US)/StructTreeRoot 2 0 R/MarkInfo<</Marked true/Suspects false>>>>
+endobj
+xref
+0 34
+0000000000 65535 f
+0000000016 00000 n
+0000000068 00000 n
+0000000232 00000 n
+0000000327 00000 n
+0000000391 00000 n
+0000000455 00000 n
+0000000519 00000 n
+0000000583 00000 n
+0000000647 00000 n
+0000000711 00000 n
+0000000776 00000 n
+0000000843 00000 n
+0000000908 00000 n
+0000000974 00000 n
+0000001040 00000 n
+0000001182 00000 n
+0000001265 00000 n
+0000001407 00000 n
+0000001692 00000 n
+0000001902 00000 n
+0000002045 00000 n
+0000002655 00000 n
+0000002866 00000 n
+0000002981 00000 n
+0000003059 00000 n
+0000003858 00000 n
+0000008251 00000 n
+0000008333 00000 n
+0000009614 00000 n
+0000014287 00000 n
+0000019375 00000 n
+0000019532 00000 n
+0000020803 00000 n
+trailer
+<</Size 34/Root 33 0 R/Info 31 0 R/ID[<id><id>]>>
+startxref
+20938
+%%EOF

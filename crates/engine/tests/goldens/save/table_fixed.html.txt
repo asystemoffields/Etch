@@ -1,0 +1,74 @@
+== html (3673 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: table_fixed</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<p>Before the fixed table.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#DEE8F4">Dog another journey.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#DEE8F4">People band lantern.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#DEE8F4">Lazy question dog.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top;background-color:#DEE8F4">Stone people letter.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Winter lantern summer.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Quick jumps history.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Over morning harbour.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question over harbour.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">While window silver.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Lazy village another.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Chapter meadow measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Summer dog without.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Fox between market.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Stone dog journey market over because through plays while through lantern question summer fox question while the people between measure the through without measure pattern plays quick while morning winter.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown number because.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Band lantern the.</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Question harbour lantern.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top;text-align:right">Right-aligned cell text</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">The stone measure.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Village brown village.</td>
+</tr>
+</table>
+<p>A second table, aligned right with an indent, follows.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:120pt">
+<col style="width:120pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Between quick people.</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Garden over fox.</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Evening lazy through.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Brown because without.</td>
+</tr>
+</table>
+<p>After the tables.</p>
+</body>
+</html>

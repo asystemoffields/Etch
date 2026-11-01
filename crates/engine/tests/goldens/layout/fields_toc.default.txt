@@ -1,0 +1,162 @@
+# layout snapshot: fields_toc (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 4  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=part:1
+  items (20):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "Fields and a Table of Contents"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "The table of contents goes here:"
+    lines body [2] l0..1 x=72.0 y=144.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Contents{obj}"
+    lines body [3] l0..1 x=72.0 y=178.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Chapter 1\t1"
+    lines body [4] l0..1 x=72.0 y=202.5
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 1.1\t1"
+    lines body [5] l0..1 x=72.0 y=226.4
+      0: top=0.0 h=18.9 base=12.4 left=24.0 right=468.0 end=Para "Topic 1.1.1\t2"
+    lines body [6] l0..1 x=72.0 y=250.3
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 1.2\t2"
+    lines body [7] l0..1 x=72.0 y=274.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Chapter 2\t2"
+    lines body [8] l0..1 x=72.0 y=298.1
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 2.1\t2"
+    lines body [9] l0..1 x=72.0 y=322.1
+      0: top=0.0 h=18.9 base=12.4 left=24.0 right=468.0 end=Para "Topic 2.1.1\t2"
+    lines body [10] l0..1 x=72.0 y=346.0
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 2.2\t3"
+    lines body [11] l0..1 x=72.0 y=369.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Chapter 3\t3"
+    lines body [12] l0..1 x=72.0 y=393.8
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 3.1\t3"
+    lines body [13] l0..1 x=72.0 y=417.7
+      0: top=0.0 h=18.9 base=12.4 left=24.0 right=468.0 end=Para "Topic 3.1.1\t3"
+    lines body [14] l0..1 x=72.0 y=441.7
+      0: top=0.0 h=18.9 base=12.4 left=12.0 right=468.0 end=Para "Section 3.2\t3"
+    lines body [15] l0..1 x=72.0 y=465.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para ""
+    lines body [16] l0..1 x=72.0 y=502.5
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "{obj}Chapter 1{obj}"
+    lines body [17] l0..5 x=72.0 y=537.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "History fox over fox the plays over evening dog summer without evening stone "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "morning winter history lazy winter lazy fox fox window measure dog evening without "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "without lantern river harbour pattern people the summer journey meadow brown "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "harbour letter dog brown another between over market between orchard letter lantern "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "because fox people market plays silver stone letter history quick window."
+    lines body [18] l0..1 x=72.0 y=639.6
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 1.1{obj}"
+    lines body [19] l0..2 x=72.0 y=668.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Window meadow harbour without people journey measure winter band chapter "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "measure lantern over lantern question question because without window because "
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "1"
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=19 markup=0.0 header=- footer=part:1
+  items (9):
+    lines body [19] l2..5 x=72.0 y=72.0
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "history fox harbour dog another harbour without harbour letter because over garden "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "history question people journey while quick window stone brown history summer "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "orchard market without lazy evening chapter garden."
+    lines body [20] l0..1 x=72.0 y=136.8
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "{obj}Topic 1.1.1{obj}"
+    lines body [21] l0..4 x=72.0 y=162.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Between chapter quick morning evening number morning question jumps through lazy "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "market letter plays measure band harbour garden chapter jumps meadow chapter "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "between while meadow question another stone people winter people while market "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "number summer harbour silver stone window between."
+    lines body [22] l0..1 x=72.0 y=246.5
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 1.2{obj}"
+    lines body [23] l0..5 x=72.0 y=274.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Fox number plays village between morning history winter letter question the fox "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "because harbour over river stone chapter history garden band village window river fox "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "dog band chapter harbour number another quick winter the evening window quick "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "summer village orchard garden question between while orchard measure harbour "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "morning brown winter."
+    lines body [24] l0..1 x=72.0 y=387.5
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "{obj}Chapter 2{obj}"
+    lines body [25] l0..6 x=72.0 y=422.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Measure dog quick plays plays jumps orchard between through morning summer silver "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "over orchard market chapter pattern orchard market summer plays another morning "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "plays question lantern between measure window another quick pattern journey plays "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "without measure dog market the stone winter because the over pattern lantern winter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Wrap "without journey the summer another between window winter harbour through history "
+      5: top=94.6 h=18.9 base=107.0 left=0.0 right=468.0 end=Para "garden summer."
+    lines body [26] l0..1 x=72.0 y=543.5
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 2.1{obj}"
+    lines body [27] l0..5 x=72.0 y=571.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Pattern fox fox village letter village band history history stone over stone silver evening "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "fox evening dog silver between river because garden journey measure measure lazy "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "plays between because pattern meadow window people window another letter plays "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "orchard people because through lantern garden window number fox measure jumps "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "lazy pattern."
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "2"
+page 3: 612.0x792.0 number=3 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=28 markup=0.0 header=- footer=part:1
+  items (10):
+    lines body [28] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "{obj}Topic 2.1.1{obj}"
+    lines body [29] l0..4 x=72.0 y=98.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Meadow the meadow river band harbour band lazy because people window garden "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "number journey the market orchard meadow pattern river band jumps garden chapter "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "garden band window between silver meadow plays plays between lazy plays because "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "history village pattern between."
+    lines body [30] l0..1 x=72.0 y=181.8
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 2.2{obj}"
+    lines body [31] l0..4 x=72.0 y=210.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Dog while village plays dog number morning chapter while silver quick history number "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "lazy history number the measure dog harbour morning brown lazy river between "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "village letter band village window market quick lantern plays band measure orchard "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "garden chapter chapter over stone another the over the over morning chapter over."
+    lines body [32] l0..1 x=72.0 y=303.8
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "{obj}Chapter 3{obj}"
+    lines body [33] l0..5 x=72.0 y=338.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Stone people while the between plays while quick garden while question jumps market "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "the jumps band harbour without brown village chapter people summer measure lazy "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "chapter garden dog garden journey pattern over garden quick evening harbour jumps "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "plays plays between lazy lantern question question evening the while garden letter "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "band between jumps meadow market number the question without village harbour."
+    lines body [34] l0..1 x=72.0 y=440.9
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 3.1{obj}"
+    lines body [35] l0..5 x=72.0 y=469.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Silver band because question plays market between pattern market plays the garden "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "summer lazy market evening band without journey history window people lantern "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "village pattern measure river over history morning between dog history summer "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "another over dog another over another chapter between harbour over harbour market "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "harbour stone orchard because."
+    lines body [36] l0..1 x=72.0 y=571.9
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "{obj}Topic 3.1.1{obj}"
+    lines body [37] l0..4 x=72.0 y=598.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Number lazy question because village lazy another market silver market plays without "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "morning village stone harbour journey history letter harbour another band number "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "measure because while pattern orchard meadow number harbour measure lazy "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "window harbour dog measure the journey over."
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "3"
+page 4: 612.0x792.0 number=4 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=38 markup=0.0 header=- footer=part:1
+  items (8):
+    lines body [38] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "{obj}Section 3.2{obj}"
+    lines body [39] l0..5 x=72.0 y=100.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "While silver between meadow over through because plays between fox quick evening "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "market between pattern another without history silver quick between over lantern "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "brown dog measure fox river question the because question the lazy lantern the silver "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "because quick while garden plays another evening measure number letter lazy band "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "meadow."
+    lines body [40] l0..1 x=72.0 y=203.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A bookmarked phrase: the {obj}quick brown fox{obj}."
+    lines body [41] l0..2 x=72.0 y=229.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Fields: page 4 of 4; date 2023-11-14; time 22:13; author Snapshot Author; title "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "Snapshot: fields_toc; words 716."
+    lines body [42] l0..1 x=72.0 y=275.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Figure 1: caption 1"
+    lines body [43] l0..1 x=72.0 y=302.7
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Figure 2: caption 2"
+    lines body [44] l0..1 x=72.0 y=329.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Figure 3: caption 3"
+    lines body [45] l0..1 x=72.0 y=356.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "See quick brown fox on page 3. Nested: yes."
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "4"

@@ -1,0 +1,58 @@
+== html (5019 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: endnotes</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+section.footnotes,section.endnotes{font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Endnotes</h1>
+<p>Dog summer h<a href="#en1" id="enref1" role="doc-noteref">
+<sup>i</sup>
+</a>arbour people fox quick brown band silver village evening market because village chapter dog history question through silver garden chapter stone through market over harbour orchard without without another journey meadow quick silver window winter lazy the silver history summer winter because number jumps the garden number morning.</p>
+<p>Chapter harbour river letter measure mea<a href="#en2" id="enref2" role="doc-noteref">
+<sup>ii</sup>
+</a>dow band history brown plays lazy orchard while market stone the measure without letter journey silver people question band harbour village pattern morning garden summer market while journey garden while dog without history window summer band lazy plays dog over silver jumps winter because meadow.</p>
+<p>Summer orchard chapter lantern village harbour winter dog garden because morning history river lazy another number brown question while measure window number dog silver summer chapter measure village orchard chapter chapter band chapter brown lazy meadow morning market between orchard river number jumps letter between chapter measure plays number while.</p>
+<p>Journey garden journey garden stone because number lazy harbour window evening because the brown orchard winter jumps summer plays summer meadow summer through the plays dog measure measure journey summer silver silver plays morning morning history lazy between evening question evening brown silver people another garden because orchard another pattern.</p>
+<p>Window n<a href="#en3" id="enref3" role="doc-noteref">
+<sup>iii</sup>
+</a>umber brown people village harbour village river plays lantern river while stone brown window letter winter another plays plays lazy band summer because plays measure over orchard summer number silver history garden people question because summer river number chapter jumps letter garden morning summer meadow garden village question market.</p>
+<p>Meadow pattern another without river letter winter over over garden market over dog village silver stone people orchard pattern dog letter jumps question measure garden quick jumps market question chapter pattern lantern stone harbour between jumps orchard summer morning the chapter history jumps journey through brown question letter lazy village.</p>
+<p>Market market while evening while winter letter dog orchard window lazy evening lantern pattern harbour dog people while winter number dog village lantern band the morning jumps question dog lantern silver people between people without jumps because morning lantern number band garden garden garden pattern fox through fox harbour letter.</p>
+<p>Market river measure stone lan<a href="#en4" id="enref4" role="doc-noteref">
+<sup>iv</sup>
+</a>tern lantern over between between journey letter over river quick market river between through window dog band evening morning journey without quick plays through because without while window winter measure summer dog through harbour without letter between because lazy chapter meadow between over another winter window.</p>
+<section role="doc-endnotes" class="endnotes" aria-label="Endnotes">
+<hr>
+<ol>
+<li id="en1" style="list-style-type:'i. '">
+<p>Endnote 1 says: Over river number dog lantern because without summer another between fox number letter evening lantern number stone summer garden morning. <a href="#enref1" role="doc-backlink" aria-label="Back to text">↩︎</a>
+</p>
+</li>
+<li id="en2" style="list-style-type:'ii. '">
+<p>Endnote 2 says: Question river plays chapter through evening because without evening measure measure another dog brown winter orchard between letter lazy lazy. <a href="#enref2" role="doc-backlink" aria-label="Back to text">↩︎</a>
+</p>
+</li>
+<li id="en3" style="list-style-type:'iii. '">
+<p>Endnote 3 says: While stone because fox window while another lazy through river without between river question market fox summer band stone another. <a href="#enref3" role="doc-backlink" aria-label="Back to text">↩︎</a>
+</p>
+</li>
+<li id="en4" style="list-style-type:'iv. '">
+<p>Endnote 4 says: Pattern garden river the plays garden through lazy number stone lazy brown plays another harbour while dog while pattern winter. <a href="#enref4" role="doc-backlink" aria-label="Back to text">↩︎</a>
+</p>
+</li>
+</ol>
+</section>
+</body>
+</html>

@@ -1,0 +1,221 @@
+# layout snapshot: table_autofit (default)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (166):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "AutoFit to contents: the columns take what their text needs."
+    lines body [1,0,0,0] l0..1 x=77.7 y=99.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Para "Item"
+    rule (72.0 98.9)-(117.3 98.9) Single w=0.5 auto
+    rule (72.0 115.9)-(117.3 115.9) Single w=0.5 auto
+    rule (72.3 98.9)-(72.3 115.9) Single w=0.5 auto
+    rule (117.1 98.9)-(117.1 115.9) Single w=0.5 auto
+    cell [72.3 98.9 44.8x17.0] table=[1] r0 c0 body
+    lines body [1,0,1,0] l0..1 x=122.5 y=99.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Para "Description"
+    rule (116.8 98.9)-(511.2 98.9) Single w=0.5 auto
+    rule (116.8 115.9)-(511.2 115.9) Single w=0.5 auto
+    rule (117.1 98.9)-(117.1 115.9) Single w=0.5 auto
+    rule (510.9 98.9)-(510.9 115.9) Single w=0.5 auto
+    cell [117.1 98.9 393.9x17.0] table=[1] r0 c1 body
+    lines body [1,0,2,0] l0..1 x=516.3 y=99.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "Qty"
+    rule (510.7 98.9)-(540.5 98.9) Single w=0.5 auto
+    rule (510.7 115.9)-(540.5 115.9) Single w=0.5 auto
+    rule (510.9 98.9)-(510.9 115.9) Single w=0.5 auto
+    rule (540.3 98.9)-(540.3 115.9) Single w=0.5 auto
+    cell [510.9 98.9 29.3x17.0] table=[1] r0 c2 body
+    lines body [1,1,0,0] l0..1 x=77.7 y=116.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Para "Press"
+    rule (72.0 115.9)-(117.3 115.9) Single w=0.5 auto
+    rule (72.0 165.7)-(117.3 165.7) Single w=0.5 auto
+    rule (72.3 115.9)-(72.3 165.7) Single w=0.5 auto
+    rule (117.1 115.9)-(117.1 165.7) Single w=0.5 auto
+    cell [72.3 115.9 44.8x49.9] table=[1] r1 c0 body
+    lines body [1,1,1,0] l0..3 x=122.5 y=116.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Wrap "Fox quick meadow morning garden lazy garden people silver without "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=383.1 end=Wrap "orchard morning harbour quick question question orchard without "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=383.1 end=Para "while band summer evening between question."
+    rule (116.8 115.9)-(511.2 115.9) Single w=0.5 auto
+    rule (116.8 165.7)-(511.2 165.7) Single w=0.5 auto
+    rule (117.1 115.9)-(117.1 165.7) Single w=0.5 auto
+    rule (510.9 115.9)-(510.9 165.7) Single w=0.5 auto
+    cell [117.1 115.9 393.9x49.9] table=[1] r1 c1 body
+    lines body [1,1,2,0] l0..1 x=516.3 y=116.4
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "1"
+    rule (510.7 115.9)-(540.5 115.9) Single w=0.5 auto
+    rule (510.7 165.7)-(540.5 165.7) Single w=0.5 auto
+    rule (510.9 115.9)-(510.9 165.7) Single w=0.5 auto
+    rule (540.3 115.9)-(540.3 165.7) Single w=0.5 auto
+    cell [510.9 115.9 29.3x49.9] table=[1] r1 c2 body
+    lines body [1,2,0,0] l0..1 x=77.7 y=166.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Para "Kiln"
+    rule (72.0 165.7)-(117.3 165.7) Single w=0.5 auto
+    rule (72.0 182.7)-(117.3 182.7) Single w=0.5 auto
+    rule (72.3 165.7)-(72.3 182.7) Single w=0.5 auto
+    rule (117.1 165.7)-(117.1 182.7) Single w=0.5 auto
+    cell [72.3 165.7 44.8x17.0] table=[1] r2 c0 body
+    lines body [1,2,1,0] l0..1 x=122.5 y=166.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Para "Averyveryverylongunbreakablewordthatwidensitscolumn"
+    rule (116.8 165.7)-(511.2 165.7) Single w=0.5 auto
+    rule (116.8 182.7)-(511.2 182.7) Single w=0.5 auto
+    rule (117.1 165.7)-(117.1 182.7) Single w=0.5 auto
+    rule (510.9 165.7)-(510.9 182.7) Single w=0.5 auto
+    cell [117.1 165.7 393.9x17.0] table=[1] r2 c1 body
+    lines body [1,2,2,0] l0..1 x=516.3 y=166.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "12"
+    rule (510.7 165.7)-(540.5 165.7) Single w=0.5 auto
+    rule (510.7 182.7)-(540.5 182.7) Single w=0.5 auto
+    rule (510.9 165.7)-(510.9 182.7) Single w=0.5 auto
+    rule (540.3 165.7)-(540.3 182.7) Single w=0.5 auto
+    cell [510.9 165.7 29.3x17.0] table=[1] r2 c2 body
+    lines body [1,3,0,0] l0..1 x=77.7 y=183.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Para "Loom"
+    rule (72.0 182.7)-(117.3 182.7) Single w=0.5 auto
+    rule (72.0 232.5)-(117.3 232.5) Single w=0.5 auto
+    rule (72.3 182.7)-(72.3 232.5) Single w=0.5 auto
+    rule (117.1 182.7)-(117.1 232.5) Single w=0.5 auto
+    cell [72.3 182.7 44.8x49.9] table=[1] r3 c0 body
+    lines body [1,3,1,0] l0..1 x=122.5 y=183.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Para "Two paragraphs"
+    lines body [1,3,1,1] l0..2 x=122.5 y=199.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Wrap "Stone another garden meadow garden measure lantern chapter orchard "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=383.1 end=Para "evening."
+    rule (116.8 182.7)-(511.2 182.7) Single w=0.5 auto
+    rule (116.8 232.5)-(511.2 232.5) Single w=0.5 auto
+    rule (117.1 182.7)-(117.1 232.5) Single w=0.5 auto
+    rule (510.9 182.7)-(510.9 232.5) Single w=0.5 auto
+    cell [117.1 182.7 393.9x49.9] table=[1] r3 c1 body
+    lines body [1,3,2,0] l0..1 x=516.3 y=183.2
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "3"
+    rule (510.7 182.7)-(540.5 182.7) Single w=0.5 auto
+    rule (510.7 232.5)-(540.5 232.5) Single w=0.5 auto
+    rule (510.9 182.7)-(510.9 232.5) Single w=0.5 auto
+    rule (540.3 182.7)-(540.3 232.5) Single w=0.5 auto
+    cell [510.9 182.7 29.3x49.9] table=[1] r3 c2 body
+    lines body [1,4,0,0] l0..1 x=77.7 y=233.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Para ""
+    rule (72.0 232.5)-(117.3 232.5) Single w=0.5 auto
+    rule (72.0 249.5)-(117.3 249.5) Single w=0.5 auto
+    rule (72.3 232.5)-(72.3 249.5) Single w=0.5 auto
+    rule (117.1 232.5)-(117.1 249.5) Single w=0.5 auto
+    cell [72.3 232.5 44.8x17.0] table=[1] r4 c0 body
+    lines body [1,4,1,0] l0..1 x=122.5 y=233.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Para "An empty first cell on this row"
+    rule (116.8 232.5)-(511.2 232.5) Single w=0.5 auto
+    rule (116.8 249.5)-(511.2 249.5) Single w=0.5 auto
+    rule (117.1 232.5)-(117.1 249.5) Single w=0.5 auto
+    rule (510.9 232.5)-(510.9 249.5) Single w=0.5 auto
+    cell [117.1 232.5 393.9x17.0] table=[1] r4 c1 body
+    lines body [1,4,2,0] l0..1 x=516.3 y=233.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "0"
+    rule (510.7 232.5)-(540.5 232.5) Single w=0.5 auto
+    rule (510.7 249.5)-(540.5 249.5) Single w=0.5 auto
+    rule (510.9 232.5)-(510.9 249.5) Single w=0.5 auto
+    rule (540.3 232.5)-(540.3 249.5) Single w=0.5 auto
+    cell [510.9 232.5 29.3x17.0] table=[1] r4 c2 body
+    lines body [1,5,0,0] l0..2 x=77.7 y=250.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=34.0 end=Wrap "Light "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=34.0 end=Para "table"
+    rule (72.0 249.5)-(117.3 249.5) Single w=0.5 auto
+    rule (72.0 283.4)-(117.3 283.4) Single w=0.5 auto
+    rule (72.3 249.5)-(72.3 283.4) Single w=0.5 auto
+    rule (117.1 249.5)-(117.1 283.4) Single w=0.5 auto
+    cell [72.3 249.5 44.8x33.9] table=[1] r5 c0 body
+    lines body [1,5,1,0] l0..1 x=122.5 y=250.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=383.1 end=Para "Short"
+    rule (116.8 249.5)-(511.2 249.5) Single w=0.5 auto
+    rule (116.8 283.4)-(511.2 283.4) Single w=0.5 auto
+    rule (117.1 249.5)-(117.1 283.4) Single w=0.5 auto
+    rule (510.9 249.5)-(510.9 283.4) Single w=0.5 auto
+    cell [117.1 249.5 393.9x33.9] table=[1] r5 c1 body
+    lines body [1,5,2,0] l0..1 x=516.3 y=250.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=18.5 end=Para "100"
+    rule (510.7 249.5)-(540.5 249.5) Single w=0.5 auto
+    rule (510.7 283.4)-(540.5 283.4) Single w=0.5 auto
+    rule (510.9 249.5)-(510.9 283.4) Single w=0.5 auto
+    rule (540.3 249.5)-(540.3 283.4) Single w=0.5 auto
+    cell [510.9 249.5 29.3x33.9] table=[1] r5 c2 body
+    lines body [2] l0..1 x=72.0 y=283.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A table 60% of the text width, centred:"
+    lines body [3,0,0,0] l0..2 x=171.0 y=310.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "While meadow "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Para "over."
+    rule (165.3 310.3)-(259.5 310.3) Single w=0.5 auto
+    rule (165.3 360.2)-(259.5 360.2) Single w=0.5 auto
+    rule (165.6 310.3)-(165.6 360.2) Single w=0.5 auto
+    rule (259.2 310.3)-(259.2 360.2) Single w=0.5 auto
+    cell [165.6 310.3 93.6x49.9] table=[3] r0 c0 body
+    lines body [3,0,1,0] l0..3 x=264.6 y=310.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Through "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Wrap "garden "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=82.8 end=Para "orchard."
+    rule (259.0 310.3)-(353.1 310.3) Single w=0.5 auto
+    rule (259.0 360.2)-(353.1 360.2) Single w=0.5 auto
+    rule (259.2 310.3)-(259.2 360.2) Single w=0.5 auto
+    rule (352.8 310.3)-(352.8 360.2) Single w=0.5 auto
+    cell [259.2 310.3 93.6x49.9] table=[3] r0 c1 body
+    lines body [3,0,2,0] l0..3 x=358.2 y=310.8
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Measure "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Wrap "window "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=82.8 end=Para "evening."
+    rule (352.6 310.3)-(446.7 310.3) Single w=0.5 auto
+    rule (352.6 360.2)-(446.7 360.2) Single w=0.5 auto
+    rule (352.8 310.3)-(352.8 360.2) Single w=0.5 auto
+    rule (446.4 310.3)-(446.4 360.2) Single w=0.5 auto
+    cell [352.8 310.3 93.6x49.9] table=[3] r0 c2 body
+    lines body [3,1,0,0] l0..2 x=171.0 y=360.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Orchard stone "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Para "dog."
+    rule (165.3 360.2)-(259.5 360.2) Single w=0.5 auto
+    rule (165.3 410.0)-(259.5 410.0) Single w=0.5 auto
+    rule (165.6 360.2)-(165.6 410.0) Single w=0.5 auto
+    rule (259.2 360.2)-(259.2 410.0) Single w=0.5 auto
+    cell [165.6 360.2 93.6x49.9] table=[3] r1 c0 body
+    lines body [3,1,1,0] l0..2 x=264.6 y=360.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Chapter dog "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Para "because."
+    rule (259.0 360.2)-(353.1 360.2) Single w=0.5 auto
+    rule (259.0 410.0)-(353.1 410.0) Single w=0.5 auto
+    rule (259.2 360.2)-(259.2 410.0) Single w=0.5 auto
+    rule (352.8 360.2)-(352.8 410.0) Single w=0.5 auto
+    cell [259.2 360.2 93.6x49.9] table=[3] r1 c1 body
+    lines body [3,1,2,0] l0..3 x=358.2 y=360.7
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Journey "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Wrap "chapter "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=82.8 end=Para "history."
+    rule (352.6 360.2)-(446.7 360.2) Single w=0.5 auto
+    rule (352.6 410.0)-(446.7 410.0) Single w=0.5 auto
+    rule (352.8 360.2)-(352.8 410.0) Single w=0.5 auto
+    rule (446.4 360.2)-(446.4 410.0) Single w=0.5 auto
+    cell [352.8 360.2 93.6x49.9] table=[3] r1 c2 body
+    lines body [3,2,0,0] l0..2 x=171.0 y=410.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Plays morning "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Para "silver."
+    rule (165.3 410.0)-(259.5 410.0) Single w=0.5 auto
+    rule (165.3 460.4)-(259.5 460.4) Single w=0.5 auto
+    rule (165.6 410.0)-(165.6 460.4) Single w=0.5 auto
+    rule (259.2 410.0)-(259.2 460.4) Single w=0.5 auto
+    cell [165.6 410.0 93.6x50.4] table=[3] r2 c0 body
+    lines body [3,2,1,0] l0..3 x=264.6 y=410.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Lantern "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Wrap "market "
+      2: top=32.9 h=16.5 base=45.3 left=0.0 right=82.8 end=Para "lantern."
+    rule (259.0 410.0)-(353.1 410.0) Single w=0.5 auto
+    rule (259.0 460.4)-(353.1 460.4) Single w=0.5 auto
+    rule (259.2 410.0)-(259.2 460.4) Single w=0.5 auto
+    rule (352.8 410.0)-(352.8 460.4) Single w=0.5 auto
+    cell [259.2 410.0 93.6x50.4] table=[3] r2 c1 body
+    lines body [3,2,2,0] l0..2 x=358.2 y=410.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=82.8 end=Wrap "Question "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=82.8 end=Para "brown letter."
+    rule (352.6 410.0)-(446.7 410.0) Single w=0.5 auto
+    rule (352.6 460.4)-(446.7 460.4) Single w=0.5 auto
+    rule (352.8 410.0)-(352.8 460.4) Single w=0.5 auto
+    rule (446.4 410.0)-(446.4 460.4) Single w=0.5 auto
+    cell [352.8 410.0 93.6x50.4] table=[3] r2 c2 body
+    lines body [4] l0..1 x=72.0 y=460.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "After the tables."
+  rows [1]: 0:98.9+17.0 1:115.9+49.9 2:165.7+17.0 3:182.7+49.9 4:232.5+17.0 5:249.5+33.9
+  rows [3]: 0:310.3+49.9 1:360.2+49.9 2:410.0+50.4

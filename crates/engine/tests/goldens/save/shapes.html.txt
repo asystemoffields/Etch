@@ -1,0 +1,24 @@
+== html (1964 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: shapes</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>Shapes</h1>
+<p>Inline shapes: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Evening question orchard evening lazy another the river silver lazy people while winter another evening because measure village village through silver without over between village between because morning measure market letter brown the lazy quick measure the chapter over orchard plays while lantern through window people while letter summer letter lantern while river question between journey silver history winter without.</p>
+<p>Silver letter letter silver dog morning another the letter evening lantern lantern pattern people the number while through over garden meadow dog morning stone while question chapter river because morning question chapter fox because morning measure market the village silver over jumps jumps jumps lazy another fox lantern without the while morning window question winter chapter letter number because another.</p>
+<p>Stone number chapter measure orchard meadow garden lazy lazy plays stone quick between brown orchard journey because village orchard quick chapter lazy while without through evening people river people people fox harbour the the band morning quick between through the number over lazy meadow fox window summer because journey summer measure the the journey number evening winter summer pattern market.</p>
+</body>
+</html>

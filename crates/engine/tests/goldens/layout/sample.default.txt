@@ -1,0 +1,229 @@
+# layout snapshot: sample (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=part:2 footer=part:1
+  header (2 items):
+    lines part:2 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "The Open Studio Handbook\t\tSpring edition"
+    rule (72.0 56.5)-(540.0 56.5) Single w=0.5 #bfbfbf
+  items (145):
+    lines body [0] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=37.1 base=28.0 left=0.0 right=468.0 end=Para "The Open Studio Handbook"
+    lines body [1] l0..1 x=72.0 y=113.1
+      0: top=0.0 h=22.1 base=14.5 left=0.0 right=468.0 end=Para "How a small community of makers shares space, tools and time"
+    lines body [2] l0..5 x=72.0 y=143.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Every Thursday evening the old print shop on Alder Street fills with people who make "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "things. Painters set up by the north windows, letterpress regulars claim the back room, "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "and somebody always brings bread. This handbook collects what we have learned about "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "running a shared studio: the routines that keep it pleasant, the tools we pool, and the "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "small agreements that let thirty strangers become a crew."
+    lines body [3] l0..1 x=72.0 y=255.8
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Why share a studio?"
+    lines body [4] l0..4 x=72.0 y=290.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Rent is the obvious reason, but it is not the best one. A shared room puts your work "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "next to work you would never have seen otherwise. A ceramicist explains glaze "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "cross-talk is the point."
+    lines body [5] l0..1 x=72.0 y=378.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A studio is a place where unfinished things are welcome."
+    lines body [6] l0..1 x=72.0 y=404.9
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "What we agree on"
+    lines body [7] l0..1 x=72.0 y=433.3 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Clean as you go. Leave a table the way you would like to find it."
+    lines body [8] l0..1 x=72.0 y=452.2 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Label what is yours. Unlabelled supplies on the commons shelf are fair game."
+    lines body [9] l0..2 x=72.0 y=471.1 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Wrap "Ask before you borrow. Even from the shelf, a quick note helps everyone keep "
+      1: top=18.9 h=18.9 base=31.4 left=36.0 right=468.0 end=Para "track."
+    lines body [10] l0..1 x=72.0 y=509.0 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Quiet hours run from 9 to 11 on weekday mornings."
+    lines body [11] l0..1 x=72.0 y=535.9
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "Shared equipment"
+    lines body [12] l0..2 x=72.0 y=564.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "The table below lists what the membership owns together and who keeps each item in "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "working order."
+    fill [72.3 610.1 117.0x17.0] #156082
+    lines body [13,0,0,0] l0..1 x=77.7 y=610.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Equipment"
+    rule (72.0 610.1)-(189.5 610.1) Single w=0.5 #c1e4f5
+    rule (72.0 627.1)-(189.5 627.1) Single w=0.5 #c1e4f5
+    rule (72.3 610.1)-(72.3 627.1) Single w=0.5 #c1e4f5
+    rule (189.3 610.1)-(189.3 627.1) Single w=0.5 #c1e4f5
+    cell [72.3 610.1 117.0x17.0] table=[13] r0 c0 body
+    fill [189.3 610.1 117.0x17.0] #156082
+    lines body [13,0,1,0] l0..1 x=194.7 y=610.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Location"
+    rule (189.0 610.1)-(306.5 610.1) Single w=0.5 #c1e4f5
+    rule (189.0 627.1)-(306.5 627.1) Single w=0.5 #c1e4f5
+    rule (189.3 610.1)-(189.3 627.1) Single w=0.5 #c1e4f5
+    rule (306.3 610.1)-(306.3 627.1) Single w=0.5 #c1e4f5
+    cell [189.3 610.1 117.0x17.0] table=[13] r0 c1 body
+    fill [306.3 610.1 117.0x17.0] #156082
+    lines body [13,0,2,0] l0..1 x=311.7 y=610.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Steward"
+    rule (306.0 610.1)-(423.5 610.1) Single w=0.5 #c1e4f5
+    rule (306.0 627.1)-(423.5 627.1) Single w=0.5 #c1e4f5
+    rule (306.3 610.1)-(306.3 627.1) Single w=0.5 #c1e4f5
+    rule (423.3 610.1)-(423.3 627.1) Single w=0.5 #c1e4f5
+    cell [306.3 610.1 117.0x17.0] table=[13] r0 c2 body
+    fill [423.3 610.1 117.0x17.0] #156082
+    lines body [13,0,3,0] l0..1 x=428.7 y=610.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Booking"
+    rule (423.0 610.1)-(540.5 610.1) Single w=0.5 #c1e4f5
+    rule (423.0 627.1)-(540.5 627.1) Single w=0.5 #c1e4f5
+    rule (423.3 610.1)-(423.3 627.1) Single w=0.5 #c1e4f5
+    rule (540.3 610.1)-(540.3 627.1) Single w=0.5 #c1e4f5
+    cell [423.3 610.1 117.0x17.0] table=[13] r0 c3 body
+    fill [72.3 627.1 117.0x17.0] #c1e4f5
+    lines body [13,1,0,0] l0..1 x=77.7 y=627.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Etching press"
+    rule (72.0 627.1)-(189.5 627.1) Single w=0.5 #c1e4f5
+    rule (72.0 644.0)-(189.5 644.0) Single w=0.5 #c1e4f5
+    rule (72.3 627.1)-(72.3 644.0) Single w=0.5 #c1e4f5
+    rule (189.3 627.1)-(189.3 644.0) Single w=0.5 #c1e4f5
+    cell [72.3 627.1 117.0x17.0] table=[13] r1 c0 body
+    fill [189.3 627.1 117.0x17.0] #c1e4f5
+    lines body [13,1,1,0] l0..1 x=194.7 y=627.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Back room"
+    rule (189.0 627.1)-(306.5 627.1) Single w=0.5 #c1e4f5
+    rule (189.0 644.0)-(306.5 644.0) Single w=0.5 #c1e4f5
+    rule (189.3 627.1)-(189.3 644.0) Single w=0.5 #c1e4f5
+    rule (306.3 627.1)-(306.3 644.0) Single w=0.5 #c1e4f5
+    cell [189.3 627.1 117.0x17.0] table=[13] r1 c1 body
+    fill [306.3 627.1 117.0x17.0] #c1e4f5
+    lines body [13,1,2,0] l0..1 x=311.7 y=627.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Mara O."
+    rule (306.0 627.1)-(423.5 627.1) Single w=0.5 #c1e4f5
+    rule (306.0 644.0)-(423.5 644.0) Single w=0.5 #c1e4f5
+    rule (306.3 627.1)-(306.3 644.0) Single w=0.5 #c1e4f5
+    rule (423.3 627.1)-(423.3 644.0) Single w=0.5 #c1e4f5
+    cell [306.3 627.1 117.0x17.0] table=[13] r1 c2 body
+    fill [423.3 627.1 117.0x17.0] #c1e4f5
+    lines body [13,1,3,0] l0..1 x=428.7 y=627.6
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Sign-up sheet"
+    rule (423.0 627.1)-(540.5 627.1) Single w=0.5 #c1e4f5
+    rule (423.0 644.0)-(540.5 644.0) Single w=0.5 #c1e4f5
+    rule (423.3 627.1)-(423.3 644.0) Single w=0.5 #c1e4f5
+    rule (540.3 627.1)-(540.3 644.0) Single w=0.5 #c1e4f5
+    cell [423.3 627.1 117.0x17.0] table=[13] r1 c3 body
+    lines body [13,2,0,0] l0..1 x=77.7 y=644.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Kiln (cone 10)"
+    rule (72.0 644.0)-(189.5 644.0) Single w=0.5 #c1e4f5
+    rule (72.0 661.0)-(189.5 661.0) Single w=0.5 #c1e4f5
+    rule (72.3 644.0)-(72.3 661.0) Single w=0.5 #c1e4f5
+    rule (189.3 644.0)-(189.3 661.0) Single w=0.5 #c1e4f5
+    cell [72.3 644.0 117.0x17.0] table=[13] r2 c0 body
+    lines body [13,2,1,0] l0..1 x=194.7 y=644.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Yard shed"
+    rule (189.0 644.0)-(306.5 644.0) Single w=0.5 #c1e4f5
+    rule (189.0 661.0)-(306.5 661.0) Single w=0.5 #c1e4f5
+    rule (189.3 644.0)-(189.3 661.0) Single w=0.5 #c1e4f5
+    rule (306.3 644.0)-(306.3 661.0) Single w=0.5 #c1e4f5
+    cell [189.3 644.0 117.0x17.0] table=[13] r2 c1 body
+    lines body [13,2,2,0] l0..1 x=311.7 y=644.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Theo P."
+    rule (306.0 644.0)-(423.5 644.0) Single w=0.5 #c1e4f5
+    rule (306.0 661.0)-(423.5 661.0) Single w=0.5 #c1e4f5
+    rule (306.3 644.0)-(306.3 661.0) Single w=0.5 #c1e4f5
+    rule (423.3 644.0)-(423.3 661.0) Single w=0.5 #c1e4f5
+    cell [306.3 644.0 117.0x17.0] table=[13] r2 c2 body
+    lines body [13,2,3,0] l0..1 x=428.7 y=644.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "48 h notice"
+    rule (423.0 644.0)-(540.5 644.0) Single w=0.5 #c1e4f5
+    rule (423.0 661.0)-(540.5 661.0) Single w=0.5 #c1e4f5
+    rule (423.3 644.0)-(423.3 661.0) Single w=0.5 #c1e4f5
+    rule (540.3 644.0)-(540.3 661.0) Single w=0.5 #c1e4f5
+    cell [423.3 644.0 117.0x17.0] table=[13] r2 c3 body
+    fill [72.3 661.0 117.0x33.4] #c1e4f5
+    lines body [13,3,0,0] l0..2 x=77.7 y=661.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Wrap "Large-format "
+      1: top=16.5 h=16.5 base=28.9 left=0.0 right=106.2 end=Para "printer"
+    rule (72.0 661.0)-(189.5 661.0) Single w=0.5 #c1e4f5
+    rule (72.0 694.4)-(189.5 694.4) Single w=0.5 #c1e4f5
+    rule (72.3 661.0)-(72.3 694.4) Single w=0.5 #c1e4f5
+    rule (189.3 661.0)-(189.3 694.4) Single w=0.5 #c1e4f5
+    cell [72.3 661.0 117.0x33.4] table=[13] r3 c0 body
+    fill [189.3 661.0 117.0x33.4] #c1e4f5
+    lines body [13,3,1,0] l0..1 x=194.7 y=661.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Office"
+    rule (189.0 661.0)-(306.5 661.0) Single w=0.5 #c1e4f5
+    rule (189.0 694.4)-(306.5 694.4) Single w=0.5 #c1e4f5
+    rule (189.3 661.0)-(189.3 694.4) Single w=0.5 #c1e4f5
+    rule (306.3 661.0)-(306.3 694.4) Single w=0.5 #c1e4f5
+    cell [189.3 661.0 117.0x33.4] table=[13] r3 c1 body
+    fill [306.3 661.0 117.0x33.4] #c1e4f5
+    lines body [13,3,2,0] l0..1 x=311.7 y=661.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Ines R."
+    rule (306.0 661.0)-(423.5 661.0) Single w=0.5 #c1e4f5
+    rule (306.0 694.4)-(423.5 694.4) Single w=0.5 #c1e4f5
+    rule (306.3 661.0)-(306.3 694.4) Single w=0.5 #c1e4f5
+    rule (423.3 661.0)-(423.3 694.4) Single w=0.5 #c1e4f5
+    cell [306.3 661.0 117.0x33.4] table=[13] r3 c2 body
+    fill [423.3 661.0 117.0x33.4] #c1e4f5
+    lines body [13,3,3,0] l0..1 x=428.7 y=661.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Calendar"
+    rule (423.0 661.0)-(540.5 661.0) Single w=0.5 #c1e4f5
+    rule (423.0 694.4)-(540.5 694.4) Single w=0.5 #c1e4f5
+    rule (423.3 661.0)-(423.3 694.4) Single w=0.5 #c1e4f5
+    rule (540.3 661.0)-(540.3 694.4) Single w=0.5 #c1e4f5
+    cell [423.3 661.0 117.0x33.4] table=[13] r3 c3 body
+    lines body [13,4,0,0] l0..1 x=77.7 y=694.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Light table"
+    rule (72.0 694.4)-(189.5 694.4) Single w=0.5 #c1e4f5
+    rule (72.0 711.8)-(189.5 711.8) Single w=0.5 #c1e4f5
+    rule (72.3 694.4)-(72.3 711.8) Single w=0.5 #c1e4f5
+    rule (189.3 694.4)-(189.3 711.8) Single w=0.5 #c1e4f5
+    cell [72.3 694.4 117.0x17.5] table=[13] r4 c0 body
+    lines body [13,4,1,0] l0..1 x=194.7 y=694.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "North windows"
+    rule (189.0 694.4)-(306.5 694.4) Single w=0.5 #c1e4f5
+    rule (189.0 711.8)-(306.5 711.8) Single w=0.5 #c1e4f5
+    rule (189.3 694.4)-(189.3 711.8) Single w=0.5 #c1e4f5
+    rule (306.3 694.4)-(306.3 711.8) Single w=0.5 #c1e4f5
+    cell [189.3 694.4 117.0x17.5] table=[13] r4 c1 body
+    lines body [13,4,2,0] l0..1 x=311.7 y=694.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "Anyone"
+    rule (306.0 694.4)-(423.5 694.4) Single w=0.5 #c1e4f5
+    rule (306.0 711.8)-(423.5 711.8) Single w=0.5 #c1e4f5
+    rule (306.3 694.4)-(306.3 711.8) Single w=0.5 #c1e4f5
+    rule (423.3 694.4)-(423.3 711.8) Single w=0.5 #c1e4f5
+    cell [306.3 694.4 117.0x17.5] table=[13] r4 c2 body
+    lines body [13,4,3,0] l0..1 x=428.7 y=694.9
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=106.2 end=Para "First come"
+    rule (423.0 694.4)-(540.5 694.4) Single w=0.5 #c1e4f5
+    rule (423.0 711.8)-(540.5 711.8) Single w=0.5 #c1e4f5
+    rule (423.3 694.4)-(423.3 711.8) Single w=0.5 #c1e4f5
+    rule (540.3 694.4)-(540.3 711.8) Single w=0.5 #c1e4f5
+    cell [423.3 694.4 117.0x17.5] table=[13] r4 c3 body
+  rows [13]: 0:610.1+17.0 1:627.1+17.0 2:644.0+17.0 3:661.0+33.4 4:694.4+17.5
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "1"
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=14 markup=0.0 header=part:2 footer=part:1
+  header (2 items):
+    lines part:2 [0] l0..1 x=72.0 y=36.0
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "The Open Studio Handbook\t\tSpring edition"
+    rule (72.0 56.5)-(540.0 56.5) Single w=0.5 #bfbfbf
+  items (8):
+    lines body [14] l0..1 x=72.0 y=72.0
+      0: top=0.0 h=24.4 base=16.0 left=0.0 right=468.0 end=Para "Opening the studio"
+    lines body [15] l0..1 x=72.0 y=100.4 label="1." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Switch on the main breaker by the door."
+    lines body [16] l0..1 x=72.0 y=119.3 label="2." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Open both skylights unless it is raining."
+    lines body [17] l0..1 x=72.0 y=138.2 label="3." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Start the kettle. This step is not optional."
+    lines body [18] l0..1 x=72.0 y=157.2 label="4." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Check the booking sheet for the kiln and press."
+    lines body [19] l0..1 x=72.0 y=194.1
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Membership"
+    lines body [20] l0..3 x=72.0 y=228.6
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Membership is pay what you can, reviewed every season. New members shadow a "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "regular for their first two visits, and everyone takes one cleaning shift a month. If you "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Para "have never made anything before, you are exactly who we hoped would show up."
+    lines body [21] l0..2 x=72.0 y=293.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Questions go to the front desk, or to the notice board by the sink. Visit the community "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "board for events."
+  footer (1 items):
+    lines part:1 [0] l0..1 x=72.0 y=739.5
+      0: top=0.0 h=16.5 base=12.4 left=0.0 right=468.0 end=Para "2"

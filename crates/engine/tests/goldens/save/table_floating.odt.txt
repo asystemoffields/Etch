@@ -1,0 +1,199 @@
+# 5 parts
+== META-INF/manifest.xml: same as the blank document's (7 lines, sha256=6b3e3ae36134a8fb)
+== content.xml (181 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:automatic-styles>
+<style:style style:name="Table1" style:family="table">
+<style:table-properties style:width="200pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table1.C1" style:family="table-column">
+<style:table-column-properties style:column-width="100pt"/>
+</style:style>
+<style:style style:name="Table1.C2" style:family="table-column">
+<style:table-column-properties style:column-width="100pt"/>
+</style:style>
+<style:style style:name="Table2" style:family="table">
+<style:table-properties style:width="468pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table2.C1" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table2.C2" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table2.C3" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table2.C4" style:family="table-column">
+<style:table-column-properties style:column-width="117pt"/>
+</style:style>
+<style:style style:name="Table3" style:family="table">
+<style:table-properties style:width="468pt" table:align="margins"/>
+</style:style>
+<style:style style:name="Table3.C1" style:family="table-column">
+<style:table-column-properties style:column-width="156pt"/>
+</style:style>
+<style:style style:name="Table3.C2" style:family="table-column">
+<style:table-column-properties style:column-width="156pt"/>
+</style:style>
+<style:style style:name="Table3.C3" style:family="table-column">
+<style:table-column-properties style:column-width="156pt"/>
+</style:style>
+<style:style style:name="Cell1" style:family="table-cell">
+<style:table-cell-properties fo:padding="4pt" fo:border="0.5pt solid #000000"/>
+</style:style>
+</office:automatic-styles>
+<office:body>
+<office:text>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">Floating and Styled Tables</text:h>
+<text:p text:style-name="Standard">Lazy garden stone summer history number silver evening window people through lazy letter lazy evening garden between river brown dog village window winter band orchard because while without lazy fox history people another market people evening garden letter meadow plays pattern measure meadow village silver lazy harbour through pattern pattern another over between lantern lazy letter village history question harbour.</text:p>
+<table:table table:name="Table1" table:style-name="Table1">
+<table:table-column table:style-name="Table1.C1"/>
+<table:table-column table:style-name="Table1.C2"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Journey between village.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Plays meadow people.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Dog brown village.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Fox while plays.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Lazy harbour people.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">The morning while.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">The garden village over plays while measure through window pattern silver measure garden question pattern jumps brown pattern stone dog lazy band brown band jumps band pattern journey plays plays lantern river fox measure band brown morning chapter band village dog without jumps quick while measure orchard lazy garden harbour stone over pattern morning summer river evening another morning between.</text:p>
+<text:p text:style-name="Standard">Over brown morning people while fox silver number without quick history quick village market people jumps band quick lantern quick dog brown silver while measure plays garden meadow question over letter while lantern morning through through journey summer harbour the between journey orchard meadow another lantern letter history the number garden market summer without winter lantern lazy quick orchard lantern.</text:p>
+<text:p text:style-name="Standard">Question lantern summer river stone stone history jumps journey chapter fox quick number winter because people window silver number chapter silver dog because between lazy evening garden lazy between through morning question plays letter river through orchard dog orchard window evening jumps window river summer village history lantern plays over journey village lantern journey silver without because quick summer over.</text:p>
+<table:table table:name="Table2" table:style-name="Table2">
+<table:table-column table:style-name="Table2.C1"/>
+<table:table-column table:style-name="Table2.C2"/>
+<table:table-column table:style-name="Table2.C3"/>
+<table:table-column table:style-name="Table2.C4"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Village garden orchard.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Garden question stone.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Quick village measure.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Brown the number.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Stone dog without.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Number summer number.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Dog evening fox.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">People silver jumps.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Because letter without.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Lantern quick summer.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Winter winter without.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Market chapter journey.</text:p>
+</table:table-cell>
+</table:table-row>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Band without history.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Letter journey the.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Journey orchard winter.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Winter market history.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">Meadow summer journey chapter band chapter letter fox history letter question between band harbour jumps the without window window history the stone garden evening measure morning lazy history stone another through market history plays evening meadow band because through harbour village river the summer evening window journey without silver through summer history morning market meadow morning stone measure history lantern.</text:p>
+<text:p text:style-name="Standard">Winter summer orchard morning letter meadow number another letter orchard orchard stone through fox letter silver jumps journey jumps people band harbour because over window harbour another window lantern through measure history question silver band dog fox meadow silver without history pattern because stone fox while letter band lantern pattern meadow while dog pattern orchard the measure people garden the.</text:p>
+<text:p text:style-name="Standard">Stone while letter people another plays the history the between village history summer village the measure winter because silver garden plays winter morning the meadow over orchard evening through people another history journey silver summer chapter journey silver through number band because evening stone another band orchard chapter letter brown because because number the band over meadow orchard measure dog.</text:p>
+<text:p text:style-name="Standard">Silver through dog stone journey the because quick chapter while while evening history measure plays morning question dog history number over journey silver chapter without because lazy lazy jumps band market plays meadow village dog orchard window morning silver history winter silver morning market river through letter without question stone summer while jumps people summer orchard silver pattern plays another.</text:p>
+<table:table table:name="Table3" table:style-name="Table3">
+<table:table-column table:style-name="Table3.C1"/>
+<table:table-column table:style-name="Table3.C2"/>
+<table:table-column table:style-name="Table3.C3"/>
+<table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">River jumps through.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Summer lantern lazy.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Chapter brown summer.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table-header-rows>
+<table:table-row>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Without while without.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Plays fox meadow.</text:p>
+</table:table-cell>
+<table:table-cell table:style-name="Cell1" office:value-type="string">
+<text:p text:style-name="Standard">Over because window.</text:p>
+</table:table-cell>
+</table:table-row>
+</table:table>
+<text:p text:style-name="Standard">After the tables.</text:p>
+</office:text>
+</office:body>
+</office:document-content>
+== meta.xml (12 lines)
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:meta>
+<meta:generator>Etch</meta:generator>
+<dc:title>Snapshot: table_floating</dc:title>
+<meta:initial-creator>Snapshot Author</meta:initial-creator>
+<dc:creator>Snapshot Author</dc:creator>
+<meta:creation-date>
+<timestamp>
+</meta:creation-date>
+</office:meta>
+</office:document-meta>
+== mimetype: same as the blank document's (1 lines, sha256=714dbe370b0a7063)
+== styles.xml: same as the blank document's (53 lines, sha256=f2d1bd0c7b77c6d3)

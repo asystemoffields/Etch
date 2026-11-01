@@ -1,0 +1,15 @@
+# layout snapshot: controls_hidden (default)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (3):
+    lines body [0] l0..2 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Content controls: a {obj}plain-text control{obj}, a {obj}rich-text control{obj}, a check box{obj}☐{obj} and a {obj}Pick an "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "option.{obj}."
+    lines body [1] l0..1 x=72.0 y=117.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Hidden text: this sentence is shown, {obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj}{obj} and this one is shown again."
+    lines body [2] l0..4 x=72.0 y=144.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Question between between meadow quick lantern winter history between over people "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "through without people through quick letter quick quick lazy another meadow through "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "because lazy jumps stone window because through garden journey through lantern "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Para "winter band measure pattern without over."

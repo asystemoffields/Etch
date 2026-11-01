@@ -1,0 +1,92 @@
+== html (4785 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: sample</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>The Open Studio Handbook</h1>
+<p>How a small community of makers shares space, tools and time</p>
+<p>Every Thursday evening the old print shop on Alder Street fills with people who make things. <strong>Painters</strong> set up by the north windows, <em>letterpress</em> regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew.</p>
+<h1>Why share a studio?</h1>
+<p>Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point.</p>
+<blockquote>
+<p style="margin-top:12pt">A studio is a place where unfinished things are welcome.</p>
+</blockquote>
+<h2>What we agree on</h2>
+<ul>
+<li>
+<strong>Clean as you go. </strong>Leave a table the way you would like to find it.</li>
+<li>
+<strong>Label what is yours. </strong>Unlabelled supplies on the commons shelf are fair game.</li>
+<li>
+<strong>Ask before you borrow. </strong>Even from the shelf, a quick note helps everyone keep track.</li>
+<li>
+<strong>Quiet hours </strong>run from 9 to 11 on weekday mornings.</li>
+</ul>
+<h2>Shared equipment</h2>
+<p>The table below lists what the membership owns together and who keeps each item in working order.</p>
+<table style="border-collapse:collapse">
+<colgroup>
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+<col style="width:117pt">
+</colgroup>
+<tr>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Equipment</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Location</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Steward</th>
+<th style="border:1px solid #999;padding:4px 6px;vertical-align:top">Booking</th>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Etching press</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Back room</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Mara O.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Sign-up sheet</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Kiln (cone 10)</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Yard shed</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Theo P.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">48 h notice</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Large-format printer</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Office</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Ines R.</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Calendar</td>
+</tr>
+<tr>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Light table</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">North windows</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">Anyone</td>
+<td style="border:1px solid #999;padding:4px 6px;vertical-align:top">First come</td>
+</tr>
+</table>
+<h2>Opening the studio</h2>
+<ol>
+<li>Switch on the main breaker by the door.</li>
+<li>Open both skylights unless it is raining.</li>
+<li>Start the kettle. This step is not optional.</li>
+<li>Check the booking sheet for the kiln and press.</li>
+</ol>
+<h1>Membership</h1>
+<p>Membership is <strong>
+<span style="color:#156082">pay what you can</span>
+</strong>, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up.</p>
+<p>Questions go to the front desk, or to the notice board by the sink. <a href="https://getartcraft.com/">
+<span style="color:#467886">Visit the community board</span>
+</a> for events.</p>
+</body>
+</html>

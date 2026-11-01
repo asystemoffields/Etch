@@ -1,0 +1,20 @@
+== rtf (2425 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\info{\title Snapshot: comments}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+\pard\plain\ql Comments: a {\*\atrfstart 0}remark on a phrase{\*\atrfend 0}{{\*\atnid SA}{\*\atnauthor Snapshot Author}\chatn{\*\annotation{\*\atnref 0}{\*\atndate 0}
+\pard\plain\ql The first remark, on a phrase.\par
+}}, a reply to it, a {\*\atrfstart 2}resolved thread{\*\atrfend 2}{{\*\atnid SR}{\*\atnauthor Second Reviewer}\chatn{\*\annotation{\*\atnref 2}{\*\atndate 0}
+\pard\plain\ql This one is resolved.\par
+}} and a comment on a whole paragraph.\par
+\pard\plain\ql Letter through morning market journey brown another lazy quick another journey silver between stone window silver lazy silver market quick band morning lantern river summer people morning stone without while journey garden between dog another window number question journey journey measure over over without lantern between lazy harbour market plays.\par
+\pard\plain\ql {\*\atrfstart 3}Band pattern dog another lantern quick silver letter journey summer village journey garden quick band evening between harbour dog lantern lazy without over jumps because number summer lazy stone window village over meadow river summer plays while another jumps jumps journey lazy measure between without the stone village lantern people.\par
+\pard\plain\ql {\*\atrfend 3}{{\*\atnid SR}{\*\atnauthor Second Reviewer}\chatn{\*\annotation{\*\atnref 3}{\*\atndate 0}
+\pard\plain\ql A longer comment on the whole paragraph, so the balloon wraps onto several lines in the markup area.\par
+}}A short last paragraph.\par
+}

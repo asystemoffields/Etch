@@ -1,0 +1,25 @@
+== html (1770 bytes)
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Etch">
+<title>Snapshot: east_asian</title>
+<meta name="author" content="Snapshot Author">
+<style>
+body{font-family:Aptos,Calibri,'Segoe UI',Arial,sans-serif;font-size:12pt;line-height:1.15;max-width:48em;margin:2em auto;padding:0 1em}
+table{border-collapse:collapse;margin:0.5em 0}
+blockquote{margin:0.5em 2em;font-style:italic;color:#404040}
+pre{background:#f5f5f5;padding:0.5em;font-family:'Courier New',monospace;font-size:10pt}
+@page{size:612pt 792pt;margin:72pt 72pt 72pt 72pt}
+</style>
+</head>
+<body>
+<h1>East Asian Line Breaking</h1>
+<p>吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
+<p>吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
+<p style="text-align:justify">北京的秋天是最好的季节，天高云淡，风和日丽。人们走在街上，感受着阳光的温暖。这是一段用于测试中文换行的文字，包含标点符号、数字123和English words。</p>
+<p>北京的秋天是最好的季节，天高云淡，风和日丽。人们走在街上，感受着阳光的温暖。这是一段用于测试中文换行的文字，包含标点符号、数字123和English words。</p>
+<p>Latin and 日本語 mixed on one line, with 全角 characters and punctuation、like this。</p>
+</body>
+</html>

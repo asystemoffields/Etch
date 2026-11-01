@@ -1,0 +1,71 @@
+== rtf (10316 bytes)
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\uc1
+{\fonttbl{\f0\fswiss\fcharset0 Source Serif 4;}}
+{\colortbl;\red191\green191\blue191;\red21\green96\blue130;\red70\green120\blue134;}
+{\*\generator Etch;}
+{\stylesheet{\s0\snext0 Normal;}{\s1\sbasedon0\snext0\outlinelevel0\keepn\b\fs40 heading 1;}{\s2\sbasedon0\snext0\outlinelevel1\keepn\b\fs32 heading 2;}{\s3\sbasedon0\snext0\outlinelevel2\keepn\b\fs28 heading 3;}{\s4\sbasedon0\snext0\outlinelevel3\keepn\b\fs24 heading 4;}{\s5\sbasedon0\snext0\outlinelevel4\keepn\b\fs24 heading 5;}{\s6\sbasedon0\snext0\outlinelevel5\keepn\b\fs22 heading 6;}{\s7\sbasedon0\snext0\fs56 Title;}{\s8\sbasedon0\snext0\li720\ri720\i Quote;}{\s9\sbasedon0\snext9\sa0\fs20 Code;}}
+{\*\listtable
+{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li720\lin720}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li1440\lin1440}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li2160\lin2160}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li2880\lin2880}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li3600\lin3600}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li4320\lin4320}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u8226?;}{\levelnumbers;}\fi-360\li5040\lin5040}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9702?;}{\levelnumbers;}\fi-360\li5760\lin5760}{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u9642?;}{\levelnumbers;}\fi-360\li6480\lin6480}{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-360\li2160\lin2160}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\lin2880}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\lin3600}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-360\li4320\lin4320}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\lin5040}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\lin5760}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-360\li6480\lin6480}{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+{\info{\title Snapshot: sample}{\author Snapshot Author}{\creatim\yr0\mo0\dy0\hr0\min0}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\viewkind4
+\sectd\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage
+{\header
+\pard\plain\ql\brdrb\brdrs\brdrw10\brsp80\brdrcf1 The Open Studio Handbook\tab \tab Spring edition\par
+}
+{\footer
+\pard\plain\qc {\field{\*\fldinst {PAGE}}{\fldrslt {1}}}\par
+}
+\pard\plain\s7\ql\sa80\fs56 The Open Studio Handbook\par
+\pard\plain\ql How a small community of makers shares space, tools and time\par
+\pard\plain\ql Every Thursday evening the old print shop on Alder Street fills with people who make things. {\b Painters} set up by the north windows, {\i letterpress} regulars claim the back room, and somebody always brings bread. This handbook collects what we have learned about running a shared studio: the routines that keep it pleasant, the tools we pool, and the small agreements that let thirty strangers become a crew.\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Why share a studio?\par
+\pard\plain\ql Rent is the obvious reason, but it is not the best one. A shared room puts your work next to work you would never have seen otherwise. A ceramicist explains glaze chemistry to a comic artist; a photographer borrows a weaver's loom for a still life. The cross-talk is the point.\par
+\pard\plain\s8\ql\sb240\li720\ri720\i A studio is a place where unfinished things are welcome.\par
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32 What we agree on\par
+\pard\plain\ql\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain \u8226?\tab}{\b Clean as you go. }Leave a table the way you would like to find it.\par
+\pard\plain\ql\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain \u8226?\tab}{\b Label what is yours. }Unlabelled supplies on the commons shelf are fair game.\par
+\pard\plain\ql\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain \u8226?\tab}{\b Ask before you borrow. }Even from the shelf, a quick note helps everyone keep track.\par
+\pard\plain\ql\ls1\ilvl0\fi-360\li720 {\listtext\pard\plain \u8226?\tab}{\b Quiet hours }run from 9 to 11 on weekday mornings.\par
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32 Shared equipment\par
+\pard\plain\ql The table below lists what the membership owns together and who keeps each item in working order.\par
+\trowd\trgaph108\trleft0\trhdr\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql {\b Equipment}\cell
+\pard\plain\intbl\ql {\b Location}\cell
+\pard\plain\intbl\ql {\b Steward}\cell
+\pard\plain\intbl\ql {\b Booking}\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Etching press\cell
+\pard\plain\intbl\ql Back room\cell
+\pard\plain\intbl\ql Mara O.\cell
+\pard\plain\intbl\ql Sign-up sheet\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Kiln (cone 10)\cell
+\pard\plain\intbl\ql Yard shed\cell
+\pard\plain\intbl\ql Theo P.\cell
+\pard\plain\intbl\ql 48 h notice\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Large-format printer\cell
+\pard\plain\intbl\ql Office\cell
+\pard\plain\intbl\ql Ines R.\cell
+\pard\plain\intbl\ql Calendar\cell
+\row
+\trowd\trgaph108\trleft0\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx2340\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx4680\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx7020\clbrdrt\brdrs\brdrw10\clbrdrl\brdrs\brdrw10\clbrdrb\brdrs\brdrw10\clbrdrr\brdrs\brdrw10\cellx9360
+\pard\plain\intbl\ql Light table\cell
+\pard\plain\intbl\ql North windows\cell
+\pard\plain\intbl\ql Anyone\cell
+\pard\plain\intbl\ql First come\cell
+\row
+\pard\plain\s2\outlinelevel1\ql\sb240\sa80\keepn\b\fs32 Opening the studio\par
+\pard\plain\ql\ls2\ilvl0\fi-360\li720 {\listtext\pard\plain 1.\tab}Switch on the main breaker by the door.\par
+\pard\plain\ql\ls2\ilvl0\fi-360\li720 {\listtext\pard\plain 2.\tab}Open both skylights unless it is raining.\par
+\pard\plain\ql\ls2\ilvl0\fi-360\li720 {\listtext\pard\plain 3.\tab}Start the kettle. This step is not optional.\par
+\pard\plain\ql\ls2\ilvl0\fi-360\li720 {\listtext\pard\plain 4.\tab}Check the booking sheet for the kiln and press.\par
+\pard\plain\s1\outlinelevel0\ql\sb240\sa80\keepn\b\fs40 Membership\par
+\pard\plain\ql Membership is {\b\cf2 pay what you can}, reviewed every season. New members shadow a regular for their first two visits, and everyone takes one cleaning shift a month. If you have never made anything before, you are exactly who we hoped would show up.\par
+\pard\plain\ql Questions go to the front desk, or to the notice board by the sink. {\field{\*\fldinst{HYPERLINK "https://getartcraft.com/"}}{\fldrslt{{\ul\cf3 Visit the community board}}}} for events.\par
+}

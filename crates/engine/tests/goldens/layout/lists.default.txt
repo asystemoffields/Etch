@@ -1,0 +1,79 @@
+# layout snapshot: lists (default)
+# fonts: Source Sans 3, Source Serif 4
+# pages: 2  text boxes laid out: 0
+page 1: 612.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=0.0 header=- footer=-
+  items (27):
+    lines body [0] l0..1 x=72.0 y=90.0
+      0: top=0.0 h=30.5 base=20.0 left=0.0 right=468.0 end=Para "Lists"
+    lines body [1] l0..1 x=72.0 y=124.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Bulleted, three levels:"
+    lines body [2] l0..1 x=72.0 y=151.4 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "First bullet"
+    lines body [3] l0..1 x=72.0 y=170.3 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Second bullet"
+    lines body [4] l0..1 x=72.0 y=189.3 label="○" lx=54.0 lw=7.2
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Nested bullet"
+    lines body [5] l0..1 x=72.0 y=208.2 label="▪" lx=90.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=90.0 right=468.0 end=Para "Deeper bullet"
+    lines body [6] l0..1 x=72.0 y=227.1 label="○" lx=54.0 lw=7.2
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Back one level"
+    lines body [7] l0..1 x=72.0 y=246.0 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Last bullet"
+    lines body [8] l0..1 x=72.0 y=272.9
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Numbered, three levels:"
+    lines body [9] l0..1 x=72.0 y=299.9 label="1." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Step one"
+    lines body [10] l0..1 x=72.0 y=318.8 label="a." lx=54.0 lw=9.7
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Sub-step a"
+    lines body [11] l0..1 x=72.0 y=337.7 label="b." lx=54.0 lw=10.3
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Sub-step b"
+    lines body [12] l0..1 x=72.0 y=356.6 label="i." lx=90.0 lw=7.2
+      0: top=0.0 h=18.9 base=12.4 left=90.0 right=468.0 end=Para "Detail i"
+    lines body [13] l0..1 x=72.0 y=375.5 label="ii." lx=90.0 lw=10.8
+      0: top=0.0 h=18.9 base=12.4 left=90.0 right=468.0 end=Para "Detail ii"
+    lines body [14] l0..1 x=72.0 y=394.5 label="2." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Step two"
+    lines body [15] l0..1 x=72.0 y=413.4 label="3." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Step three"
+    lines body [16] l0..1 x=72.0 y=440.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "A plain paragraph between two lists."
+    lines body [17] l0..1 x=72.0 y=467.2 label="4." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Continues at four"
+    lines body [18] l0..1 x=72.0 y=486.1 label="5." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Then five"
+    lines body [19] l0..1 x=72.0 y=513.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Restarted:"
+    lines body [20] l0..1 x=72.0 y=540.0 label="1." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Starts again at one"
+    lines body [21] l0..1 x=72.0 y=558.9 label="2." lx=18.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Then two"
+    lines body [22] l0..1 x=72.0 y=585.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Lettered:"
+    lines body [23] l0..1 x=72.0 y=612.7 label="a)" lx=18.0 lw=10.2
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Apples"
+    lines body [24] l0..1 x=72.0 y=631.7 label="b)" lx=18.0 lw=10.9
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Pears"
+    lines body [25] l0..1 x=72.0 y=650.6 label="c)" lx=18.0 lw=9.9
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Plums"
+    lines body [26] l0..1 x=72.0 y=677.5
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "Outline (multilevel):"
+page 2: 612.0x792.0 number=2 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=27 markup=0.0 header=- footer=-
+  items (7):
+    lines body [27] l0..1 x=72.0 y=72.0 label="I." lx=18.0 lw=8.1
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Part"
+    lines body [28] l0..1 x=72.0 y=90.9 label="A." lx=54.0 lw=11.6
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Chapter"
+    lines body [29] l0..1 x=72.0 y=109.8 label="1." lx=90.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=90.0 right=468.0 end=Para "Section"
+    lines body [30] l0..1 x=72.0 y=128.8 label="2." lx=90.0 lw=9.6
+      0: top=0.0 h=18.9 base=12.4 left=90.0 right=468.0 end=Para "Section"
+    lines body [31] l0..1 x=72.0 y=147.7 label="B." lx=54.0 lw=10.8
+      0: top=0.0 h=18.9 base=12.4 left=54.0 right=468.0 end=Para "Chapter"
+    lines body [32] l0..1 x=72.0 y=166.6 label="II." lx=18.0 lw=12.5
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Para "Part"
+    lines body [33] l0..5 x=72.0 y=185.5 label="•" lx=18.0 lw=3.6
+      0: top=0.0 h=18.9 base=12.4 left=18.0 right=468.0 end=Wrap "Jumps plays winter because plays dog because while without history quick "
+      1: top=18.9 h=18.9 base=31.4 left=36.0 right=468.0 end=Wrap "jumps number without quick measure history stone meadow orchard meadow "
+      2: top=37.8 h=18.9 base=50.3 left=36.0 right=468.0 end=Wrap "fox over pattern plays between fox through without letter number quick harbour "
+      3: top=56.8 h=18.9 base=69.2 left=36.0 right=468.0 end=Wrap "journey garden plays question lantern evening the while pattern summer "
+      4: top=75.7 h=18.9 base=88.1 left=36.0 right=468.0 end=Para "chapter morning."

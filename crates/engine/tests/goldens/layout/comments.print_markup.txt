@@ -1,0 +1,66 @@
+# layout snapshot: comments (print_markup)
+# fonts: Source Serif 4
+# pages: 1  text boxes laid out: 0
+page 1: 828.0x792.0 number=1 section=0 body=[72.0 72.0 468.0x648.0] slot=Default first_block=0 markup=216.0 header=- footer=-
+  items (37):
+    lines body [0] l0..2 x=72.0 y=72.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Comments: a {obj}remark on a phrase{obj}, a reply to it, a {obj}resolved thread{obj} and a comment on a "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Para "whole paragraph."
+    lines body [1] l0..5 x=72.0 y=117.8
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "Letter through morning market journey brown another lazy quick another journey "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "silver between stone window silver lazy silver market quick band morning lantern river "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "summer people morning stone without while journey garden between dog another "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "window number question journey journey measure over over without lantern between "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "lazy harbour market plays."
+    lines body [2] l0..5 x=72.0 y=220.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Wrap "{obj}Band pattern dog another lantern quick silver letter journey summer village journey "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=468.0 end=Wrap "garden quick band evening between harbour dog lantern lazy without over jumps "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=468.0 end=Wrap "because number summer lazy stone window village over meadow river summer plays "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=468.0 end=Wrap "while another jumps jumps journey lazy measure between without the stone village "
+      4: top=75.7 h=18.9 base=88.1 left=0.0 right=468.0 end=Para "lantern people."
+    lines body [3] l0..1 x=72.0 y=323.0
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=468.0 end=Para "{obj}A short last paragraph."
+    rule (145.5 90.9)-(612.0 90.9) Dashed w=0.5 #b01e8f
+    rule (612.0 90.9)-(621.0 88.9) Single w=0.5 #b01e8f
+    fill [621.0 80.9 198.0x102.2] #ffffff
+    fill [621.0 80.9 3.0x102.2] #b01e8f
+    rule (621.0 80.9)-(819.0 80.9) Single w=0.5 #b01e8f
+    rule (819.0 80.9)-(819.0 183.1) Single w=0.5 #b01e8f
+    rule (621.0 183.1)-(819.0 183.1) Single w=0.5 #b01e8f
+    rule (621.0 80.9)-(621.0 183.1) Single w=0.5 #b01e8f
+    lines part:1 [4294967295] l0..1 x=629.0 y=85.9
+      0: top=0.0 h=14.2 base=9.3 left=0.0 right=185.0 end=Para "???????????????"
+    lines part:1 [0] l0..1 x=629.0 y=102.1
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=185.0 end=Para "The first remark, on a phrase."
+    rule (629.0 132.0)-(814.0 132.0) Single w=0.3 #c8c8c8
+    lines part:2 [4294967295] l0..1 x=629.0 y=135.0
+      0: top=0.0 h=14.2 base=9.3 left=0.0 right=185.0 end=Para "???????????????"
+    lines part:2 [0] l0..1 x=629.0 y=151.2
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=185.0 end=Para "A reply from the same author."
+    rule (331.4 90.9)-(612.0 90.9) Dashed w=0.5 #1e6eb0
+    rule (612.0 90.9)-(621.0 197.1) Single w=0.5 #1e6eb0
+    fill [621.0 189.1 198.0x53.1] #ffffff
+    fill [621.0 189.1 3.0x53.1] #1e6eb0
+    rule (621.0 189.1)-(819.0 189.1) Single w=0.5 #1e6eb0
+    rule (819.0 189.1)-(819.0 242.2) Single w=0.5 #1e6eb0
+    rule (621.0 242.2)-(819.0 242.2) Single w=0.5 #1e6eb0
+    rule (621.0 189.1)-(621.0 242.2) Single w=0.5 #1e6eb0
+    lines part:3 [4294967295] l0..1 x=629.0 y=194.1
+      0: top=0.0 h=14.2 base=9.3 left=0.0 right=185.0 end=Para "???????????????"
+    lines part:3 [0] l0..1 x=629.0 y=210.3
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=185.0 end=Para "This one is resolved."
+    rule (72.0 239.4)-(612.0 239.4) Dashed w=0.5 #1e6eb0
+    rule (612.0 239.4)-(621.0 256.2) Single w=0.5 #1e6eb0
+    fill [621.0 248.2 198.0x109.9] #ffffff
+    fill [621.0 248.2 3.0x109.9] #1e6eb0
+    rule (621.0 248.2)-(819.0 248.2) Single w=0.5 #1e6eb0
+    rule (819.0 248.2)-(819.0 358.1) Single w=0.5 #1e6eb0
+    rule (621.0 358.1)-(819.0 358.1) Single w=0.5 #1e6eb0
+    rule (621.0 248.2)-(621.0 358.1) Single w=0.5 #1e6eb0
+    lines part:4 [4294967295] l0..1 x=629.0 y=253.2
+      0: top=0.0 h=14.2 base=9.3 left=0.0 right=185.0 end=Para "???????????????"
+    lines part:4 [0] l0..4 x=629.0 y=269.4
+      0: top=0.0 h=18.9 base=12.4 left=0.0 right=185.0 end=Wrap "A longer comment on the whole "
+      1: top=18.9 h=18.9 base=31.4 left=0.0 right=185.0 end=Wrap "paragraph, so the balloon wraps "
+      2: top=37.8 h=18.9 base=50.3 left=0.0 right=185.0 end=Wrap "onto several lines in the markup "
+      3: top=56.8 h=18.9 base=69.2 left=0.0 right=185.0 end=Para "area."
